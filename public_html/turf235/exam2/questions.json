@@ -1155,6 +1155,96 @@
     "kind": "enrichment"
   },
   {
+    "id": "m10q078",
+    "module": "M10",
+    "question": "When used as a perennial turfgrass, perennial ryegrass can be sustained at mowing heights as low as:",
+    "correct": "0.75\"",
+    "options": [
+      "0.75\"",
+      "0.25\"",
+      "1.5\"",
+      "2.5\""
+    ],
+    "feedback": "As a perennial turfgrass, perennial ryegrass can be sustained at mowing heights as low as 0.75 inches.",
+    "source": "M10 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m10q079",
+    "module": "M10",
+    "question": "The term \"turf-type\" used in association with a perennial ryegrass cultivar means:",
+    "correct": "a fine-textured grass that forms a turf of high shoot density",
+    "options": [
+      "a fine-textured grass that forms a turf of high shoot density",
+      "a coarse-textured grass that forms a turf of high shoot density",
+      "a coarse-textured grass that forms a turf of low shoot density",
+      "a fine-textured grass that forms a turf of low shoot density"
+    ],
+    "feedback": "\"Turf-type\" perennial ryegrass refers to a fine-textured grass forming a turf of high shoot density.",
+    "source": "M10 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m10q080",
+    "module": "M10",
+    "question": "Annual ryegrass is distinguished by the following features:",
+    "correct": "bunch-type growth, rolled vernation, and long auricles",
+    "options": [
+      "bunch-type growth, rolled vernation, and long auricles",
+      "rhizomatous growth, folded vernation, and no auricles",
+      "stoloniferous growth, rolled vernation, and short auricles",
+      "bunch-type growth, folded vernation, and short auricles"
+    ],
+    "feedback": "Annual ryegrass is distinguished by bunch-type growth, rolled vernation, and long auricles.",
+    "source": "M10 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m10q081",
+    "module": "M10",
+    "question": "In a mixture with Kentucky bluegrass, perennial ryegrass could be identified by its:",
+    "correct": "ridged adaxial leaf surface and glossy abaxial leaf surface",
+    "options": [
+      "ridged adaxial leaf surface and glossy abaxial leaf surface",
+      "smooth adaxial leaf surface and glossy abaxial leaf surface",
+      "smooth abaxial leaf surface and glossy adaxial leaf surface",
+      "ridged abaxial leaf surface and glossy adaxial leaf surface"
+    ],
+    "feedback": "In a mixture with Kentucky bluegrass, perennial ryegrass stands out by its ridged adaxial leaf surface and glossy abaxial leaf surface.",
+    "source": "M10 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m10q082",
+    "module": "M10",
+    "question": "When used as a \"nursegrass\" in mixtures with Kentucky bluegrass, the perennial ryegrass selected should be:",
+    "correct": "a non-aggressive cultivar seeded at low rates",
+    "options": [
+      "a non-aggressive cultivar seeded at low rates",
+      "an aggressive cultivar seeded at low rates",
+      "a non-aggressive cultivar seeded at high rates",
+      "an aggressive cultivar seeded at high rates"
+    ],
+    "feedback": "As a nursegrass with Kentucky bluegrass, a non-aggressive perennial ryegrass cultivar seeded at low rates is preferred so it doesn't crowd out the bluegrass.",
+    "source": "M10 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m10q083",
+    "module": "M10",
+    "question": "Perennial ryegrass is distinguished by the following features:",
+    "correct": "bunch-type growth, folded vernation, and short auricles",
+    "options": [
+      "bunch-type growth, folded vernation, and short auricles",
+      "bunch-type growth, rolled vernation, and short auricles",
+      "rhizomatous growth, folded vernation, and no auricles",
+      "stoloniferous growth, rolled vernation, and short auricles"
+    ],
+    "feedback": "Perennial ryegrass is distinguished by bunch-type growth, folded vernation, and short auricles.",
+    "source": "M10 Quiz",
+    "kind": "module"
+  },
+  {
     "id": "m11q001",
     "module": "M11",
     "question": "The fescues represent the textural extremes of which group of turfgrasses?",
@@ -3060,6 +3150,201 @@
     "kind": "enrichment"
   },
   {
+    "id": "m11q128",
+    "module": "M11",
+    "question": "The new Latin name for tall fescue is:",
+    "correct": "Schedonorus phoenix",
+    "options": [
+      "Schedonorus phoenix",
+      "Festuca arundinacea",
+      "Schedonorus arundinacea",
+      "Festuca phoenix"
+    ],
+    "feedback": "Tall fescue's modern Latin name is Schedonorus phoenix, replacing the older Festuca arundinacea.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q129",
+    "module": "M11",
+    "question": "Which of these Latin name pairs correctly refers to the fine fescues?",
+    "correct": "Festuca rubra L. and Festuca longifolia Thuill.",
+    "options": [
+      "Festuca rubra L. and Festuca longifolia Thuill.",
+      "Festuca rubra L. and Festuca arundinacea Schred.",
+      "Festuca rubra L. and Festuca elatior L.",
+      "Festuca arundinacea Schred. and Festuca elatior L."
+    ],
+    "feedback": "Festuca rubra (red fescue) and Festuca longifolia (hard fescue) are both fine fescues; arundinacea and elatior refer to tall/meadow fescue instead.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q130",
+    "module": "M11",
+    "question": "Which of these Latin name pairs ALSO correctly refers to the fine fescues?",
+    "correct": "Festuca rubra L. and Festuca ovina Schred.",
+    "options": [
+      "Festuca rubra L. and Festuca ovina Schred.",
+      "Festuca rubra L. and Festuca arundinacea Schred.",
+      "Festuca rubra L. and Festuca elatior L.",
+      "Festuca arundinacea Schred. and Festuca elatior L."
+    ],
+    "feedback": "Festuca rubra (red fescue) and Festuca ovina (sheep fescue) are both fine fescues; arundinacea and elatior refer to tall/meadow fescue instead.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q131",
+    "module": "M11",
+    "question": "Tall fescue is distinguished by the following features:",
+    "correct": "bunch-type growth, ridged adaxial leaf blades, and rolled vernation",
+    "options": [
+      "bunch-type growth, ridged adaxial leaf blades, and rolled vernation",
+      "bunch-type growth, ridged adaxial leaf blades, and folded vernation",
+      "rhizomatous growth, ridged adaxial leaf blades, and rolled vernation",
+      "rhizomatous growth, ridged adaxial leaf blades, and folded vernation"
+    ],
+    "feedback": "Tall fescue is distinguished by bunch-type growth, ridged adaxial leaf blades, and rolled vernation.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q132",
+    "module": "M11",
+    "question": "Of the following turfgrass species, which has the coarsest texture?",
+    "correct": "tall fescue",
+    "options": [
+      "tall fescue",
+      "rough bluegrass",
+      "red fescue",
+      "perennial ryegrass"
+    ],
+    "feedback": "Of rough bluegrass, tall fescue, red fescue, and perennial ryegrass, tall fescue has the coarsest texture.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q133",
+    "module": "M11",
+    "question": "Of the following turfgrass species, which has the finest texture?",
+    "correct": "red fescue",
+    "options": [
+      "red fescue",
+      "rough bluegrass",
+      "tall fescue",
+      "perennial ryegrass"
+    ],
+    "feedback": "Of rough bluegrass, tall fescue, red fescue, and perennial ryegrass, red fescue has the finest texture.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q134",
+    "module": "M11",
+    "question": "Chewings fescue is distinguished by the following features:",
+    "correct": "bunch-type growth, ridged adaxial leaf blades, and folded vernation",
+    "options": [
+      "bunch-type growth, ridged adaxial leaf blades, and folded vernation",
+      "bunch-type growth, ridged adaxial leaf blades, and rolled vernation",
+      "rhizomatous growth, ridged adaxial leaf blades, and rolled vernation",
+      "rhizomatous growth, ridged adaxial leaf blades, and folded vernation"
+    ],
+    "feedback": "Chewings fescue is distinguished by bunch-type growth, ridged adaxial leaf blades, and folded vernation.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q135",
+    "module": "M11",
+    "question": "The cultural requirements for sustaining a tall fescue turf are:",
+    "correct": "Mowing at 2\", N fertilization at 4 lb/Kft2, and regular irrigation",
+    "options": [
+      "Mowing at 2\", N fertilization at 4 lb/Kft2, and regular irrigation",
+      "Mowing at 1\", N fertilization at 4 lb/Kft2, and regular irrigation",
+      "Mowing at 2\", N fertilization at 2 lb/Kft2, and no irrigation",
+      "Mowing at 1\", N fertilization at 2 lb/Kft2, and no irrigation"
+    ],
+    "feedback": "A tall fescue turf is sustained with mowing at 2 inches, nitrogen fertilization at 4 lb/Kft2, and regular irrigation.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q136",
+    "module": "M11",
+    "question": "The auricles on tall fescue would be described as:",
+    "correct": "Short, blunt and pubescent",
+    "options": [
+      "Short, blunt and pubescent",
+      "Short, blunt and hairless",
+      "Long, clasping and pubescent",
+      "Long, clasping and hairless"
+    ],
+    "feedback": "Tall fescue's auricles are short, blunt, and pubescent (hairy).",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q137",
+    "module": "M11",
+    "question": "Creeping red fescue is distinguished by the following features:",
+    "correct": "rhizomatous growth, ridged adaxial leaf blades, and folded vernation",
+    "options": [
+      "rhizomatous growth, ridged adaxial leaf blades, and folded vernation",
+      "rhizomatous growth, ridged adaxial leaf blades, and rolled vernation",
+      "bunch-type growth, ridged adaxial leaf blades, and rolled vernation",
+      "bunch-type growth, ridged adaxial leaf blades, and folded vernation"
+    ],
+    "feedback": "Creeping red fescue is distinguished by rhizomatous growth, ridged adaxial leaf blades, and folded vernation.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q138",
+    "module": "M11",
+    "question": "Tall fescue is well adapted to:",
+    "correct": "warm temperate and cool subtropical climates",
+    "options": [
+      "warm temperate and cool subtropical climates",
+      "tropical wet-and-dry and warm subtropical climates",
+      "subarctic and polar climates",
+      "cold arid and semiarid climates"
+    ],
+    "feedback": "Tall fescue is well adapted to warm temperate and cool subtropical climates.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q139",
+    "module": "M11",
+    "question": "Red fescues are well adapted to:",
+    "correct": "droughty, acid soils of low fertility and light shade",
+    "options": [
+      "droughty, acid soils of low fertility and light shade",
+      "droughty, alkaline soils of moderate fertility and full sun",
+      "moist, acid soils of high fertility and moderate shade",
+      "wet, acid soils of moderate fertility and heavy shade"
+    ],
+    "feedback": "Red fescues are well adapted to droughty, acid soils of low fertility, under light shade.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q140",
+    "module": "M11",
+    "question": "The cultural requirements for sustaining a creeping red fescue turf are:",
+    "correct": "Mowing at 1.5\", N fertilization at 2 lb/Kft2, and little or no irrigation",
+    "options": [
+      "Mowing at 1.5\", N fertilization at 2 lb/Kft2, and little or no irrigation",
+      "Mowing at 0.5\", N fertilization at 6 lb/Kft2, and intensive irrigation",
+      "Mowing at 1.5\", N fertilization at 6 lb/Kft2, and intensive irrigation",
+      "Mowing at 0.5\", N fertilization at 2 lb/Kft2, and little or no irrigation"
+    ],
+    "feedback": "A creeping red fescue turf is sustained with mowing at 1.5 inches, minimal nitrogen fertilization at 2 lb/Kft2, and little or no irrigation.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
     "id": "m12q001",
     "module": "M12",
     "question": "Most fungi are \"decomposers\" that function in breaking down organic residues that would otherwise:",
@@ -3867,6 +4152,4941 @@
     ],
     "feedback": "Neotyphodium coenophialum is specific to tall fescue; N. typhinum and Epichloe typhina are shared across the fine/red fescues, and N. lolii is specific to perennial ryegrass.",
     "source": "Textbook Ch. 3, pp. 61-69: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q001",
+    "module": "M13",
+    "question": "Western Oregon's climate, as described in the Module 13 overview, features mild, wet winters and:",
+    "correct": "cool, dry summers",
+    "options": [
+      "cool, dry summers",
+      "hot, humid summers",
+      "cold, dry summers",
+      "hot, dry summers"
+    ],
+    "feedback": "Western Oregon's climate features mild, wet winters and cool, dry summers.",
+    "source": "M13.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m13q002",
+    "module": "M13",
+    "question": "At the newly constructed Oregon Golf Club, the putting greens were planted with:",
+    "correct": "Pennlinks creeping bentgrass",
+    "options": [
+      "Pennlinks creeping bentgrass",
+      "Penncross creeping bentgrass",
+      "Bardot colonial bentgrass",
+      "Seaside creeping bentgrass"
+    ],
+    "feedback": "The Oregon Golf Club's greens were Pennlinks creeping bentgrass.",
+    "source": "M13.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m13q003",
+    "module": "M13",
+    "question": "At the Oregon Golf Club, the tees were planted with:",
+    "correct": "Penncross creeping bentgrass",
+    "options": [
+      "Penncross creeping bentgrass",
+      "Pennlinks creeping bentgrass",
+      "Bardot colonial bentgrass",
+      "Crenshaw creeping bentgrass"
+    ],
+    "feedback": "The Oregon Golf Club's tees were Penncross creeping bentgrass.",
+    "source": "M13.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m13q004",
+    "module": "M13",
+    "question": "At the Oregon Golf Club, the fairways were planted with:",
+    "correct": "Bardot colonial bentgrass",
+    "options": [
+      "Bardot colonial bentgrass",
+      "Pennlinks creeping bentgrass",
+      "Penncross creeping bentgrass",
+      "Highland dryland bentgrass"
+    ],
+    "feedback": "The Oregon Golf Club's fairways were Bardot colonial bentgrass.",
+    "source": "M13.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m13q005",
+    "module": "M13",
+    "question": "Per the overview, velvet bentgrass can be found in more than just little patches on old greens in:",
+    "correct": "Rhode Island",
+    "options": [
+      "Rhode Island",
+      "Oregon",
+      "Georgia",
+      "Iowa"
+    ],
+    "feedback": "The overview notes velvet bentgrass is found beyond little patches on old greens in Rhode Island.",
+    "source": "M13.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m13q006",
+    "module": "M13",
+    "question": "Even though it is a little-used bentgrass species today, redtop can persist on sites that are wet, poorly drained, and:",
+    "correct": "trafficked",
+    "options": [
+      "trafficked",
+      "shaded",
+      "saline",
+      "acidic"
+    ],
+    "feedback": "Redtop can persist on wet, poorly drained, trafficked sites where no other turfgrass will.",
+    "source": "M13.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m13q007",
+    "module": "M13",
+    "question": "Module 13 reviews four turfgrasses: Creeping bentgrass, Colonial bentgrass, Velvet bentgrass, and:",
+    "correct": "Redtop",
+    "options": [
+      "Redtop",
+      "Dryland bentgrass",
+      "Idaho bentgrass",
+      "Tall fescue"
+    ],
+    "feedback": "Module 13 covers Creeping, Colonial, and Velvet bentgrass, plus Redtop.",
+    "source": "M13.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m13q008",
+    "module": "M13",
+    "question": "The assigned textbook reading for Module 13 covers Chapter 3, pages:",
+    "correct": "68-70",
+    "options": [
+      "68-70",
+      "61-64",
+      "65-69",
+      "71-75"
+    ],
+    "feedback": "Module 13's reading is Turfgrass Management, Chapter 3, pages 68-70.",
+    "source": "M13.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m13q009",
+    "module": "M13",
+    "question": "The Latin name of creeping bentgrass is Agrostis stolonifera L., formerly known as:",
+    "correct": "A. palustris Huds.",
+    "options": [
+      "A. palustris Huds.",
+      "A. capillaris L.",
+      "A. canina L.",
+      "A. gigantea With."
+    ],
+    "feedback": "Creeping bentgrass, Agrostis stolonifera L., was formerly known as A. palustris Huds.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q010",
+    "module": "M13",
+    "question": "Per its module page, the ligule on creeping bentgrass is overall described as:",
+    "correct": "long, rounded, membranous",
+    "options": [
+      "long, rounded, membranous",
+      "short, truncate, membranous",
+      "very long, pointed, membranous",
+      "a fringe of short hairs"
+    ],
+    "feedback": "Creeping bentgrass's ligule is long, rounded, and membranous.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q011",
+    "module": "M13",
+    "question": "More precisely, the ligule on creeping bentgrass is:",
+    "correct": "membranous, 0.6 to 3 mm long, finely toothed or entire, rounded",
+    "options": [
+      "membranous, 0.6 to 3 mm long, finely toothed or entire, rounded",
+      "membranous, 0.3 to 1.2 mm long, truncate",
+      "membranous, 1.5 to 5 mm long, rounded",
+      "membranous, 0.4 to 0.8 mm long, pointed"
+    ],
+    "feedback": "Creeping bentgrass's ligule is membranous, 0.6 to 3 mm long, finely toothed or entire, and rounded.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q012",
+    "module": "M13",
+    "question": "The preferred mowing height for creeping bentgrass is:",
+    "correct": "0.12 - 0.5 inches",
+    "options": [
+      "0.12 - 0.5 inches",
+      "0.3 - 0.8 inches",
+      "0.2 - 0.4 inches",
+      "1.5 - 2.0 inches"
+    ],
+    "feedback": "Creeping bentgrass is best mowed at 0.12 to 0.5 inches.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q013",
+    "module": "M13",
+    "question": "The preferred fertilization rate for creeping bentgrass is:",
+    "correct": "2.0 - 6.0 lb. N / K ft² / year",
+    "options": [
+      "2.0 - 6.0 lb. N / K ft² / year",
+      "1.0 - 2.0 lb. N / K ft² / year",
+      "0.5 - 1.0 lb. N / K ft² / year",
+      "3.0 - 8.0 lb. N / K ft² / year"
+    ],
+    "feedback": "Creeping bentgrass's preferred fertilization rate is 2.0 to 6.0 lb N/K ft²/year.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q014",
+    "module": "M13",
+    "question": "The preferred irrigation amount for creeping bentgrass is:",
+    "correct": "needed frequently",
+    "options": [
+      "needed frequently",
+      "needed moderately",
+      "low to moderate",
+      "not needed"
+    ],
+    "feedback": "Creeping bentgrass needs frequent irrigation.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q015",
+    "module": "M13",
+    "question": "'Other' cultural practices noted for creeping bentgrass include cultivation, topdressing, and:",
+    "correct": "pest (disease) control",
+    "options": [
+      "pest (disease) control",
+      "deep-tine aerification only",
+      "fall overseeding",
+      "netting for sod production"
+    ],
+    "feedback": "Creeping bentgrass requires many cultural practices including cultivation, topdressing, and pest (disease) control.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q016",
+    "module": "M13",
+    "question": "On golf greens, creeping bentgrass is rated:",
+    "correct": "well adapted",
+    "options": [
+      "well adapted",
+      "not suitable",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Creeping bentgrass is well adapted for golf greens.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q017",
+    "module": "M13",
+    "question": "On golf tees, creeping bentgrass is rated:",
+    "correct": "well adapted",
+    "options": [
+      "well adapted",
+      "not suitable",
+      "marginally adapted",
+      "adapted only when overseeded"
+    ],
+    "feedback": "Creeping bentgrass is well adapted for golf tees.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q018",
+    "module": "M13",
+    "question": "On golf fairways, creeping bentgrass is rated:",
+    "correct": "well adapted",
+    "options": [
+      "well adapted",
+      "not suitable",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Creeping bentgrass is well adapted for golf fairways.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q019",
+    "module": "M13",
+    "question": "On golf roughs, creeping bentgrass is rated:",
+    "correct": "not suitable",
+    "options": [
+      "not suitable",
+      "well adapted",
+      "marginally adapted",
+      "adapted"
+    ],
+    "feedback": "Creeping bentgrass is not suitable for golf roughs.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q020",
+    "module": "M13",
+    "question": "For athletic turf, creeping bentgrass is rated:",
+    "correct": "not suitable",
+    "options": [
+      "not suitable",
+      "well adapted",
+      "marginally adapted",
+      "ideal"
+    ],
+    "feedback": "Creeping bentgrass is not suitable for athletic turf.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q021",
+    "module": "M13",
+    "question": "For lawn turf, creeping bentgrass can be adapted for:",
+    "correct": "intensively cultured lawns only",
+    "options": [
+      "intensively cultured lawns only",
+      "any intensity of lawn culture",
+      "low intensities of culture only",
+      "it is not adapted for lawns at all"
+    ],
+    "feedback": "Creeping bentgrass can be adapted only for intensively cultured lawns.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q022",
+    "module": "M13",
+    "question": "For utility turf, creeping bentgrass is rated:",
+    "correct": "not suitable",
+    "options": [
+      "not suitable",
+      "well adapted",
+      "marginally adapted",
+      "ideal"
+    ],
+    "feedback": "Creeping bentgrass is not suitable for utility turf.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q023",
+    "module": "M13",
+    "question": "At lawn height, creeping bentgrass forms:",
+    "correct": "ugly patches in the turf",
+    "options": [
+      "ugly patches in the turf",
+      "a uniform, dense stand",
+      "a weed-free stand",
+      "an evenly colored green turf"
+    ],
+    "feedback": "At lawn height, creeping bentgrass forms ugly patches in the turf, as shown in a Kentucky bluegrass lawn example.",
+    "source": "M13.3: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q024",
+    "module": "M13",
+    "question": "To be sustained at an acceptable quality level in a lawn setting, creeping bentgrass must be mowed at a:",
+    "correct": "closer height",
+    "options": [
+      "closer height",
+      "taller height",
+      "the same height as Kentucky bluegrass",
+      "height determined only by season"
+    ],
+    "feedback": "Creeping bentgrass must be mowed at a closer height to sustain acceptable quality.",
+    "source": "M13.3: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q025",
+    "module": "M13",
+    "question": "Per Table 13.3.2, which creeping bentgrass cultivar ranked #1 in USA overall quality?",
+    "correct": "L-93",
+    "options": [
+      "L-93",
+      "Penn A-1",
+      "Penn G-2",
+      "Crenshaw"
+    ],
+    "feedback": "L-93 ranked #1 in USA overall quality in Table 13.3.2.",
+    "source": "M13.3: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q026",
+    "module": "M13",
+    "question": "Per Table 13.3.2, which creeping bentgrass cultivar ranked last (28th) in USA overall quality?",
+    "correct": "Seaside",
+    "options": [
+      "Seaside",
+      "Crenshaw",
+      "Penn A-4",
+      "Penn G-2"
+    ],
+    "feedback": "Seaside ranked 28th (last) in USA overall quality in Table 13.3.2.",
+    "source": "M13.3: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q027",
+    "module": "M13",
+    "question": "Per Table 13.3.2, Crenshaw's quality rank was 22 in Pennsylvania but improved to a rank of 2 in:",
+    "correct": "Iowa",
+    "options": [
+      "Iowa",
+      "Georgia",
+      "Missouri",
+      "New Jersey"
+    ],
+    "feedback": "Crenshaw ranked 22 in PA and NJ but only 2 in Iowa, per Table 13.3.2.",
+    "source": "M13.3: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q028",
+    "module": "M13",
+    "question": "The module attributes Crenshaw's poor performance in PA and NJ to its susceptibility to:",
+    "correct": "dollar spot",
+    "options": [
+      "dollar spot",
+      "brown patch",
+      "gray leaf spot",
+      "snow mold"
+    ],
+    "feedback": "Crenshaw underperformed in PA and NJ, where dollar spot is very active, due to its susceptibility to the disease.",
+    "source": "M13.3: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q029",
+    "module": "M13",
+    "question": "Crenshaw performed much better in Iowa than in Pennsylvania and New Jersey because Iowa has:",
+    "correct": "very little dollar spot",
+    "options": [
+      "very little dollar spot",
+      "much more dollar spot",
+      "acidic soils favoring Crenshaw",
+      "a cooler climate overall"
+    ],
+    "feedback": "Crenshaw performed much better in Iowa, where there is very little dollar spot.",
+    "source": "M13.3: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q030",
+    "module": "M13",
+    "question": "The Penn A- and G-series cultivars did not do especially well because of acid soils in:",
+    "correct": "Georgia",
+    "options": [
+      "Georgia",
+      "Iowa",
+      "Missouri",
+      "Pennsylvania"
+    ],
+    "feedback": "The Penn A- and G-series cultivars underperformed in Georgia's acid soils.",
+    "source": "M13.3: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q031",
+    "module": "M13",
+    "question": "Per Table 13.3.2, Penn G-2 ranked #1 in which state?",
+    "correct": "Iowa",
+    "options": [
+      "Iowa",
+      "Georgia",
+      "Missouri",
+      "Pennsylvania"
+    ],
+    "feedback": "Penn G-2 ranked #1 in Iowa per Table 13.3.2.",
+    "source": "M13.3: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q032",
+    "module": "M13",
+    "question": "Per Table 13.3.2, Seaside's single best regional rank (2) was achieved in:",
+    "correct": "Georgia",
+    "options": [
+      "Georgia",
+      "Iowa",
+      "Pennsylvania",
+      "Missouri"
+    ],
+    "feedback": "Despite ranking last overall, Seaside's best regional rank (2) was in Georgia, per Table 13.3.2.",
+    "source": "M13.3: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q033",
+    "module": "M13",
+    "question": "The Latin name of colonial bentgrass is:",
+    "correct": "Agrostis capillaris L.",
+    "options": [
+      "Agrostis capillaris L.",
+      "Agrostis stolonifera L.",
+      "Agrostis canina L.",
+      "Agrostis gigantea With."
+    ],
+    "feedback": "Colonial bentgrass is Agrostis capillaris L.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q034",
+    "module": "M13",
+    "question": "Per its module page, the ligule on colonial bentgrass is overall described as:",
+    "correct": "short, truncate, membranous",
+    "options": [
+      "short, truncate, membranous",
+      "long, rounded, membranous",
+      "very long, pointed, membranous",
+      "a fringe of short hairs"
+    ],
+    "feedback": "Colonial bentgrass's ligule is short, truncate, and membranous.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q035",
+    "module": "M13",
+    "question": "More precisely, the ligule on colonial bentgrass is:",
+    "correct": "membranous, 0.3 to 1.2 mm long, truncate",
+    "options": [
+      "membranous, 0.3 to 1.2 mm long, truncate",
+      "membranous, 0.6 to 3 mm long, rounded",
+      "membranous, 1.5 to 5 mm long, rounded",
+      "membranous, 0.4 to 0.8 mm long, pointed"
+    ],
+    "feedback": "Colonial bentgrass's ligule is membranous, 0.3 to 1.2 mm long, and truncate.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q036",
+    "module": "M13",
+    "question": "The preferred mowing height for colonial bentgrass is:",
+    "correct": "0.3 - 0.8 inches",
+    "options": [
+      "0.3 - 0.8 inches",
+      "0.12 - 0.5 inches",
+      "0.2 - 0.4 inches",
+      "1.5 - 2.0 inches"
+    ],
+    "feedback": "Colonial bentgrass is best mowed at 0.3 to 0.8 inches.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q037",
+    "module": "M13",
+    "question": "The preferred fertilization rate for colonial bentgrass is:",
+    "correct": "1.0 - 2.0 lb. N / K ft² / year",
+    "options": [
+      "1.0 - 2.0 lb. N / K ft² / year",
+      "2.0 - 6.0 lb. N / K ft² / year",
+      "0.5 - 1.0 lb. N / K ft² / year",
+      "3.0 - 8.0 lb. N / K ft² / year"
+    ],
+    "feedback": "Colonial bentgrass's preferred fertilization rate is 1.0 to 2.0 lb N/K ft²/year.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q038",
+    "module": "M13",
+    "question": "The preferred irrigation amount for colonial bentgrass is:",
+    "correct": "needed moderately",
+    "options": [
+      "needed moderately",
+      "needed frequently",
+      "low to moderate",
+      "not needed"
+    ],
+    "feedback": "Colonial bentgrass needs moderate irrigation.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q039",
+    "module": "M13",
+    "question": "'Other' cultural practice requirements for colonial bentgrass vary with mowing height and may require:",
+    "correct": "topdressing",
+    "options": [
+      "topdressing",
+      "fall overseeding",
+      "deep-tine aerification",
+      "netting for sod production"
+    ],
+    "feedback": "Colonial bentgrass's cultural practice needs vary with mowing height and may require topdressing.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q040",
+    "module": "M13",
+    "question": "On golf greens, colonial bentgrass is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not suitable",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Colonial bentgrass is rated adapted for golf greens.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q041",
+    "module": "M13",
+    "question": "On golf tees, colonial bentgrass is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not suitable",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Colonial bentgrass is rated adapted for golf tees.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q042",
+    "module": "M13",
+    "question": "On golf fairways, colonial bentgrass is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not suitable",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Colonial bentgrass is rated adapted for golf fairways.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q043",
+    "module": "M13",
+    "question": "On golf roughs, colonial bentgrass is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not suitable",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Colonial bentgrass is rated adapted for golf roughs.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q044",
+    "module": "M13",
+    "question": "For athletic turf, colonial bentgrass is rated:",
+    "correct": "not well adapted",
+    "options": [
+      "not well adapted",
+      "well adapted",
+      "ideal",
+      "marginally adapted"
+    ],
+    "feedback": "Colonial bentgrass is not well adapted for athletic turf.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q045",
+    "module": "M13",
+    "question": "For lawn turf, colonial bentgrass can be adapted to:",
+    "correct": "low intensities of culture",
+    "options": [
+      "low intensities of culture",
+      "high intensities of culture only",
+      "intensively cultured lawns only",
+      "any intensity equally"
+    ],
+    "feedback": "Colonial bentgrass can be adapted to low intensities of lawn culture.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q046",
+    "module": "M13",
+    "question": "For utility turf, colonial bentgrass is rated:",
+    "correct": "marginally adapted",
+    "options": [
+      "marginally adapted",
+      "well adapted",
+      "not suitable",
+      "ideal"
+    ],
+    "feedback": "Colonial bentgrass is marginally adapted for utility turf.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q047",
+    "module": "M13",
+    "question": "Creeping and colonial bentgrasses show a differential in disease susceptibility during the winter months for:",
+    "correct": "snow mold disease",
+    "options": [
+      "snow mold disease",
+      "brown patch disease",
+      "dollar spot disease",
+      "gray leaf spot disease"
+    ],
+    "feedback": "A photograph in the module shows the differential in snow mold susceptibility between creeping and colonial bentgrasses in winter.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q048",
+    "module": "M13",
+    "question": "In the summer, colonial bentgrass is highly susceptible to:",
+    "correct": "brown patch disease",
+    "options": [
+      "brown patch disease",
+      "snow mold disease",
+      "dollar spot disease",
+      "Pythium disease"
+    ],
+    "feedback": "Colonial bentgrass is highly susceptible to brown patch disease in summer, the opposite pattern from the winter snow mold differential.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q049",
+    "module": "M13",
+    "question": "Colonial bentgrass's high susceptibility to brown patch disease limits its use primarily to:",
+    "correct": "temperate oceanic climates where summer temperatures are milder",
+    "options": [
+      "temperate oceanic climates where summer temperatures are milder",
+      "hot, arid desert climates",
+      "tropical rainforest climates",
+      "cool subtropical-humid (transition zone) climates"
+    ],
+    "feedback": "Because of brown patch susceptibility, colonial bentgrass use is limited mainly to temperate oceanic climates with milder summers.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q050",
+    "module": "M13",
+    "question": "If genetic resistance to brown patch disease could be developed, the use of colonial bentgrass could be:",
+    "correct": "expanded dramatically",
+    "options": [
+      "expanded dramatically",
+      "eliminated entirely",
+      "limited to golf greens only",
+      "restricted further"
+    ],
+    "feedback": "Developing brown patch resistance could dramatically expand colonial bentgrass's use.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q051",
+    "module": "M13",
+    "question": "Where adapted, colonial bentgrass forms an excellent turf for:",
+    "correct": "a croquet court",
+    "options": [
+      "a croquet court",
+      "a baseball infield",
+      "a running track",
+      "a parking lot buffer"
+    ],
+    "feedback": "The module shows a colonial bentgrass croquet court as an example of excellent turf where the species is adapted.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q052",
+    "module": "M13",
+    "question": "Colonial bentgrass tennis courts are popular in the United Kingdom and other locations with:",
+    "correct": "temperate-oceanic climates",
+    "options": [
+      "temperate-oceanic climates",
+      "hot subtropical climates",
+      "cool subarctic climates",
+      "arid climates"
+    ],
+    "feedback": "Colonial bentgrass tennis courts are popular in the UK and other temperate-oceanic climates.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q053",
+    "module": "M13",
+    "question": "The module's example of a colonial bentgrass lawn turf is located in coastal:",
+    "correct": "Rhode Island",
+    "options": [
+      "Rhode Island",
+      "Oregon",
+      "Georgia",
+      "New Jersey"
+    ],
+    "feedback": "The module shows a colonial bentgrass lawn turf example in coastal Rhode Island.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q054",
+    "module": "M13",
+    "question": "The Latin name of velvet bentgrass is:",
+    "correct": "Agrostis canina L.",
+    "options": [
+      "Agrostis canina L.",
+      "Agrostis capillaris L.",
+      "Agrostis stolonifera L.",
+      "Agrostis gigantea With."
+    ],
+    "feedback": "Velvet bentgrass is Agrostis canina L.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q055",
+    "module": "M13",
+    "question": "Per its module page, the ligule on velvet bentgrass is overall described as:",
+    "correct": "very long, pointed, membranous",
+    "options": [
+      "very long, pointed, membranous",
+      "short, truncate, membranous",
+      "long, rounded, membranous",
+      "a fringe of short hairs"
+    ],
+    "feedback": "Velvet bentgrass's ligule is very long, pointed, and membranous.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q056",
+    "module": "M13",
+    "question": "Per the module's glossary note, a ligule is a membranous or hairy appendage on the adaxial side of a grass leaf, located at the junction of the leaf and:",
+    "correct": "blade",
+    "options": [
+      "blade",
+      "root",
+      "stem",
+      "inflorescence"
+    ],
+    "feedback": "A ligule is located at the junction of the leaf and blade, on the adaxial side.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q057",
+    "module": "M13",
+    "question": "The preferred mowing height for velvet bentgrass is:",
+    "correct": "0.2 - 0.4 inches",
+    "options": [
+      "0.2 - 0.4 inches",
+      "0.12 - 0.5 inches",
+      "0.3 - 0.8 inches",
+      "1.5 - 2.0 inches"
+    ],
+    "feedback": "Velvet bentgrass is best mowed at 0.2 to 0.4 inches.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q058",
+    "module": "M13",
+    "question": "The preferred fertilization rate for velvet bentgrass is:",
+    "correct": "1.0 - 2.0 lb. N / K ft² / year",
+    "options": [
+      "1.0 - 2.0 lb. N / K ft² / year",
+      "2.0 - 6.0 lb. N / K ft² / year",
+      "0.5 - 1.0 lb. N / K ft² / year",
+      "3.0 - 8.0 lb. N / K ft² / year"
+    ],
+    "feedback": "Velvet bentgrass's preferred fertilization rate is 1.0 to 2.0 lb N/K ft²/year.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q059",
+    "module": "M13",
+    "question": "The preferred irrigation amount for velvet bentgrass is:",
+    "correct": "low to moderate",
+    "options": [
+      "low to moderate",
+      "needed frequently",
+      "needed moderately",
+      "not needed"
+    ],
+    "feedback": "Velvet bentgrass needs low to moderate irrigation.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q060",
+    "module": "M13",
+    "question": "'Other' cultural practices for velvet bentgrass require many practices, especially:",
+    "correct": "topdressing",
+    "options": [
+      "topdressing",
+      "fall overseeding",
+      "deep-tine aerification",
+      "netting for sod production"
+    ],
+    "feedback": "Velvet bentgrass requires many cultural practices, especially topdressing.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q061",
+    "module": "M13",
+    "question": "On golf greens, velvet bentgrass is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not suitable",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Velvet bentgrass is rated adapted for golf greens.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q062",
+    "module": "M13",
+    "question": "On golf tees, velvet bentgrass is rated:",
+    "correct": "not suitable",
+    "options": [
+      "not suitable",
+      "adapted",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Velvet bentgrass is not suitable for golf tees.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q063",
+    "module": "M13",
+    "question": "On golf fairways, velvet bentgrass is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not suitable",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Velvet bentgrass is rated adapted for golf fairways.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q064",
+    "module": "M13",
+    "question": "On golf roughs, velvet bentgrass is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not suitable",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Velvet bentgrass is rated adapted for golf roughs.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q065",
+    "module": "M13",
+    "question": "For athletic turf, velvet bentgrass is rated:",
+    "correct": "not adaptable",
+    "options": [
+      "not adaptable",
+      "well adapted",
+      "marginally adapted",
+      "ideal"
+    ],
+    "feedback": "Velvet bentgrass is not adaptable for athletic turf.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q066",
+    "module": "M13",
+    "question": "For lawn turf, velvet bentgrass can be adaptable for:",
+    "correct": "low to moderate intensity of culture",
+    "options": [
+      "low to moderate intensity of culture",
+      "only very high intensity of culture",
+      "intensively cultured lawns only",
+      "it is not adaptable for lawns at all"
+    ],
+    "feedback": "Velvet bentgrass can be adaptable for low to moderate intensity of lawn culture.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q067",
+    "module": "M13",
+    "question": "For utility turf, velvet bentgrass is rated:",
+    "correct": "marginally adapted",
+    "options": [
+      "marginally adapted",
+      "well adapted",
+      "not suitable",
+      "ideal"
+    ],
+    "feedback": "Velvet bentgrass is marginally adapted for utility turf.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q068",
+    "module": "M13",
+    "question": "Velvet bentgrass is described as an especially ________-textured turfgrass.",
+    "correct": "fine",
+    "options": [
+      "fine",
+      "coarse",
+      "medium",
+      "variable"
+    ],
+    "feedback": "Velvet bentgrass is an especially fine-textured turfgrass.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q069",
+    "module": "M13",
+    "question": "Because it is a serious thatch former, velvet bentgrass must be:",
+    "correct": "topdressed frequently",
+    "options": [
+      "topdressed frequently",
+      "mowed less often",
+      "fertilized heavily",
+      "irrigated minimally"
+    ],
+    "feedback": "Velvet bentgrass is a serious thatch former and must be topdressed frequently.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q070",
+    "module": "M13",
+    "question": "Because of its relatively slow growth, velvet bentgrass must avoid:",
+    "correct": "aggressive cultivation methods",
+    "options": [
+      "aggressive cultivation methods",
+      "all topdressing",
+      "all fertilization",
+      "close mowing"
+    ],
+    "feedback": "Velvet bentgrass's slow growth means aggressive cultivation methods must be avoided.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q071",
+    "module": "M13",
+    "question": "Velvet bentgrass's recuperative capacity, owing to its slow growth, is:",
+    "correct": "very slow",
+    "options": [
+      "very slow",
+      "very fast",
+      "moderate",
+      "identical to creeping bentgrass"
+    ],
+    "feedback": "Velvet bentgrass's recuperative capacity is very slow because of its slow growth.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q072",
+    "module": "M13",
+    "question": "Velvet bentgrass is most evident as dense patches in old greens established with:",
+    "correct": "a mixture of bentgrass species",
+    "options": [
+      "a mixture of bentgrass species",
+      "a pure stand of Kentucky bluegrass",
+      "a mixture of fine fescues",
+      "a single creeping bentgrass cultivar"
+    ],
+    "feedback": "Velvet bentgrass shows up as dense patches in old greens originally established with a mixture of bentgrass species.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q073",
+    "module": "M13",
+    "question": "Per its module page, the Latin name of redtop is:",
+    "correct": "Agrostis gigantea With.",
+    "options": [
+      "Agrostis gigantea With.",
+      "Agrostis gigantea Roth.",
+      "Agrostis alba L.",
+      "Agrostis canina L."
+    ],
+    "feedback": "Redtop's species page gives its Latin name as Agrostis gigantea With.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q074",
+    "module": "M13",
+    "question": "Per its module page, the ligule on redtop is overall described as:",
+    "correct": "long, rounded, membranous",
+    "options": [
+      "long, rounded, membranous",
+      "short, truncate, membranous",
+      "very long, pointed, membranous",
+      "a fringe of short hairs"
+    ],
+    "feedback": "Redtop's ligule is long, rounded, and membranous.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q075",
+    "module": "M13",
+    "question": "More precisely, the ligule on redtop is:",
+    "correct": "membranous, 1.5 to 5 mm long, rounded",
+    "options": [
+      "membranous, 1.5 to 5 mm long, rounded",
+      "membranous, 0.6 to 3 mm long, rounded",
+      "membranous, 0.3 to 1.2 mm long, truncate",
+      "membranous, 0.4 to 0.8 mm long, pointed"
+    ],
+    "feedback": "Redtop's ligule is membranous, 1.5 to 5 mm long, and rounded — the longest of the bentgrasses covered in this module.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q076",
+    "module": "M13",
+    "question": "The preferred mowing height for redtop is:",
+    "correct": "1.5 - 2.0 inches",
+    "options": [
+      "1.5 - 2.0 inches",
+      "0.12 - 0.5 inches",
+      "0.3 - 0.8 inches",
+      "0.2 - 0.4 inches"
+    ],
+    "feedback": "Redtop is best mowed at 1.5 to 2.0 inches, far taller than the other bentgrasses in this module.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q077",
+    "module": "M13",
+    "question": "The preferred fertilization rate for redtop is:",
+    "correct": "1.0 - 2.0 lb. N / K ft² / year",
+    "options": [
+      "1.0 - 2.0 lb. N / K ft² / year",
+      "2.0 - 6.0 lb. N / K ft² / year",
+      "0.5 - 1.0 lb. N / K ft² / year",
+      "3.0 - 8.0 lb. N / K ft² / year"
+    ],
+    "feedback": "Redtop's preferred fertilization rate is 1.0 to 2.0 lb N/K ft²/year.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q078",
+    "module": "M13",
+    "question": "The preferred irrigation amount for redtop is:",
+    "correct": "low to moderate",
+    "options": [
+      "low to moderate",
+      "needed frequently",
+      "needed moderately",
+      "not needed"
+    ],
+    "feedback": "Redtop needs low to moderate irrigation.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q079",
+    "module": "M13",
+    "question": "'Other' cultural practices for redtop are:",
+    "correct": "not required",
+    "options": [
+      "not required",
+      "extensive and specialized",
+      "limited to topdressing",
+      "limited to fungicide applications"
+    ],
+    "feedback": "Cultural practices are not required to promote favorable redtop growth.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q080",
+    "module": "M13",
+    "question": "On golf greens, redtop is rated:",
+    "correct": "not adapted",
+    "options": [
+      "not adapted",
+      "adapted",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Redtop is not adapted for golf greens.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q081",
+    "module": "M13",
+    "question": "On golf tees, redtop is rated:",
+    "correct": "not adapted",
+    "options": [
+      "not adapted",
+      "adapted",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Redtop is not adapted for golf tees.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q082",
+    "module": "M13",
+    "question": "On golf fairways, redtop is rated:",
+    "correct": "not adapted",
+    "options": [
+      "not adapted",
+      "adapted",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Redtop is not adapted for golf fairways.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q083",
+    "module": "M13",
+    "question": "On golf roughs, redtop is rated:",
+    "correct": "not adapted",
+    "options": [
+      "not adapted",
+      "adapted",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Redtop is not adapted for golf roughs.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q084",
+    "module": "M13",
+    "question": "For athletic turf, redtop is rated:",
+    "correct": "not adaptable",
+    "options": [
+      "not adaptable",
+      "well adapted",
+      "marginally adapted",
+      "ideal"
+    ],
+    "feedback": "Redtop is not adaptable for athletic turf.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q085",
+    "module": "M13",
+    "question": "For lawn turf, redtop is rated:",
+    "correct": "not adaptable",
+    "options": [
+      "not adaptable",
+      "well adapted",
+      "marginally adapted",
+      "adaptable for low intensities only"
+    ],
+    "feedback": "Redtop is not adaptable for lawn turf.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q086",
+    "module": "M13",
+    "question": "For utility turf, redtop can be used in:",
+    "correct": "poorly drained sites",
+    "options": [
+      "poorly drained sites",
+      "well-drained sandy soils only",
+      "intensively trafficked areas",
+      "shaded woodland paths"
+    ],
+    "feedback": "Redtop can be used in poorly drained sites for utility turf.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q087",
+    "module": "M13",
+    "question": "Of the species in this module, which is rated 'not suitable' for golf tees: creeping bentgrass or velvet bentgrass?",
+    "correct": "velvet bentgrass",
+    "options": [
+      "velvet bentgrass",
+      "creeping bentgrass",
+      "both",
+      "neither"
+    ],
+    "feedback": "Velvet bentgrass is rated 'not suitable' for golf tees; creeping bentgrass is 'well adapted.'",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q088",
+    "module": "M13",
+    "question": "Which bentgrass species has the lowest mowing-height ceiling per its module page: creeping bentgrass (up to 0.5 in) or velvet bentgrass (up to 0.4 in)?",
+    "correct": "velvet bentgrass",
+    "options": [
+      "velvet bentgrass",
+      "creeping bentgrass",
+      "they are equal",
+      "neither has a stated ceiling"
+    ],
+    "feedback": "Velvet bentgrass's mowing height tops out at 0.4 inches, lower than creeping bentgrass's 0.5-inch ceiling.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q089",
+    "module": "M13",
+    "question": "Among creeping, colonial, velvet bentgrass, and redtop, which is rated 'not adapted/not suitable' across all four golf-turf categories (greens, tees, fairways, roughs)?",
+    "correct": "redtop",
+    "options": [
+      "redtop",
+      "velvet bentgrass",
+      "creeping bentgrass",
+      "colonial bentgrass"
+    ],
+    "feedback": "Redtop is rated 'not adapted' for golf greens, tees, fairways, and roughs alike.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q090",
+    "module": "M13",
+    "question": "Which bentgrass species is rated 'adapted' across ALL FOUR golf-turf categories (greens, tees, fairways, roughs): colonial bentgrass or creeping bentgrass?",
+    "correct": "colonial bentgrass",
+    "options": [
+      "colonial bentgrass",
+      "creeping bentgrass",
+      "both",
+      "neither"
+    ],
+    "feedback": "Colonial bentgrass is rated 'adapted' for all four golf-turf categories; creeping bentgrass is 'not suitable' for roughs.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q091",
+    "module": "M13",
+    "question": "Among creeping (0.5 in max), colonial (0.8 in max), velvet (0.4 in max), and redtop (2.0 in max), which bentgrass species has the TALLEST preferred mowing height?",
+    "correct": "redtop",
+    "options": [
+      "redtop",
+      "colonial bentgrass",
+      "creeping bentgrass",
+      "velvet bentgrass"
+    ],
+    "feedback": "Redtop's mowing height (1.5-2.0 inches) is far taller than the other bentgrasses in this module.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q092",
+    "module": "M13",
+    "question": "Per the textbook, the Aveneae tribe's one major turfgrass genus is Agrostis, and its one minor genus is:",
+    "correct": "Phleum",
+    "options": [
+      "Phleum",
+      "Festuca",
+      "Lolium",
+      "Puccinellia"
+    ],
+    "feedback": "Agrostis is the major Aveneae genus; Phleum (timothy) is the minor one.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q093",
+    "module": "M13",
+    "question": "Per the textbook, ploidy levels within the Aveneae tribe range from diploid up to:",
+    "correct": "decaploid (2n = 10x = 70)",
+    "options": [
+      "decaploid (2n = 10x = 70)",
+      "octoploid (2n = 8x = 56)",
+      "hexaploid (2n = 6x = 42)",
+      "tetraploid (2n = 4x = 28)"
+    ],
+    "feedback": "Aveneae ploidy ranges from diploid (2n = 2x = 14) up to decaploid (2n = 10x = 70).",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q094",
+    "module": "M13",
+    "question": "Per the textbook, the genus Agrostis (bentgrass) includes about how many species?",
+    "correct": "125",
+    "options": [
+      "125",
+      "25",
+      "60",
+      "10"
+    ],
+    "feedback": "The genus Agrostis includes about 125 species.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q095",
+    "module": "M13",
+    "question": "Per the textbook, of the roughly 125 Agrostis species, how many are used as turfgrasses?",
+    "correct": "six",
+    "options": [
+      "six",
+      "two",
+      "ten",
+      "all of them"
+    ],
+    "feedback": "Six Agrostis species are used as turfgrasses.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q096",
+    "module": "M13",
+    "question": "Per the textbook, the six bentgrass turfgrass species are creeping, colonial, dryland, Idaho, velvet, and:",
+    "correct": "redtop",
+    "options": [
+      "redtop",
+      "meadow",
+      "sheep",
+      "annual"
+    ],
+    "feedback": "The six bentgrass species are creeping, colonial, dryland, Idaho, velvet bentgrass, and redtop.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q097",
+    "module": "M13",
+    "question": "Per the textbook, with the exception of Idaho bentgrass and redtop, the bentgrasses have been used extensively for:",
+    "correct": "greens and other intensively cultured turfs",
+    "options": [
+      "greens and other intensively cultured turfs",
+      "roadside soil stabilization only",
+      "forage and pasture use",
+      "shaded woodland lawns only"
+    ],
+    "feedback": "Except for Idaho bentgrass and redtop, the bentgrasses are used extensively for greens and other intensively cultured turfs.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q098",
+    "module": "M13",
+    "question": "Per the textbook, morphological features common to the bentgrass species include ridged leaf blades on the adaxial side, single-floret spikelets, and:",
+    "correct": "rolled vernation",
+    "options": [
+      "rolled vernation",
+      "folded vernation",
+      "prominent auricles",
+      "hairy ligules"
+    ],
+    "feedback": "Bentgrasses share ridged adaxial leaf blades, rolled vernation, and single-floret spikelets.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q099",
+    "module": "M13",
+    "question": "Per the textbook, creeping bentgrass is a tetraploid with how many chromosomes?",
+    "correct": "28 (2n = 4x = 28)",
+    "options": [
+      "28 (2n = 4x = 28)",
+      "42 (2n = 6x = 42)",
+      "14 (2n = 2x = 14)",
+      "56 (2n = 8x = 56)"
+    ],
+    "feedback": "Creeping bentgrass is a tetraploid with 28 chromosomes.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q100",
+    "module": "M13",
+    "question": "Per the textbook, creeping bentgrass is currently the most widely used cool-season grass for:",
+    "correct": "golf greens",
+    "options": [
+      "golf greens",
+      "lawn turf",
+      "roadside soil stabilization",
+      "athletic fields"
+    ],
+    "feedback": "Creeping bentgrass is the most widely used cool-season grass for golf greens.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q101",
+    "module": "M13",
+    "question": "The historical multi-species green mixture containing a small percentage of creeping bentgrass, 75-85% colonial and dryland bentgrass, and 10-20% velvet bentgrass was called:",
+    "correct": "South German Mixed Bent",
+    "options": [
+      "South German Mixed Bent",
+      "North American Fine Turf Blend",
+      "Arlington Test Mixture",
+      "Pentagon Green Mix"
+    ],
+    "feedback": "South German Mixed Bent was the historical multi-species green mixture described in the textbook.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q102",
+    "module": "M13",
+    "question": "In South German Mixed Bent, creeping bentgrass typically made up what percentage of the mix?",
+    "correct": "1% to 5%",
+    "options": [
+      "1% to 5%",
+      "10% to 20%",
+      "25% to 50%",
+      "75% to 85%"
+    ],
+    "feedback": "Creeping bentgrass made up only 1% to 5% of South German Mixed Bent.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q103",
+    "module": "M13",
+    "question": "In South German Mixed Bent, colonial and dryland bentgrass together typically made up:",
+    "correct": "75% to 85%",
+    "options": [
+      "75% to 85%",
+      "1% to 5%",
+      "10% to 20%",
+      "50% to 60%"
+    ],
+    "feedback": "Colonial and dryland bentgrass together made up 75% to 85% of South German Mixed Bent.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q104",
+    "module": "M13",
+    "question": "Over time, South German Mixed Bent greens separated into distinct patches of predominantly creeping bentgrass and, to a lesser extent:",
+    "correct": "velvet bentgrass",
+    "options": [
+      "velvet bentgrass",
+      "colonial bentgrass",
+      "dryland bentgrass",
+      "redtop"
+    ],
+    "feedback": "South German Mixed Bent greens separated into patches of mostly creeping bentgrass and, to a lesser extent, velvet bentgrass.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q105",
+    "module": "M13",
+    "question": "USGA Green Section-selected creeping bentgrass patches were propagated in plots at Arlington, Virginia, now the site of the:",
+    "correct": "Pentagon",
+    "options": [
+      "Pentagon",
+      "U.S. Capitol",
+      "White House",
+      "Smithsonian Institution"
+    ],
+    "feedback": "The Arlington, Virginia test plots are now the site of the Pentagon.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q106",
+    "module": "M13",
+    "question": "The C-series creeping bentgrass cultivars (e.g., Arlington C-1, Cohansey C-7, Congressional C-19) had to be propagated vegetatively because they could not be:",
+    "correct": "established true-to-type from seed",
+    "options": [
+      "established true-to-type from seed",
+      "grown outside Virginia",
+      "mowed below 1 inch",
+      "fertilized at low rates"
+    ],
+    "feedback": "The C-series cultivars could not be established true-to-type from seed, so they were propagated vegetatively.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q107",
+    "module": "M13",
+    "question": "The only seeded C-series-era creeping bentgrass cultivar was Seaside, discovered in the tidal flatlands of:",
+    "correct": "western Oregon",
+    "options": [
+      "western Oregon",
+      "coastal Rhode Island",
+      "the Chesapeake Bay",
+      "southern New Jersey"
+    ],
+    "feedback": "Seaside was a salt-tolerant cultivar discovered in the tidal flatlands of western Oregon.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q108",
+    "module": "M13",
+    "question": "Seaside was valued for being salt-tolerant but was ultimately considered:",
+    "correct": "inferior quality",
+    "options": [
+      "inferior quality",
+      "too expensive to produce",
+      "unsuited to any climate",
+      "resistant to all diseases"
+    ],
+    "feedback": "Despite its salt tolerance, Seaside was of inferior quality.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q109",
+    "module": "M13",
+    "question": "Most bentgrass greens were established with C-series cultivars until the 1955 introduction of:",
+    "correct": "Penncross",
+    "options": [
+      "Penncross",
+      "Pennlinks",
+      "Crenshaw",
+      "L-93"
+    ],
+    "feedback": "Penncross, introduced in 1955, largely replaced the C-series cultivars.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q110",
+    "module": "M13",
+    "question": "Penncross was the first-generation seed produced from random crossing of:",
+    "correct": "three vegetatively propagated clonal strains",
+    "options": [
+      "three vegetatively propagated clonal strains",
+      "two seeded cultivars",
+      "five C-series cultivars",
+      "Seaside and Highland"
+    ],
+    "feedback": "Penncross was first-generation seed from random crossing of three vegetatively propagated clonal strains.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q111",
+    "module": "M13",
+    "question": "Per the textbook, Penncross is classified among the ________-density, ________-growing creeping bentgrass cultivars.",
+    "correct": "low-density, prostrate-growing",
+    "options": [
+      "low-density, prostrate-growing",
+      "medium-density, upright-growing",
+      "high-density, upright-growing",
+      "high-density, prostrate-growing"
+    ],
+    "feedback": "Penncross is the low-density, prostrate-growing type among creeping bentgrass cultivars.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q112",
+    "module": "M13",
+    "question": "Per the textbook, medium-density upright-growing creeping bentgrass cultivars include Brighton, Cato, Crenshaw, Pennlinks, and:",
+    "correct": "SR 1020",
+    "options": [
+      "SR 1020",
+      "Penn A-1",
+      "007",
+      "T-1"
+    ],
+    "feedback": "SR 1020 is listed among the medium-density upright-growing creeping bentgrass cultivars.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q113",
+    "module": "M13",
+    "question": "Per the textbook, high-density upright-growing creeping bentgrass cultivars include 007, Pure Distinction, T-1, V8, and the:",
+    "correct": "Penn A- and G-series",
+    "options": [
+      "Penn A- and G-series",
+      "C-series",
+      "SR 7100 series",
+      "Alister and Allure series"
+    ],
+    "feedback": "The Penn A- and G-series are among the high-density upright-growing creeping bentgrass cultivars.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q114",
+    "module": "M13",
+    "question": "Per the textbook, high-density creeping bentgrass cultivars are well adapted to mowing heights as low as:",
+    "correct": "0.125 inch or less",
+    "options": [
+      "0.125 inch or less",
+      "0.5 inch or less",
+      "0.8 inch or less",
+      "1.0 inch or less"
+    ],
+    "feedback": "High-density creeping bentgrass cultivars tolerate mowing heights of 0.125 inch or less.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q115",
+    "module": "M13",
+    "question": "Per the textbook, colonial bentgrass is similar in appearance and adaptation to dryland bentgrass, but colonial is a tetraploid (28 chromosomes) while dryland bentgrass is a:",
+    "correct": "hexaploid (42 chromosomes)",
+    "options": [
+      "hexaploid (42 chromosomes)",
+      "diploid (14 chromosomes)",
+      "octoploid (56 chromosomes)",
+      "tetraploid as well (28 chromosomes)"
+    ],
+    "feedback": "Dryland bentgrass is a hexaploid with 42 chromosomes, unlike colonial bentgrass's tetraploid 28.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q116",
+    "module": "M13",
+    "question": "Per the textbook, colonial bentgrass's poor heat and drought tolerance limits its use mainly to oceanic climates such as the U.S. Pacific Northwest, New England, northwestern Europe, and:",
+    "correct": "New Zealand",
+    "options": [
+      "New Zealand",
+      "South Africa",
+      "Australia's interior",
+      "the Mediterranean coast"
+    ],
+    "feedback": "Colonial bentgrass is limited to oceanic climates including the Pacific Northwest, New England, northwestern Europe, and New Zealand.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q117",
+    "module": "M13",
+    "question": "Per the textbook, U.S. colonial bentgrass cultivars include Alister, Allure, Astoria, Bardot, and:",
+    "correct": "Duchess",
+    "options": [
+      "Duchess",
+      "Highland",
+      "Boral",
+      "Holfior"
+    ],
+    "feedback": "Duchess is among the U.S. colonial bentgrass cultivars listed alongside Alister, Allure, Astoria, and Bardot.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q118",
+    "module": "M13",
+    "question": "Per the textbook, northern European breeding of colonial bentgrass produced the cultivars Holfior and:",
+    "correct": "Boral",
+    "options": [
+      "Boral",
+      "Highland",
+      "Duchess",
+      "Tracenta"
+    ],
+    "feedback": "Holfior and Boral resulted from northern European colonial bentgrass breeding efforts.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q119",
+    "module": "M13",
+    "question": "Per the textbook, a common type of dryland bentgrass grown in the United States is:",
+    "correct": "Highland",
+    "options": [
+      "Highland",
+      "Exeter",
+      "Astoria",
+      "GolfStar"
+    ],
+    "feedback": "Highland is a common U.S. dryland bentgrass type.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q120",
+    "module": "M13",
+    "question": "Per the textbook, Idaho bentgrass differs from colonial and dryland bentgrass in that its leaves are broader and darker, and it lacks rhizomes and:",
+    "correct": "false crowns",
+    "options": [
+      "false crowns",
+      "ligules",
+      "collars",
+      "auricles"
+    ],
+    "feedback": "Idaho bentgrass lacks rhizomes and false crowns, unlike colonial and dryland bentgrass.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q121",
+    "module": "M13",
+    "question": "Per the textbook, Idaho bentgrass favors moist conditions and is commonly found along:",
+    "correct": "stream banks",
+    "options": [
+      "stream banks",
+      "sand dunes",
+      "desert washes",
+      "mountain ridgelines"
+    ],
+    "feedback": "Idaho bentgrass favors moist conditions and is commonly found along stream banks.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q122",
+    "module": "M13",
+    "question": "Per the textbook, the single cultivar of Idaho bentgrass is:",
+    "correct": "GolfStar",
+    "options": [
+      "GolfStar",
+      "Highland",
+      "Exeter",
+      "Rudiger"
+    ],
+    "feedback": "GolfStar is the single cultivar of Idaho bentgrass.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q123",
+    "module": "M13",
+    "question": "Per the textbook, velvet bentgrass is a diploid with how many chromosomes?",
+    "correct": "14 (2n = 2x = 14)",
+    "options": [
+      "14 (2n = 2x = 14)",
+      "28 (2n = 4x = 28)",
+      "42 (2n = 6x = 42)",
+      "56 (2n = 8x = 56)"
+    ],
+    "feedback": "Velvet bentgrass is a diploid with 14 chromosomes, the lowest chromosome count among the bentgrasses in this module.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q124",
+    "module": "M13",
+    "question": "Per the textbook, compared with other bentgrasses, velvet bentgrass is more tolerant of shade, drought, and:",
+    "correct": "soil acidity",
+    "options": [
+      "soil acidity",
+      "high salinity",
+      "waterlogged soils",
+      "high fertility"
+    ],
+    "feedback": "Velvet bentgrass is more tolerant of shade, drought, and soil acidity than other bentgrasses.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q125",
+    "module": "M13",
+    "question": "Per the textbook, the currently best velvet bentgrass cultivars are SR 7200, Vesper, and:",
+    "correct": "Greenwich",
+    "options": [
+      "Greenwich",
+      "Highland",
+      "Rudiger",
+      "Exeter"
+    ],
+    "feedback": "SR 7200, Greenwich, and Vesper are the currently best velvet bentgrass cultivars per the textbook.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q126",
+    "module": "M13",
+    "question": "Per the textbook, velvet bentgrass's inflorescence is described as a reddish,:",
+    "correct": "spreading panicle",
+    "options": [
+      "spreading panicle",
+      "contracted panicle",
+      "flattened spike",
+      "cylindrical spike"
+    ],
+    "feedback": "Velvet bentgrass's inflorescence is a reddish, spreading panicle.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q127",
+    "module": "M13",
+    "question": "Per the textbook's taxonomy discussion, redtop (Agrostis gigantea) has been identified by two different authorities, reflected in the alternate Latin name:",
+    "correct": "Agrostis alba L.",
+    "options": [
+      "Agrostis alba L.",
+      "Agrostis palustris Huds.",
+      "Agrostis trachyphylla",
+      "Agrostis rubra"
+    ],
+    "feedback": "Redtop has been identified by the Latin names Agrostis gigantea Roth and Agrostis alba L., reflecting two different naming authorities.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q128",
+    "module": "M13",
+    "question": "Per the textbook's species description, redtop is a coarse-textured, grayish green, ________ species.",
+    "correct": "rhizomatous",
+    "options": [
+      "rhizomatous",
+      "stoloniferous",
+      "bunch-type",
+      "weakly creeping"
+    ],
+    "feedback": "The textbook describes redtop as coarse-textured, grayish green, and rhizomatous.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q129",
+    "module": "M13",
+    "question": "Per the textbook, redtop was historically used as a component of cool-season turfgrass seed mixtures to promote:",
+    "correct": "rapid cover",
+    "options": [
+      "rapid cover",
+      "disease resistance",
+      "nitrogen fixation",
+      "drought tolerance"
+    ],
+    "feedback": "Redtop was used in seed mixtures to promote rapid cover.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q130",
+    "module": "M13",
+    "question": "Per the textbook, redtop's use as a nursegrass is discouraged because of its highly competitive seedling growth and its unsightly appearance and:",
+    "correct": "persistence in new turfs",
+    "options": [
+      "persistence in new turfs",
+      "susceptibility to drought",
+      "low germination rate",
+      "poor cold tolerance"
+    ],
+    "feedback": "Redtop's competitive seedling growth and unsightly, persistent patches discourage its use as a nursegrass.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q131",
+    "module": "M13",
+    "question": "Per the textbook, redtop is a hexaploid with how many chromosomes?",
+    "correct": "42 (2n = 6x = 42)",
+    "options": [
+      "42 (2n = 6x = 42)",
+      "28 (2n = 4x = 28)",
+      "14 (2n = 2x = 14)",
+      "56 (2n = 8x = 56)"
+    ],
+    "feedback": "Redtop is a hexaploid with 42 chromosomes.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q132",
+    "module": "M13",
+    "question": "Per the textbook, redtop is intolerant of close mowing and needs a mowing height of at least:",
+    "correct": "1.5 to 2 inches",
+    "options": [
+      "1.5 to 2 inches",
+      "0.5 to 1 inch",
+      "0.125 to 0.5 inch",
+      "3 to 4 inches"
+    ],
+    "feedback": "Redtop needs a mowing height of at least 1.5 to 2 inches to persist, matching its module page's range.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q133",
+    "module": "M13",
+    "question": "Per the textbook, redtop is occasionally used as a 'repair grass' for damaged or diseased greens, although ________ are generally preferred for that purpose.",
+    "correct": "fine fescues or ryegrasses",
+    "options": [
+      "fine fescues or ryegrasses",
+      "velvet or colonial bentgrass",
+      "Kentucky bluegrass cultivars",
+      "tall fescue cultivars"
+    ],
+    "feedback": "Fine fescues or ryegrasses are generally preferred over redtop as repair grasses.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q134",
+    "module": "M13",
+    "question": "Per the textbook, the redtop cultivar Rudiger was released promising improved tolerance to drought, salinity, and:",
+    "correct": "alkalinity",
+    "options": [
+      "alkalinity",
+      "acidity",
+      "shade",
+      "disease"
+    ],
+    "feedback": "Rudiger was released with improved tolerance to drought, salinity, and alkalinity.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q135",
+    "module": "M13",
+    "question": "Which bentgrass species has more chromosomes per the textbook: redtop (42) or velvet bentgrass (14)?",
+    "correct": "redtop",
+    "options": [
+      "redtop",
+      "velvet bentgrass",
+      "they are equal",
+      "neither has a reported chromosome count"
+    ],
+    "feedback": "Redtop is a hexaploid (42 chromosomes), more than velvet bentgrass's diploid 14.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q136",
+    "module": "M13",
+    "question": "Which species has more chromosomes per the textbook: dryland bentgrass (42) or colonial bentgrass (28)?",
+    "correct": "dryland bentgrass",
+    "options": [
+      "dryland bentgrass",
+      "colonial bentgrass",
+      "they are equal",
+      "neither has a reported chromosome count"
+    ],
+    "feedback": "Dryland bentgrass is a hexaploid (42 chromosomes), more than colonial bentgrass's tetraploid 28.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q137",
+    "module": "M13",
+    "question": "Per the textbook's species descriptions, which is finer textured: velvet bentgrass or redtop?",
+    "correct": "velvet bentgrass",
+    "options": [
+      "velvet bentgrass",
+      "redtop",
+      "they are equally fine",
+      "neither description mentions texture"
+    ],
+    "feedback": "Velvet bentgrass is described as very fine-textured, while redtop is described as coarse-textured.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q001",
+    "module": "M14",
+    "question": "The chloridoid species (bermudagrasses, zoysiagrasses, and buffalograss) are important for sports, lawn, and utility turfs in at least the southern half of the United States, as well as in:",
+    "correct": "subtropical and tropical climates throughout the world",
+    "options": [
+      "subtropical and tropical climates throughout the world",
+      "polar and subarctic climates throughout the world",
+      "temperate oceanic climates only",
+      "cool continental climates only"
+    ],
+    "feedback": "Chloridoid species are important across the southern half of the U.S. and in subtropical and tropical climates worldwide.",
+    "source": "M14.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m14q002",
+    "module": "M14",
+    "question": "In Florida's warm-subtropical-humid and tropical climates, ________ substitutes for the bentgrasses used in colder climates on greens and other golf turfs.",
+    "correct": "hybrid bermudagrass",
+    "options": [
+      "hybrid bermudagrass",
+      "zoysiagrass",
+      "buffalograss",
+      "common bermudagrass"
+    ],
+    "feedback": "Hybrid bermudagrass substitutes for bentgrasses on Florida golf turfs.",
+    "source": "M14.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m14q003",
+    "module": "M14",
+    "question": "In St. Louis' cool-subtropical-humid climate, ________ is an important species for fairway turfs.",
+    "correct": "zoysiagrass",
+    "options": [
+      "zoysiagrass",
+      "hybrid bermudagrass",
+      "buffalograss",
+      "creeping bentgrass"
+    ],
+    "feedback": "Zoysiagrass is an important fairway species in St. Louis' cool-subtropical-humid climate.",
+    "source": "M14.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m14q004",
+    "module": "M14",
+    "question": "With the commercial development of several new cultivars, ________ is becoming a popular turfgrass species, especially in dry climates throughout the United States.",
+    "correct": "buffalograss",
+    "options": [
+      "buffalograss",
+      "zoysiagrass",
+      "hybrid bermudagrass",
+      "common bermudagrass"
+    ],
+    "feedback": "New cultivars have made buffalograss an increasingly popular species in dry U.S. climates.",
+    "source": "M14.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m14q005",
+    "module": "M14",
+    "question": "The purpose of Module 14 is to review which three turfgrass groups?",
+    "correct": "Bermudagrasses, Zoysiagrasses, and Buffalograss",
+    "options": [
+      "Bermudagrasses, Zoysiagrasses, and Buffalograss",
+      "Bentgrasses, Fescues, and Ryegrasses",
+      "Bluegrasses, Fescues, and Bentgrasses",
+      "Zoysiagrasses, Centipedegrass, and St. Augustinegrass"
+    ],
+    "feedback": "Module 14 reviews bermudagrasses, zoysiagrasses, and buffalograss.",
+    "source": "M14.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m14q006",
+    "module": "M14",
+    "question": "The assigned textbook reading for Module 14 covers Chapter 3, pages:",
+    "correct": "74-77, 83",
+    "options": [
+      "74-77, 83",
+      "68-70",
+      "61-64",
+      "78-82"
+    ],
+    "feedback": "Module 14's reading is Turfgrass Management, Chapter 3, pages 74-77 and 83.",
+    "source": "M14.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m14q007",
+    "module": "M14",
+    "question": "The most widely used bermudagrass species, Cynodon dactylon, is a tetraploid with how many chromosomes?",
+    "correct": "36",
+    "options": [
+      "36",
+      "18",
+      "27",
+      "40"
+    ],
+    "feedback": "Cynodon dactylon (common bermudagrass) is a tetraploid with 36 chromosomes.",
+    "source": "M14.2: Bermudagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q008",
+    "module": "M14",
+    "question": "Cynodon dactylon is usually referred to as:",
+    "correct": "common bermudagrass",
+    "options": [
+      "common bermudagrass",
+      "African bermudagrass",
+      "hybrid bermudagrass",
+      "Magennis bermudagrass"
+    ],
+    "feedback": "Cynodon dactylon is usually called common bermudagrass.",
+    "source": "M14.2: Bermudagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q009",
+    "module": "M14",
+    "question": "Cynodon transvaalensis, a diploid with 18 chromosomes that is little used directly, is called:",
+    "correct": "African bermudagrass",
+    "options": [
+      "African bermudagrass",
+      "common bermudagrass",
+      "Magennis bermudagrass",
+      "hybrid bermudagrass"
+    ],
+    "feedback": "Cynodon transvaalensis, a diploid with 18 chromosomes, is called African bermudagrass.",
+    "source": "M14.2: Bermudagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q010",
+    "module": "M14",
+    "question": "When Cynodon transvaalensis is crossed with Cynodon dactylon, it forms a sterile hybrid with how many chromosomes?",
+    "correct": "27",
+    "options": [
+      "27",
+      "18",
+      "36",
+      "40"
+    ],
+    "feedback": "The cross of C. transvaalensis and C. dactylon forms a sterile hybrid with 27 chromosomes.",
+    "source": "M14.2: Bermudagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q011",
+    "module": "M14",
+    "question": "The sterile hybrid formed by crossing Cynodon dactylon with Cynodon transvaalensis is called:",
+    "correct": "hybrid bermudagrass",
+    "options": [
+      "hybrid bermudagrass",
+      "common bermudagrass",
+      "African bermudagrass",
+      "dryland bermudagrass"
+    ],
+    "feedback": "The Cynodon dactylon x C. transvaalensis cross is called hybrid bermudagrass.",
+    "source": "M14.2: Bermudagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q012",
+    "module": "M14",
+    "question": "Because African bermudagrass forms a more compact plant with short internodes, hybrid bermudagrass reflects this characteristic because African bermudagrass is one of its:",
+    "correct": "parents",
+    "options": [
+      "parents",
+      "diseases",
+      "competitors",
+      "nurse grasses"
+    ],
+    "feedback": "Hybrid bermudagrass reflects African bermudagrass's compact growth because African bermudagrass is one of its parent species.",
+    "source": "M14.2: Bermudagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q013",
+    "module": "M14",
+    "question": "Where the hybrid of Cynodon dactylon and C. transvaalensis occurs naturally, it is called:",
+    "correct": "Magennis bermudagrass (Cynodon magennisii)",
+    "options": [
+      "Magennis bermudagrass (Cynodon magennisii)",
+      "common bermudagrass (Cynodon dactylon)",
+      "African bermudagrass (Cynodon transvaalensis)",
+      "dryland bermudagrass"
+    ],
+    "feedback": "The naturally occurring version of this hybrid is called Magennis bermudagrass.",
+    "source": "M14.2: Bermudagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q014",
+    "module": "M14",
+    "question": "Because sterile hybrids of bermudagrass do not produce viable seeds, they must be:",
+    "correct": "propagated vegetatively",
+    "options": [
+      "propagated vegetatively",
+      "propagated by seed only",
+      "grown from spores",
+      "grafted onto rootstock"
+    ],
+    "feedback": "Sterile bermudagrass hybrids, lacking viable seed, must be propagated vegetatively.",
+    "source": "M14.2: Bermudagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q015",
+    "module": "M14",
+    "question": "Per its module page, the Latin name of common bermudagrass is:",
+    "correct": "Cynodon dactylon [L.]",
+    "options": [
+      "Cynodon dactylon [L.]",
+      "Cynodon transvaalensis",
+      "Cynodon magennisii",
+      "Buchloe dactyloides"
+    ],
+    "feedback": "Common bermudagrass's species page gives its Latin name as Cynodon dactylon [L.].",
+    "source": "M14.2: Bermudagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q016",
+    "module": "M14",
+    "question": "Per its module page, the ligule on common bermudagrass is:",
+    "correct": "a fringe of hairs, 2 to 5 mm long",
+    "options": [
+      "a fringe of hairs, 2 to 5 mm long",
+      "a fringe of hairs, 1 to 3 mm long",
+      "a fringe of hairs, 0.5 to 1 mm long",
+      "membranous, 2 to 5 mm long"
+    ],
+    "feedback": "Common bermudagrass's ligule is a fringe of hairs, 2 to 5 mm long.",
+    "source": "M14.2: Bermudagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q017",
+    "module": "M14",
+    "question": "The preferred mowing height for common bermudagrass is:",
+    "correct": "1.0 - 2.0 inches",
+    "options": [
+      "1.0 - 2.0 inches",
+      "3/16 - 3/4 inches",
+      "0.5 - 1.0 inches",
+      "0.5 - 0.75 inches"
+    ],
+    "feedback": "Common bermudagrass is best mowed at 1.0 to 2.0 inches.",
+    "source": "M14.2: Bermudagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q018",
+    "module": "M14",
+    "question": "The preferred fertilization rate for common bermudagrass is:",
+    "correct": "2.0 - 5.0 lb. N / K ft² / year",
+    "options": [
+      "2.0 - 5.0 lb. N / K ft² / year",
+      "3.0 - 10.0 lb. N / K ft² / year",
+      "1.5 - 3.0 lb. N / K ft² / year",
+      "0.5 - 2.0 lb. N / K ft² / year"
+    ],
+    "feedback": "Common bermudagrass's preferred fertilization rate is 2.0 to 5.0 lb N/K ft²/year.",
+    "source": "M14.2: Bermudagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q019",
+    "module": "M14",
+    "question": "The preferred irrigation amount for common bermudagrass is:",
+    "correct": "varies with cultural intensity",
+    "options": [
+      "varies with cultural intensity",
+      "frequently used",
+      "minimal or no irrigation",
+      "as needed to sustain growth and color"
+    ],
+    "feedback": "Common bermudagrass's irrigation needs vary with cultural intensity.",
+    "source": "M14.2: Bermudagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q020",
+    "module": "M14",
+    "question": "On golf greens, common bermudagrass is rated:",
+    "correct": "not well adapted",
+    "options": [
+      "not well adapted",
+      "adapted",
+      "well adapted",
+      "not suitable"
+    ],
+    "feedback": "Common bermudagrass is not well adapted for golf greens.",
+    "source": "M14.2: Bermudagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q021",
+    "module": "M14",
+    "question": "On golf tees, common bermudagrass is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not well adapted",
+      "not suitable",
+      "overseeding only"
+    ],
+    "feedback": "Common bermudagrass is adapted for golf tees.",
+    "source": "M14.2: Bermudagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q022",
+    "module": "M14",
+    "question": "On golf fairways, common bermudagrass is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not well adapted",
+      "not suitable",
+      "overseeding only"
+    ],
+    "feedback": "Common bermudagrass is adapted for golf fairways.",
+    "source": "M14.2: Bermudagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q023",
+    "module": "M14",
+    "question": "On golf roughs, common bermudagrass is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not well adapted",
+      "not suitable",
+      "overseeding only"
+    ],
+    "feedback": "Common bermudagrass is adapted for golf roughs.",
+    "source": "M14.2: Bermudagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q024",
+    "module": "M14",
+    "question": "For athletic turf, common bermudagrass is rated:",
+    "correct": "well adapted",
+    "options": [
+      "well adapted",
+      "not well adapted",
+      "not suitable",
+      "marginally adapted"
+    ],
+    "feedback": "Common bermudagrass is well adapted for athletic turf.",
+    "source": "M14.2: Bermudagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q025",
+    "module": "M14",
+    "question": "For lawn turf, common bermudagrass can be adapted to:",
+    "correct": "sunny locations of culture",
+    "options": [
+      "sunny locations of culture",
+      "shaded locations of culture",
+      "only intensively cultured lawns",
+      "only unmowed ground covers"
+    ],
+    "feedback": "Common bermudagrass can be adapted to sunny locations for lawn culture.",
+    "source": "M14.2: Bermudagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q026",
+    "module": "M14",
+    "question": "For utility turf, common bermudagrass is rated:",
+    "correct": "adaptable",
+    "options": [
+      "adaptable",
+      "not well adapted",
+      "not suitable",
+      "ideal only in shade"
+    ],
+    "feedback": "Common bermudagrass is adaptable for utility turf.",
+    "source": "M14.2: Bermudagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q027",
+    "module": "M14",
+    "question": "The Latin name of hybrid bermudagrass is:",
+    "correct": "Cynodon dactylon X C. transvaalensis",
+    "options": [
+      "Cynodon dactylon X C. transvaalensis",
+      "Cynodon dactylon [L.]",
+      "Cynodon magennisii",
+      "Buchloe dactyloides"
+    ],
+    "feedback": "Hybrid bermudagrass is the cross Cynodon dactylon X C. transvaalensis.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q028",
+    "module": "M14",
+    "question": "Per its module page, the ligule on hybrid bermudagrass is a fringe of hairs, 1 to 3 mm long, and its auricles are:",
+    "correct": "absent",
+    "options": [
+      "absent",
+      "short and blunt",
+      "long and clasping",
+      "present but reduced"
+    ],
+    "feedback": "Hybrid bermudagrass's ligule is a fringe of hairs 1-3mm long, with auricles absent.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q029",
+    "module": "M14",
+    "question": "The preferred mowing height for hybrid bermudagrass is:",
+    "correct": "3/16 - 3/4 inches",
+    "options": [
+      "3/16 - 3/4 inches",
+      "1.0 - 2.0 inches",
+      "0.5 - 1.0 inches",
+      "0.5 - 0.75 inches"
+    ],
+    "feedback": "Hybrid bermudagrass is best mowed at 3/16 to 3/4 inches, lower than common bermudagrass.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q030",
+    "module": "M14",
+    "question": "The preferred fertilization rate for hybrid bermudagrass is:",
+    "correct": "3.0 - 10.0 lb. N / K ft² / year",
+    "options": [
+      "3.0 - 10.0 lb. N / K ft² / year",
+      "2.0 - 5.0 lb. N / K ft² / year",
+      "1.5 - 3.0 lb. N / K ft² / year",
+      "0.5 - 2.0 lb. N / K ft² / year"
+    ],
+    "feedback": "Hybrid bermudagrass's preferred fertilization rate is 3.0 to 10.0 lb N/K ft²/year, higher than common bermudagrass.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q031",
+    "module": "M14",
+    "question": "The preferred irrigation amount for hybrid bermudagrass is:",
+    "correct": "frequently used",
+    "options": [
+      "frequently used",
+      "varies with cultural intensity",
+      "minimal or no irrigation",
+      "as needed to sustain growth and color"
+    ],
+    "feedback": "Hybrid bermudagrass is irrigated frequently.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q032",
+    "module": "M14",
+    "question": "'Other' cultural practices for hybrid bermudagrass are described as many, especially on:",
+    "correct": "greens",
+    "options": [
+      "greens",
+      "roughs",
+      "utility turf",
+      "lawns"
+    ],
+    "feedback": "Hybrid bermudagrass requires many cultural practices, especially on greens.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q033",
+    "module": "M14",
+    "question": "On golf greens, hybrid bermudagrass is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not well adapted",
+      "not suitable",
+      "overseeding only"
+    ],
+    "feedback": "Hybrid bermudagrass is adapted for golf greens, unlike common bermudagrass.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q034",
+    "module": "M14",
+    "question": "On golf tees, hybrid bermudagrass is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not well adapted",
+      "not suitable",
+      "overseeding only"
+    ],
+    "feedback": "Hybrid bermudagrass is adapted for golf tees.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q035",
+    "module": "M14",
+    "question": "On golf fairways, hybrid bermudagrass is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not well adapted",
+      "not suitable",
+      "overseeding only"
+    ],
+    "feedback": "Hybrid bermudagrass is adapted for golf fairways.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q036",
+    "module": "M14",
+    "question": "On golf roughs, hybrid bermudagrass is rated:",
+    "correct": "not well adapted",
+    "options": [
+      "not well adapted",
+      "adapted",
+      "well adapted",
+      "not suitable"
+    ],
+    "feedback": "Hybrid bermudagrass is not well adapted for golf roughs, unlike common bermudagrass.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q037",
+    "module": "M14",
+    "question": "For athletic turf, hybrid bermudagrass is rated:",
+    "correct": "well adapted",
+    "options": [
+      "well adapted",
+      "not well adapted",
+      "not suitable",
+      "marginally adapted"
+    ],
+    "feedback": "Hybrid bermudagrass is well adapted for athletic turf.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q038",
+    "module": "M14",
+    "question": "For lawn turf, hybrid bermudagrass can be adapted to sunny locations, but requires:",
+    "correct": "a high intensity of culture",
+    "options": [
+      "a high intensity of culture",
+      "a low intensity of culture",
+      "no irrigation at all",
+      "shaded conditions"
+    ],
+    "feedback": "Hybrid bermudagrass can be adapted to sunny lawn locations but requires a high intensity of culture.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q039",
+    "module": "M14",
+    "question": "For utility turf, hybrid bermudagrass is rated:",
+    "correct": "not adaptable",
+    "options": [
+      "not adaptable",
+      "well adapted",
+      "adaptable",
+      "ideal"
+    ],
+    "feedback": "Hybrid bermudagrass is not adaptable for utility turf.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q040",
+    "module": "M14",
+    "question": "For wintertime play, hybrid bermudagrass greens are often overseeded with cool-season turfgrasses such as:",
+    "correct": "perennial ryegrass",
+    "options": [
+      "perennial ryegrass",
+      "tall fescue",
+      "hard fescue",
+      "Kentucky bluegrass"
+    ],
+    "feedback": "Hybrid bermudagrass greens are commonly overseeded with perennial ryegrass for winter play and color.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q041",
+    "module": "M14",
+    "question": "Besides perennial ryegrass, other grasses used to overseed bermudagrass include annual ryegrass, intermediate ryegrass, rough bluegrass, fine fescues, and:",
+    "correct": "creeping bentgrass",
+    "options": [
+      "creeping bentgrass",
+      "buffalograss",
+      "zoysiagrass",
+      "centipedegrass"
+    ],
+    "feedback": "Creeping bentgrass is among the grasses used to overseed dormant bermudagrass, alongside the ryegrasses, rough bluegrass, and fine fescues.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q042",
+    "module": "M14",
+    "question": "The overseeded grasses on a dormant bermudagrass green provide a favorable playing surface and protect the bermudagrass from:",
+    "correct": "wear injury",
+    "options": [
+      "wear injury",
+      "disease",
+      "drought stress",
+      "nitrogen deficiency"
+    ],
+    "feedback": "Overseeded cool-season grasses protect dormant bermudagrass from wear injury during winter play.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q043",
+    "module": "M14",
+    "question": "Comparing a hybrid bermudagrass collar to a green, density, texture, and growth habit are profoundly influenced by:",
+    "correct": "the mowing height difference",
+    "options": [
+      "the mowing height difference",
+      "the fertilization difference",
+      "the irrigation difference",
+      "the soil pH difference"
+    ],
+    "feedback": "The mowing height difference between collar and green profoundly affects density, texture, and growth habit.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q044",
+    "module": "M14",
+    "question": "Above greens height, the strongly stoloniferous growth of bermudagrass is evident in:",
+    "correct": "the lateral orientation of the shoots",
+    "options": [
+      "the lateral orientation of the shoots",
+      "the vertical orientation of the shoots",
+      "a complete absence of shoots",
+      "a change in leaf color"
+    ],
+    "feedback": "Above greens height, bermudagrass's strongly stoloniferous growth shows in the lateral orientation of its shoots.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q045",
+    "module": "M14",
+    "question": "Where hybrid bermudagrass collars surround creeping bentgrass greens, bermudagrass stolons typically invade the greens unless prevented by:",
+    "correct": "installed plastic barriers",
+    "options": [
+      "installed plastic barriers",
+      "frequent fungicide applications",
+      "deep-tine aerification",
+      "increased mowing height"
+    ],
+    "feedback": "Plastic barriers are installed to keep invasive bermudagrass stolons out of bentgrass greens.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q046",
+    "module": "M14",
+    "question": "Hybrid bermudagrass is well adapted for use on tees because of its wear tolerance and:",
+    "correct": "excellent recuperative capacity",
+    "options": [
+      "excellent recuperative capacity",
+      "low fertility requirement",
+      "shade tolerance",
+      "cold tolerance"
+    ],
+    "feedback": "Hybrid bermudagrass's wear tolerance and excellent recuperative capacity suit it to tee use.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q047",
+    "module": "M14",
+    "question": "Hybrid bermudagrass is prone to scalp, especially during:",
+    "correct": "the summer months when growth is vigorous and thatch is likely to form",
+    "options": [
+      "the summer months when growth is vigorous and thatch is likely to form",
+      "the winter months during dormancy",
+      "periods of drought stress",
+      "periods of heavy shade"
+    ],
+    "feedback": "Hybrid bermudagrass scalps most in summer, when vigorous growth promotes thatch formation.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q048",
+    "module": "M14",
+    "question": "Successful thatch-control practices that can reduce hybrid bermudagrass scalping include topdressing, coring followed by soil core reincorporation or topdressing, and:",
+    "correct": "vertical mowing",
+    "options": [
+      "vertical mowing",
+      "deep irrigation",
+      "heavy fall fertilization",
+      "reduced mowing frequency"
+    ],
+    "feedback": "Topdressing, coring with reincorporation, and vertical mowing all help control thatch and reduce scalping.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q049",
+    "module": "M14",
+    "question": "The three primary zoysiagrass species are Japanese lawngrass (Zoysia japonica), manilagrass (Zoysia matrella), and:",
+    "correct": "mascarenegrass (Zoysia pacifica)",
+    "options": [
+      "mascarenegrass (Zoysia pacifica)",
+      "common zoysiagrass (Zoysia communis)",
+      "hybrid zoysiagrass (Zoysia hybrida)",
+      "dwarf zoysiagrass (Zoysia nana)"
+    ],
+    "feedback": "Japanese lawngrass, manilagrass, and mascarenegrass are the three primary zoysiagrass species.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q050",
+    "module": "M14",
+    "question": "Of the three zoysiagrass species, which has the coarsest texture?",
+    "correct": "Japanese lawngrass",
+    "options": [
+      "Japanese lawngrass",
+      "manilagrass",
+      "mascarenegrass",
+      "all three are equally coarse"
+    ],
+    "feedback": "Japanese lawngrass has the coarsest texture of the three zoysiagrass species.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q051",
+    "module": "M14",
+    "question": "Of the three zoysiagrass species, which has intermediate texture?",
+    "correct": "manilagrass",
+    "options": [
+      "manilagrass",
+      "Japanese lawngrass",
+      "mascarenegrass",
+      "none are intermediate"
+    ],
+    "feedback": "Manilagrass has intermediate texture among the three zoysiagrass species.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q052",
+    "module": "M14",
+    "question": "Of the three zoysiagrass species, which has the finest texture?",
+    "correct": "mascarenegrass",
+    "options": [
+      "mascarenegrass",
+      "Japanese lawngrass",
+      "manilagrass",
+      "all three are equally fine"
+    ],
+    "feedback": "Mascarenegrass has the finest texture of the three zoysiagrass species.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q053",
+    "module": "M14",
+    "question": "Per its module page, the three zoysiagrass species are all tetraploids with how many chromosomes?",
+    "correct": "40",
+    "options": [
+      "40",
+      "36",
+      "27",
+      "18"
+    ],
+    "feedback": "Japanese lawngrass, manilagrass, and mascarenegrass are all tetraploids with 40 chromosomes.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q054",
+    "module": "M14",
+    "question": "Because the three zoysiagrass species easily interbreed, many zoysiagrasses are actually:",
+    "correct": "interspecific hybrids or combinations of these species",
+    "options": [
+      "interspecific hybrids or combinations of these species",
+      "completely sterile and non-reproducing",
+      "unrelated genetically",
+      "identical to one another"
+    ],
+    "feedback": "Zoysiagrasses easily interbreed, so many are actually interspecific hybrids or combinations of the three species.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q055",
+    "module": "M14",
+    "question": "It's more accurate to call a particular zoysiagrass an interspecific hybrid if it exhibits qualities that are:",
+    "correct": "intermediate between two species",
+    "options": [
+      "intermediate between two species",
+      "identical to one parent species only",
+      "absent from all three species",
+      "unrelated to any known species"
+    ],
+    "feedback": "A zoysiagrass is best called an interspecific hybrid when its qualities fall intermediate between two species.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q056",
+    "module": "M14",
+    "question": "Zoysia pacifica is used mostly as a ground cover on sites where:",
+    "correct": "regular mowing is impractical",
+    "options": [
+      "regular mowing is impractical",
+      "irrigation is unavailable",
+      "soil is highly acidic",
+      "traffic is heaviest"
+    ],
+    "feedback": "Zoysia pacifica is used mostly as ground cover on sloping sites where regular mowing is impractical.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q057",
+    "module": "M14",
+    "question": "Besides use as a ground cover, Zoysia pacifica is also used as a parent in crossing with either japonica or matrella to form:",
+    "correct": "hybrid zoysiagrasses",
+    "options": [
+      "hybrid zoysiagrasses",
+      "hybrid bermudagrasses",
+      "improved buffalograss cultivars",
+      "centipedegrass cultivars"
+    ],
+    "feedback": "Zoysia pacifica serves as a parent species for hybrid zoysiagrasses.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q058",
+    "module": "M14",
+    "question": "Zoysiagrasses are generally slow to establish, but vary widely in:",
+    "correct": "their rate of spread among different cultivars",
+    "options": [
+      "their rate of spread among different cultivars",
+      "their chromosome number",
+      "their cold tolerance only",
+      "their need for nitrogen"
+    ],
+    "feedback": "Zoysiagrasses establish slowly overall, but cultivars vary widely in spread rate.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q059",
+    "module": "M14",
+    "question": "Per its module page, the Latin name of common zoysiagrass is given as:",
+    "correct": "Zoysia spp.",
+    "options": [
+      "Zoysia spp.",
+      "Zoysia japonica",
+      "Zoysia matrella",
+      "Zoysia pacifica"
+    ],
+    "feedback": "Common zoysiagrass's species page gives its Latin name simply as Zoysia spp.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q060",
+    "module": "M14",
+    "question": "Per its module page, the ligule on common zoysiagrass is:",
+    "correct": "a fringe of hairs",
+    "options": [
+      "a fringe of hairs",
+      "membranous",
+      "absent",
+      "a fringe of hairs, 2-5mm long"
+    ],
+    "feedback": "Common zoysiagrass's ligule is a fringe of hairs.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q061",
+    "module": "M14",
+    "question": "The preferred mowing height for common zoysiagrass is:",
+    "correct": "0.5 - 1.0 inches",
+    "options": [
+      "0.5 - 1.0 inches",
+      "1.0 - 2.0 inches",
+      "3/16 - 3/4 inches",
+      "0.5 - 0.75 inches"
+    ],
+    "feedback": "Common zoysiagrass is best mowed at 0.5 to 1.0 inches.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q062",
+    "module": "M14",
+    "question": "The preferred fertilization rate for common zoysiagrass is:",
+    "correct": "1.5 - 3.0 lb. N / K ft² / year",
+    "options": [
+      "1.5 - 3.0 lb. N / K ft² / year",
+      "2.0 - 5.0 lb. N / K ft² / year",
+      "3.0 - 10.0 lb. N / K ft² / year",
+      "0.5 - 2.0 lb. N / K ft² / year"
+    ],
+    "feedback": "Common zoysiagrass's preferred fertilization rate is 1.5 to 3.0 lb N/K ft²/year.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q063",
+    "module": "M14",
+    "question": "The preferred irrigation amount for common zoysiagrass is:",
+    "correct": "as needed to sustain growth and color",
+    "options": [
+      "as needed to sustain growth and color",
+      "frequently used",
+      "minimal or no irrigation",
+      "varies with cultural intensity"
+    ],
+    "feedback": "Common zoysiagrass is irrigated as needed to sustain growth and color.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q064",
+    "module": "M14",
+    "question": "'Other' cultural practices needed for common zoysiagrass are:",
+    "correct": "cultivations for thatch control",
+    "options": [
+      "cultivations for thatch control",
+      "no cultural practices",
+      "many practices, especially on greens",
+      "fall overseeding"
+    ],
+    "feedback": "Cultivations for thatch control are needed to sustain common zoysiagrass.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q065",
+    "module": "M14",
+    "question": "On golf greens, common zoysiagrass is rated:",
+    "correct": "not well adapted",
+    "options": [
+      "not well adapted",
+      "adapted",
+      "well adapted",
+      "not suitable"
+    ],
+    "feedback": "Common zoysiagrass is not well adapted for golf greens.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q066",
+    "module": "M14",
+    "question": "On golf tees, common zoysiagrass is rated:",
+    "correct": "adapted, but with poor recuperative capacity",
+    "options": [
+      "adapted, but with poor recuperative capacity",
+      "not well adapted",
+      "well adapted, with excellent recuperative capacity",
+      "not suitable"
+    ],
+    "feedback": "Common zoysiagrass is adapted for golf tees, though it has poor recuperative capacity.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q067",
+    "module": "M14",
+    "question": "On golf fairways, common zoysiagrass is rated:",
+    "correct": "well adapted",
+    "options": [
+      "well adapted",
+      "not well adapted",
+      "not suitable",
+      "overseeding only"
+    ],
+    "feedback": "Common zoysiagrass is well adapted for golf fairways.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q068",
+    "module": "M14",
+    "question": "On golf roughs, common zoysiagrass is rated:",
+    "correct": "not well adapted",
+    "options": [
+      "not well adapted",
+      "well adapted",
+      "adapted",
+      "not suitable"
+    ],
+    "feedback": "Common zoysiagrass is not well adapted for golf roughs.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q069",
+    "module": "M14",
+    "question": "For athletic turf, common zoysiagrass is rated not well adapted for this use due to:",
+    "correct": "poor recuperative capacity",
+    "options": [
+      "poor recuperative capacity",
+      "poor heat tolerance",
+      "poor cold tolerance",
+      "excessive thatch"
+    ],
+    "feedback": "Common zoysiagrass's poor recuperative capacity makes it not well adapted for athletic turf.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q070",
+    "module": "M14",
+    "question": "For lawn turf, common zoysiagrass is rated:",
+    "correct": "adaptable",
+    "options": [
+      "adaptable",
+      "not adaptable",
+      "well adapted only in shade",
+      "ideal only at low intensities"
+    ],
+    "feedback": "Common zoysiagrass is adaptable for lawn turf use.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q071",
+    "module": "M14",
+    "question": "For utility turf, common zoysiagrass is rated:",
+    "correct": "not well adapted",
+    "options": [
+      "not well adapted",
+      "well adapted",
+      "adaptable in drier climates",
+      "ideal"
+    ],
+    "feedback": "Common zoysiagrass is not well adapted for utility turf.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q072",
+    "module": "M14",
+    "question": "Where adapted, zoysiagrass is a popular tee grass because of its shade tolerance compared with:",
+    "correct": "bermudagrass",
+    "options": [
+      "bermudagrass",
+      "buffalograss",
+      "creeping bentgrass",
+      "tall fescue"
+    ],
+    "feedback": "Zoysiagrass's shade tolerance, compared with bermudagrass, makes it a popular tee grass where adapted.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q073",
+    "module": "M14",
+    "question": "Common zoysiagrass has excellent wear tolerance but is slow to recover from injury; thus, zoysiagrass tees should be:",
+    "correct": "relatively large, to allow sufficient time for recovery from divots",
+    "options": [
+      "relatively large, to allow sufficient time for recovery from divots",
+      "kept very small to concentrate wear",
+      "mowed at greens height",
+      "irrigated minimally"
+    ],
+    "feedback": "Because zoysiagrass recovers slowly from divots, tees built with it should be relatively large.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q074",
+    "module": "M14",
+    "question": "In St. Louis' cool-subtropical-humid climate, older bermudagrasses such as U-3 were marginally adapted, often suffering from:",
+    "correct": "low-temperature injury",
+    "options": [
+      "low-temperature injury",
+      "heat stress",
+      "drought stress",
+      "shade intolerance"
+    ],
+    "feedback": "Older bermudagrass cultivars like U-3 suffered low-temperature injury in St. Louis' cool-subtropical-humid climate.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q075",
+    "module": "M14",
+    "question": "Because older bermudagrasses suffered low-temperature injury in St. Louis' climate, common zoysiagrass became a popular alternative for use in:",
+    "correct": "fairways",
+    "options": [
+      "fairways",
+      "greens",
+      "roughs",
+      "utility turf"
+    ],
+    "feedback": "Common zoysiagrass became a popular fairway alternative to cold-sensitive bermudagrass in St. Louis.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q076",
+    "module": "M14",
+    "question": "Where used for home lawns, the contrast between common zoysiagrass and adjacent cool-season turfgrass plantings was especially evident in mid spring (before green-up) and:",
+    "correct": "mid fall (after becoming dormant)",
+    "options": [
+      "mid fall (after becoming dormant)",
+      "mid summer (at peak growth)",
+      "early winter (under snow cover)",
+      "late spring (during flowering)"
+    ],
+    "feedback": "Zoysiagrass's dormancy contrast with cool-season grasses is most visible in mid spring and mid fall.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q077",
+    "module": "M14",
+    "question": "Extensive plantings of common zoysiagrass could form a pleasing turf even when dormant, provided it was maintained properly and ________ were controlled.",
+    "correct": "volunteer cool-season grasses",
+    "options": [
+      "volunteer cool-season grasses",
+      "weeds of all kinds",
+      "insect pests",
+      "soil-borne pathogens"
+    ],
+    "feedback": "Dormant zoysiagrass lawns stayed visually pleasing when volunteer cool-season grasses were controlled.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q078",
+    "module": "M14",
+    "question": "The three Zoysia species may interbreed, resulting in interspecific hybrids of Z. japonica x Z. matrella, Z. japonica x Z. pacifica, and:",
+    "correct": "Z. matrella x Z. pacifica",
+    "options": [
+      "Z. matrella x Z. pacifica",
+      "Z. japonica x Z. japonica",
+      "Z. matrella x Z. matrella",
+      "Z. pacifica x Z. pacifica"
+    ],
+    "feedback": "The three possible interspecific Zoysia crosses are japonica x matrella, japonica x pacifica, and matrella x pacifica.",
+    "source": "M14.5: Hybrid Zoysiagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q079",
+    "module": "M14",
+    "question": "The specific features of hybrid zoysiagrass cultivars tend to reflect those of:",
+    "correct": "the parent species from which they developed",
+    "options": [
+      "the parent species from which they developed",
+      "whichever species is more common nearby",
+      "the climate zone only",
+      "the soil type only"
+    ],
+    "feedback": "Hybrid zoysiagrass cultivars reflect the traits of their parent species.",
+    "source": "M14.5: Hybrid Zoysiagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q080",
+    "module": "M14",
+    "question": "Per its module page, the ligule on hybrid zoysiagrass is:",
+    "correct": "a fringe of hairs",
+    "options": [
+      "a fringe of hairs",
+      "membranous",
+      "absent",
+      "a fringe of hairs, 2-5mm long"
+    ],
+    "feedback": "Hybrid zoysiagrass's ligule is a fringe of hairs, same as common zoysiagrass.",
+    "source": "M14.5: Hybrid Zoysiagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q081",
+    "module": "M14",
+    "question": "The preferred mowing height for hybrid zoysiagrass is:",
+    "correct": "0.5 - 0.75 inches",
+    "options": [
+      "0.5 - 0.75 inches",
+      "0.5 - 1.0 inches",
+      "1.0 - 2.0 inches",
+      "3/16 - 3/4 inches"
+    ],
+    "feedback": "Hybrid zoysiagrass is best mowed at 0.5 to 0.75 inches, slightly lower than common zoysiagrass.",
+    "source": "M14.5: Hybrid Zoysiagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q082",
+    "module": "M14",
+    "question": "The preferred fertilization rate for hybrid zoysiagrass is:",
+    "correct": "1.5 - 3.0 lb. N / K ft² / year",
+    "options": [
+      "1.5 - 3.0 lb. N / K ft² / year",
+      "2.0 - 5.0 lb. N / K ft² / year",
+      "3.0 - 10.0 lb. N / K ft² / year",
+      "0.5 - 2.0 lb. N / K ft² / year"
+    ],
+    "feedback": "Hybrid zoysiagrass's preferred fertilization rate is 1.5 to 3.0 lb N/K ft²/year, the same as common zoysiagrass.",
+    "source": "M14.5: Hybrid Zoysiagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q083",
+    "module": "M14",
+    "question": "The preferred irrigation amount for hybrid zoysiagrass is:",
+    "correct": "as needed to sustain growth and color",
+    "options": [
+      "as needed to sustain growth and color",
+      "frequently used",
+      "minimal or no irrigation",
+      "varies with cultural intensity"
+    ],
+    "feedback": "Hybrid zoysiagrass is irrigated as needed to sustain growth and color.",
+    "source": "M14.5: Hybrid Zoysiagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q084",
+    "module": "M14",
+    "question": "'Other' cultural practices needed for hybrid zoysiagrass are:",
+    "correct": "cultivations for thatch control",
+    "options": [
+      "cultivations for thatch control",
+      "no cultural practices",
+      "many practices, especially on greens",
+      "fall overseeding"
+    ],
+    "feedback": "Cultivations for thatch control are needed to sustain hybrid zoysiagrass.",
+    "source": "M14.5: Hybrid Zoysiagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q085",
+    "module": "M14",
+    "question": "On golf greens, hybrid zoysiagrass is rated:",
+    "correct": "not well adapted",
+    "options": [
+      "not well adapted",
+      "adapted",
+      "well adapted",
+      "not suitable"
+    ],
+    "feedback": "Hybrid zoysiagrass is not well adapted for golf greens.",
+    "source": "M14.5: Hybrid Zoysiagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q086",
+    "module": "M14",
+    "question": "On golf tees, hybrid zoysiagrass is rated:",
+    "correct": "adapted if large",
+    "options": [
+      "adapted if large",
+      "not well adapted",
+      "well adapted regardless of size",
+      "not suitable"
+    ],
+    "feedback": "Hybrid zoysiagrass is adapted for golf tees, provided they are large.",
+    "source": "M14.5: Hybrid Zoysiagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q087",
+    "module": "M14",
+    "question": "On golf fairways, hybrid zoysiagrass is rated:",
+    "correct": "well adapted",
+    "options": [
+      "well adapted",
+      "not well adapted",
+      "not suitable",
+      "overseeding only"
+    ],
+    "feedback": "Hybrid zoysiagrass is well adapted for golf fairways.",
+    "source": "M14.5: Hybrid Zoysiagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q088",
+    "module": "M14",
+    "question": "On golf roughs, hybrid zoysiagrass is rated:",
+    "correct": "not well adapted",
+    "options": [
+      "not well adapted",
+      "well adapted",
+      "adapted",
+      "not suitable"
+    ],
+    "feedback": "Hybrid zoysiagrass is not well adapted for golf roughs.",
+    "source": "M14.5: Hybrid Zoysiagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q089",
+    "module": "M14",
+    "question": "For athletic turf, hybrid zoysiagrass is rated:",
+    "correct": "not well adapted",
+    "options": [
+      "not well adapted",
+      "well adapted",
+      "ideal",
+      "marginally adapted"
+    ],
+    "feedback": "Hybrid zoysiagrass is not well adapted for athletic turf.",
+    "source": "M14.5: Hybrid Zoysiagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q090",
+    "module": "M14",
+    "question": "For lawn turf, hybrid zoysiagrass is rated:",
+    "correct": "adaptable",
+    "options": [
+      "adaptable",
+      "not adaptable",
+      "well adapted only in shade",
+      "ideal only at low intensities"
+    ],
+    "feedback": "Hybrid zoysiagrass is adaptable for lawn turf use.",
+    "source": "M14.5: Hybrid Zoysiagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q091",
+    "module": "M14",
+    "question": "For utility turf, hybrid zoysiagrass is rated:",
+    "correct": "not well adapted",
+    "options": [
+      "not well adapted",
+      "well adapted",
+      "adaptable in drier climates",
+      "ideal"
+    ],
+    "feedback": "Hybrid zoysiagrass is not well adapted for utility turf.",
+    "source": "M14.5: Hybrid Zoysiagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q092",
+    "module": "M14",
+    "question": "Per its module page, the Latin name of buffalograss is:",
+    "correct": "Buchloe dactyloides [Nutt.] Engelm.",
+    "options": [
+      "Buchloe dactyloides [Nutt.] Engelm.",
+      "Bouteloua dactyloides [Nutt.] J.T. Columbus",
+      "Cynodon dactylon [L.]",
+      "Bouteloua gracilis"
+    ],
+    "feedback": "Buffalograss's species page gives its Latin name as Buchloe dactyloides [Nutt.] Engelm.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q093",
+    "module": "M14",
+    "question": "Per its module page, the ligule on buffalograss is:",
+    "correct": "a fringe of hairs, 0.5 to 1 mm long",
+    "options": [
+      "a fringe of hairs, 0.5 to 1 mm long",
+      "a fringe of hairs, 2 to 5 mm long",
+      "membranous, 0.5 to 1 mm long",
+      "a fringe of hairs, 1 to 3 mm long"
+    ],
+    "feedback": "Buffalograss's ligule is a fringe of hairs, 0.5 to 1 mm long.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q094",
+    "module": "M14",
+    "question": "The preferred mowing height for buffalograss is:",
+    "correct": "1.0 - 2.0 inches",
+    "options": [
+      "1.0 - 2.0 inches",
+      "0.5 - 1.0 inches",
+      "3/16 - 3/4 inches",
+      "1.5 - 2.0 inches"
+    ],
+    "feedback": "Buffalograss is best mowed at 1.0 to 2.0 inches.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q095",
+    "module": "M14",
+    "question": "The preferred fertilization rate for buffalograss is:",
+    "correct": "0.5 - 2.0 lb. N / K ft² / year",
+    "options": [
+      "0.5 - 2.0 lb. N / K ft² / year",
+      "2.0 - 5.0 lb. N / K ft² / year",
+      "1.5 - 3.0 lb. N / K ft² / year",
+      "3.0 - 10.0 lb. N / K ft² / year"
+    ],
+    "feedback": "Buffalograss's preferred fertilization rate is 0.5 to 2.0 lb N/K ft²/year, the lowest of the species in this module.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q096",
+    "module": "M14",
+    "question": "The preferred irrigation amount for buffalograss is:",
+    "correct": "minimal or no irrigation",
+    "options": [
+      "minimal or no irrigation",
+      "frequently used",
+      "as needed to sustain growth and color",
+      "varies with cultural intensity"
+    ],
+    "feedback": "Buffalograss needs minimal or no irrigation.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q097",
+    "module": "M14",
+    "question": "'Other' cultural practices for buffalograss are:",
+    "correct": "not needed",
+    "options": [
+      "not needed",
+      "cultivations for thatch control",
+      "many practices, especially on greens",
+      "fall overseeding"
+    ],
+    "feedback": "No cultural practices are needed to promote favorable buffalograss growth.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q098",
+    "module": "M14",
+    "question": "On golf greens, buffalograss is rated:",
+    "correct": "not adapted",
+    "options": [
+      "not adapted",
+      "adapted",
+      "well adapted",
+      "overseeding only"
+    ],
+    "feedback": "Buffalograss is not adapted for golf greens.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q099",
+    "module": "M14",
+    "question": "On golf tees, buffalograss is rated:",
+    "correct": "not well adapted",
+    "options": [
+      "not well adapted",
+      "adapted",
+      "well adapted",
+      "not adapted at all"
+    ],
+    "feedback": "Buffalograss is not well adapted for golf tees.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q100",
+    "module": "M14",
+    "question": "On golf fairways, buffalograss is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not well adapted",
+      "not adapted",
+      "overseeding only"
+    ],
+    "feedback": "Buffalograss is adapted for golf fairways.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q101",
+    "module": "M14",
+    "question": "On golf roughs, buffalograss is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not well adapted",
+      "not adapted",
+      "overseeding only"
+    ],
+    "feedback": "Buffalograss is adapted for golf roughs.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q102",
+    "module": "M14",
+    "question": "For athletic turf, buffalograss is rated:",
+    "correct": "not well adapted",
+    "options": [
+      "not well adapted",
+      "well adapted",
+      "ideal",
+      "ideal only when overseeded"
+    ],
+    "feedback": "Buffalograss is not well adapted for athletic turf.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q103",
+    "module": "M14",
+    "question": "For lawn turf, buffalograss is adaptable to:",
+    "correct": "low cultural intensities",
+    "options": [
+      "low cultural intensities",
+      "high cultural intensities only",
+      "intensively cultured lawns only",
+      "shaded lawns only"
+    ],
+    "feedback": "Buffalograss is adaptable to lawns maintained at low cultural intensities.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q104",
+    "module": "M14",
+    "question": "For utility turf, buffalograss is:",
+    "correct": "well adapted in drier climate",
+    "options": [
+      "well adapted in drier climate",
+      "not well adapted anywhere",
+      "well adapted only in humid climates",
+      "not suitable"
+    ],
+    "feedback": "Buffalograss is well adapted for utility turf in drier climates.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q105",
+    "module": "M14",
+    "question": "Buffalograss is a native American species adapted to dry climates, considered one of the:",
+    "correct": "short prairie grasses",
+    "options": [
+      "short prairie grasses",
+      "tall prairie grasses",
+      "coastal dune grasses",
+      "alpine meadow grasses"
+    ],
+    "feedback": "Buffalograss is a native American species considered one of the short prairie grasses.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q106",
+    "module": "M14",
+    "question": "Per its module page, the Mexican and Gulf Coast buffalograss populations are:",
+    "correct": "diploid (2N=2X=20)",
+    "options": [
+      "diploid (2N=2X=20)",
+      "tetraploid (2N=4X=40)",
+      "hexaploid (2N=6X=60)",
+      "triploid (2N=3X=30)"
+    ],
+    "feedback": "Mexican and Gulf Coast buffalograss populations are diploid, with 20 chromosomes.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q107",
+    "module": "M14",
+    "question": "Per its module page, most buffalograss found in Mexico (beyond the Gulf Coast) is:",
+    "correct": "tetraploid (2N=4X=40)",
+    "options": [
+      "tetraploid (2N=4X=40)",
+      "diploid (2N=2X=20)",
+      "hexaploid (2N=6X=60)",
+      "triploid (2N=3X=30)"
+    ],
+    "feedback": "Most buffalograss in Mexico is tetraploid, with 40 chromosomes.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q108",
+    "module": "M14",
+    "question": "Per its module page, most buffalograss found in the United States is:",
+    "correct": "hexaploid (2N=6X=60)",
+    "options": [
+      "hexaploid (2N=6X=60)",
+      "diploid (2N=2X=20)",
+      "tetraploid (2N=4X=40)",
+      "triploid (2N=3X=30)"
+    ],
+    "feedback": "Most buffalograss in the U.S. is hexaploid, with 60 chromosomes.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q109",
+    "module": "M14",
+    "question": "Buffalograss evolution started in Mexico as diploid, then evolved into tetraploid and hexaploid races as the species:",
+    "correct": "migrated north",
+    "options": [
+      "migrated north",
+      "migrated south",
+      "crossed with bermudagrass",
+      "adapted to shade"
+    ],
+    "feedback": "Buffalograss evolved from diploid toward tetraploid and hexaploid races as it migrated north.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q110",
+    "module": "M14",
+    "question": "A diploid buffalograss plant can only have how many versions of alleles at a single gene locus?",
+    "correct": "two",
+    "options": [
+      "two",
+      "four",
+      "six",
+      "one"
+    ],
+    "feedback": "A diploid can have only two allele versions at a single locus.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q111",
+    "module": "M14",
+    "question": "A tetraploid buffalograss plant can have up to how many alleles at a single gene locus?",
+    "correct": "four",
+    "options": [
+      "four",
+      "two",
+      "six",
+      "eight"
+    ],
+    "feedback": "Tetraploids can carry up to four alleles at a single locus.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q112",
+    "module": "M14",
+    "question": "A hexaploid buffalograss plant can have up to how many different alleles at a single gene locus?",
+    "correct": "six",
+    "options": [
+      "six",
+      "four",
+      "two",
+      "three"
+    ],
+    "feedback": "Hexaploids can carry up to six different alleles at a single locus.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q113",
+    "module": "M14",
+    "question": "Higher ploidy levels in buffalograss mean that the species is capable of being:",
+    "correct": "more broadly adapted",
+    "options": [
+      "more broadly adapted",
+      "more narrowly adapted",
+      "sterile",
+      "slower growing"
+    ],
+    "feedback": "Higher ploidy levels allow buffalograss to be more broadly adapted.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q114",
+    "module": "M14",
+    "question": "Buffalograss is dioecious, meaning:",
+    "correct": "male and female flowers are borne on different plants",
+    "options": [
+      "male and female flowers are borne on different plants",
+      "each plant bears both male and female flowers together",
+      "flowers are entirely absent",
+      "flowers self-pollinate exclusively"
+    ],
+    "feedback": "Dioecious buffalograss bears male and female flowers on separate plants.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q115",
+    "module": "M14",
+    "question": "Male (staminate) buffalograss flowers have two to three short spikes borne on:",
+    "correct": "slender culms elevated above the leaves",
+    "options": [
+      "slender culms elevated above the leaves",
+      "burrs hidden within the leaves",
+      "underground rhizomes",
+      "the leaf tips themselves"
+    ],
+    "feedback": "Male buffalograss flowers sit on slender culms elevated above the leaves.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q116",
+    "module": "M14",
+    "question": "Female (pistillate) buffalograss flowers are composed of:",
+    "correct": "a burr of female spikelets partially hidden within the leaves",
+    "options": [
+      "a burr of female spikelets partially hidden within the leaves",
+      "short spikes on elevated culms",
+      "a single terminal spikelet",
+      "a contracted panicle above the canopy"
+    ],
+    "feedback": "Female buffalograss flowers form a burr of spikelets partially hidden within the leaves, unlike the elevated male flowers.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q117",
+    "module": "M14",
+    "question": "In El Paso, Texas, with relatively little watering, buffalograss forms a lawn of acceptable quality in arid climates where other warm-season turfgrasses would:",
+    "correct": "require more water to maintain growth and color",
+    "options": [
+      "require more water to maintain growth and color",
+      "fail to germinate at all",
+      "require less water",
+      "need no fertilization at all"
+    ],
+    "feedback": "Buffalograss needs far less water than other warm-season turfgrasses to maintain an acceptable arid-climate lawn.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q118",
+    "module": "M14",
+    "question": "Which has the higher preferred fertilization ceiling: common bermudagrass (up to 5 lb N) or hybrid bermudagrass (up to 10 lb N)?",
+    "correct": "hybrid bermudagrass",
+    "options": [
+      "hybrid bermudagrass",
+      "common bermudagrass",
+      "they are equal",
+      "neither has a stated ceiling"
+    ],
+    "feedback": "Hybrid bermudagrass's fertilization ceiling (10 lb N/K ft²/yr) is twice common bermudagrass's (5 lb).",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q119",
+    "module": "M14",
+    "question": "Among common bermudagrass (1.0 in min), hybrid bermudagrass (3/16 in min), common zoysiagrass (0.5 in min), and buffalograss (1.0 in min), which has the lowest preferred mowing-height floor?",
+    "correct": "hybrid bermudagrass",
+    "options": [
+      "hybrid bermudagrass",
+      "common bermudagrass",
+      "common zoysiagrass",
+      "buffalograss"
+    ],
+    "feedback": "Hybrid bermudagrass's mowing floor of 3/16 inch is the lowest among this module's species.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "m14q120",
+    "module": "M14",
+    "question": "Among the species covered in this module, which is rated \"well adapted in drier climate\" specifically for utility turf?",
+    "correct": "buffalograss",
+    "options": [
+      "buffalograss",
+      "common bermudagrass",
+      "common zoysiagrass",
+      "hybrid zoysiagrass"
+    ],
+    "feedback": "Buffalograss is rated well adapted in drier climate for utility turf, unlike the bermudagrasses and zoysiagrasses in this module.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q121",
+    "module": "M14",
+    "question": "Which turfgrass in this module needs minimal or no irrigation: buffalograss or hybrid bermudagrass?",
+    "correct": "buffalograss",
+    "options": [
+      "buffalograss",
+      "hybrid bermudagrass",
+      "both need minimal irrigation",
+      "neither needs irrigation"
+    ],
+    "feedback": "Buffalograss needs minimal or no irrigation; hybrid bermudagrass is irrigated frequently.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "m14q122",
+    "module": "M14",
+    "question": "Which is rated \"well adapted\" on golf fairways but only \"adapted, with poor recuperative capacity\" on tees: common zoysiagrass or common bermudagrass?",
+    "correct": "common zoysiagrass",
+    "options": [
+      "common zoysiagrass",
+      "common bermudagrass",
+      "both share this rating",
+      "neither shares this rating"
+    ],
+    "feedback": "Common zoysiagrass is well adapted on fairways but only adapted with poor recuperative capacity on tees.",
+    "source": "M14.4: Zoysiagrasses",
+    "kind": "module"
+  },
+  {
+    "id": "m14q123",
+    "module": "M14",
+    "question": "Per the textbook, Chloridoideae subfamily grasses require warm nights and no ________ at the time of floral initiation.",
+    "correct": "vernalization",
+    "options": [
+      "vernalization",
+      "defoliation",
+      "scarification",
+      "fertilization"
+    ],
+    "feedback": "Chloridoid grasses require warm nights and no vernalization for floral initiation, unlike the pooid (cool-season) grasses.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q124",
+    "module": "M14",
+    "question": "Per the textbook, chloridoid grasses are Pooid in most spikelet characters but Panicoid with respect to chromosome number and size and in most features of the:",
+    "correct": "embryo, root, stem, and leaf",
+    "options": [
+      "embryo, root, stem, and leaf",
+      "inflorescence only",
+      "seed coat only",
+      "flowering culm only"
+    ],
+    "feedback": "Chloridoid grasses resemble Pooids in spikelet traits but Panicoids in chromosome traits and embryo/root/stem/leaf features.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q125",
+    "module": "M14",
+    "question": "Per the textbook, photosynthesis in chloridoid grasses occurs principally through:",
+    "correct": "the C4 (Hatch and Slack) pathway",
+    "options": [
+      "the C4 (Hatch and Slack) pathway",
+      "the C3 (Calvin) cycle",
+      "the CAM pathway",
+      "anaerobic respiration"
+    ],
+    "feedback": "Chloridoid grasses use the C4 (Hatch and Slack) photosynthetic pathway, unlike the C3 pooid grasses.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q126",
+    "module": "M14",
+    "question": "Per the textbook, the Chloridoideae subfamily contains five tribes, how many of which include turfgrass genera?",
+    "correct": "three",
+    "options": [
+      "three",
+      "one",
+      "two",
+      "all five"
+    ],
+    "feedback": "Three of the Chloridoideae subfamily's five tribes include turfgrass genera.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q127",
+    "module": "M14",
+    "question": "Per the textbook, within the Cynodonteae tribe, the two major turfgrass genera are Cynodon and:",
+    "correct": "Bouteloua",
+    "options": [
+      "Bouteloua",
+      "Zoysia",
+      "Buchloe",
+      "Eremochloa"
+    ],
+    "feedback": "Cynodon and Bouteloua are the two major Cynodonteae turfgrass genera.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q128",
+    "module": "M14",
+    "question": "Per the textbook, the genus Cynodon includes about how many species?",
+    "correct": "10",
+    "options": [
+      "10",
+      "50",
+      "125",
+      "25"
+    ],
+    "feedback": "The genus Cynodon includes about 10 species.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q129",
+    "module": "M14",
+    "question": "Per the textbook, besides common, African, Magennis, and hybrid bermudagrass, a fifth principal bermudagrass turfgrass species is Bradley bermudagrass, whose Latin name is:",
+    "correct": "Cynodon incompletus var. hirsutis",
+    "options": [
+      "Cynodon incompletus var. hirsutis",
+      "Cynodon dactylon var. seleucidus",
+      "Cynodon transvaalensis var. hirsutis",
+      "Cynodon magennisii var. bradleyi"
+    ],
+    "feedback": "Bradley bermudagrass is Cynodon incompletus var. hirsutis.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q130",
+    "module": "M14",
+    "question": "Per the textbook, there are three races within C. dactylon var. dactylon: a tropical race, a temperate race, and a:",
+    "correct": "seleucidus race",
+    "options": [
+      "seleucidus race",
+      "subarctic race",
+      "oceanic race",
+      "Mediterranean race"
+    ],
+    "feedback": "Common bermudagrass has tropical, temperate, and seleucidus races.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q131",
+    "module": "M14",
+    "question": "Per the textbook, the tropical race of common bermudagrass is short in stature and forms a:",
+    "correct": "loose turf",
+    "options": [
+      "loose turf",
+      "dense turf",
+      "thatch-free turf",
+      "deeply rooted turf"
+    ],
+    "feedback": "The tropical race of common bermudagrass forms a loose turf.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q132",
+    "module": "M14",
+    "question": "Per the textbook, the temperate race of common bermudagrass is more winter hardy and forms a:",
+    "correct": "denser turf",
+    "options": [
+      "denser turf",
+      "looser turf",
+      "coarser turf",
+      "shade-tolerant turf"
+    ],
+    "feedback": "The temperate race of common bermudagrass is more winter hardy and denser than the tropical race.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q133",
+    "module": "M14",
+    "question": "Per the textbook, the seleucidus race of common bermudagrass is quite cold tolerant and very coarse textured, with thick:",
+    "correct": "stolons and rhizomes",
+    "options": [
+      "stolons and rhizomes",
+      "leaf blades only",
+      "roots only",
+      "ligules"
+    ],
+    "feedback": "The seleucidus race is cold tolerant, coarse textured, with thick stolons and rhizomes.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q134",
+    "module": "M14",
+    "question": "Per the textbook, depending on race, bermudagrass may occur as far north as:",
+    "correct": "53°N latitude",
+    "options": [
+      "53°N latitude",
+      "32°N latitude",
+      "40°N latitude",
+      "60°N latitude"
+    ],
+    "feedback": "Bermudagrass may occur as far north as 53°N latitude, depending on race.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q135",
+    "module": "M14",
+    "question": "Per the textbook, common bermudagrass spreads laterally by:",
+    "correct": "both stolons and rhizomes",
+    "options": [
+      "both stolons and rhizomes",
+      "stolons only",
+      "rhizomes only",
+      "seed dispersal only"
+    ],
+    "feedback": "Common bermudagrass spreads laterally through both stolons and rhizomes.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q136",
+    "module": "M14",
+    "question": "Per the textbook, the vernation of common bermudagrass is:",
+    "correct": "folded",
+    "options": [
+      "folded",
+      "rolled",
+      "flat",
+      "convolute"
+    ],
+    "feedback": "Common bermudagrass has folded vernation.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q137",
+    "module": "M14",
+    "question": "Per the textbook, common bermudagrass's intolerance of shade necessitates the use of alternative warm-season species where:",
+    "correct": "trees and other structures restrict sunlight penetration",
+    "options": [
+      "trees and other structures restrict sunlight penetration",
+      "soils are sandy",
+      "rainfall is heaviest",
+      "soil pH is highest"
+    ],
+    "feedback": "Bermudagrass's shade intolerance requires alternative species on shaded sites.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q138",
+    "module": "M14",
+    "question": "Per the textbook, early U.S. golf-green plantings of bermudagrass used imported seed from:",
+    "correct": "Africa",
+    "options": [
+      "Africa",
+      "South America",
+      "Australia",
+      "Southeast Asia"
+    ],
+    "feedback": "Early U.S. bermudagrass greens were planted with seed imported from Africa.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q139",
+    "module": "M14",
+    "question": "Per the textbook, selection of surviving clones from poor-quality, African-seeded greens led to the cultivar:",
+    "correct": "U-3",
+    "options": [
+      "U-3",
+      "Tiflawn",
+      "Tifgreen",
+      "Vamont"
+    ],
+    "feedback": "U-3 resulted from selecting surviving clones of early African-seeded bermudagrass greens.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q140",
+    "module": "M14",
+    "question": "Per the textbook, one of the first intraspecific hybrid bermudagrass cultivars, produced by intercrossing two or more parent plants, was:",
+    "correct": "Tiflawn",
+    "options": [
+      "Tiflawn",
+      "Tifgreen",
+      "Tifway",
+      "U-3"
+    ],
+    "feedback": "Tiflawn was one of the first intraspecific bermudagrass hybrids.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q141",
+    "module": "M14",
+    "question": "Per the textbook, the method of successive cycles of selection and intercrossing used to develop improved bermudagrass cultivars is called:",
+    "correct": "recurrent selection",
+    "options": [
+      "recurrent selection",
+      "backcrossing",
+      "mutagenesis",
+      "clonal propagation"
+    ],
+    "feedback": "Recurrent selection is the successive-cycle selection-and-intercrossing method used to improve bermudagrass cultivars.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q142",
+    "module": "M14",
+    "question": "Per the textbook, African bermudagrass is a very fine-textured, puffy, yellowish-green grass with soft hairy leaves and:",
+    "correct": "threadlike stolons",
+    "options": [
+      "threadlike stolons",
+      "thick rhizomes",
+      "no stolons at all",
+      "coarse, woody stolons"
+    ],
+    "feedback": "African bermudagrass has threadlike stolons along with its fine, puffy, yellowish-green growth.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q143",
+    "module": "M14",
+    "question": "Per the textbook, African bermudagrass is one of the parents of many:",
+    "correct": "fine-textured hybrid bermudagrass cultivars",
+    "options": [
+      "fine-textured hybrid bermudagrass cultivars",
+      "coarse-textured zoysiagrass cultivars",
+      "cold-tolerant buffalograss cultivars",
+      "shade-tolerant fescue cultivars"
+    ],
+    "feedback": "African bermudagrass parents many fine-textured hybrid bermudagrass cultivars.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q144",
+    "module": "M14",
+    "question": "Per the textbook, the improved cultivar of African bermudagrass is:",
+    "correct": "Uganda",
+    "options": [
+      "Uganda",
+      "Sunturf",
+      "U-3",
+      "Tiflawn"
+    ],
+    "feedback": "Uganda is the improved African bermudagrass cultivar.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q145",
+    "module": "M14",
+    "question": "Per the textbook, Magennis bermudagrass is a sterile triploid with how many chromosomes?",
+    "correct": "27 (2n = 3x = 27)",
+    "options": [
+      "27 (2n = 3x = 27)",
+      "36 (2n = 4x = 36)",
+      "18 (2n = 2x = 18)",
+      "40 (2n = 4x = 40)"
+    ],
+    "feedback": "Magennis bermudagrass is a sterile triploid with 27 chromosomes, the same count as hybrid bermudagrass.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q146",
+    "module": "M14",
+    "question": "Per the textbook, the improved cultivar of Magennis bermudagrass is:",
+    "correct": "Sunturf",
+    "options": [
+      "Sunturf",
+      "Uganda",
+      "U-3",
+      "Tiflawn"
+    ],
+    "feedback": "Sunturf is the improved Magennis bermudagrass cultivar.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q147",
+    "module": "M14",
+    "question": "Per the textbook, the vernation of hybrid bermudagrass is:",
+    "correct": "folded",
+    "options": [
+      "folded",
+      "rolled",
+      "flat",
+      "convolute"
+    ],
+    "feedback": "Hybrid bermudagrass has folded vernation, matching common bermudagrass.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q148",
+    "module": "M14",
+    "question": "Per the textbook, the first interspecific hybrid bermudagrass cultivar, initially tested as Tifton 127, was:",
+    "correct": "Tiffine",
+    "options": [
+      "Tiffine",
+      "Tifgreen",
+      "Tifway",
+      "Tifdwarf"
+    ],
+    "feedback": "Tiffine, initially tested as Tifton 127, was the first interspecific hybrid bermudagrass cultivar.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q149",
+    "module": "M14",
+    "question": "Per the textbook, Tiffine was developed from a controlled cross between Tiflawn and:",
+    "correct": "a C. transvaalensis selection",
+    "options": [
+      "a C. transvaalensis selection",
+      "a C. magennisii selection",
+      "a seleucidus-race selection",
+      "a tropical-race selection"
+    ],
+    "feedback": "Tiffine was a controlled cross of Tiflawn with a C. transvaalensis selection.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q150",
+    "module": "M14",
+    "question": "Per the textbook, Tiffine, released in 1953, proved too stemmy for use on:",
+    "correct": "greens",
+    "options": [
+      "greens",
+      "fairways",
+      "roughs",
+      "roadsides"
+    ],
+    "feedback": "Tiffine was too stemmy for greens despite being the first interspecific hybrid.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q151",
+    "module": "M14",
+    "question": "Per the textbook, the cultivar that became the standard for golf greens in warm subtropical and some tropical climates, released in 1956, was:",
+    "correct": "Tifgreen (Tifton 328)",
+    "options": [
+      "Tifgreen (Tifton 328)",
+      "Tifway (Tifton 419)",
+      "Tifdwarf",
+      "TifEagle"
+    ],
+    "feedback": "Tifgreen, released in 1956, became the standard for golf greens in warm subtropical and tropical climates.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q152",
+    "module": "M14",
+    "question": "Per the textbook, Tifway (Tifton 419) was a chance interspecific hybrid received in a packet of C. transvaalensis seed from:",
+    "correct": "South Africa, in 1954",
+    "options": [
+      "South Africa, in 1954",
+      "Uganda, in 1960",
+      "Australia, in 1956",
+      "Brazil, in 1962"
+    ],
+    "feedback": "Tifway arrived by chance in a packet of C. transvaalensis seed from South Africa in 1954.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q153",
+    "module": "M14",
+    "question": "Per the textbook, Tifway gained widespread popularity for fairways and sports fields because of its:",
+    "correct": "stiffer and more erect growth",
+    "options": [
+      "stiffer and more erect growth",
+      "finer leaf texture than Tifgreen",
+      "superior cold tolerance",
+      "lower fertility requirement"
+    ],
+    "feedback": "Tifway's stiffer, more erect growth made it popular for fairways and sports fields.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q154",
+    "module": "M14",
+    "question": "Per the textbook, Tifdwarf was discovered in 1962 in an 8-year-old Tifgreen green and is believed to be a:",
+    "correct": "natural mutant",
+    "options": [
+      "natural mutant",
+      "deliberate cross with African bermudagrass",
+      "radiation-induced mutant",
+      "contaminating weed species"
+    ],
+    "feedback": "Tifdwarf is believed to be a natural mutant discovered in an older Tifgreen green.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q155",
+    "module": "M14",
+    "question": "Per the textbook, Tifdwarf became a popular alternative to Tifgreen because of its:",
+    "correct": "shorter leaves and internodes",
+    "options": [
+      "shorter leaves and internodes",
+      "greater cold tolerance",
+      "lower fertilization requirement",
+      "resistance to all diseases"
+    ],
+    "feedback": "Tifdwarf's shorter leaves and internodes suited it to lower mowing heights than Tifgreen.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q156",
+    "module": "M14",
+    "question": "Per the textbook, the ultradwarf hybrid bermudagrass FloraDwarf was selected from Tifgreen and released in:",
+    "correct": "1995",
+    "options": [
+      "1995",
+      "1953",
+      "1962",
+      "1997"
+    ],
+    "feedback": "FloraDwarf, selected from Tifgreen, was released in 1995.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q157",
+    "module": "M14",
+    "question": "Per the textbook, the ultradwarf hybrid bermudagrass TifEagle was an induced mutant by cobalt radiation from:",
+    "correct": "Tifway II, released in 1997",
+    "options": [
+      "Tifway II, released in 1997",
+      "Tifgreen, released in 1995",
+      "Tifdwarf, released in 1965",
+      "Tiflawn, released in 1953"
+    ],
+    "feedback": "TifEagle was induced by cobalt radiation from Tifway II and released in 1997.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q158",
+    "module": "M14",
+    "question": "Per the textbook, newer ultradwarf cultivars arising as somatic mutations from Tifgreen or Tifdwarf include Champion, Classic, Florida Dwarf, MS Supreme, MiniVerde, and:",
+    "correct": "Reesegrass",
+    "options": [
+      "Reesegrass",
+      "Sunturf",
+      "Uganda",
+      "Riviera"
+    ],
+    "feedback": "Reesegrass is among the newer ultradwarf bermudagrass cultivars derived as somatic mutations.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q159",
+    "module": "M14",
+    "question": "Per the textbook, the environmental adaptation of ultradwarf hybrid bermudagrasses is largely restricted to warm subtropical climates, generally below:",
+    "correct": "32°N latitude",
+    "options": [
+      "32°N latitude",
+      "40°N latitude",
+      "53°N latitude",
+      "25°N latitude"
+    ],
+    "feedback": "Ultradwarf bermudagrasses are largely restricted to climates below 32°N latitude, where severe cold is unlikely.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q160",
+    "module": "M14",
+    "question": "Per the textbook, where greater cold tolerance is required, hybrid bermudagrass cultivars Latitude 36, Northbridge, Patriot, and Riviera are used primarily for sports fields and lawns in warm temperate and cool subtropical climates, where ________ are used for greens instead.",
+    "correct": "creeping bentgrasses",
+    "options": [
+      "creeping bentgrasses",
+      "zoysiagrasses",
+      "buffalograsses",
+      "fine fescues"
+    ],
+    "feedback": "In cooler climates, creeping bentgrasses are used for greens instead of cold-tolerant hybrid bermudagrass cultivars.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q161",
+    "module": "M14",
+    "question": "Per the textbook, the genus Bouteloua (gramagrasses) consists of about how many species?",
+    "correct": "50",
+    "options": [
+      "50",
+      "10",
+      "125",
+      "11"
+    ],
+    "feedback": "The genus Bouteloua includes about 50 species.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q162",
+    "module": "M14",
+    "question": "Per the textbook, species within Bouteloua with dryland turf value include buffalograss, blue grama, and:",
+    "correct": "sideoats grama",
+    "options": [
+      "sideoats grama",
+      "crested wheatgrass",
+      "fairway wheatgrass",
+      "tufted hairgrass"
+    ],
+    "feedback": "Buffalograss, blue grama, and sideoats grama are the Bouteloua species with dryland turf value.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q163",
+    "module": "M14",
+    "question": "Per the textbook, buffalograss's Latin name is given as Bouteloua dactyloides [Nutt.] J.T. Columbus — differing from the genus used on its own module page, which calls it:",
+    "correct": "Buchloe dactyloides [Nutt.] Engelm.",
+    "options": [
+      "Buchloe dactyloides [Nutt.] Engelm.",
+      "Cynodon dactylon [L.]",
+      "Zoysia dactyloides",
+      "Bouteloua gracilis"
+    ],
+    "feedback": "The textbook's modern reclassification (Bouteloua dactyloides) differs from the module page's traditional name, Buchloe dactyloides.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q164",
+    "module": "M14",
+    "question": "Per the textbook, buffalograss's base chromosome number is:",
+    "correct": "10 (n = 10)",
+    "options": [
+      "10 (n = 10)",
+      "18 (n = 18)",
+      "20 (n = 20)",
+      "40 (n = 40)"
+    ],
+    "feedback": "Buffalograss has a base chromosome number of 10.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q165",
+    "module": "M14",
+    "question": "Per the textbook, buffalograss is found as diploid, tetraploid, and:",
+    "correct": "hexaploid clones",
+    "options": [
+      "hexaploid clones",
+      "octoploid clones",
+      "triploid clones",
+      "pentaploid clones"
+    ],
+    "feedback": "Buffalograss occurs as diploid, tetraploid, and hexaploid clones.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q166",
+    "module": "M14",
+    "question": "Per the textbook, the vernation of buffalograss is:",
+    "correct": "rolled",
+    "options": [
+      "rolled",
+      "folded",
+      "flat",
+      "convolute"
+    ],
+    "feedback": "Buffalograss has rolled vernation, per the textbook's species description.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q167",
+    "module": "M14",
+    "question": "Per the textbook, buffalograss is exceptionally well suited to fine-textured:",
+    "correct": "alkaline soils",
+    "options": [
+      "alkaline soils",
+      "acid soils",
+      "saline wetland soils",
+      "peat soils"
+    ],
+    "feedback": "Buffalograss is exceptionally well suited to fine-textured, alkaline soils.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q168",
+    "module": "M14",
+    "question": "Per the textbook, blue grama (Bouteloua gracilis) is generally considered a tetraploid with how many chromosomes?",
+    "correct": "40 (2n = 4x = 40)",
+    "options": [
+      "40 (2n = 4x = 40)",
+      "20 (2n = 2x = 20)",
+      "60 (2n = 6x = 60)",
+      "27 (2n = 3x = 27)"
+    ],
+    "feedback": "Blue grama is generally a tetraploid with 40 chromosomes.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q169",
+    "module": "M14",
+    "question": "Per the textbook, blue grama's vernation is:",
+    "correct": "folded",
+    "options": [
+      "folded",
+      "rolled",
+      "flat",
+      "convolute"
+    ],
+    "feedback": "Blue grama has folded vernation, unlike buffalograss's rolled vernation.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q170",
+    "module": "M14",
+    "question": "Per the textbook, sideoats grama differs from blue grama in having a ________ vernation and long, scattered hairs along the adaxial leaf blade surface.",
+    "correct": "rolled",
+    "options": [
+      "rolled",
+      "folded",
+      "flat",
+      "convolute"
+    ],
+    "feedback": "Sideoats grama has rolled vernation, unlike blue grama's folded vernation.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q171",
+    "module": "M14",
+    "question": "Per the textbook, the Zoysieae tribe's only genus is:",
+    "correct": "Zoysia",
+    "options": [
+      "Zoysia",
+      "Cynodon",
+      "Bouteloua",
+      "Buchloe"
+    ],
+    "feedback": "Zoysia is the sole genus within the Zoysieae tribe.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q172",
+    "module": "M14",
+    "question": "Per the textbook, of the 11 recognized Zoysia species, how many are used as turfgrasses?",
+    "correct": "three",
+    "options": [
+      "three",
+      "two",
+      "six",
+      "all eleven"
+    ],
+    "feedback": "Three of the 11 recognized Zoysia species are used as turfgrasses.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q173",
+    "module": "M14",
+    "question": "Per the textbook, the three zoysiagrass turfgrass species are differentiated in terms of aggressiveness, texture, and:",
+    "correct": "cold tolerance",
+    "options": [
+      "cold tolerance",
+      "disease resistance",
+      "flower color",
+      "seed size"
+    ],
+    "feedback": "Aggressiveness, texture, and cold tolerance differentiate the three zoysiagrass species.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q174",
+    "module": "M14",
+    "question": "Per the textbook, Japanese lawngrass's outstanding cold tolerance even allows it to persist in a subarctic climate, although its very short growing season makes it:",
+    "correct": "impractical for use in this climatic zone",
+    "options": [
+      "impractical for use in this climatic zone",
+      "the preferred turfgrass there",
+      "toxic to livestock there",
+      "unable to survive winter there"
+    ],
+    "feedback": "Although cold-tolerant enough to persist subarctically, Japanese lawngrass's short growing season there makes it impractical.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q175",
+    "module": "M14",
+    "question": "Per the textbook, Japanese lawngrass's late-season discoloration begins with the onset of what temperature range?",
+    "correct": "50°F to 55°F (10°C to 13°C)",
+    "options": [
+      "50°F to 55°F (10°C to 13°C)",
+      "32°F to 40°F (0°C to 4°C)",
+      "60°F to 65°F (16°C to 18°C)",
+      "70°F to 75°F (21°C to 24°C)"
+    ],
+    "feedback": "Japanese lawngrass begins late-season discoloration at 50-55°F.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q176",
+    "module": "M14",
+    "question": "Per the textbook, Japanese lawngrass's slow green-up and late discoloration result in a straw-colored turf during much of the:",
+    "correct": "winter season",
+    "options": [
+      "winter season",
+      "summer season",
+      "spring season",
+      "early fall season"
+    ],
+    "feedback": "Japanese lawngrass stays straw-colored through much of winter due to its slow green-up and early discoloration.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q177",
+    "module": "M14",
+    "question": "Per the textbook, Japanese lawngrass is being used successfully as a fairway and lawn grass in transitional climates, between temperate and subtropical zones, where some cool-season and other warm-season grasses:",
+    "correct": "encounter the limits of their environmental adaptation",
+    "options": [
+      "encounter the limits of their environmental adaptation",
+      "grow most vigorously",
+      "are entirely absent",
+      "require no management at all"
+    ],
+    "feedback": "Japanese lawngrass thrives in transitional climates where both cool- and other warm-season grasses hit adaptation limits.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q178",
+    "module": "M14",
+    "question": "Per the textbook, because of the density and toughness of Japanese lawngrass shoots, mowing should be performed with:",
+    "correct": "heavy, reel-type mowers",
+    "options": [
+      "heavy, reel-type mowers",
+      "lightweight rotary mowers",
+      "flail mowers only",
+      "hand shears only"
+    ],
+    "feedback": "Japanese lawngrass's tough, dense shoots require heavy, reel-type mowers for a uniform surface.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q179",
+    "module": "M14",
+    "question": "Per the textbook, historically the most widely used Japanese lawngrass cultivar was:",
+    "correct": "Meyer",
+    "options": [
+      "Meyer",
+      "Crowne",
+      "El Toro",
+      "Zenith"
+    ],
+    "feedback": "Meyer was historically the most widely used Japanese lawngrass cultivar.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q180",
+    "module": "M14",
+    "question": "Per the textbook, newer Japanese lawngrass cultivars that must be propagated vegetatively include Crowne, El Toro, and:",
+    "correct": "Palisades",
+    "options": [
+      "Palisades",
+      "Zenith",
+      "Compatibility",
+      "Meyer"
+    ],
+    "feedback": "Crowne, El Toro, and Palisades are vegetatively propagated Japanese lawngrass cultivars.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q181",
+    "module": "M14",
+    "question": "Per the textbook, newer Japanese lawngrass cultivars that can be propagated by seed include Compatibility and:",
+    "correct": "Zenith",
+    "options": [
+      "Zenith",
+      "Palisades",
+      "Crowne",
+      "El Toro"
+    ],
+    "feedback": "Compatibility and Zenith are seed-propagated Japanese lawngrass cultivars.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q182",
+    "module": "M14",
+    "question": "Per the textbook, manilagrass is described, compared with the other two Zoysia species, as:",
+    "correct": "intermediate in texture and cold tolerance",
+    "options": [
+      "intermediate in texture and cold tolerance",
+      "the coarsest and most cold tolerant",
+      "the finest and least cold tolerant",
+      "identical in all respects"
+    ],
+    "feedback": "Manilagrass is intermediate in both texture and cold tolerance among the three zoysiagrass species.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q183",
+    "module": "M14",
+    "question": "Per the textbook, improved manilagrass cultivars include Cashmere, Cavalier, Diamond, Royal, and:",
+    "correct": "Zorro",
+    "options": [
+      "Zorro",
+      "Meyer",
+      "Zenith",
+      "Uganda"
+    ],
+    "feedback": "Zorro is among the improved manilagrass cultivars listed alongside Cashmere, Cavalier, Diamond, and Royal.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q184",
+    "module": "M14",
+    "question": "Per the textbook, mascarenegrass is the finest-textured, densest, and slowest-growing Zoysia species, with cold tolerance even lower than:",
+    "correct": "manilagrass",
+    "options": [
+      "manilagrass",
+      "Japanese lawngrass",
+      "common bermudagrass",
+      "buffalograss"
+    ],
+    "feedback": "Mascarenegrass has even lower cold tolerance than manilagrass, the next-finest zoysiagrass species.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q185",
+    "module": "M14",
+    "question": "Per the textbook, mascarenegrass is usually maintained as an:",
+    "correct": "unmowed ground cover",
+    "options": [
+      "unmowed ground cover",
+      "intensively mowed putting surface",
+      "annually reseeded lawn",
+      "irrigated-only utility turf"
+    ],
+    "feedback": "Mascarenegrass is typically maintained as unmowed ground cover where used.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q186",
+    "module": "M14",
+    "question": "Per the textbook, where a very dense thatch is allowed to develop on mascarenegrass, especially on untrafficked sites, ________ develop in the surface that disrupt the uniform appearance of the turf.",
+    "correct": "convolutions",
+    "options": [
+      "convolutions",
+      "bare patches",
+      "disease lesions",
+      "insect mounds"
+    ],
+    "feedback": "Heavy thatch on untrafficked mascarenegrass causes surface convolutions that disrupt uniformity.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q187",
+    "module": "M14",
+    "question": "Per the leaf-anatomy section of the textbook (p. 83), bermudagrasses (Cynodon) have relatively smooth, sometimes hairy, leaf surfaces and a ________ vernation.",
+    "correct": "folded",
+    "options": [
+      "folded",
+      "rolled",
+      "flat",
+      "convolute"
+    ],
+    "feedback": "The leaf-anatomy section confirms bermudagrass has folded vernation with smooth, sometimes hairy leaf surfaces.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q188",
+    "module": "M14",
+    "question": "Per the leaf-anatomy section of the textbook (p. 83), zoysiagrasses (Zoysia) have relatively smooth leaf surfaces, but all have a ________ vernation.",
+    "correct": "rolled",
+    "options": [
+      "rolled",
+      "folded",
+      "flat",
+      "convolute"
+    ],
+    "feedback": "The leaf-anatomy section confirms all zoysiagrasses have rolled vernation.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q189",
+    "module": "M14",
+    "question": "Per the leaf-anatomy section of the textbook (p. 83), some zoysia species have sparse, long hairs usually confined to:",
+    "correct": "the adaxial leaf surface",
+    "options": [
+      "the adaxial leaf surface",
+      "the abaxial leaf surface",
+      "the ligule only",
+      "the root hairs"
+    ],
+    "feedback": "Sparse long hairs on some zoysia species are usually confined to the adaxial (upper) leaf surface.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q190",
+    "module": "M14",
+    "question": "Which bermudagrass has more chromosomes per the textbook: common bermudagrass (36) or African bermudagrass (18)?",
+    "correct": "common bermudagrass",
+    "options": [
+      "common bermudagrass",
+      "African bermudagrass",
+      "they are equal",
+      "neither has a reported chromosome count"
+    ],
+    "feedback": "Common bermudagrass is a tetraploid (36 chromosomes), double African bermudagrass's diploid 18.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q191",
+    "module": "M14",
+    "question": "Which has a folded vernation and which has rolled, per the textbook: bermudagrass or zoysiagrass?",
+    "correct": "bermudagrass has folded; zoysiagrass has rolled",
+    "options": [
+      "bermudagrass has folded; zoysiagrass has rolled",
+      "bermudagrass has rolled; zoysiagrass has folded",
+      "both have folded vernation",
+      "both have rolled vernation"
+    ],
+    "feedback": "Per the leaf-anatomy section, bermudagrass has folded vernation while zoysiagrass has rolled vernation.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m14q192",
+    "module": "M14",
+    "question": "Among the Bouteloua species discussed, which has folded vernation and which has rolled: blue grama or buffalograss?",
+    "correct": "blue grama has folded; buffalograss has rolled",
+    "options": [
+      "blue grama has folded; buffalograss has rolled",
+      "blue grama has rolled; buffalograss has folded",
+      "both have folded vernation",
+      "both have rolled vernation"
+    ],
+    "feedback": "Blue grama has folded vernation while buffalograss (also a Bouteloua species per the textbook) has rolled vernation.",
+    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
     "kind": "enrichment"
   }
 ]

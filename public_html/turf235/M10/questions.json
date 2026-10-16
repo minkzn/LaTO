@@ -1153,5 +1153,95 @@
     "feedback": "Perennial ryegrass's abaxial leaf surface is glossy with a strong keel; annual ryegrass's is smooth and glossy without a keel.",
     "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
     "kind": "enrichment"
+  },
+  {
+    "id": "m10q078",
+    "module": "M10",
+    "question": "When used as a perennial turfgrass, perennial ryegrass can be sustained at mowing heights as low as:",
+    "correct": "0.75\"",
+    "options": [
+      "0.75\"",
+      "0.25\"",
+      "1.5\"",
+      "2.5\""
+    ],
+    "feedback": "As a perennial turfgrass, perennial ryegrass can be sustained at mowing heights as low as 0.75 inches.",
+    "source": "M10 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m10q079",
+    "module": "M10",
+    "question": "The term \"turf-type\" used in association with a perennial ryegrass cultivar means:",
+    "correct": "a fine-textured grass that forms a turf of high shoot density",
+    "options": [
+      "a fine-textured grass that forms a turf of high shoot density",
+      "a coarse-textured grass that forms a turf of high shoot density",
+      "a coarse-textured grass that forms a turf of low shoot density",
+      "a fine-textured grass that forms a turf of low shoot density"
+    ],
+    "feedback": "\"Turf-type\" perennial ryegrass refers to a fine-textured grass forming a turf of high shoot density.",
+    "source": "M10 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m10q080",
+    "module": "M10",
+    "question": "Annual ryegrass is distinguished by the following features:",
+    "correct": "bunch-type growth, rolled vernation, and long auricles",
+    "options": [
+      "bunch-type growth, rolled vernation, and long auricles",
+      "rhizomatous growth, folded vernation, and no auricles",
+      "stoloniferous growth, rolled vernation, and short auricles",
+      "bunch-type growth, folded vernation, and short auricles"
+    ],
+    "feedback": "Annual ryegrass is distinguished by bunch-type growth, rolled vernation, and long auricles.",
+    "source": "M10 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m10q081",
+    "module": "M10",
+    "question": "In a mixture with Kentucky bluegrass, perennial ryegrass could be identified by its:",
+    "correct": "ridged adaxial leaf surface and glossy abaxial leaf surface",
+    "options": [
+      "ridged adaxial leaf surface and glossy abaxial leaf surface",
+      "smooth adaxial leaf surface and glossy abaxial leaf surface",
+      "smooth abaxial leaf surface and glossy adaxial leaf surface",
+      "ridged abaxial leaf surface and glossy adaxial leaf surface"
+    ],
+    "feedback": "In a mixture with Kentucky bluegrass, perennial ryegrass stands out by its ridged adaxial leaf surface and glossy abaxial leaf surface.",
+    "source": "M10 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m10q082",
+    "module": "M10",
+    "question": "When used as a \"nursegrass\" in mixtures with Kentucky bluegrass, the perennial ryegrass selected should be:",
+    "correct": "a non-aggressive cultivar seeded at low rates",
+    "options": [
+      "a non-aggressive cultivar seeded at low rates",
+      "an aggressive cultivar seeded at low rates",
+      "a non-aggressive cultivar seeded at high rates",
+      "an aggressive cultivar seeded at high rates"
+    ],
+    "feedback": "As a nursegrass with Kentucky bluegrass, a non-aggressive perennial ryegrass cultivar seeded at low rates is preferred so it doesn't crowd out the bluegrass.",
+    "source": "M10 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m10q083",
+    "module": "M10",
+    "question": "Perennial ryegrass is distinguished by the following features:",
+    "correct": "bunch-type growth, folded vernation, and short auricles",
+    "options": [
+      "bunch-type growth, folded vernation, and short auricles",
+      "bunch-type growth, rolled vernation, and short auricles",
+      "rhizomatous growth, folded vernation, and no auricles",
+      "stoloniferous growth, rolled vernation, and short auricles"
+    ],
+    "feedback": "Perennial ryegrass is distinguished by bunch-type growth, folded vernation, and short auricles.",
+    "source": "M10 Quiz",
+    "kind": "module"
   }
 ]

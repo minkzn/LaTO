@@ -1903,5 +1903,200 @@
     "feedback": "Tall fescue is a hexaploid (42 chromosomes), more than meadow fescue's diploid 14.",
     "source": "Textbook Ch. 3, pp. 61-64: Turfgrass Species",
     "kind": "enrichment"
+  },
+  {
+    "id": "m11q128",
+    "module": "M11",
+    "question": "The new Latin name for tall fescue is:",
+    "correct": "Schedonorus phoenix",
+    "options": [
+      "Schedonorus phoenix",
+      "Festuca arundinacea",
+      "Schedonorus arundinacea",
+      "Festuca phoenix"
+    ],
+    "feedback": "Tall fescue's modern Latin name is Schedonorus phoenix, replacing the older Festuca arundinacea.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q129",
+    "module": "M11",
+    "question": "Which of these Latin name pairs correctly refers to the fine fescues?",
+    "correct": "Festuca rubra L. and Festuca longifolia Thuill.",
+    "options": [
+      "Festuca rubra L. and Festuca longifolia Thuill.",
+      "Festuca rubra L. and Festuca arundinacea Schred.",
+      "Festuca rubra L. and Festuca elatior L.",
+      "Festuca arundinacea Schred. and Festuca elatior L."
+    ],
+    "feedback": "Festuca rubra (red fescue) and Festuca longifolia (hard fescue) are both fine fescues; arundinacea and elatior refer to tall/meadow fescue instead.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q130",
+    "module": "M11",
+    "question": "Which of these Latin name pairs ALSO correctly refers to the fine fescues?",
+    "correct": "Festuca rubra L. and Festuca ovina Schred.",
+    "options": [
+      "Festuca rubra L. and Festuca ovina Schred.",
+      "Festuca rubra L. and Festuca arundinacea Schred.",
+      "Festuca rubra L. and Festuca elatior L.",
+      "Festuca arundinacea Schred. and Festuca elatior L."
+    ],
+    "feedback": "Festuca rubra (red fescue) and Festuca ovina (sheep fescue) are both fine fescues; arundinacea and elatior refer to tall/meadow fescue instead.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q131",
+    "module": "M11",
+    "question": "Tall fescue is distinguished by the following features:",
+    "correct": "bunch-type growth, ridged adaxial leaf blades, and rolled vernation",
+    "options": [
+      "bunch-type growth, ridged adaxial leaf blades, and rolled vernation",
+      "bunch-type growth, ridged adaxial leaf blades, and folded vernation",
+      "rhizomatous growth, ridged adaxial leaf blades, and rolled vernation",
+      "rhizomatous growth, ridged adaxial leaf blades, and folded vernation"
+    ],
+    "feedback": "Tall fescue is distinguished by bunch-type growth, ridged adaxial leaf blades, and rolled vernation.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q132",
+    "module": "M11",
+    "question": "Of the following turfgrass species, which has the coarsest texture?",
+    "correct": "tall fescue",
+    "options": [
+      "tall fescue",
+      "rough bluegrass",
+      "red fescue",
+      "perennial ryegrass"
+    ],
+    "feedback": "Of rough bluegrass, tall fescue, red fescue, and perennial ryegrass, tall fescue has the coarsest texture.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q133",
+    "module": "M11",
+    "question": "Of the following turfgrass species, which has the finest texture?",
+    "correct": "red fescue",
+    "options": [
+      "red fescue",
+      "rough bluegrass",
+      "tall fescue",
+      "perennial ryegrass"
+    ],
+    "feedback": "Of rough bluegrass, tall fescue, red fescue, and perennial ryegrass, red fescue has the finest texture.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q134",
+    "module": "M11",
+    "question": "Chewings fescue is distinguished by the following features:",
+    "correct": "bunch-type growth, ridged adaxial leaf blades, and folded vernation",
+    "options": [
+      "bunch-type growth, ridged adaxial leaf blades, and folded vernation",
+      "bunch-type growth, ridged adaxial leaf blades, and rolled vernation",
+      "rhizomatous growth, ridged adaxial leaf blades, and rolled vernation",
+      "rhizomatous growth, ridged adaxial leaf blades, and folded vernation"
+    ],
+    "feedback": "Chewings fescue is distinguished by bunch-type growth, ridged adaxial leaf blades, and folded vernation.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q135",
+    "module": "M11",
+    "question": "The cultural requirements for sustaining a tall fescue turf are:",
+    "correct": "Mowing at 2\", N fertilization at 4 lb/Kft2, and regular irrigation",
+    "options": [
+      "Mowing at 2\", N fertilization at 4 lb/Kft2, and regular irrigation",
+      "Mowing at 1\", N fertilization at 4 lb/Kft2, and regular irrigation",
+      "Mowing at 2\", N fertilization at 2 lb/Kft2, and no irrigation",
+      "Mowing at 1\", N fertilization at 2 lb/Kft2, and no irrigation"
+    ],
+    "feedback": "A tall fescue turf is sustained with mowing at 2 inches, nitrogen fertilization at 4 lb/Kft2, and regular irrigation.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q136",
+    "module": "M11",
+    "question": "The auricles on tall fescue would be described as:",
+    "correct": "Short, blunt and pubescent",
+    "options": [
+      "Short, blunt and pubescent",
+      "Short, blunt and hairless",
+      "Long, clasping and pubescent",
+      "Long, clasping and hairless"
+    ],
+    "feedback": "Tall fescue's auricles are short, blunt, and pubescent (hairy).",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q137",
+    "module": "M11",
+    "question": "Creeping red fescue is distinguished by the following features:",
+    "correct": "rhizomatous growth, ridged adaxial leaf blades, and folded vernation",
+    "options": [
+      "rhizomatous growth, ridged adaxial leaf blades, and folded vernation",
+      "rhizomatous growth, ridged adaxial leaf blades, and rolled vernation",
+      "bunch-type growth, ridged adaxial leaf blades, and rolled vernation",
+      "bunch-type growth, ridged adaxial leaf blades, and folded vernation"
+    ],
+    "feedback": "Creeping red fescue is distinguished by rhizomatous growth, ridged adaxial leaf blades, and folded vernation.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q138",
+    "module": "M11",
+    "question": "Tall fescue is well adapted to:",
+    "correct": "warm temperate and cool subtropical climates",
+    "options": [
+      "warm temperate and cool subtropical climates",
+      "tropical wet-and-dry and warm subtropical climates",
+      "subarctic and polar climates",
+      "cold arid and semiarid climates"
+    ],
+    "feedback": "Tall fescue is well adapted to warm temperate and cool subtropical climates.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q139",
+    "module": "M11",
+    "question": "Red fescues are well adapted to:",
+    "correct": "droughty, acid soils of low fertility and light shade",
+    "options": [
+      "droughty, acid soils of low fertility and light shade",
+      "droughty, alkaline soils of moderate fertility and full sun",
+      "moist, acid soils of high fertility and moderate shade",
+      "wet, acid soils of moderate fertility and heavy shade"
+    ],
+    "feedback": "Red fescues are well adapted to droughty, acid soils of low fertility, under light shade.",
+    "source": "M11 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m11q140",
+    "module": "M11",
+    "question": "The cultural requirements for sustaining a creeping red fescue turf are:",
+    "correct": "Mowing at 1.5\", N fertilization at 2 lb/Kft2, and little or no irrigation",
+    "options": [
+      "Mowing at 1.5\", N fertilization at 2 lb/Kft2, and little or no irrigation",
+      "Mowing at 0.5\", N fertilization at 6 lb/Kft2, and intensive irrigation",
+      "Mowing at 1.5\", N fertilization at 6 lb/Kft2, and intensive irrigation",
+      "Mowing at 0.5\", N fertilization at 2 lb/Kft2, and little or no irrigation"
+    ],
+    "feedback": "A creeping red fescue turf is sustained with mowing at 1.5 inches, minimal nitrogen fertilization at 2 lb/Kft2, and little or no irrigation.",
+    "source": "M11 Quiz",
+    "kind": "module"
   }
 ]

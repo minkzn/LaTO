@@ -1,0 +1,2057 @@
+[
+  {
+    "id": "m13q001",
+    "module": "M13",
+    "question": "Western Oregon's climate, as described in the Module 13 overview, features mild, wet winters and:",
+    "correct": "cool, dry summers",
+    "options": [
+      "cool, dry summers",
+      "hot, humid summers",
+      "cold, dry summers",
+      "hot, dry summers"
+    ],
+    "feedback": "Western Oregon's climate features mild, wet winters and cool, dry summers.",
+    "source": "M13.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m13q002",
+    "module": "M13",
+    "question": "At the newly constructed Oregon Golf Club, the putting greens were planted with:",
+    "correct": "Pennlinks creeping bentgrass",
+    "options": [
+      "Pennlinks creeping bentgrass",
+      "Penncross creeping bentgrass",
+      "Bardot colonial bentgrass",
+      "Seaside creeping bentgrass"
+    ],
+    "feedback": "The Oregon Golf Club's greens were Pennlinks creeping bentgrass.",
+    "source": "M13.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m13q003",
+    "module": "M13",
+    "question": "At the Oregon Golf Club, the tees were planted with:",
+    "correct": "Penncross creeping bentgrass",
+    "options": [
+      "Penncross creeping bentgrass",
+      "Pennlinks creeping bentgrass",
+      "Bardot colonial bentgrass",
+      "Crenshaw creeping bentgrass"
+    ],
+    "feedback": "The Oregon Golf Club's tees were Penncross creeping bentgrass.",
+    "source": "M13.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m13q004",
+    "module": "M13",
+    "question": "At the Oregon Golf Club, the fairways were planted with:",
+    "correct": "Bardot colonial bentgrass",
+    "options": [
+      "Bardot colonial bentgrass",
+      "Pennlinks creeping bentgrass",
+      "Penncross creeping bentgrass",
+      "Highland dryland bentgrass"
+    ],
+    "feedback": "The Oregon Golf Club's fairways were Bardot colonial bentgrass.",
+    "source": "M13.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m13q005",
+    "module": "M13",
+    "question": "Per the overview, velvet bentgrass can be found in more than just little patches on old greens in:",
+    "correct": "Rhode Island",
+    "options": [
+      "Rhode Island",
+      "Oregon",
+      "Georgia",
+      "Iowa"
+    ],
+    "feedback": "The overview notes velvet bentgrass is found beyond little patches on old greens in Rhode Island.",
+    "source": "M13.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m13q006",
+    "module": "M13",
+    "question": "Even though it is a little-used bentgrass species today, redtop can persist on sites that are wet, poorly drained, and:",
+    "correct": "trafficked",
+    "options": [
+      "trafficked",
+      "shaded",
+      "saline",
+      "acidic"
+    ],
+    "feedback": "Redtop can persist on wet, poorly drained, trafficked sites where no other turfgrass will.",
+    "source": "M13.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m13q007",
+    "module": "M13",
+    "question": "Module 13 reviews four turfgrasses: Creeping bentgrass, Colonial bentgrass, Velvet bentgrass, and:",
+    "correct": "Redtop",
+    "options": [
+      "Redtop",
+      "Dryland bentgrass",
+      "Idaho bentgrass",
+      "Tall fescue"
+    ],
+    "feedback": "Module 13 covers Creeping, Colonial, and Velvet bentgrass, plus Redtop.",
+    "source": "M13.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m13q008",
+    "module": "M13",
+    "question": "The assigned textbook reading for Module 13 covers Chapter 3, pages:",
+    "correct": "68-70",
+    "options": [
+      "68-70",
+      "61-64",
+      "65-69",
+      "71-75"
+    ],
+    "feedback": "Module 13's reading is Turfgrass Management, Chapter 3, pages 68-70.",
+    "source": "M13.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m13q009",
+    "module": "M13",
+    "question": "The Latin name of creeping bentgrass is Agrostis stolonifera L., formerly known as:",
+    "correct": "A. palustris Huds.",
+    "options": [
+      "A. palustris Huds.",
+      "A. capillaris L.",
+      "A. canina L.",
+      "A. gigantea With."
+    ],
+    "feedback": "Creeping bentgrass, Agrostis stolonifera L., was formerly known as A. palustris Huds.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q010",
+    "module": "M13",
+    "question": "Per its module page, the ligule on creeping bentgrass is overall described as:",
+    "correct": "long, rounded, membranous",
+    "options": [
+      "long, rounded, membranous",
+      "short, truncate, membranous",
+      "very long, pointed, membranous",
+      "a fringe of short hairs"
+    ],
+    "feedback": "Creeping bentgrass's ligule is long, rounded, and membranous.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q011",
+    "module": "M13",
+    "question": "More precisely, the ligule on creeping bentgrass is:",
+    "correct": "membranous, 0.6 to 3 mm long, finely toothed or entire, rounded",
+    "options": [
+      "membranous, 0.6 to 3 mm long, finely toothed or entire, rounded",
+      "membranous, 0.3 to 1.2 mm long, truncate",
+      "membranous, 1.5 to 5 mm long, rounded",
+      "membranous, 0.4 to 0.8 mm long, pointed"
+    ],
+    "feedback": "Creeping bentgrass's ligule is membranous, 0.6 to 3 mm long, finely toothed or entire, and rounded.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q012",
+    "module": "M13",
+    "question": "The preferred mowing height for creeping bentgrass is:",
+    "correct": "0.12 - 0.5 inches",
+    "options": [
+      "0.12 - 0.5 inches",
+      "0.3 - 0.8 inches",
+      "0.2 - 0.4 inches",
+      "1.5 - 2.0 inches"
+    ],
+    "feedback": "Creeping bentgrass is best mowed at 0.12 to 0.5 inches.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q013",
+    "module": "M13",
+    "question": "The preferred fertilization rate for creeping bentgrass is:",
+    "correct": "2.0 - 6.0 lb. N / K ft² / year",
+    "options": [
+      "2.0 - 6.0 lb. N / K ft² / year",
+      "1.0 - 2.0 lb. N / K ft² / year",
+      "0.5 - 1.0 lb. N / K ft² / year",
+      "3.0 - 8.0 lb. N / K ft² / year"
+    ],
+    "feedback": "Creeping bentgrass's preferred fertilization rate is 2.0 to 6.0 lb N/K ft²/year.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q014",
+    "module": "M13",
+    "question": "The preferred irrigation amount for creeping bentgrass is:",
+    "correct": "needed frequently",
+    "options": [
+      "needed frequently",
+      "needed moderately",
+      "low to moderate",
+      "not needed"
+    ],
+    "feedback": "Creeping bentgrass needs frequent irrigation.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q015",
+    "module": "M13",
+    "question": "'Other' cultural practices noted for creeping bentgrass include cultivation, topdressing, and:",
+    "correct": "pest (disease) control",
+    "options": [
+      "pest (disease) control",
+      "deep-tine aerification only",
+      "fall overseeding",
+      "netting for sod production"
+    ],
+    "feedback": "Creeping bentgrass requires many cultural practices including cultivation, topdressing, and pest (disease) control.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q016",
+    "module": "M13",
+    "question": "On golf greens, creeping bentgrass is rated:",
+    "correct": "well adapted",
+    "options": [
+      "well adapted",
+      "not suitable",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Creeping bentgrass is well adapted for golf greens.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q017",
+    "module": "M13",
+    "question": "On golf tees, creeping bentgrass is rated:",
+    "correct": "well adapted",
+    "options": [
+      "well adapted",
+      "not suitable",
+      "marginally adapted",
+      "adapted only when overseeded"
+    ],
+    "feedback": "Creeping bentgrass is well adapted for golf tees.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q018",
+    "module": "M13",
+    "question": "On golf fairways, creeping bentgrass is rated:",
+    "correct": "well adapted",
+    "options": [
+      "well adapted",
+      "not suitable",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Creeping bentgrass is well adapted for golf fairways.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q019",
+    "module": "M13",
+    "question": "On golf roughs, creeping bentgrass is rated:",
+    "correct": "not suitable",
+    "options": [
+      "not suitable",
+      "well adapted",
+      "marginally adapted",
+      "adapted"
+    ],
+    "feedback": "Creeping bentgrass is not suitable for golf roughs.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q020",
+    "module": "M13",
+    "question": "For athletic turf, creeping bentgrass is rated:",
+    "correct": "not suitable",
+    "options": [
+      "not suitable",
+      "well adapted",
+      "marginally adapted",
+      "ideal"
+    ],
+    "feedback": "Creeping bentgrass is not suitable for athletic turf.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q021",
+    "module": "M13",
+    "question": "For lawn turf, creeping bentgrass can be adapted for:",
+    "correct": "intensively cultured lawns only",
+    "options": [
+      "intensively cultured lawns only",
+      "any intensity of lawn culture",
+      "low intensities of culture only",
+      "it is not adapted for lawns at all"
+    ],
+    "feedback": "Creeping bentgrass can be adapted only for intensively cultured lawns.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q022",
+    "module": "M13",
+    "question": "For utility turf, creeping bentgrass is rated:",
+    "correct": "not suitable",
+    "options": [
+      "not suitable",
+      "well adapted",
+      "marginally adapted",
+      "ideal"
+    ],
+    "feedback": "Creeping bentgrass is not suitable for utility turf.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q023",
+    "module": "M13",
+    "question": "At lawn height, creeping bentgrass forms:",
+    "correct": "ugly patches in the turf",
+    "options": [
+      "ugly patches in the turf",
+      "a uniform, dense stand",
+      "a weed-free stand",
+      "an evenly colored green turf"
+    ],
+    "feedback": "At lawn height, creeping bentgrass forms ugly patches in the turf, as shown in a Kentucky bluegrass lawn example.",
+    "source": "M13.3: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q024",
+    "module": "M13",
+    "question": "To be sustained at an acceptable quality level in a lawn setting, creeping bentgrass must be mowed at a:",
+    "correct": "closer height",
+    "options": [
+      "closer height",
+      "taller height",
+      "the same height as Kentucky bluegrass",
+      "height determined only by season"
+    ],
+    "feedback": "Creeping bentgrass must be mowed at a closer height to sustain acceptable quality.",
+    "source": "M13.3: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q025",
+    "module": "M13",
+    "question": "Per Table 13.3.2, which creeping bentgrass cultivar ranked #1 in USA overall quality?",
+    "correct": "L-93",
+    "options": [
+      "L-93",
+      "Penn A-1",
+      "Penn G-2",
+      "Crenshaw"
+    ],
+    "feedback": "L-93 ranked #1 in USA overall quality in Table 13.3.2.",
+    "source": "M13.3: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q026",
+    "module": "M13",
+    "question": "Per Table 13.3.2, which creeping bentgrass cultivar ranked last (28th) in USA overall quality?",
+    "correct": "Seaside",
+    "options": [
+      "Seaside",
+      "Crenshaw",
+      "Penn A-4",
+      "Penn G-2"
+    ],
+    "feedback": "Seaside ranked 28th (last) in USA overall quality in Table 13.3.2.",
+    "source": "M13.3: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q027",
+    "module": "M13",
+    "question": "Per Table 13.3.2, Crenshaw's quality rank was 22 in Pennsylvania but improved to a rank of 2 in:",
+    "correct": "Iowa",
+    "options": [
+      "Iowa",
+      "Georgia",
+      "Missouri",
+      "New Jersey"
+    ],
+    "feedback": "Crenshaw ranked 22 in PA and NJ but only 2 in Iowa, per Table 13.3.2.",
+    "source": "M13.3: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q028",
+    "module": "M13",
+    "question": "The module attributes Crenshaw's poor performance in PA and NJ to its susceptibility to:",
+    "correct": "dollar spot",
+    "options": [
+      "dollar spot",
+      "brown patch",
+      "gray leaf spot",
+      "snow mold"
+    ],
+    "feedback": "Crenshaw underperformed in PA and NJ, where dollar spot is very active, due to its susceptibility to the disease.",
+    "source": "M13.3: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q029",
+    "module": "M13",
+    "question": "Crenshaw performed much better in Iowa than in Pennsylvania and New Jersey because Iowa has:",
+    "correct": "very little dollar spot",
+    "options": [
+      "very little dollar spot",
+      "much more dollar spot",
+      "acidic soils favoring Crenshaw",
+      "a cooler climate overall"
+    ],
+    "feedback": "Crenshaw performed much better in Iowa, where there is very little dollar spot.",
+    "source": "M13.3: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q030",
+    "module": "M13",
+    "question": "The Penn A- and G-series cultivars did not do especially well because of acid soils in:",
+    "correct": "Georgia",
+    "options": [
+      "Georgia",
+      "Iowa",
+      "Missouri",
+      "Pennsylvania"
+    ],
+    "feedback": "The Penn A- and G-series cultivars underperformed in Georgia's acid soils.",
+    "source": "M13.3: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q031",
+    "module": "M13",
+    "question": "Per Table 13.3.2, Penn G-2 ranked #1 in which state?",
+    "correct": "Iowa",
+    "options": [
+      "Iowa",
+      "Georgia",
+      "Missouri",
+      "Pennsylvania"
+    ],
+    "feedback": "Penn G-2 ranked #1 in Iowa per Table 13.3.2.",
+    "source": "M13.3: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q032",
+    "module": "M13",
+    "question": "Per Table 13.3.2, Seaside's single best regional rank (2) was achieved in:",
+    "correct": "Georgia",
+    "options": [
+      "Georgia",
+      "Iowa",
+      "Pennsylvania",
+      "Missouri"
+    ],
+    "feedback": "Despite ranking last overall, Seaside's best regional rank (2) was in Georgia, per Table 13.3.2.",
+    "source": "M13.3: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q033",
+    "module": "M13",
+    "question": "The Latin name of colonial bentgrass is:",
+    "correct": "Agrostis capillaris L.",
+    "options": [
+      "Agrostis capillaris L.",
+      "Agrostis stolonifera L.",
+      "Agrostis canina L.",
+      "Agrostis gigantea With."
+    ],
+    "feedback": "Colonial bentgrass is Agrostis capillaris L.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q034",
+    "module": "M13",
+    "question": "Per its module page, the ligule on colonial bentgrass is overall described as:",
+    "correct": "short, truncate, membranous",
+    "options": [
+      "short, truncate, membranous",
+      "long, rounded, membranous",
+      "very long, pointed, membranous",
+      "a fringe of short hairs"
+    ],
+    "feedback": "Colonial bentgrass's ligule is short, truncate, and membranous.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q035",
+    "module": "M13",
+    "question": "More precisely, the ligule on colonial bentgrass is:",
+    "correct": "membranous, 0.3 to 1.2 mm long, truncate",
+    "options": [
+      "membranous, 0.3 to 1.2 mm long, truncate",
+      "membranous, 0.6 to 3 mm long, rounded",
+      "membranous, 1.5 to 5 mm long, rounded",
+      "membranous, 0.4 to 0.8 mm long, pointed"
+    ],
+    "feedback": "Colonial bentgrass's ligule is membranous, 0.3 to 1.2 mm long, and truncate.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q036",
+    "module": "M13",
+    "question": "The preferred mowing height for colonial bentgrass is:",
+    "correct": "0.3 - 0.8 inches",
+    "options": [
+      "0.3 - 0.8 inches",
+      "0.12 - 0.5 inches",
+      "0.2 - 0.4 inches",
+      "1.5 - 2.0 inches"
+    ],
+    "feedback": "Colonial bentgrass is best mowed at 0.3 to 0.8 inches.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q037",
+    "module": "M13",
+    "question": "The preferred fertilization rate for colonial bentgrass is:",
+    "correct": "1.0 - 2.0 lb. N / K ft² / year",
+    "options": [
+      "1.0 - 2.0 lb. N / K ft² / year",
+      "2.0 - 6.0 lb. N / K ft² / year",
+      "0.5 - 1.0 lb. N / K ft² / year",
+      "3.0 - 8.0 lb. N / K ft² / year"
+    ],
+    "feedback": "Colonial bentgrass's preferred fertilization rate is 1.0 to 2.0 lb N/K ft²/year.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q038",
+    "module": "M13",
+    "question": "The preferred irrigation amount for colonial bentgrass is:",
+    "correct": "needed moderately",
+    "options": [
+      "needed moderately",
+      "needed frequently",
+      "low to moderate",
+      "not needed"
+    ],
+    "feedback": "Colonial bentgrass needs moderate irrigation.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q039",
+    "module": "M13",
+    "question": "'Other' cultural practice requirements for colonial bentgrass vary with mowing height and may require:",
+    "correct": "topdressing",
+    "options": [
+      "topdressing",
+      "fall overseeding",
+      "deep-tine aerification",
+      "netting for sod production"
+    ],
+    "feedback": "Colonial bentgrass's cultural practice needs vary with mowing height and may require topdressing.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q040",
+    "module": "M13",
+    "question": "On golf greens, colonial bentgrass is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not suitable",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Colonial bentgrass is rated adapted for golf greens.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q041",
+    "module": "M13",
+    "question": "On golf tees, colonial bentgrass is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not suitable",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Colonial bentgrass is rated adapted for golf tees.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q042",
+    "module": "M13",
+    "question": "On golf fairways, colonial bentgrass is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not suitable",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Colonial bentgrass is rated adapted for golf fairways.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q043",
+    "module": "M13",
+    "question": "On golf roughs, colonial bentgrass is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not suitable",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Colonial bentgrass is rated adapted for golf roughs.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q044",
+    "module": "M13",
+    "question": "For athletic turf, colonial bentgrass is rated:",
+    "correct": "not well adapted",
+    "options": [
+      "not well adapted",
+      "well adapted",
+      "ideal",
+      "marginally adapted"
+    ],
+    "feedback": "Colonial bentgrass is not well adapted for athletic turf.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q045",
+    "module": "M13",
+    "question": "For lawn turf, colonial bentgrass can be adapted to:",
+    "correct": "low intensities of culture",
+    "options": [
+      "low intensities of culture",
+      "high intensities of culture only",
+      "intensively cultured lawns only",
+      "any intensity equally"
+    ],
+    "feedback": "Colonial bentgrass can be adapted to low intensities of lawn culture.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q046",
+    "module": "M13",
+    "question": "For utility turf, colonial bentgrass is rated:",
+    "correct": "marginally adapted",
+    "options": [
+      "marginally adapted",
+      "well adapted",
+      "not suitable",
+      "ideal"
+    ],
+    "feedback": "Colonial bentgrass is marginally adapted for utility turf.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q047",
+    "module": "M13",
+    "question": "Creeping and colonial bentgrasses show a differential in disease susceptibility during the winter months for:",
+    "correct": "snow mold disease",
+    "options": [
+      "snow mold disease",
+      "brown patch disease",
+      "dollar spot disease",
+      "gray leaf spot disease"
+    ],
+    "feedback": "A photograph in the module shows the differential in snow mold susceptibility between creeping and colonial bentgrasses in winter.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q048",
+    "module": "M13",
+    "question": "In the summer, colonial bentgrass is highly susceptible to:",
+    "correct": "brown patch disease",
+    "options": [
+      "brown patch disease",
+      "snow mold disease",
+      "dollar spot disease",
+      "Pythium disease"
+    ],
+    "feedback": "Colonial bentgrass is highly susceptible to brown patch disease in summer, the opposite pattern from the winter snow mold differential.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q049",
+    "module": "M13",
+    "question": "Colonial bentgrass's high susceptibility to brown patch disease limits its use primarily to:",
+    "correct": "temperate oceanic climates where summer temperatures are milder",
+    "options": [
+      "temperate oceanic climates where summer temperatures are milder",
+      "hot, arid desert climates",
+      "tropical rainforest climates",
+      "cool subtropical-humid (transition zone) climates"
+    ],
+    "feedback": "Because of brown patch susceptibility, colonial bentgrass use is limited mainly to temperate oceanic climates with milder summers.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q050",
+    "module": "M13",
+    "question": "If genetic resistance to brown patch disease could be developed, the use of colonial bentgrass could be:",
+    "correct": "expanded dramatically",
+    "options": [
+      "expanded dramatically",
+      "eliminated entirely",
+      "limited to golf greens only",
+      "restricted further"
+    ],
+    "feedback": "Developing brown patch resistance could dramatically expand colonial bentgrass's use.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q051",
+    "module": "M13",
+    "question": "Where adapted, colonial bentgrass forms an excellent turf for:",
+    "correct": "a croquet court",
+    "options": [
+      "a croquet court",
+      "a baseball infield",
+      "a running track",
+      "a parking lot buffer"
+    ],
+    "feedback": "The module shows a colonial bentgrass croquet court as an example of excellent turf where the species is adapted.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q052",
+    "module": "M13",
+    "question": "Colonial bentgrass tennis courts are popular in the United Kingdom and other locations with:",
+    "correct": "temperate-oceanic climates",
+    "options": [
+      "temperate-oceanic climates",
+      "hot subtropical climates",
+      "cool subarctic climates",
+      "arid climates"
+    ],
+    "feedback": "Colonial bentgrass tennis courts are popular in the UK and other temperate-oceanic climates.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q053",
+    "module": "M13",
+    "question": "The module's example of a colonial bentgrass lawn turf is located in coastal:",
+    "correct": "Rhode Island",
+    "options": [
+      "Rhode Island",
+      "Oregon",
+      "Georgia",
+      "New Jersey"
+    ],
+    "feedback": "The module shows a colonial bentgrass lawn turf example in coastal Rhode Island.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q054",
+    "module": "M13",
+    "question": "The Latin name of velvet bentgrass is:",
+    "correct": "Agrostis canina L.",
+    "options": [
+      "Agrostis canina L.",
+      "Agrostis capillaris L.",
+      "Agrostis stolonifera L.",
+      "Agrostis gigantea With."
+    ],
+    "feedback": "Velvet bentgrass is Agrostis canina L.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q055",
+    "module": "M13",
+    "question": "Per its module page, the ligule on velvet bentgrass is overall described as:",
+    "correct": "very long, pointed, membranous",
+    "options": [
+      "very long, pointed, membranous",
+      "short, truncate, membranous",
+      "long, rounded, membranous",
+      "a fringe of short hairs"
+    ],
+    "feedback": "Velvet bentgrass's ligule is very long, pointed, and membranous.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q056",
+    "module": "M13",
+    "question": "Per the module's glossary note, a ligule is a membranous or hairy appendage on the adaxial side of a grass leaf, located at the junction of the leaf and:",
+    "correct": "blade",
+    "options": [
+      "blade",
+      "root",
+      "stem",
+      "inflorescence"
+    ],
+    "feedback": "A ligule is located at the junction of the leaf and blade, on the adaxial side.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q057",
+    "module": "M13",
+    "question": "The preferred mowing height for velvet bentgrass is:",
+    "correct": "0.2 - 0.4 inches",
+    "options": [
+      "0.2 - 0.4 inches",
+      "0.12 - 0.5 inches",
+      "0.3 - 0.8 inches",
+      "1.5 - 2.0 inches"
+    ],
+    "feedback": "Velvet bentgrass is best mowed at 0.2 to 0.4 inches.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q058",
+    "module": "M13",
+    "question": "The preferred fertilization rate for velvet bentgrass is:",
+    "correct": "1.0 - 2.0 lb. N / K ft² / year",
+    "options": [
+      "1.0 - 2.0 lb. N / K ft² / year",
+      "2.0 - 6.0 lb. N / K ft² / year",
+      "0.5 - 1.0 lb. N / K ft² / year",
+      "3.0 - 8.0 lb. N / K ft² / year"
+    ],
+    "feedback": "Velvet bentgrass's preferred fertilization rate is 1.0 to 2.0 lb N/K ft²/year.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q059",
+    "module": "M13",
+    "question": "The preferred irrigation amount for velvet bentgrass is:",
+    "correct": "low to moderate",
+    "options": [
+      "low to moderate",
+      "needed frequently",
+      "needed moderately",
+      "not needed"
+    ],
+    "feedback": "Velvet bentgrass needs low to moderate irrigation.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q060",
+    "module": "M13",
+    "question": "'Other' cultural practices for velvet bentgrass require many practices, especially:",
+    "correct": "topdressing",
+    "options": [
+      "topdressing",
+      "fall overseeding",
+      "deep-tine aerification",
+      "netting for sod production"
+    ],
+    "feedback": "Velvet bentgrass requires many cultural practices, especially topdressing.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q061",
+    "module": "M13",
+    "question": "On golf greens, velvet bentgrass is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not suitable",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Velvet bentgrass is rated adapted for golf greens.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q062",
+    "module": "M13",
+    "question": "On golf tees, velvet bentgrass is rated:",
+    "correct": "not suitable",
+    "options": [
+      "not suitable",
+      "adapted",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Velvet bentgrass is not suitable for golf tees.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q063",
+    "module": "M13",
+    "question": "On golf fairways, velvet bentgrass is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not suitable",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Velvet bentgrass is rated adapted for golf fairways.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q064",
+    "module": "M13",
+    "question": "On golf roughs, velvet bentgrass is rated:",
+    "correct": "adapted",
+    "options": [
+      "adapted",
+      "not suitable",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Velvet bentgrass is rated adapted for golf roughs.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q065",
+    "module": "M13",
+    "question": "For athletic turf, velvet bentgrass is rated:",
+    "correct": "not adaptable",
+    "options": [
+      "not adaptable",
+      "well adapted",
+      "marginally adapted",
+      "ideal"
+    ],
+    "feedback": "Velvet bentgrass is not adaptable for athletic turf.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q066",
+    "module": "M13",
+    "question": "For lawn turf, velvet bentgrass can be adaptable for:",
+    "correct": "low to moderate intensity of culture",
+    "options": [
+      "low to moderate intensity of culture",
+      "only very high intensity of culture",
+      "intensively cultured lawns only",
+      "it is not adaptable for lawns at all"
+    ],
+    "feedback": "Velvet bentgrass can be adaptable for low to moderate intensity of lawn culture.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q067",
+    "module": "M13",
+    "question": "For utility turf, velvet bentgrass is rated:",
+    "correct": "marginally adapted",
+    "options": [
+      "marginally adapted",
+      "well adapted",
+      "not suitable",
+      "ideal"
+    ],
+    "feedback": "Velvet bentgrass is marginally adapted for utility turf.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q068",
+    "module": "M13",
+    "question": "Velvet bentgrass is described as an especially ________-textured turfgrass.",
+    "correct": "fine",
+    "options": [
+      "fine",
+      "coarse",
+      "medium",
+      "variable"
+    ],
+    "feedback": "Velvet bentgrass is an especially fine-textured turfgrass.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q069",
+    "module": "M13",
+    "question": "Because it is a serious thatch former, velvet bentgrass must be:",
+    "correct": "topdressed frequently",
+    "options": [
+      "topdressed frequently",
+      "mowed less often",
+      "fertilized heavily",
+      "irrigated minimally"
+    ],
+    "feedback": "Velvet bentgrass is a serious thatch former and must be topdressed frequently.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q070",
+    "module": "M13",
+    "question": "Because of its relatively slow growth, velvet bentgrass must avoid:",
+    "correct": "aggressive cultivation methods",
+    "options": [
+      "aggressive cultivation methods",
+      "all topdressing",
+      "all fertilization",
+      "close mowing"
+    ],
+    "feedback": "Velvet bentgrass's slow growth means aggressive cultivation methods must be avoided.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q071",
+    "module": "M13",
+    "question": "Velvet bentgrass's recuperative capacity, owing to its slow growth, is:",
+    "correct": "very slow",
+    "options": [
+      "very slow",
+      "very fast",
+      "moderate",
+      "identical to creeping bentgrass"
+    ],
+    "feedback": "Velvet bentgrass's recuperative capacity is very slow because of its slow growth.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q072",
+    "module": "M13",
+    "question": "Velvet bentgrass is most evident as dense patches in old greens established with:",
+    "correct": "a mixture of bentgrass species",
+    "options": [
+      "a mixture of bentgrass species",
+      "a pure stand of Kentucky bluegrass",
+      "a mixture of fine fescues",
+      "a single creeping bentgrass cultivar"
+    ],
+    "feedback": "Velvet bentgrass shows up as dense patches in old greens originally established with a mixture of bentgrass species.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q073",
+    "module": "M13",
+    "question": "Per its module page, the Latin name of redtop is:",
+    "correct": "Agrostis gigantea With.",
+    "options": [
+      "Agrostis gigantea With.",
+      "Agrostis gigantea Roth.",
+      "Agrostis alba L.",
+      "Agrostis canina L."
+    ],
+    "feedback": "Redtop's species page gives its Latin name as Agrostis gigantea With.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q074",
+    "module": "M13",
+    "question": "Per its module page, the ligule on redtop is overall described as:",
+    "correct": "long, rounded, membranous",
+    "options": [
+      "long, rounded, membranous",
+      "short, truncate, membranous",
+      "very long, pointed, membranous",
+      "a fringe of short hairs"
+    ],
+    "feedback": "Redtop's ligule is long, rounded, and membranous.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q075",
+    "module": "M13",
+    "question": "More precisely, the ligule on redtop is:",
+    "correct": "membranous, 1.5 to 5 mm long, rounded",
+    "options": [
+      "membranous, 1.5 to 5 mm long, rounded",
+      "membranous, 0.6 to 3 mm long, rounded",
+      "membranous, 0.3 to 1.2 mm long, truncate",
+      "membranous, 0.4 to 0.8 mm long, pointed"
+    ],
+    "feedback": "Redtop's ligule is membranous, 1.5 to 5 mm long, and rounded — the longest of the bentgrasses covered in this module.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q076",
+    "module": "M13",
+    "question": "The preferred mowing height for redtop is:",
+    "correct": "1.5 - 2.0 inches",
+    "options": [
+      "1.5 - 2.0 inches",
+      "0.12 - 0.5 inches",
+      "0.3 - 0.8 inches",
+      "0.2 - 0.4 inches"
+    ],
+    "feedback": "Redtop is best mowed at 1.5 to 2.0 inches, far taller than the other bentgrasses in this module.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q077",
+    "module": "M13",
+    "question": "The preferred fertilization rate for redtop is:",
+    "correct": "1.0 - 2.0 lb. N / K ft² / year",
+    "options": [
+      "1.0 - 2.0 lb. N / K ft² / year",
+      "2.0 - 6.0 lb. N / K ft² / year",
+      "0.5 - 1.0 lb. N / K ft² / year",
+      "3.0 - 8.0 lb. N / K ft² / year"
+    ],
+    "feedback": "Redtop's preferred fertilization rate is 1.0 to 2.0 lb N/K ft²/year.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q078",
+    "module": "M13",
+    "question": "The preferred irrigation amount for redtop is:",
+    "correct": "low to moderate",
+    "options": [
+      "low to moderate",
+      "needed frequently",
+      "needed moderately",
+      "not needed"
+    ],
+    "feedback": "Redtop needs low to moderate irrigation.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q079",
+    "module": "M13",
+    "question": "'Other' cultural practices for redtop are:",
+    "correct": "not required",
+    "options": [
+      "not required",
+      "extensive and specialized",
+      "limited to topdressing",
+      "limited to fungicide applications"
+    ],
+    "feedback": "Cultural practices are not required to promote favorable redtop growth.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q080",
+    "module": "M13",
+    "question": "On golf greens, redtop is rated:",
+    "correct": "not adapted",
+    "options": [
+      "not adapted",
+      "adapted",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Redtop is not adapted for golf greens.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q081",
+    "module": "M13",
+    "question": "On golf tees, redtop is rated:",
+    "correct": "not adapted",
+    "options": [
+      "not adapted",
+      "adapted",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Redtop is not adapted for golf tees.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q082",
+    "module": "M13",
+    "question": "On golf fairways, redtop is rated:",
+    "correct": "not adapted",
+    "options": [
+      "not adapted",
+      "adapted",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Redtop is not adapted for golf fairways.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q083",
+    "module": "M13",
+    "question": "On golf roughs, redtop is rated:",
+    "correct": "not adapted",
+    "options": [
+      "not adapted",
+      "adapted",
+      "marginally adapted",
+      "overseeding only"
+    ],
+    "feedback": "Redtop is not adapted for golf roughs.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q084",
+    "module": "M13",
+    "question": "For athletic turf, redtop is rated:",
+    "correct": "not adaptable",
+    "options": [
+      "not adaptable",
+      "well adapted",
+      "marginally adapted",
+      "ideal"
+    ],
+    "feedback": "Redtop is not adaptable for athletic turf.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q085",
+    "module": "M13",
+    "question": "For lawn turf, redtop is rated:",
+    "correct": "not adaptable",
+    "options": [
+      "not adaptable",
+      "well adapted",
+      "marginally adapted",
+      "adaptable for low intensities only"
+    ],
+    "feedback": "Redtop is not adaptable for lawn turf.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q086",
+    "module": "M13",
+    "question": "For utility turf, redtop can be used in:",
+    "correct": "poorly drained sites",
+    "options": [
+      "poorly drained sites",
+      "well-drained sandy soils only",
+      "intensively trafficked areas",
+      "shaded woodland paths"
+    ],
+    "feedback": "Redtop can be used in poorly drained sites for utility turf.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q087",
+    "module": "M13",
+    "question": "Of the species in this module, which is rated 'not suitable' for golf tees: creeping bentgrass or velvet bentgrass?",
+    "correct": "velvet bentgrass",
+    "options": [
+      "velvet bentgrass",
+      "creeping bentgrass",
+      "both",
+      "neither"
+    ],
+    "feedback": "Velvet bentgrass is rated 'not suitable' for golf tees; creeping bentgrass is 'well adapted.'",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q088",
+    "module": "M13",
+    "question": "Which bentgrass species has the lowest mowing-height ceiling per its module page: creeping bentgrass (up to 0.5 in) or velvet bentgrass (up to 0.4 in)?",
+    "correct": "velvet bentgrass",
+    "options": [
+      "velvet bentgrass",
+      "creeping bentgrass",
+      "they are equal",
+      "neither has a stated ceiling"
+    ],
+    "feedback": "Velvet bentgrass's mowing height tops out at 0.4 inches, lower than creeping bentgrass's 0.5-inch ceiling.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q089",
+    "module": "M13",
+    "question": "Among creeping, colonial, velvet bentgrass, and redtop, which is rated 'not adapted/not suitable' across all four golf-turf categories (greens, tees, fairways, roughs)?",
+    "correct": "redtop",
+    "options": [
+      "redtop",
+      "velvet bentgrass",
+      "creeping bentgrass",
+      "colonial bentgrass"
+    ],
+    "feedback": "Redtop is rated 'not adapted' for golf greens, tees, fairways, and roughs alike.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q090",
+    "module": "M13",
+    "question": "Which bentgrass species is rated 'adapted' across ALL FOUR golf-turf categories (greens, tees, fairways, roughs): colonial bentgrass or creeping bentgrass?",
+    "correct": "colonial bentgrass",
+    "options": [
+      "colonial bentgrass",
+      "creeping bentgrass",
+      "both",
+      "neither"
+    ],
+    "feedback": "Colonial bentgrass is rated 'adapted' for all four golf-turf categories; creeping bentgrass is 'not suitable' for roughs.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "m13q091",
+    "module": "M13",
+    "question": "Among creeping (0.5 in max), colonial (0.8 in max), velvet (0.4 in max), and redtop (2.0 in max), which bentgrass species has the TALLEST preferred mowing height?",
+    "correct": "redtop",
+    "options": [
+      "redtop",
+      "colonial bentgrass",
+      "creeping bentgrass",
+      "velvet bentgrass"
+    ],
+    "feedback": "Redtop's mowing height (1.5-2.0 inches) is far taller than the other bentgrasses in this module.",
+    "source": "M13.6: Redtop",
+    "kind": "module"
+  },
+  {
+    "id": "m13q092",
+    "module": "M13",
+    "question": "Per the textbook, the Aveneae tribe's one major turfgrass genus is Agrostis, and its one minor genus is:",
+    "correct": "Phleum",
+    "options": [
+      "Phleum",
+      "Festuca",
+      "Lolium",
+      "Puccinellia"
+    ],
+    "feedback": "Agrostis is the major Aveneae genus; Phleum (timothy) is the minor one.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q093",
+    "module": "M13",
+    "question": "Per the textbook, ploidy levels within the Aveneae tribe range from diploid up to:",
+    "correct": "decaploid (2n = 10x = 70)",
+    "options": [
+      "decaploid (2n = 10x = 70)",
+      "octoploid (2n = 8x = 56)",
+      "hexaploid (2n = 6x = 42)",
+      "tetraploid (2n = 4x = 28)"
+    ],
+    "feedback": "Aveneae ploidy ranges from diploid (2n = 2x = 14) up to decaploid (2n = 10x = 70).",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q094",
+    "module": "M13",
+    "question": "Per the textbook, the genus Agrostis (bentgrass) includes about how many species?",
+    "correct": "125",
+    "options": [
+      "125",
+      "25",
+      "60",
+      "10"
+    ],
+    "feedback": "The genus Agrostis includes about 125 species.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q095",
+    "module": "M13",
+    "question": "Per the textbook, of the roughly 125 Agrostis species, how many are used as turfgrasses?",
+    "correct": "six",
+    "options": [
+      "six",
+      "two",
+      "ten",
+      "all of them"
+    ],
+    "feedback": "Six Agrostis species are used as turfgrasses.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q096",
+    "module": "M13",
+    "question": "Per the textbook, the six bentgrass turfgrass species are creeping, colonial, dryland, Idaho, velvet, and:",
+    "correct": "redtop",
+    "options": [
+      "redtop",
+      "meadow",
+      "sheep",
+      "annual"
+    ],
+    "feedback": "The six bentgrass species are creeping, colonial, dryland, Idaho, velvet bentgrass, and redtop.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q097",
+    "module": "M13",
+    "question": "Per the textbook, with the exception of Idaho bentgrass and redtop, the bentgrasses have been used extensively for:",
+    "correct": "greens and other intensively cultured turfs",
+    "options": [
+      "greens and other intensively cultured turfs",
+      "roadside soil stabilization only",
+      "forage and pasture use",
+      "shaded woodland lawns only"
+    ],
+    "feedback": "Except for Idaho bentgrass and redtop, the bentgrasses are used extensively for greens and other intensively cultured turfs.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q098",
+    "module": "M13",
+    "question": "Per the textbook, morphological features common to the bentgrass species include ridged leaf blades on the adaxial side, single-floret spikelets, and:",
+    "correct": "rolled vernation",
+    "options": [
+      "rolled vernation",
+      "folded vernation",
+      "prominent auricles",
+      "hairy ligules"
+    ],
+    "feedback": "Bentgrasses share ridged adaxial leaf blades, rolled vernation, and single-floret spikelets.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q099",
+    "module": "M13",
+    "question": "Per the textbook, creeping bentgrass is a tetraploid with how many chromosomes?",
+    "correct": "28 (2n = 4x = 28)",
+    "options": [
+      "28 (2n = 4x = 28)",
+      "42 (2n = 6x = 42)",
+      "14 (2n = 2x = 14)",
+      "56 (2n = 8x = 56)"
+    ],
+    "feedback": "Creeping bentgrass is a tetraploid with 28 chromosomes.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q100",
+    "module": "M13",
+    "question": "Per the textbook, creeping bentgrass is currently the most widely used cool-season grass for:",
+    "correct": "golf greens",
+    "options": [
+      "golf greens",
+      "lawn turf",
+      "roadside soil stabilization",
+      "athletic fields"
+    ],
+    "feedback": "Creeping bentgrass is the most widely used cool-season grass for golf greens.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q101",
+    "module": "M13",
+    "question": "The historical multi-species green mixture containing a small percentage of creeping bentgrass, 75-85% colonial and dryland bentgrass, and 10-20% velvet bentgrass was called:",
+    "correct": "South German Mixed Bent",
+    "options": [
+      "South German Mixed Bent",
+      "North American Fine Turf Blend",
+      "Arlington Test Mixture",
+      "Pentagon Green Mix"
+    ],
+    "feedback": "South German Mixed Bent was the historical multi-species green mixture described in the textbook.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q102",
+    "module": "M13",
+    "question": "In South German Mixed Bent, creeping bentgrass typically made up what percentage of the mix?",
+    "correct": "1% to 5%",
+    "options": [
+      "1% to 5%",
+      "10% to 20%",
+      "25% to 50%",
+      "75% to 85%"
+    ],
+    "feedback": "Creeping bentgrass made up only 1% to 5% of South German Mixed Bent.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q103",
+    "module": "M13",
+    "question": "In South German Mixed Bent, colonial and dryland bentgrass together typically made up:",
+    "correct": "75% to 85%",
+    "options": [
+      "75% to 85%",
+      "1% to 5%",
+      "10% to 20%",
+      "50% to 60%"
+    ],
+    "feedback": "Colonial and dryland bentgrass together made up 75% to 85% of South German Mixed Bent.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q104",
+    "module": "M13",
+    "question": "Over time, South German Mixed Bent greens separated into distinct patches of predominantly creeping bentgrass and, to a lesser extent:",
+    "correct": "velvet bentgrass",
+    "options": [
+      "velvet bentgrass",
+      "colonial bentgrass",
+      "dryland bentgrass",
+      "redtop"
+    ],
+    "feedback": "South German Mixed Bent greens separated into patches of mostly creeping bentgrass and, to a lesser extent, velvet bentgrass.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q105",
+    "module": "M13",
+    "question": "USGA Green Section-selected creeping bentgrass patches were propagated in plots at Arlington, Virginia, now the site of the:",
+    "correct": "Pentagon",
+    "options": [
+      "Pentagon",
+      "U.S. Capitol",
+      "White House",
+      "Smithsonian Institution"
+    ],
+    "feedback": "The Arlington, Virginia test plots are now the site of the Pentagon.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q106",
+    "module": "M13",
+    "question": "The C-series creeping bentgrass cultivars (e.g., Arlington C-1, Cohansey C-7, Congressional C-19) had to be propagated vegetatively because they could not be:",
+    "correct": "established true-to-type from seed",
+    "options": [
+      "established true-to-type from seed",
+      "grown outside Virginia",
+      "mowed below 1 inch",
+      "fertilized at low rates"
+    ],
+    "feedback": "The C-series cultivars could not be established true-to-type from seed, so they were propagated vegetatively.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q107",
+    "module": "M13",
+    "question": "The only seeded C-series-era creeping bentgrass cultivar was Seaside, discovered in the tidal flatlands of:",
+    "correct": "western Oregon",
+    "options": [
+      "western Oregon",
+      "coastal Rhode Island",
+      "the Chesapeake Bay",
+      "southern New Jersey"
+    ],
+    "feedback": "Seaside was a salt-tolerant cultivar discovered in the tidal flatlands of western Oregon.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q108",
+    "module": "M13",
+    "question": "Seaside was valued for being salt-tolerant but was ultimately considered:",
+    "correct": "inferior quality",
+    "options": [
+      "inferior quality",
+      "too expensive to produce",
+      "unsuited to any climate",
+      "resistant to all diseases"
+    ],
+    "feedback": "Despite its salt tolerance, Seaside was of inferior quality.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q109",
+    "module": "M13",
+    "question": "Most bentgrass greens were established with C-series cultivars until the 1955 introduction of:",
+    "correct": "Penncross",
+    "options": [
+      "Penncross",
+      "Pennlinks",
+      "Crenshaw",
+      "L-93"
+    ],
+    "feedback": "Penncross, introduced in 1955, largely replaced the C-series cultivars.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q110",
+    "module": "M13",
+    "question": "Penncross was the first-generation seed produced from random crossing of:",
+    "correct": "three vegetatively propagated clonal strains",
+    "options": [
+      "three vegetatively propagated clonal strains",
+      "two seeded cultivars",
+      "five C-series cultivars",
+      "Seaside and Highland"
+    ],
+    "feedback": "Penncross was first-generation seed from random crossing of three vegetatively propagated clonal strains.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q111",
+    "module": "M13",
+    "question": "Per the textbook, Penncross is classified among the ________-density, ________-growing creeping bentgrass cultivars.",
+    "correct": "low-density, prostrate-growing",
+    "options": [
+      "low-density, prostrate-growing",
+      "medium-density, upright-growing",
+      "high-density, upright-growing",
+      "high-density, prostrate-growing"
+    ],
+    "feedback": "Penncross is the low-density, prostrate-growing type among creeping bentgrass cultivars.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q112",
+    "module": "M13",
+    "question": "Per the textbook, medium-density upright-growing creeping bentgrass cultivars include Brighton, Cato, Crenshaw, Pennlinks, and:",
+    "correct": "SR 1020",
+    "options": [
+      "SR 1020",
+      "Penn A-1",
+      "007",
+      "T-1"
+    ],
+    "feedback": "SR 1020 is listed among the medium-density upright-growing creeping bentgrass cultivars.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q113",
+    "module": "M13",
+    "question": "Per the textbook, high-density upright-growing creeping bentgrass cultivars include 007, Pure Distinction, T-1, V8, and the:",
+    "correct": "Penn A- and G-series",
+    "options": [
+      "Penn A- and G-series",
+      "C-series",
+      "SR 7100 series",
+      "Alister and Allure series"
+    ],
+    "feedback": "The Penn A- and G-series are among the high-density upright-growing creeping bentgrass cultivars.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q114",
+    "module": "M13",
+    "question": "Per the textbook, high-density creeping bentgrass cultivars are well adapted to mowing heights as low as:",
+    "correct": "0.125 inch or less",
+    "options": [
+      "0.125 inch or less",
+      "0.5 inch or less",
+      "0.8 inch or less",
+      "1.0 inch or less"
+    ],
+    "feedback": "High-density creeping bentgrass cultivars tolerate mowing heights of 0.125 inch or less.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q115",
+    "module": "M13",
+    "question": "Per the textbook, colonial bentgrass is similar in appearance and adaptation to dryland bentgrass, but colonial is a tetraploid (28 chromosomes) while dryland bentgrass is a:",
+    "correct": "hexaploid (42 chromosomes)",
+    "options": [
+      "hexaploid (42 chromosomes)",
+      "diploid (14 chromosomes)",
+      "octoploid (56 chromosomes)",
+      "tetraploid as well (28 chromosomes)"
+    ],
+    "feedback": "Dryland bentgrass is a hexaploid with 42 chromosomes, unlike colonial bentgrass's tetraploid 28.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q116",
+    "module": "M13",
+    "question": "Per the textbook, colonial bentgrass's poor heat and drought tolerance limits its use mainly to oceanic climates such as the U.S. Pacific Northwest, New England, northwestern Europe, and:",
+    "correct": "New Zealand",
+    "options": [
+      "New Zealand",
+      "South Africa",
+      "Australia's interior",
+      "the Mediterranean coast"
+    ],
+    "feedback": "Colonial bentgrass is limited to oceanic climates including the Pacific Northwest, New England, northwestern Europe, and New Zealand.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q117",
+    "module": "M13",
+    "question": "Per the textbook, U.S. colonial bentgrass cultivars include Alister, Allure, Astoria, Bardot, and:",
+    "correct": "Duchess",
+    "options": [
+      "Duchess",
+      "Highland",
+      "Boral",
+      "Holfior"
+    ],
+    "feedback": "Duchess is among the U.S. colonial bentgrass cultivars listed alongside Alister, Allure, Astoria, and Bardot.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q118",
+    "module": "M13",
+    "question": "Per the textbook, northern European breeding of colonial bentgrass produced the cultivars Holfior and:",
+    "correct": "Boral",
+    "options": [
+      "Boral",
+      "Highland",
+      "Duchess",
+      "Tracenta"
+    ],
+    "feedback": "Holfior and Boral resulted from northern European colonial bentgrass breeding efforts.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q119",
+    "module": "M13",
+    "question": "Per the textbook, a common type of dryland bentgrass grown in the United States is:",
+    "correct": "Highland",
+    "options": [
+      "Highland",
+      "Exeter",
+      "Astoria",
+      "GolfStar"
+    ],
+    "feedback": "Highland is a common U.S. dryland bentgrass type.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q120",
+    "module": "M13",
+    "question": "Per the textbook, Idaho bentgrass differs from colonial and dryland bentgrass in that its leaves are broader and darker, and it lacks rhizomes and:",
+    "correct": "false crowns",
+    "options": [
+      "false crowns",
+      "ligules",
+      "collars",
+      "auricles"
+    ],
+    "feedback": "Idaho bentgrass lacks rhizomes and false crowns, unlike colonial and dryland bentgrass.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q121",
+    "module": "M13",
+    "question": "Per the textbook, Idaho bentgrass favors moist conditions and is commonly found along:",
+    "correct": "stream banks",
+    "options": [
+      "stream banks",
+      "sand dunes",
+      "desert washes",
+      "mountain ridgelines"
+    ],
+    "feedback": "Idaho bentgrass favors moist conditions and is commonly found along stream banks.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q122",
+    "module": "M13",
+    "question": "Per the textbook, the single cultivar of Idaho bentgrass is:",
+    "correct": "GolfStar",
+    "options": [
+      "GolfStar",
+      "Highland",
+      "Exeter",
+      "Rudiger"
+    ],
+    "feedback": "GolfStar is the single cultivar of Idaho bentgrass.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q123",
+    "module": "M13",
+    "question": "Per the textbook, velvet bentgrass is a diploid with how many chromosomes?",
+    "correct": "14 (2n = 2x = 14)",
+    "options": [
+      "14 (2n = 2x = 14)",
+      "28 (2n = 4x = 28)",
+      "42 (2n = 6x = 42)",
+      "56 (2n = 8x = 56)"
+    ],
+    "feedback": "Velvet bentgrass is a diploid with 14 chromosomes, the lowest chromosome count among the bentgrasses in this module.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q124",
+    "module": "M13",
+    "question": "Per the textbook, compared with other bentgrasses, velvet bentgrass is more tolerant of shade, drought, and:",
+    "correct": "soil acidity",
+    "options": [
+      "soil acidity",
+      "high salinity",
+      "waterlogged soils",
+      "high fertility"
+    ],
+    "feedback": "Velvet bentgrass is more tolerant of shade, drought, and soil acidity than other bentgrasses.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q125",
+    "module": "M13",
+    "question": "Per the textbook, the currently best velvet bentgrass cultivars are SR 7200, Vesper, and:",
+    "correct": "Greenwich",
+    "options": [
+      "Greenwich",
+      "Highland",
+      "Rudiger",
+      "Exeter"
+    ],
+    "feedback": "SR 7200, Greenwich, and Vesper are the currently best velvet bentgrass cultivars per the textbook.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q126",
+    "module": "M13",
+    "question": "Per the textbook, velvet bentgrass's inflorescence is described as a reddish,:",
+    "correct": "spreading panicle",
+    "options": [
+      "spreading panicle",
+      "contracted panicle",
+      "flattened spike",
+      "cylindrical spike"
+    ],
+    "feedback": "Velvet bentgrass's inflorescence is a reddish, spreading panicle.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q127",
+    "module": "M13",
+    "question": "Per the textbook's taxonomy discussion, redtop (Agrostis gigantea) has been identified by two different authorities, reflected in the alternate Latin name:",
+    "correct": "Agrostis alba L.",
+    "options": [
+      "Agrostis alba L.",
+      "Agrostis palustris Huds.",
+      "Agrostis trachyphylla",
+      "Agrostis rubra"
+    ],
+    "feedback": "Redtop has been identified by the Latin names Agrostis gigantea Roth and Agrostis alba L., reflecting two different naming authorities.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q128",
+    "module": "M13",
+    "question": "Per the textbook's species description, redtop is a coarse-textured, grayish green, ________ species.",
+    "correct": "rhizomatous",
+    "options": [
+      "rhizomatous",
+      "stoloniferous",
+      "bunch-type",
+      "weakly creeping"
+    ],
+    "feedback": "The textbook describes redtop as coarse-textured, grayish green, and rhizomatous.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q129",
+    "module": "M13",
+    "question": "Per the textbook, redtop was historically used as a component of cool-season turfgrass seed mixtures to promote:",
+    "correct": "rapid cover",
+    "options": [
+      "rapid cover",
+      "disease resistance",
+      "nitrogen fixation",
+      "drought tolerance"
+    ],
+    "feedback": "Redtop was used in seed mixtures to promote rapid cover.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q130",
+    "module": "M13",
+    "question": "Per the textbook, redtop's use as a nursegrass is discouraged because of its highly competitive seedling growth and its unsightly appearance and:",
+    "correct": "persistence in new turfs",
+    "options": [
+      "persistence in new turfs",
+      "susceptibility to drought",
+      "low germination rate",
+      "poor cold tolerance"
+    ],
+    "feedback": "Redtop's competitive seedling growth and unsightly, persistent patches discourage its use as a nursegrass.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q131",
+    "module": "M13",
+    "question": "Per the textbook, redtop is a hexaploid with how many chromosomes?",
+    "correct": "42 (2n = 6x = 42)",
+    "options": [
+      "42 (2n = 6x = 42)",
+      "28 (2n = 4x = 28)",
+      "14 (2n = 2x = 14)",
+      "56 (2n = 8x = 56)"
+    ],
+    "feedback": "Redtop is a hexaploid with 42 chromosomes.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q132",
+    "module": "M13",
+    "question": "Per the textbook, redtop is intolerant of close mowing and needs a mowing height of at least:",
+    "correct": "1.5 to 2 inches",
+    "options": [
+      "1.5 to 2 inches",
+      "0.5 to 1 inch",
+      "0.125 to 0.5 inch",
+      "3 to 4 inches"
+    ],
+    "feedback": "Redtop needs a mowing height of at least 1.5 to 2 inches to persist, matching its module page's range.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q133",
+    "module": "M13",
+    "question": "Per the textbook, redtop is occasionally used as a 'repair grass' for damaged or diseased greens, although ________ are generally preferred for that purpose.",
+    "correct": "fine fescues or ryegrasses",
+    "options": [
+      "fine fescues or ryegrasses",
+      "velvet or colonial bentgrass",
+      "Kentucky bluegrass cultivars",
+      "tall fescue cultivars"
+    ],
+    "feedback": "Fine fescues or ryegrasses are generally preferred over redtop as repair grasses.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q134",
+    "module": "M13",
+    "question": "Per the textbook, the redtop cultivar Rudiger was released promising improved tolerance to drought, salinity, and:",
+    "correct": "alkalinity",
+    "options": [
+      "alkalinity",
+      "acidity",
+      "shade",
+      "disease"
+    ],
+    "feedback": "Rudiger was released with improved tolerance to drought, salinity, and alkalinity.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q135",
+    "module": "M13",
+    "question": "Which bentgrass species has more chromosomes per the textbook: redtop (42) or velvet bentgrass (14)?",
+    "correct": "redtop",
+    "options": [
+      "redtop",
+      "velvet bentgrass",
+      "they are equal",
+      "neither has a reported chromosome count"
+    ],
+    "feedback": "Redtop is a hexaploid (42 chromosomes), more than velvet bentgrass's diploid 14.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q136",
+    "module": "M13",
+    "question": "Which species has more chromosomes per the textbook: dryland bentgrass (42) or colonial bentgrass (28)?",
+    "correct": "dryland bentgrass",
+    "options": [
+      "dryland bentgrass",
+      "colonial bentgrass",
+      "they are equal",
+      "neither has a reported chromosome count"
+    ],
+    "feedback": "Dryland bentgrass is a hexaploid (42 chromosomes), more than colonial bentgrass's tetraploid 28.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m13q137",
+    "module": "M13",
+    "question": "Per the textbook's species descriptions, which is finer textured: velvet bentgrass or redtop?",
+    "correct": "velvet bentgrass",
+    "options": [
+      "velvet bentgrass",
+      "redtop",
+      "they are equally fine",
+      "neither description mentions texture"
+    ],
+    "feedback": "Velvet bentgrass is described as very fine-textured, while redtop is described as coarse-textured.",
+    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
+    "kind": "enrichment"
+  }
+]
