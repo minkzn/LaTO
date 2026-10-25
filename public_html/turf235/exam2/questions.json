@@ -15598,5 +15598,875 @@
     "feedback": "Sulfur dioxide, fluorides, ozone, and some nitrogen-containing gases.",
     "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
     "kind": "enrichment"
+  },
+  {
+    "id": "m16q218",
+    "module": "M16",
+    "question": "Per the textbook, wind occurs as a result of differential heating of the earth's surface, rotation of the earth on its axis, and:",
+    "correct": "the formation and movement of pressure systems",
+    "options": [
+      "the formation and movement of pressure systems",
+      "the phases of the moon",
+      "evaporation from turfgrass leaves",
+      "soil-forming processes"
+    ],
+    "feedback": "Wind results from differential surface heating, the earth's rotation, and the formation and movement of pressure systems.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q219",
+    "module": "M16",
+    "question": "Per the textbook, sites at high elevations in the tropics may be quite suitable for:",
+    "correct": "cool-season turfgrasses",
+    "options": [
+      "cool-season turfgrasses",
+      "only warm-season turfgrasses",
+      "no turfgrasses at all",
+      "only salt-tolerant turfgrasses"
+    ],
+    "feedback": "Average temperatures fall appreciably with small altitude increases, so high tropical sites can suit cool-season grasses.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q220",
+    "module": "M16",
+    "question": "Per the textbook, light reaching shaded turf contains a high proportion of far-red light, which spans:",
+    "correct": "700 to 800 nm",
+    "options": [
+      "700 to 800 nm",
+      "400 to 500 nm",
+      "600 to 700 nm",
+      "300 to 400 nm"
+    ],
+    "feedback": "Far-red light is 700 to 800 nm; tree leaves absorb much of the PAR, so shade light is rich in far-red relative to red.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q221",
+    "module": "M16",
+    "question": "Per the textbook, beyond reaching the light compensation point, photosynthesis in turf must also sustain respiration during dark hours and provide:",
+    "correct": "extra carbohydrate for growth that offsets tissue losses from senescence, mechanical damage, and pests",
+    "options": [
+      "extra carbohydrate for growth that offsets tissue losses from senescence, mechanical damage, and pests",
+      "enough sugar to stop all respiration",
+      "energy for phytochrome conversion only",
+      "carbohydrates exported to tree roots"
+    ],
+    "feedback": "The textbook describes three increments: reaching the compensation point, covering night respiration, and extra growth to replace lost tissue.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q222",
+    "module": "M16",
+    "question": "If PAR and light quality are inadequate for the necessary growth rate, which is NOT a course of action the textbook suggests?",
+    "correct": "increasing nitrogen fertilization",
+    "options": [
+      "increasing nitrogen fertilization",
+      "pruning or removing interfering plants",
+      "reducing traffic intensity",
+      "establishing shade-adapted species or cultivars"
+    ],
+    "feedback": "The textbook suggests pruning or removing plants, reducing traffic, or switching to shade-adapted grasses. It actually advises reducing N in shade.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q223",
+    "module": "M16",
+    "question": "Per the textbook, besides countering the phytochrome-mitigated shade response, trinexapac-ethyl may help shaded turf by:",
+    "correct": "reducing vertical shoot growth, which conserves carbohydrates",
+    "options": [
+      "reducing vertical shoot growth, which conserves carbohydrates",
+      "increasing PAR reaching the leaves",
+      "raising the red to far-red ratio",
+      "increasing leaf elongation"
+    ],
+    "feedback": "Reduced vertical shoot growth conserves carbohydrates, partially compensating for reduced PAR.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q224",
+    "module": "M16",
+    "question": "Spectrum-adjusted HPS grow lamps are used on some shaded greens and tees to provide more:",
+    "correct": "blue light",
+    "options": [
+      "blue light",
+      "far-red light",
+      "ultraviolet light",
+      "infrared heat"
+    ],
+    "feedback": "Spectrum-adjusted HPS lamps provide more blue light.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q225",
+    "module": "M16",
+    "question": "Per the textbook, grow lights can extend illumination during heat-stress periods in order to:",
+    "correct": "reduce carbohydrate stress in cool-season turfgrasses during summer",
+    "options": [
+      "reduce carbohydrate stress in cool-season turfgrasses during summer",
+      "induce dormancy in warm-season grasses",
+      "melt ice on greens",
+      "remove dew in early morning"
+    ],
+    "feedback": "Extra early-morning or late-evening light adds photosynthesis and reduces summer carbohydrate stress.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q226",
+    "module": "M16",
+    "question": "The textbook illustrates light exclusion with symptoms on an athletic field following:",
+    "correct": "a music concert",
+    "options": [
+      "a music concert",
+      "a snowstorm",
+      "a fertilizer application",
+      "a heat wave"
+    ],
+    "feedback": "Figure 4.8 shows light-exclusion injury after a music concert.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q227",
+    "module": "M16",
+    "question": "Per the textbook, besides competing for moisture and nutrients, the roots of some trees:",
+    "correct": "exude chemicals that may be toxic to turfgrasses",
+    "options": [
+      "exude chemicals that may be toxic to turfgrasses",
+      "fix nitrogen for the turf",
+      "increase soil oxygen",
+      "raise the light compensation point of turf"
+    ],
+    "feedback": "Some tree roots exude chemicals toxic to turfgrass.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q228",
+    "module": "M16",
+    "question": "Per the textbook, the effects of shading on the turf microenvironment include:",
+    "correct": "moderated temperature fluctuations, restricted air movement, and increased relative humidity",
+    "options": [
+      "moderated temperature fluctuations, restricted air movement, and increased relative humidity",
+      "wider temperature swings and stronger winds",
+      "lower relative humidity and faster drying",
+      "increased PAR and red light"
+    ],
+    "feedback": "Shade moderates temperatures, restricts air movement, and raises RH, which can increase disease on low, poorly drained sites.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q229",
+    "module": "M16",
+    "question": "Per the textbook, much of the solar radiation absorbed by plants is reradiated to the atmosphere at:",
+    "correct": "longer (infrared) wavelengths",
+    "options": [
+      "longer (infrared) wavelengths",
+      "shorter (ultraviolet) wavelengths",
+      "the same visible wavelengths",
+      "far-red wavelengths only"
+    ],
+    "feedback": "Reradiation occurs at longer, infrared wavelengths, warming the ambient air.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q230",
+    "module": "M16",
+    "question": "Heat transferred downward from the soil surface by adjacent soil particles is an example of:",
+    "correct": "conduction",
+    "options": [
+      "conduction",
+      "convection",
+      "advection",
+      "radiation"
+    ],
+    "feedback": "Conduction transfers heat between objects or molecules in contact, such as soil particles.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q231",
+    "module": "M16",
+    "question": "Plumes of heated air rising from plant surfaces illustrate:",
+    "correct": "convection",
+    "options": [
+      "convection",
+      "conduction",
+      "advection",
+      "evaporation"
+    ],
+    "feedback": "Convection moves heat from plants to the atmosphere as heated air rises.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q232",
+    "module": "M16",
+    "question": "Per the textbook, advective cooling can occur on turfs located:",
+    "correct": "near large bodies of water when air above the cooler water moves inland",
+    "options": [
+      "near large bodies of water when air above the cooler water moves inland",
+      "next to paved surfaces",
+      "on south-facing slopes",
+      "under dense tree canopies"
+    ],
+    "feedback": "Air moving inland off cooler water carries advective cooling to nearby turf.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q233",
+    "module": "M16",
+    "question": "Per the textbook, the maximum and minimum survival temperatures of a turfgrass vary depending on:",
+    "correct": "the exposure period",
+    "options": [
+      "the exposure period",
+      "the mowing height only",
+      "the time of day only",
+      "the soil pH"
+    ],
+    "feedback": "Turf can survive extreme temperatures briefly but may die with prolonged exposure to the same temperatures.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q234",
+    "module": "M16",
+    "question": "Which is NOT listed in the textbook as a chemical treatment that can induce thermotolerance?",
+    "correct": "gibberellic acid",
+    "options": [
+      "gibberellic acid",
+      "salicylic acid",
+      "abscisic acid",
+      "calcium"
+    ],
+    "feedback": "Salicylic acid, abscisic acid, ethylene, and calcium can induce thermotolerance.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q235",
+    "module": "M16",
+    "question": "Traditionally, thermotolerance in turfgrass has been linked to the induction of:",
+    "correct": "heat shock proteins",
+    "options": [
+      "heat shock proteins",
+      "antifreeze proteins",
+      "phytochrome",
+      "chlorophyll b"
+    ],
+    "feedback": "Thermotolerance has traditionally been linked to heat shock proteins, though antioxidants, metabolism, proline, and lipid changes also play roles.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q236",
+    "module": "M16",
+    "question": "During heat acclimation, desaturation of membrane lipids from 18:2 to 18:3 linoleic acid results in:",
+    "correct": "increased membrane fluidity",
+    "options": [
+      "increased membrane fluidity",
+      "decreased membrane fluidity",
+      "ice crystal formation",
+      "stomatal closure"
+    ],
+    "feedback": "Adding a third double bond to the 18-carbon fatty acid increases membrane fluidity.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q237",
+    "module": "M16",
+    "question": "During cold acclimation, desaturation of membrane lipids:",
+    "correct": "lowers the temperature at which membranes begin to crystallize",
+    "options": [
+      "lowers the temperature at which membranes begin to crystallize",
+      "raises the temperature at which membranes crystallize",
+      "increases plant hydration",
+      "destroys antifreeze proteins"
+    ],
+    "feedback": "Lipid desaturation lowers the membrane crystallization temperature.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q238",
+    "module": "M16",
+    "question": "Per the textbook, soluble sugars that accumulate during cold acclimation help by:",
+    "correct": "restricting ice growth in cell walls and increasing osmotic pressure in vacuoles",
+    "options": [
+      "restricting ice growth in cell walls and increasing osmotic pressure in vacuoles",
+      "increasing plant hydration",
+      "promoting leaf elongation",
+      "converting Pr to Pfr"
+    ],
+    "feedback": "Sugars in cell walls may restrict ice growth; in vacuoles they raise osmotic pressure.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q239",
+    "module": "M16",
+    "question": "During cold acclimation, endogenous concentrations of which phytohormone increase, possibly inducing proteins that enhance cold hardiness?",
+    "correct": "abscisic acid",
+    "options": [
+      "abscisic acid",
+      "gibberellic acid",
+      "auxin",
+      "cytokinin"
+    ],
+    "feedback": "Rising abscisic acid suggests a role in cold acclimation.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q240",
+    "module": "M16",
+    "question": "One mechanism of antifreeze proteins is to:",
+    "correct": "bind to the surfaces of ice crystals to prevent or slow further crystal growth",
+    "options": [
+      "bind to the surfaces of ice crystals to prevent or slow further crystal growth",
+      "melt ice already in the cells",
+      "increase crown hydration",
+      "break down membrane lipids"
+    ],
+    "feedback": "Antifreeze proteins bind ice crystal surfaces to slow their growth.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q241",
+    "module": "M16",
+    "question": "Per the textbook, during the day the soil surface temperature tends to be ________ the atmosphere, and at night slightly ________.",
+    "correct": "higher than; lower",
+    "options": [
+      "higher than; lower",
+      "lower than; higher",
+      "equal to; equal",
+      "lower than; lower"
+    ],
+    "feedback": "Surfaces absorb solar heat before transferring it to the air, so they are warmer by day and slightly cooler at night.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q242",
+    "module": "M16",
+    "question": "Per the textbook, turfed surfaces accumulate heat less rapidly than artificial surfaces or gravel mainly because of:",
+    "correct": "transpirational cooling and differences in energy transfer",
+    "options": [
+      "transpirational cooling and differences in energy transfer",
+      "higher reflectivity of turf only",
+      "lower insolation over turf",
+      "snow cover"
+    ],
+    "feedback": "Transpirational cooling keeps turf and the air above it cooler than many other surfaces.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q243",
+    "module": "M16",
+    "question": "The presumed basis for thermoperiodic growth is that:",
+    "correct": "photosynthesis is favored by daytime conditions while growth proceeds best at cooler night temperatures",
+    "options": [
+      "photosynthesis is favored by daytime conditions while growth proceeds best at cooler night temperatures",
+      "plants grow only during the day",
+      "constant temperatures always maximize growth",
+      "growth is controlled only by photoperiod"
+    ],
+    "feedback": "Fluctuating day/night temperatures promoted shoot growth because photosynthesis and growth have different temperature optima.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q244",
+    "module": "M16",
+    "question": "Per the textbook, which practice may improve the winter survival of bermudagrass where it is marginally adapted?",
+    "correct": "mulching before winter",
+    "options": [
+      "mulching before winter",
+      "lowering mowing height in fall",
+      "heavy late-fall nitrogen",
+      "removing all snow"
+    ],
+    "feedback": "Mulching bermudagrass before winter can extend its limits of adaptation; controlled irrigation similarly aids annual bluegrass in summer.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q245",
+    "module": "M16",
+    "question": "Per the textbook, predictions of turfgrass adaptation based strictly on latitude and altitude are:",
+    "correct": "unreliable, because topographical features strongly influence climate",
+    "options": [
+      "unreliable, because topographical features strongly influence climate",
+      "always accurate",
+      "accurate only in the tropics",
+      "accurate only for warm-season grasses"
+    ],
+    "feedback": "Topography (water bodies, landforms, vegetation) makes latitude/altitude-only predictions unreliable.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q246",
+    "module": "M16",
+    "question": "Per the textbook, around buildings in the northern hemisphere, summer heat is most severe along the:",
+    "correct": "south side",
+    "options": [
+      "south side",
+      "north side",
+      "east side only",
+      "roof line"
+    ],
+    "feedback": "Heat is most severe on the south side; on the north side, shade may threaten turf survival.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q247",
+    "module": "M16",
+    "question": "Which function of water accounts for the greatest utilization of water by plants?",
+    "correct": "buffering the plant against temperature fluctuations through transpiration",
+    "options": [
+      "buffering the plant against temperature fluctuations through transpiration",
+      "maintaining cell turgidity",
+      "transporting nutrients",
+      "serving as a raw material for photosynthesis"
+    ],
+    "feedback": "Transpirational temperature buffering uses the most water.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q248",
+    "module": "M16",
+    "question": "At 86°F and 40% RH, ambient vapor pressure is 12.74 mm Hg and a saturated boundary layer is 31.85 mm Hg, giving a vapor pressure gradient of:",
+    "correct": "19.11 mm Hg",
+    "options": [
+      "19.11 mm Hg",
+      "6.37 mm Hg",
+      "25.48 mm Hg",
+      "44.59 mm Hg"
+    ],
+    "feedback": "31.85 − 12.74 = 19.11 mm Hg, driving rapid water vapor movement away from the leaf.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q249",
+    "module": "M16",
+    "question": "On a very humid day (80% RH) at the same 86°F, the vapor pressure gradient from the boundary layer drops to only:",
+    "correct": "6.37 mm Hg",
+    "options": [
+      "6.37 mm Hg",
+      "19.11 mm Hg",
+      "12.74 mm Hg",
+      "31.85 mm Hg"
+    ],
+    "feedback": "Ambient vapor pressure is 25.48 mm Hg, so the gradient is 31.85 − 25.48 = 6.37 mm Hg.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q250",
+    "module": "M16",
+    "question": "The boundary layer reduces the vapor pressure gradient between the leaf's intercellular spaces and the outside air, resulting in:",
+    "correct": "a much reduced rate of transpiration",
+    "options": [
+      "a much reduced rate of transpiration",
+      "a much faster rate of transpiration",
+      "guttation",
+      "stomatal opening"
+    ],
+    "feedback": "A thicker boundary layer slows transpiration and reduces water use.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q251",
+    "module": "M16",
+    "question": "Per the textbook, carefully controlled moisture deficits can result in:",
+    "correct": "more extensive root growth and better tolerance of environmental stresses",
+    "options": [
+      "more extensive root growth and better tolerance of environmental stresses",
+      "immediate plant death",
+      "shallower roots",
+      "increased disease"
+    ],
+    "feedback": "Controlled deficits promote root growth and stress tolerance (via abscisic acid).",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q252",
+    "module": "M16",
+    "question": "Annual bluegrass seed produced in midspring does not germinate during the summer because of:",
+    "correct": "high-temperature-enforced dormancy",
+    "options": [
+      "high-temperature-enforced dormancy",
+      "light exclusion",
+      "lack of moisture only",
+      "herbicide residues"
+    ],
+    "feedback": "Summer heat enforces dormancy; the seed then germinates rapidly in early fall.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q253",
+    "module": "M16",
+    "question": "Which is a drought AVOIDANCE mechanism, per the textbook?",
+    "correct": "increased root density and depth",
+    "options": [
+      "increased root density and depth",
+      "producing large quantities of seed",
+      "maintaining turgor at low water potentials",
+      "leaf firing"
+    ],
+    "feedback": "Avoidance keeps plant-water potential high via reduced water loss (smaller leaf area, higher stomatal/cuticular/canopy resistance) or more root uptake.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q254",
+    "module": "M16",
+    "question": "Per the textbook, one likely explanation for the role of fungal endophytes in drought tolerance is:",
+    "correct": "prevention of injury and water loss from nematodes, shoot-feeding insects, and some diseases",
+    "options": [
+      "prevention of injury and water loss from nematodes, shoot-feeding insects, and some diseases",
+      "increased photorespiration",
+      "reduced root growth",
+      "conversion of Pfr to Pr"
+    ],
+    "feedback": "Endophytes (Neotyphodium and Epichloe) may protect against pests that cause water loss, or alter phytohormones.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q255",
+    "module": "M16",
+    "question": "The basic sources of atmospheric moisture are the oceans, which cover approximately ________ of the earth's surface.",
+    "correct": "three-fourths",
+    "options": [
+      "three-fourths",
+      "one-half",
+      "one-fourth",
+      "nine-tenths"
+    ],
+    "feedback": "Oceans cover about three-fourths of the earth's surface.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q256",
+    "module": "M16",
+    "question": "When air is cooled, water vapor condenses around small particles called ________ to form clouds.",
+    "correct": "condensation nuclei",
+    "options": [
+      "condensation nuclei",
+      "hydathodes",
+      "stomates",
+      "boundary layers"
+    ],
+    "feedback": "Vapor condenses around condensation nuclei to form clouds, part of the hydrologic cycle.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q257",
+    "module": "M16",
+    "question": "During condensation (fog drip) on leaves:",
+    "correct": "latent heat is converted to sensible heat, reducing the drop in leaf temperature",
+    "options": [
+      "latent heat is converted to sensible heat, reducing the drop in leaf temperature",
+      "sensible heat is converted to latent heat, cooling the leaf further",
+      "no heat exchange occurs",
+      "phytochrome is activated"
+    ],
+    "feedback": "Condensation is the opposite of evaporation, releasing heat that slows radiation cooling of the leaf.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q258",
+    "module": "M16",
+    "question": "Per the textbook, dew formation is especially likely:",
+    "correct": "on clear nights when radiation cooling proceeds rapidly",
+    "options": [
+      "on clear nights when radiation cooling proceeds rapidly",
+      "on cloudy, windy nights",
+      "at midday",
+      "only in summer"
+    ],
+    "feedback": "Clear nights allow rapid radiation cooling and heavy dew.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q259",
+    "module": "M16",
+    "question": "Per the textbook, dew helps pesticide application because:",
+    "correct": "it clearly marks unsprayed strips, so sprayer operators are less likely to miss them",
+    "options": [
+      "it clearly marks unsprayed strips, so sprayer operators are less likely to miss them",
+      "it dilutes pesticides to safe levels",
+      "it prevents drift entirely",
+      "it activates all herbicides"
+    ],
+    "feedback": "Dew marks where the sprayer has and hasn't passed.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q260",
+    "module": "M16",
+    "question": "Per the textbook, greens are usually treated with preventive fungicides before snowfall because:",
+    "correct": "several winter diseases may be favored in snow-covered turf",
+    "options": [
+      "several winter diseases may be favored in snow-covered turf",
+      "snow increases desiccation",
+      "snow causes crown hydration directly",
+      "fungicides melt snow"
+    ],
+    "feedback": "Snow protects from desiccation and traffic but favors winter diseases.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q261",
+    "module": "M16",
+    "question": "Per the textbook, protective covers for greens are installed and removed:",
+    "correct": "in the fall after the last mowing, and removed the following spring",
+    "options": [
+      "in the fall after the last mowing, and removed the following spring",
+      "in midwinter after the first ice, and removed a week later",
+      "in summer, and removed in fall",
+      "only during freezing rain events"
+    ],
+    "feedback": "Covers go on after the last fall mowing and come off in spring, and must be stabilized against wind.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q262",
+    "module": "M16",
+    "question": "Per the textbook, greens are often covered for winter protection against ice damage in:",
+    "correct": "cool temperate-continental and subarctic climates",
+    "options": [
+      "cool temperate-continental and subarctic climates",
+      "tropical climates",
+      "warm-subtropical-humid climates",
+      "arid climates"
+    ],
+    "feedback": "Covering is common in cool temperate-continental and subarctic climates.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q263",
+    "module": "M16",
+    "question": "Per the textbook, the mixing action of wind carries parcels of \"clean\" air from above the turf into the shoot zone to:",
+    "correct": "displace parcels of \"dirty\" air, diluting water vapor and other gases",
+    "options": [
+      "displace parcels of \"dirty\" air, diluting water vapor and other gases",
+      "increase the boundary layer",
+      "concentrate pollutants near the leaves",
+      "raise relative humidity"
+    ],
+    "feedback": "Wind replaces shoot-zone air with cleaner air from above.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q264",
+    "module": "M16",
+    "question": "Per the textbook, deposition of small amounts of wind-blown soil on turf:",
+    "correct": "is usually not harmful and may even act as a beneficial topdressing",
+    "options": [
+      "is usually not harmful and may even act as a beneficial topdressing",
+      "always kills the turf",
+      "causes crown hydration",
+      "eliminates the boundary layer"
+    ],
+    "feedback": "Small deposits can act as topdressing; large ones exclude light.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q265",
+    "module": "M16",
+    "question": "Per the textbook, where two high-pressure systems meet:",
+    "correct": "a low-pressure system forms in which air converges and rises",
+    "options": [
+      "a low-pressure system forms in which air converges and rises",
+      "a stronger high-pressure system forms",
+      "air sinks and stagnates",
+      "a land breeze forms"
+    ],
+    "feedback": "Pressure is lowest where two highs meet, forming a low.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q266",
+    "module": "M16",
+    "question": "Per the textbook, Pacific highs carry moisture to the western coast and deposit most of it:",
+    "correct": "west of the Rocky Mountains",
+    "options": [
+      "west of the Rocky Mountains",
+      "east of the Rocky Mountains",
+      "over the Gulf of Mexico",
+      "in the Great Lakes region"
+    ],
+    "feedback": "Pacific moisture falls mostly west of the Rockies; Gulf air carries moisture north and east.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q267",
+    "module": "M16",
+    "question": "In coastal areas, a sea breeze results from:",
+    "correct": "daytime differential warming of land and sea, accelerating air from sea to land",
+    "options": [
+      "daytime differential warming of land and sea, accelerating air from sea to land",
+      "nighttime cooling of land, moving air to sea",
+      "cold air draining off mountains",
+      "warm air descending lee slopes"
+    ],
+    "feedback": "Sea breezes blow sea to land by day; land breezes reverse at night.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q268",
+    "module": "M16",
+    "question": "Mountain and valley winds flow:",
+    "correct": "up the mountain slope during the day and downward at night",
+    "options": [
+      "up the mountain slope during the day and downward at night",
+      "downward during the day and up at night",
+      "only downward at all times",
+      "only parallel to the slope"
+    ],
+    "feedback": "Daytime warming drives air up slopes; at night it flows down.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q269",
+    "module": "M16",
+    "question": "The Santa Ana wind of southern California is an example of a:",
+    "correct": "drainage wind",
+    "options": [
+      "drainage wind",
+      "chinook wind",
+      "sea breeze",
+      "land breeze"
+    ],
+    "feedback": "Drainage winds form as cold air gravitates off high ground; near the coast they can be severe, like the Santa Ana.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q270",
+    "module": "M16",
+    "question": "Per the textbook, exposed sites at relatively high elevations may require:",
+    "correct": "more irrigation during summer because of severe drying winds",
+    "options": [
+      "more irrigation during summer because of severe drying winds",
+      "less irrigation because winds add moisture",
+      "no irrigation",
+      "irrigation only in winter"
+    ],
+    "feedback": "Severe winds dry exposed high sites, increasing summer irrigation needs.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q271",
+    "module": "M16",
+    "question": "In a natural soil profile, the topsoil is the:",
+    "correct": "A horizon",
+    "options": [
+      "A horizon",
+      "B horizon",
+      "C horizon",
+      "R horizon"
+    ],
+    "feedback": "Topsoil (A horizon) is higher in organic matter and better structured than lower horizons.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q272",
+    "module": "M16",
+    "question": "The subsoil, or B horizon, is a zone where:",
+    "correct": "leachates have accumulated, making it far less suitable for plant growth than topsoil",
+    "options": [
+      "leachates have accumulated, making it far less suitable for plant growth than topsoil",
+      "organic residues sit at the surface",
+      "bedrock occurs",
+      "partially weathered parent material dominates"
+    ],
+    "feedback": "The B horizon accumulates leachates and is a poorer growth medium than the A horizon.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q273",
+    "module": "M16",
+    "question": "The C horizon of a soil profile is a zone of:",
+    "correct": "partially weathered parent material",
+    "options": [
+      "partially weathered parent material",
+      "surface organic residue",
+      "accumulated leachates",
+      "topsoil"
+    ],
+    "feedback": "The C horizon is partially weathered parent material; O is surface organic residue and R is bedrock.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q274",
+    "module": "M16",
+    "question": "Per the textbook, productive soils must be regarded as limited resources because:",
+    "correct": "soil formation requires many thousands of years",
+    "options": [
+      "soil formation requires many thousands of years",
+      "soil is easily manufactured",
+      "soil forms within a single season",
+      "turfgrass destroys soil quickly"
+    ],
+    "feedback": "Thousands of years of weathering, leaching, and organic matter accumulation are needed to form soil.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m16q275",
+    "module": "M16",
+    "question": "A block of turf with several inches of soil shows three phases of physical composition:",
+    "correct": "solid, liquid, and air",
+    "options": [
+      "solid, liquid, and air",
+      "sand, silt, and clay only",
+      "thatch, mat, and bedrock",
+      "A, B, and C horizons"
+    ],
+    "feedback": "Soil has solid (mineral, organic matter, roots), liquid, and air phases.",
+    "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
+    "kind": "enrichment"
   }
 ]
