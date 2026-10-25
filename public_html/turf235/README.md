@@ -1,8 +1,8 @@
 # TURF 235 Module Quizzes
 
-One directory per module (M1-M14, growing). Each question bank is modeled on the real Canvas quizzes for that module (style, tone, and depth) and sourced primarily from that module's own course PDFs, with a curated slice of textbook enrichment on the same topics where useful. Question counts vary by module — sized to how much real, well-formed material each module supports, not forced to a fixed number.
+One directory per module (M1-M15, growing). Each question bank is modeled on the real Canvas quizzes for that module (style, tone, and depth) and sourced primarily from that module's own course PDFs, with a curated slice of textbook enrichment on the same topics where useful. Question counts vary by module — sized to how much real, well-formed material each module supports, not forced to a fixed number.
 
-`exam1/` is a combined lock-in quiz covering Modules 1-9 (648 questions). `exam2/` is the same idea for Exam 2, covering Modules 10-14 (606 questions) and growing as later modules are added.
+`exam1/` is a combined lock-in quiz covering Modules 1-9 (648 questions). `exam2/` is the same idea for Exam 2, covering Modules 10-15 (823 questions) and growing as later modules are added.
 
 Behavior: 10 at a time; correct questions retire; missed questions cycle back; progress saved in browser.
 
@@ -21,3 +21,4 @@ Question counts (module-sourced + textbook-enrichment questions):
 - M12: 54 (45 module + 9 enrichment — what an endophyte is, species-to-endophyte mapping, crown/culm/seed location, choke disease, seed-squash and grow-out detection, and seed-storage viability limits)
 - M13: 137 (91 module + 46 enrichment — creeping bentgrass identification/adaptation plus its cultivar-history/regional-quality-rankings page, colonial bentgrass, velvet bentgrass, and redtop; South German Mixed Bent and C-series/Penncross cultivar history, full species descriptions, and a module-vs-textbook naming discrepancy on redtop's Latin authority)
 - M14: 192 (122 module + 70 enrichment — bermudagrass and zoysiagrass genus overviews plus common/hybrid species pages for each, and buffalograss; Chloridoideae/Cynodonteae/Zoysieae taxonomy, the full Tiflawn-to-ultradwarf hybrid bermudagrass cultivar lineage, Bouteloua gramagrass relatives, and a module-vs-textbook naming discrepancy on buffalograss's genus, Buchloe vs. Bouteloua)
+- M15: 217 (157 module + 60 enrichment — St. Augustinegrass, centipedegrass, kikuyugrass, seashore paspalum, and bahiagrass identification, adaptation charts, culture, and golf/athletic/lawn/utility ratings, with cross-species comparisons; Panicoideae/Paniceae/Andropogoneae taxonomy, bahiagrass subspecific types and cultivars, seashore paspalum scalping management and Sea Isle 2000, kikuyugrass highland adaptation, St. Augustinegrass races and cultivars, and centipedegrass cultivars)
