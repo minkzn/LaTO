@@ -16468,5 +16468,5180 @@
     "feedback": "Soil has solid (mineral, organic matter, roots), liquid, and air phases.",
     "source": "Textbook Ch. 4, pp. 93-111: The Turfgrass Environment",
     "kind": "enrichment"
+  },
+  {
+    "id": "m17q001",
+    "module": "M17",
+    "question": "In the overview scenario, the soil probe first resists penetration as if forced through a thin sponge. This first layer is most likely:",
+    "correct": "thatch",
+    "options": [
+      "thatch",
+      "coarse sand",
+      "clay loam",
+      "dense subsoil"
+    ],
+    "feedback": "The spongy surface layer is thatch, followed by coarse sand, moist clay loam, and dense subsoil.",
+    "source": "M17.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m17q002",
+    "module": "M17",
+    "question": "In the overview's probe scenario, the layer encountered directly beneath the spongy surface layer \"grinds\" like:",
+    "correct": "a layer of coarse sand",
+    "options": [
+      "a layer of coarse sand",
+      "dense subsoil",
+      "moist clay loam",
+      "gravel drainage blanket"
+    ],
+    "feedback": "The probe grinds through what must be a layer of coarse sand.",
+    "source": "M17.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m17q003",
+    "module": "M17",
+    "question": "In the overview's probe scenario, the layer offering little resistance was a seemingly moist:",
+    "correct": "clay loam, probably rich in organic matter",
+    "options": [
+      "clay loam, probably rich in organic matter",
+      "coarse sand",
+      "dense subsoil",
+      "gravel layer"
+    ],
+    "feedback": "Little resistance came from a moist clay loam layer, probably rich in organic matter.",
+    "source": "M17.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m17q004",
+    "module": "M17",
+    "question": "In the overview's probe scenario, resistance increased several-fold when the probe reached:",
+    "correct": "dense subsoil",
+    "options": [
+      "dense subsoil",
+      "coarse sand",
+      "thatch",
+      "clay loam"
+    ],
+    "feedback": "Resistance increases several-fold in the underlying dense subsoil.",
+    "source": "M17.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m17q005",
+    "module": "M17",
+    "question": "The old turfgrass professor in the overview advised that the answers to why a turf responds a certain way are usually found:",
+    "correct": "in the soil, beneath the surface",
+    "options": [
+      "in the soil, beneath the surface",
+      "in the leaf tissue",
+      "in the weather records",
+      "in the seed label"
+    ],
+    "feedback": "\"Look beneath the surface; more often than not, the answers are to be found in the soil.\"",
+    "source": "M17.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m17q006",
+    "module": "M17",
+    "question": "Which is one of Module 17's learning objectives?",
+    "correct": "diagnose problems that may be encountered in soils with different textural layers",
+    "options": [
+      "diagnose problems that may be encountered in soils with different textural layers",
+      "identify turfgrass species by ligule",
+      "calculate fungicide rates",
+      "design irrigation controllers"
+    ],
+    "feedback": "Objectives: define properties of a soil as a growth medium, diagnose textural-layer problems, and identify the role of thatch.",
+    "source": "M17.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m17q007",
+    "module": "M17",
+    "question": "The assigned textbook reading for Module 17 is:",
+    "correct": "Chapter 4, pages 111–139",
+    "options": [
+      "Chapter 4, pages 111–139",
+      "Chapter 4, pages 93–111",
+      "Chapter 3, pages 78–82",
+      "Chapter 5, pages 141–160"
+    ],
+    "feedback": "M17 assigns Turgeon & Kaminski, Chapter 4, pages 111–139.",
+    "source": "M17.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m17q008",
+    "module": "M17",
+    "question": "Per Module 17, soil properties influence fertility, water relations, gas exchange, and:",
+    "correct": "physical support of plant roots",
+    "options": [
+      "physical support of plant roots",
+      "photoperiod",
+      "leaf vernation",
+      "seed dormancy"
+    ],
+    "feedback": "Soil properties influence fertility, water relations, gas exchange, and physical support of roots.",
+    "source": "M17.2: Soil - Medium for Plant Growth and Development",
+    "kind": "module"
+  },
+  {
+    "id": "m17q009",
+    "module": "M17",
+    "question": "For turfgrass plantings, the soil and plant community should also provide:",
+    "correct": "a firm, but resilient, surface that resists compaction from traffic and use",
+    "options": [
+      "a firm, but resilient, surface that resists compaction from traffic and use",
+      "a soft surface that compacts easily",
+      "a waterproof surface",
+      "a surface free of organic matter"
+    ],
+    "feedback": "Turf soils should provide a firm but resilient, compaction-resistant surface.",
+    "source": "M17.2: Soil - Medium for Plant Growth and Development",
+    "kind": "module"
+  },
+  {
+    "id": "m17q010",
+    "module": "M17",
+    "question": "A soil is a combination of:",
+    "correct": "solid particles and pore spaces",
+    "options": [
+      "solid particles and pore spaces",
+      "only mineral particles",
+      "only organic matter",
+      "water and air only"
+    ],
+    "feedback": "Soil = solid particles (mineral or organic) plus pores filled with water or air.",
+    "source": "M17.2: Soil - Medium for Plant Growth and Development",
+    "kind": "module"
+  },
+  {
+    "id": "m17q011",
+    "module": "M17",
+    "question": "The solid particles of a soil may be composed of:",
+    "correct": "mineral or organic matter",
+    "options": [
+      "mineral or organic matter",
+      "only sand",
+      "only clay",
+      "only humus"
+    ],
+    "feedback": "Soil particles can be mineral or organic.",
+    "source": "M17.2: Soil - Medium for Plant Growth and Development",
+    "kind": "module"
+  },
+  {
+    "id": "m17q012",
+    "module": "M17",
+    "question": "Soil pores may be filled with:",
+    "correct": "water (and dissolved substances) or air",
+    "options": [
+      "water (and dissolved substances) or air",
+      "only air",
+      "only water",
+      "only organic matter"
+    ],
+    "feedback": "Pores hold water (with dissolved substances) or air.",
+    "source": "M17.2: Soil - Medium for Plant Growth and Development",
+    "kind": "module"
+  },
+  {
+    "id": "m17q013",
+    "module": "M17",
+    "question": "An ideal soil is well aerated to ensure that ________ is not limiting to roots and soil organisms.",
+    "correct": "oxygen",
+    "options": [
+      "oxygen",
+      "carbon dioxide",
+      "nitrogen gas",
+      "water vapor"
+    ],
+    "feedback": "An ideal soil is well aerated so oxygen is not limiting.",
+    "source": "M17.2: Soil - Medium for Plant Growth and Development",
+    "kind": "module"
+  },
+  {
+    "id": "m17q014",
+    "module": "M17",
+    "question": "An ideal soil's pH is:",
+    "correct": "slightly acid to neutral",
+    "options": [
+      "slightly acid to neutral",
+      "strongly acid",
+      "strongly alkaline",
+      "exactly 8.5"
+    ],
+    "feedback": "Slightly acid to neutral pH limits toxic elements and promotes nutrient availability.",
+    "source": "M17.2: Soil - Medium for Plant Growth and Development",
+    "kind": "module"
+  },
+  {
+    "id": "m17q015",
+    "module": "M17",
+    "question": "Why should an ideal soil have a slightly acid to neutral pH?",
+    "correct": "to limit availability of toxic elements and promote availability of essential nutrients",
+    "options": [
+      "to limit availability of toxic elements and promote availability of essential nutrients",
+      "to kill soil organisms",
+      "to maximize aluminum solubility",
+      "to prevent root growth"
+    ],
+    "feedback": "This pH range limits toxic elements and favors essential nutrient availability.",
+    "source": "M17.2: Soil - Medium for Plant Growth and Development",
+    "kind": "module"
+  },
+  {
+    "id": "m17q016",
+    "module": "M17",
+    "question": "Which is NOT one of the four features of an ideal soil shown in the module illustration?",
+    "correct": "high sodium content",
+    "options": [
+      "high sodium content",
+      "well aerated",
+      "neutral to slightly acid pH",
+      "ample water and nutrients"
+    ],
+    "feedback": "The four features: well aerated, neutral to slightly acid pH, ample water, ample nutrients.",
+    "source": "M17.2: Soil - Medium for Plant Growth and Development",
+    "kind": "module"
+  },
+  {
+    "id": "m17q017",
+    "module": "M17",
+    "question": "In the module illustration of an ideal soil, the small block of soil has a pH of:",
+    "correct": "6.8",
+    "options": [
+      "6.8",
+      "5.5",
+      "7.5",
+      "8.2"
+    ],
+    "feedback": "The illustrated soil block has pH 6.8 with Mg, K, and NH4 ions.",
+    "source": "M17.2: Soil - Medium for Plant Growth and Development",
+    "kind": "module"
+  },
+  {
+    "id": "m17q018",
+    "module": "M17",
+    "question": "The two major branches of soil science are:",
+    "correct": "soil physics and soil chemistry",
+    "options": [
+      "soil physics and soil chemistry",
+      "soil biology and soil geology",
+      "agronomy and horticulture",
+      "edaphology and climatology"
+    ],
+    "feedback": "Soil physics (physical properties) and soil chemistry (chemical properties).",
+    "source": "M17.2: Soil - Medium for Plant Growth and Development",
+    "kind": "module"
+  },
+  {
+    "id": "m17q019",
+    "module": "M17",
+    "question": "The principal physical properties of a soil are:",
+    "correct": "texture and structure",
+    "options": [
+      "texture and structure",
+      "pH and CEC",
+      "color and odor",
+      "fertility and salinity"
+    ],
+    "feedback": "Texture and structure are the principal physical properties.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q020",
+    "module": "M17",
+    "question": "Soil texture is determined by:",
+    "correct": "the size of the soil particles",
+    "options": [
+      "the size of the soil particles",
+      "the arrangement of soil particles",
+      "the pH of the soil",
+      "the organic matter content only"
+    ],
+    "feedback": "Texture = particle size; structure = particle arrangement.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q021",
+    "module": "M17",
+    "question": "Soil structure refers to:",
+    "correct": "the physical arrangement of soil particles",
+    "options": [
+      "the physical arrangement of soil particles",
+      "the size of soil particles",
+      "the soil's CEC",
+      "the color of the soil"
+    ],
+    "feedback": "Structure is how particles are arranged.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q022",
+    "module": "M17",
+    "question": "Texture and structure determine how materials move through soil by influencing:",
+    "correct": "the amount of pore space available",
+    "options": [
+      "the amount of pore space available",
+      "soil pH",
+      "the cation exchange capacity",
+      "soil color"
+    ],
+    "feedback": "They control pore space, which governs water and air movement.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q023",
+    "module": "M17",
+    "question": "Soils that are compacted have:",
+    "correct": "less pore space and a high bulk density",
+    "options": [
+      "less pore space and a high bulk density",
+      "more pore space and a low bulk density",
+      "more pore space and a high bulk density",
+      "less pore space and a low bulk density"
+    ],
+    "feedback": "Compaction reduces pore space and raises bulk density.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q024",
+    "module": "M17",
+    "question": "Which soil separate has the largest particles?",
+    "correct": "sand",
+    "options": [
+      "sand",
+      "silt",
+      "clay",
+      "humus"
+    ],
+    "feedback": "Sand is largest, silt intermediate, clay smallest.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q025",
+    "module": "M17",
+    "question": "Which soil separate has the smallest particles?",
+    "correct": "clay",
+    "options": [
+      "clay",
+      "silt",
+      "very fine sand",
+      "fine sand"
+    ],
+    "feedback": "Clay particles are the smallest.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q026",
+    "module": "M17",
+    "question": "Materials entering the turf move relatively rapidly through:",
+    "correct": "coarse-textured, sandy soils",
+    "options": [
+      "coarse-textured, sandy soils",
+      "fine-textured, clayey soils",
+      "compacted soils",
+      "silty clay soils"
+    ],
+    "feedback": "Movement is rapid in coarse sandy soils and slow in fine clayey soils.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q027",
+    "module": "M17",
+    "question": "Particles within standardized size classes are referred to as:",
+    "correct": "separates",
+    "options": [
+      "separates",
+      "aggregates",
+      "colloids",
+      "horizons"
+    ],
+    "feedback": "Standardized size classes of particles are called separates.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q028",
+    "module": "M17",
+    "question": "The USDA system recognizes ________ sand sizes.",
+    "correct": "five",
+    "options": [
+      "five",
+      "three",
+      "seven",
+      "twelve"
+    ],
+    "feedback": "Five sand sizes, from 0.05 to 2.00 mm.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q029",
+    "module": "M17",
+    "question": "In the USDA system, sand ranges in diameter from:",
+    "correct": "0.05 mm to 2.00 mm",
+    "options": [
+      "0.05 mm to 2.00 mm",
+      "0.002 mm to 0.05 mm",
+      "below 0.002 mm",
+      "2.00 mm to 10 mm"
+    ],
+    "feedback": "Sand spans 0.05 to 2.00 mm.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q030",
+    "module": "M17",
+    "question": "In the USDA system, silt ranges in diameter from:",
+    "correct": "0.002 to 0.05 mm",
+    "options": [
+      "0.002 to 0.05 mm",
+      "0.05 to 0.10 mm",
+      "below 0.002 mm",
+      "0.10 to 0.25 mm"
+    ],
+    "feedback": "Silt is 0.002 to 0.05 mm.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q031",
+    "module": "M17",
+    "question": "In the USDA system, clay separates are:",
+    "correct": "less than 0.002 mm in diameter",
+    "options": [
+      "less than 0.002 mm in diameter",
+      "0.002 to 0.05 mm",
+      "0.05 to 0.10 mm",
+      "larger than 2.00 mm"
+    ],
+    "feedback": "Clay is below 0.002 mm.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q032",
+    "module": "M17",
+    "question": "Per Table 17.3.1, very coarse sand has a diameter of:",
+    "correct": "2.00 to 1.00 mm",
+    "options": [
+      "2.00 to 1.00 mm",
+      "1.00 to 0.50 mm",
+      "0.50 to 0.25 mm",
+      "0.25 to 0.10 mm"
+    ],
+    "feedback": "Very coarse sand: 2.00–1.00 mm.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q033",
+    "module": "M17",
+    "question": "Per Table 17.3.1, coarse sand has a diameter of:",
+    "correct": "1.00 to 0.50 mm",
+    "options": [
+      "1.00 to 0.50 mm",
+      "2.00 to 1.00 mm",
+      "0.50 to 0.25 mm",
+      "0.10 to 0.05 mm"
+    ],
+    "feedback": "Coarse sand: 1.00–0.50 mm.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q034",
+    "module": "M17",
+    "question": "Per Table 17.3.1, medium sand has a diameter of:",
+    "correct": "0.50 to 0.25 mm",
+    "options": [
+      "0.50 to 0.25 mm",
+      "1.00 to 0.50 mm",
+      "0.25 to 0.10 mm",
+      "0.10 to 0.05 mm"
+    ],
+    "feedback": "Medium sand: 0.50–0.25 mm.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q035",
+    "module": "M17",
+    "question": "Per Table 17.3.1, fine sand has a diameter of:",
+    "correct": "0.25 to 0.10 mm",
+    "options": [
+      "0.25 to 0.10 mm",
+      "0.50 to 0.25 mm",
+      "0.10 to 0.05 mm",
+      "0.05 to 0.002 mm"
+    ],
+    "feedback": "Fine sand: 0.25–0.10 mm.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q036",
+    "module": "M17",
+    "question": "Per Table 17.3.1, very fine sand has a diameter of:",
+    "correct": "0.10 to 0.05 mm",
+    "options": [
+      "0.10 to 0.05 mm",
+      "0.25 to 0.10 mm",
+      "0.05 to 0.002 mm",
+      "1.00 to 0.50 mm"
+    ],
+    "feedback": "Very fine sand: 0.10–0.05 mm.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q037",
+    "module": "M17",
+    "question": "Per Table 17.3.1, the surface area of 1 g of very coarse sand is about:",
+    "correct": "11 sq. cm",
+    "options": [
+      "11 sq. cm",
+      "23 sq. cm",
+      "454 sq. cm",
+      "8,000,000 sq. cm"
+    ],
+    "feedback": "Very coarse sand: 11 sq. cm per gram.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q038",
+    "module": "M17",
+    "question": "Per Table 17.3.1, the surface area of 1 g of clay is about:",
+    "correct": "8,000,000 sq. cm",
+    "options": [
+      "8,000,000 sq. cm",
+      "454 sq. cm",
+      "227 sq. cm",
+      "11 sq. cm"
+    ],
+    "feedback": "Clay: about 8 million sq. cm per gram.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q039",
+    "module": "M17",
+    "question": "Per Table 17.3.1, the surface area of 1 g of silt is about:",
+    "correct": "454 sq. cm",
+    "options": [
+      "454 sq. cm",
+      "227 sq. cm",
+      "91 sq. cm",
+      "8,000,000 sq. cm"
+    ],
+    "feedback": "Silt: 454 sq. cm per gram.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q040",
+    "module": "M17",
+    "question": "Per Table 17.3.1, the surface area of 1 g of fine sand is about:",
+    "correct": "91 sq. cm",
+    "options": [
+      "91 sq. cm",
+      "45 sq. cm",
+      "227 sq. cm",
+      "23 sq. cm"
+    ],
+    "feedback": "Fine sand: 91 sq. cm per gram (medium 45, very fine 227).",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q041",
+    "module": "M17",
+    "question": "The textural class of a soil is determined by:",
+    "correct": "the proportion of sand, silt, and clay",
+    "options": [
+      "the proportion of sand, silt, and clay",
+      "the soil's pH",
+      "the amount of organic matter",
+      "its bulk density"
+    ],
+    "feedback": "Relative percentages of sand, silt, and clay determine the textural class.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q042",
+    "module": "M17",
+    "question": "How many textural classes are shown in the textural triangle?",
+    "correct": "12",
+    "options": [
+      "12",
+      "5",
+      "7",
+      "20"
+    ],
+    "feedback": "There are 12 textural classes.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q043",
+    "module": "M17",
+    "question": "In a soil texture triangle, each side represents:",
+    "correct": "one of the three particle size classes",
+    "options": [
+      "one of the three particle size classes",
+      "a pH range",
+      "a bulk density value",
+      "a nutrient"
+    ],
+    "feedback": "Each side represents sand, silt, or clay percentage.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q044",
+    "module": "M17",
+    "question": "Per the module, soil aggregates are formed by:",
+    "correct": "clay",
+    "options": [
+      "clay",
+      "sand",
+      "silt",
+      "gravel"
+    ],
+    "feedback": "Clay forms aggregates in which particles are held together in various configurations.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q045",
+    "module": "M17",
+    "question": "Aggregates differ in their structural stability depending on:",
+    "correct": "the specific clay minerals present and the strength of the binding agents",
+    "options": [
+      "the specific clay minerals present and the strength of the binding agents",
+      "the amount of sand only",
+      "soil color",
+      "the turfgrass species"
+    ],
+    "feedback": "Stability depends on clay minerals and binding-agent strength.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q046",
+    "module": "M17",
+    "question": "Which tends to destroy soil structure, resulting in compaction?",
+    "correct": "traffic, splashing rain or irrigation, and cultivation",
+    "options": [
+      "traffic, splashing rain or irrigation, and cultivation",
+      "earthworm activity",
+      "freezing and thawing",
+      "root growth"
+    ],
+    "feedback": "Traffic, splashing water, and cultivation destroy structure.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q047",
+    "module": "M17",
+    "question": "A compacted soil is one in which:",
+    "correct": "porosity has been reduced with a corresponding increase in bulk density",
+    "options": [
+      "porosity has been reduced with a corresponding increase in bulk density",
+      "porosity has increased",
+      "bulk density has decreased",
+      "organic matter has increased"
+    ],
+    "feedback": "Compaction = less porosity, higher bulk density.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q048",
+    "module": "M17",
+    "question": "In the module's compaction illustration, bulk density increases from ________ to ________ with compaction.",
+    "correct": "1.0 to 1.4",
+    "options": [
+      "1.0 to 1.4",
+      "1.4 to 1.0",
+      "0.25 to 1.40",
+      "2.65 to 1.0"
+    ],
+    "feedback": "BD rises from 1.0 to 1.4 with compaction.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q049",
+    "module": "M17",
+    "question": "Water that drains from large pores due to gravitational force is called:",
+    "correct": "gravitational water",
+    "options": [
+      "gravitational water",
+      "available water",
+      "unavailable water",
+      "hygroscopic water"
+    ],
+    "feedback": "Drainage from large pores = gravitational water.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q050",
+    "module": "M17",
+    "question": "Of the water retained as thin films on soil particles, the portion that can still be absorbed by plant roots is:",
+    "correct": "available water",
+    "options": [
+      "available water",
+      "gravitational water",
+      "unavailable water",
+      "perched water"
+    ],
+    "feedback": "Absorbable retained water = available water.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q051",
+    "module": "M17",
+    "question": "Water tightly held by the soil surface that cannot be absorbed by plants is:",
+    "correct": "unavailable water",
+    "options": [
+      "unavailable water",
+      "available water",
+      "gravitational water",
+      "capillary water"
+    ],
+    "feedback": "Tightly held water = unavailable water.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q052",
+    "module": "M17",
+    "question": "In the module's decreasing-soil-moisture illustration, capillary water includes:",
+    "correct": "both available and unavailable water",
+    "options": [
+      "both available and unavailable water",
+      "only gravitational water",
+      "only available water",
+      "only unavailable water"
+    ],
+    "feedback": "Capillary water = available + unavailable water.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q053",
+    "module": "M17",
+    "question": "Where soil moisture persists and fills all soil pores, the principal factor limiting plant growth can become:",
+    "correct": "oxygen",
+    "options": [
+      "oxygen",
+      "nitrogen",
+      "light",
+      "carbon dioxide"
+    ],
+    "feedback": "Waterlogged pores make oxygen limiting.",
+    "source": "M17.4: Oxygen - Moisture Relationship in Soils",
+    "kind": "module"
+  },
+  {
+    "id": "m17q054",
+    "module": "M17",
+    "question": "Removing both water and oxygen as limiting factors requires a soil with:",
+    "correct": "a range of pore sizes",
+    "options": [
+      "a range of pore sizes",
+      "only large pores",
+      "only small pores",
+      "no pores"
+    ],
+    "feedback": "Small pores retain moisture; larger pores let air permeate.",
+    "source": "M17.4: Oxygen - Moisture Relationship in Soils",
+    "kind": "module"
+  },
+  {
+    "id": "m17q055",
+    "module": "M17",
+    "question": "In a soil, which pores generally allow air to permeate the soil matrix?",
+    "correct": "larger pores",
+    "options": [
+      "larger pores",
+      "smaller pores",
+      "no pores",
+      "pores filled with clay"
+    ],
+    "feedback": "Larger pores carry air; smaller pores retain moisture.",
+    "source": "M17.4: Oxygen - Moisture Relationship in Soils",
+    "kind": "module"
+  },
+  {
+    "id": "m17q056",
+    "module": "M17",
+    "question": "Biogenic megapores (spelled \"megaspores\" on the module page) are formed by:",
+    "correct": "macrofauna such as earthworms and decomposing taproots",
+    "options": [
+      "macrofauna such as earthworms and decomposing taproots",
+      "core cultivation only",
+      "sand topdressing",
+      "clay dispersion"
+    ],
+    "feedback": "Biogenic megapores come from earthworms and other macrofauna, and decomposing taproots.",
+    "source": "M17.4: Oxygen - Moisture Relationship in Soils",
+    "kind": "module"
+  },
+  {
+    "id": "m17q057",
+    "module": "M17",
+    "question": "In turf, biogenic megapores are usually provided by:",
+    "correct": "earthworms and other macrofauna",
+    "options": [
+      "earthworms and other macrofauna",
+      "bacteria",
+      "fungal hyphae",
+      "nematodes"
+    ],
+    "feedback": "Earthworms and other macrofauna make most biogenic megapores in turf.",
+    "source": "M17.4: Oxygen - Moisture Relationship in Soils",
+    "kind": "module"
+  },
+  {
+    "id": "m17q058",
+    "module": "M17",
+    "question": "Some cultivation practices may be regarded as attempts to:",
+    "correct": "provide megapores mechanically",
+    "options": [
+      "provide megapores mechanically",
+      "remove all pores",
+      "increase bulk density",
+      "eliminate earthworms"
+    ],
+    "feedback": "Cultivation can mechanically create megapores.",
+    "source": "M17.4: Oxygen - Moisture Relationship in Soils",
+    "kind": "module"
+  },
+  {
+    "id": "m17q059",
+    "module": "M17",
+    "question": "Where a coarse-textured soil is underlain by a fine-textured soil, downward water flow slows to a rate determined by:",
+    "correct": "the hydraulic conductivity of the fine-textured soil",
+    "options": [
+      "the hydraulic conductivity of the fine-textured soil",
+      "the hydraulic conductivity of the coarse-textured soil",
+      "the soil pH",
+      "the turfgrass species"
+    ],
+    "feedback": "Flow is limited by the fine-textured layer's conductivity.",
+    "source": "M17.4: Oxygen - Moisture Relationship in Soils",
+    "kind": "module"
+  },
+  {
+    "id": "m17q060",
+    "module": "M17",
+    "question": "In a coarse-over-fine profile, if water enters faster than the fine layer can conduct it:",
+    "correct": "a temporary water table may result",
+    "options": [
+      "a temporary water table may result",
+      "water moves upward permanently",
+      "the fine layer becomes coarse",
+      "no water accumulates"
+    ],
+    "feedback": "A temporary water table forms above the fine layer.",
+    "source": "M17.4: Oxygen - Moisture Relationship in Soils",
+    "kind": "module"
+  },
+  {
+    "id": "m17q061",
+    "module": "M17",
+    "question": "Where a finer-textured soil is underlain by a coarse-textured soil, water accumulating at the interface is called a:",
+    "correct": "perched water table",
+    "options": [
+      "perched water table",
+      "temporary water table from conductivity limits",
+      "gravitational water table",
+      "capillary fringe"
+    ],
+    "feedback": "Fine over coarse disrupts flow and produces a perched water table.",
+    "source": "M17.4: Oxygen - Moisture Relationship in Soils",
+    "kind": "module"
+  },
+  {
+    "id": "m17q062",
+    "module": "M17",
+    "question": "Which is NOT one of the module's seven layering videos?",
+    "correct": "Clay Over Peat with Fan",
+    "options": [
+      "Clay Over Peat with Fan",
+      "Coarse Over Fine Soil",
+      "Fine Over Coarse Soil",
+      "Fine Soil Over Gravel with Drainpipe"
+    ],
+    "feedback": "Videos: coarse/fine, fine/coarse, alternating, graduated fine-to-coarse, very coarse/medium, medium/very coarse, fine over gravel with drainpipe.",
+    "source": "M17.4: Oxygen - Moisture Relationship in Soils",
+    "kind": "module"
+  },
+  {
+    "id": "m17q063",
+    "module": "M17",
+    "question": "Soil aeration is the process by which:",
+    "correct": "soil air is replaced by atmospheric air",
+    "options": [
+      "soil air is replaced by atmospheric air",
+      "soil water is replaced by gravitational water",
+      "nitrogen is fixed",
+      "soil is compacted"
+    ],
+    "feedback": "Aeration replaces soil air with atmospheric air.",
+    "source": "M17.4: Oxygen - Moisture Relationship in Soils",
+    "kind": "module"
+  },
+  {
+    "id": "m17q064",
+    "module": "M17",
+    "question": "Compared with atmospheric air, soil air has:",
+    "correct": "higher CO₂ and water vapor, but less oxygen",
+    "options": [
+      "higher CO₂ and water vapor, but less oxygen",
+      "higher oxygen and less CO₂",
+      "identical composition",
+      "less water vapor and more oxygen"
+    ],
+    "feedback": "Soil air is richer in CO₂ and water vapor, poorer in O₂.",
+    "source": "M17.4: Oxygen - Moisture Relationship in Soils",
+    "kind": "module"
+  },
+  {
+    "id": "m17q065",
+    "module": "M17",
+    "question": "The differences between soil air and atmospheric air are due to:",
+    "correct": "oxygen consumption and CO₂ production by soil organisms",
+    "options": [
+      "oxygen consumption and CO₂ production by soil organisms",
+      "photosynthesis by roots",
+      "sunlight on soil",
+      "wind only"
+    ],
+    "feedback": "Soil organisms consume O₂ and produce CO₂.",
+    "source": "M17.4: Oxygen - Moisture Relationship in Soils",
+    "kind": "module"
+  },
+  {
+    "id": "m17q066",
+    "module": "M17",
+    "question": "The magnitude of differences between soil air and atmospheric air depends on:",
+    "correct": "the rate of gaseous exchange between the atmosphere and the soil",
+    "options": [
+      "the rate of gaseous exchange between the atmosphere and the soil",
+      "the soil color",
+      "the turfgrass cultivar",
+      "the soil's CEC"
+    ],
+    "feedback": "It depends on the rate of gas exchange.",
+    "source": "M17.4: Oxygen - Moisture Relationship in Soils",
+    "kind": "module"
+  },
+  {
+    "id": "m17q067",
+    "module": "M17",
+    "question": "Gaseous exchange between the soil and atmosphere is often associated with:",
+    "correct": "the movement of water into and out of the soil",
+    "options": [
+      "the movement of water into and out of the soil",
+      "changes in soil pH",
+      "fertilizer applications only",
+      "mowing frequency"
+    ],
+    "feedback": "Water moving in and out of soil drives much gas exchange.",
+    "source": "M17.4: Oxygen - Moisture Relationship in Soils",
+    "kind": "module"
+  },
+  {
+    "id": "m17q068",
+    "module": "M17",
+    "question": "Soil chemistry deals with chemical reactions that occur on:",
+    "correct": "colloidal surfaces in the soil",
+    "options": [
+      "colloidal surfaces in the soil",
+      "sand grain surfaces only",
+      "leaf surfaces",
+      "the soil surface only"
+    ],
+    "feedback": "Soil chemistry happens on colloidal surfaces.",
+    "source": "M17.5: Chemical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q069",
+    "module": "M17",
+    "question": "The colloidal component of a soil is made up of:",
+    "correct": "clay and humus",
+    "options": [
+      "clay and humus",
+      "sand and silt",
+      "silt and clay",
+      "sand and humus"
+    ],
+    "feedback": "Clay and humus are the soil colloids.",
+    "source": "M17.5: Chemical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q070",
+    "module": "M17",
+    "question": "Which soil separates are chemically inert?",
+    "correct": "silt and sand",
+    "options": [
+      "silt and sand",
+      "clay and humus",
+      "clay only",
+      "humus only"
+    ],
+    "feedback": "Silt and sand are chemically inert (uncharged).",
+    "source": "M17.5: Chemical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q071",
+    "module": "M17",
+    "question": "Clay particles are ________ charged and attract ________.",
+    "correct": "negatively; cations",
+    "options": [
+      "negatively; cations",
+      "positively; anions",
+      "negatively; anions",
+      "positively; cations"
+    ],
+    "feedback": "Negative clay surfaces attract cations.",
+    "source": "M17.5: Chemical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q072",
+    "module": "M17",
+    "question": "The soil's capacity to retain cationic nutrients is called:",
+    "correct": "cation exchange capacity (CEC)",
+    "options": [
+      "cation exchange capacity (CEC)",
+      "bulk density",
+      "hydraulic conductivity",
+      "field capacity"
+    ],
+    "feedback": "CEC = capacity to retain cations.",
+    "source": "M17.5: Chemical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q073",
+    "module": "M17",
+    "question": "pH is a logarithmic measure of:",
+    "correct": "hydrogen (H⁺) ion concentration",
+    "options": [
+      "hydrogen (H⁺) ion concentration",
+      "hydroxide ion only",
+      "sodium concentration",
+      "soil moisture"
+    ],
+    "feedback": "pH measures H⁺ concentration on a logarithmic scale.",
+    "source": "M17.5: Chemical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q074",
+    "module": "M17",
+    "question": "Per M17.5, the pH generally considered optimum is:",
+    "correct": "neutral (7) or slightly acid (6.5–6.9)",
+    "options": [
+      "neutral (7) or slightly acid (6.5–6.9)",
+      "strongly acid (4–5)",
+      "alkaline (8–9)",
+      "exactly 5.5"
+    ],
+    "feedback": "Neutral (7) or slightly acid (6.5–6.9) is considered optimum.",
+    "source": "M17.5: Chemical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q075",
+    "module": "M17",
+    "question": "Per Table 17.5.1, at pH 7 the relative OH⁻ and H⁺ concentrations are:",
+    "correct": "1 and 1",
+    "options": [
+      "1 and 1",
+      "10 and 0.1",
+      "0.1 and 10",
+      "100 and 0.01"
+    ],
+    "feedback": "At pH 7, OH⁻ and H⁺ are equal (1 and 1).",
+    "source": "M17.5: Chemical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q076",
+    "module": "M17",
+    "question": "Per Table 17.5.1, at pH 5 the relative H⁺ concentration is:",
+    "correct": "100",
+    "options": [
+      "100",
+      "10",
+      "1",
+      "0.01"
+    ],
+    "feedback": "pH 5: H⁺ = 100, OH⁻ = 0.01.",
+    "source": "M17.5: Chemical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q077",
+    "module": "M17",
+    "question": "Per Table 17.5.1, at pH 9 the relative OH⁻ concentration is:",
+    "correct": "100",
+    "options": [
+      "100",
+      "10",
+      "0.01",
+      "1000"
+    ],
+    "feedback": "pH 9: OH⁻ = 100, H⁺ = 0.01.",
+    "source": "M17.5: Chemical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q078",
+    "module": "M17",
+    "question": "Compared with pH 6, a soil at pH 4 has how much more H⁺?",
+    "correct": "100 times",
+    "options": [
+      "100 times",
+      "2 times",
+      "10 times",
+      "1000 times"
+    ],
+    "feedback": "Each unit is a 10-fold change: pH 6 (10) to pH 4 (1000) is 100×.",
+    "source": "M17.5: Chemical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "m17q079",
+    "module": "M17",
+    "question": "At low pHs, which element may be so soluble that it is toxic to plants?",
+    "correct": "aluminum",
+    "options": [
+      "aluminum",
+      "calcium",
+      "molybdenum",
+      "potassium"
+    ],
+    "feedback": "Aluminum toxicity at low pH is the principal reason pH must be maintained.",
+    "source": "M17.6: Influence of Soil pH on Nutrient Availability",
+    "kind": "module"
+  },
+  {
+    "id": "m17q080",
+    "module": "M17",
+    "question": "The principal reason soil pH must be maintained at a sufficient level is to prevent:",
+    "correct": "aluminum toxicity",
+    "options": [
+      "aluminum toxicity",
+      "calcium deficiency",
+      "molybdenum toxicity",
+      "sodium buildup"
+    ],
+    "feedback": "Preventing aluminum toxicity is the principal reason.",
+    "source": "M17.6: Influence of Soil pH on Nutrient Availability",
+    "kind": "module"
+  },
+  {
+    "id": "m17q081",
+    "module": "M17",
+    "question": "Which essential nutrients are highly soluble at low soil pH?",
+    "correct": "iron, manganese, and zinc",
+    "options": [
+      "iron, manganese, and zinc",
+      "calcium and molybdenum",
+      "nitrogen and sulfur",
+      "potassium and boron"
+    ],
+    "feedback": "Fe, Mn, and Zn are highly soluble at low pH.",
+    "source": "M17.6: Influence of Soil pH on Nutrient Availability",
+    "kind": "module"
+  },
+  {
+    "id": "m17q082",
+    "module": "M17",
+    "question": "Which nutrients are more readily available at high soil pH?",
+    "correct": "calcium and molybdenum",
+    "options": [
+      "calcium and molybdenum",
+      "iron and manganese",
+      "zinc and aluminum",
+      "copper and zinc"
+    ],
+    "feedback": "Ca and Mo are more available at high pH.",
+    "source": "M17.6: Influence of Soil pH on Nutrient Availability",
+    "kind": "module"
+  },
+  {
+    "id": "m17q083",
+    "module": "M17",
+    "question": "Per M17.6, most nutrients other than those noted have their highest availability at:",
+    "correct": "near-neutral pHs",
+    "options": [
+      "near-neutral pHs",
+      "pH 4.5",
+      "pH 9",
+      "pH 3"
+    ],
+    "feedback": "Most others are most available near neutral.",
+    "source": "M17.6: Influence of Soil pH on Nutrient Availability",
+    "kind": "module"
+  },
+  {
+    "id": "m17q084",
+    "module": "M17",
+    "question": "Per M17.6, turf soil pH should be maintained at a slightly acid level of about:",
+    "correct": "6.0",
+    "options": [
+      "6.0",
+      "4.5",
+      "7.5",
+      "8.0"
+    ],
+    "feedback": "About 6.0 ensures availability of most nutrients.",
+    "source": "M17.6: Influence of Soil pH on Nutrient Availability",
+    "kind": "module"
+  },
+  {
+    "id": "m17q085",
+    "module": "M17",
+    "question": "Why is maintaining a slightly acid pH especially important for secondary and tertiary nutrients?",
+    "correct": "they are generally not included in most turf fertilizers",
+    "options": [
+      "they are generally not included in most turf fertilizers",
+      "they are toxic at all pHs",
+      "they are always abundant",
+      "they are supplied by irrigation"
+    ],
+    "feedback": "Most turf fertilizers lack secondary and tertiary nutrients, so soil availability matters.",
+    "source": "M17.6: Influence of Soil pH on Nutrient Availability",
+    "kind": "module"
+  },
+  {
+    "id": "m17q086",
+    "module": "M17",
+    "question": "On the module's nutrient availability chart, the pH axis spans from:",
+    "correct": "4.5 to 8.0",
+    "options": [
+      "4.5 to 8.0",
+      "0 to 14",
+      "5.5 to 9.5",
+      "3.0 to 7.0"
+    ],
+    "feedback": "The chart runs from pH 4.5 (acidic) to 8.0 (alkaline).",
+    "source": "M17.6: Influence of Soil pH on Nutrient Availability",
+    "kind": "module"
+  },
+  {
+    "id": "m17q087",
+    "module": "M17",
+    "question": "On the module's nutrient availability chart, manganese and zinc bands are widest at the ________ end.",
+    "correct": "acidic",
+    "options": [
+      "acidic",
+      "alkaline",
+      "neutral",
+      "they are uniform"
+    ],
+    "feedback": "Mn and Zn are most available at low pH.",
+    "source": "M17.6: Influence of Soil pH on Nutrient Availability",
+    "kind": "module"
+  },
+  {
+    "id": "m17q088",
+    "module": "M17",
+    "question": "It is the soil's ________ properties that enable it to retain nutrient ions on colloidal surfaces in plant-absorbable forms.",
+    "correct": "chemical",
+    "options": [
+      "chemical",
+      "physical",
+      "biological",
+      "thermal"
+    ],
+    "feedback": "Chemical properties allow nutrient retention on colloids.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q089",
+    "module": "M17",
+    "question": "Among the soil separates, which has chemical properties (is charged)?",
+    "correct": "clay only",
+    "options": [
+      "clay only",
+      "sand only",
+      "silt only",
+      "sand and silt"
+    ],
+    "feedback": "Only clay is charged; silt and sand are inert.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q090",
+    "module": "M17",
+    "question": "Clay particles have negative charges:",
+    "correct": "along the edges and sometimes, depending on clay type, on the surfaces",
+    "options": [
+      "along the edges and sometimes, depending on clay type, on the surfaces",
+      "only in the center",
+      "only on the surfaces of all clays",
+      "nowhere"
+    ],
+    "feedback": "Charges are on edges and, for some clays, surfaces.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q091",
+    "module": "M17",
+    "question": "Positively charged ions are called:",
+    "correct": "cations",
+    "options": [
+      "cations",
+      "anions",
+      "colloids",
+      "separates"
+    ],
+    "feedback": "Cations are positively charged ions, attracted to negative clay.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q092",
+    "module": "M17",
+    "question": "Which ion is listed by the module as a cation attracted to clay?",
+    "correct": "potassium (K⁺)",
+    "options": [
+      "potassium (K⁺)",
+      "nitrate (NO₃⁻)",
+      "sulfate (SO₄⁻)",
+      "chloride (Cl⁻)"
+    ],
+    "feedback": "Mg, Na, Ca, NH₄, and K are cations attracted to clay.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q093",
+    "module": "M17",
+    "question": "The CEC of a soil is determined by the total number of charges on clay particles and:",
+    "correct": "the total amount of clay in the soil",
+    "options": [
+      "the total amount of clay in the soil",
+      "the amount of sand",
+      "the soil temperature",
+      "the turfgrass species"
+    ],
+    "feedback": "Charge density plus clay amount determine CEC.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q094",
+    "module": "M17",
+    "question": "In the module's CEC example (image D), 10 units of NH₄⁺ are applied. How many are retained?",
+    "correct": "four",
+    "options": [
+      "four",
+      "ten",
+      "none",
+      "six"
+    ],
+    "feedback": "Four are retained; the rest are lost.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q095",
+    "module": "M17",
+    "question": "Besides the amount and type of clay, CEC also reflects the presence of:",
+    "correct": "organic matter",
+    "options": [
+      "organic matter",
+      "sand",
+      "gravel",
+      "soil air"
+    ],
+    "feedback": "Organic matter also contributes to CEC.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q096",
+    "module": "M17",
+    "question": "Highly decomposed organic matter is called:",
+    "correct": "humus",
+    "options": [
+      "humus",
+      "thatch",
+      "mat",
+      "peat"
+    ],
+    "feedback": "Highly decomposed organic matter = humus.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q097",
+    "module": "M17",
+    "question": "Compared with undecomposed organic residues, humus has a:",
+    "correct": "relatively high CEC",
+    "options": [
+      "relatively high CEC",
+      "relatively low CEC",
+      "zero CEC",
+      "identical CEC"
+    ],
+    "feedback": "Humus has high CEC; undecomposed residues have low CEC.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q098",
+    "module": "M17",
+    "question": "Which two features of soil organic matter influence soil CEC?",
+    "correct": "its amount and decompositional stage",
+    "options": [
+      "its amount and decompositional stage",
+      "its color and smell",
+      "its pH and temperature",
+      "its weight and shape"
+    ],
+    "feedback": "Both amount and decomposition stage matter.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q099",
+    "module": "M17",
+    "question": "Compared with a sand, the nutrient retention capacity of a clay soil is:",
+    "correct": "substantially greater",
+    "options": [
+      "substantially greater",
+      "substantially less",
+      "about the same",
+      "zero"
+    ],
+    "feedback": "Clay retains far more nutrients than sand.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q100",
+    "module": "M17",
+    "question": "The magnitude of the nutrient-retention difference between clay and sand is a function of:",
+    "correct": "the type of clay and the amount of colloidal organic matter",
+    "options": [
+      "the type of clay and the amount of colloidal organic matter",
+      "the sand color",
+      "the irrigation frequency",
+      "the turfgrass species"
+    ],
+    "feedback": "Clay type and colloidal organic matter determine the difference.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q101",
+    "module": "M17",
+    "question": "The primary and secondary nutrients are sometimes referred to as:",
+    "correct": "macronutrients",
+    "options": [
+      "macronutrients",
+      "micronutrients",
+      "tertiary nutrients",
+      "trace elements only"
+    ],
+    "feedback": "Primary + secondary = macronutrients; tertiary = micronutrients.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q102",
+    "module": "M17",
+    "question": "Tertiary nutrients are sometimes called:",
+    "correct": "micronutrients",
+    "options": [
+      "micronutrients",
+      "macronutrients",
+      "primary nutrients",
+      "secondary nutrients"
+    ],
+    "feedback": "Tertiary nutrients = micronutrients.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q103",
+    "module": "M17",
+    "question": "Which is a primary nutrient?",
+    "correct": "potassium (K)",
+    "options": [
+      "potassium (K)",
+      "calcium (Ca)",
+      "iron (Fe)",
+      "sulfur (S)"
+    ],
+    "feedback": "Primary: N, P, K.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q104",
+    "module": "M17",
+    "question": "Which is a secondary nutrient?",
+    "correct": "magnesium (Mg)",
+    "options": [
+      "magnesium (Mg)",
+      "phosphorus (P)",
+      "manganese (Mn)",
+      "zinc (Zn)"
+    ],
+    "feedback": "Secondary: S, Ca, Mg.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q105",
+    "module": "M17",
+    "question": "Which is a tertiary nutrient?",
+    "correct": "boron (B)",
+    "options": [
+      "boron (B)",
+      "nitrogen (N)",
+      "calcium (Ca)",
+      "sulfur (S)"
+    ],
+    "feedback": "Tertiary include Fe, Mn, B, Cu, Zn, Mo, Cl (plus C, H, O).",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q106",
+    "module": "M17",
+    "question": "Per Table 17.7.1, nitrogen occurs in the soil in which ionic forms?",
+    "correct": "NH₄⁺ and NO₃⁻",
+    "options": [
+      "NH₄⁺ and NO₃⁻",
+      "HPO₄⁻ and H₂PO₄⁻",
+      "SO₄⁻",
+      "K⁺"
+    ],
+    "feedback": "N: ammonium (NH₄⁺) and nitrate (NO₃⁻).",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q107",
+    "module": "M17",
+    "question": "Per Table 17.7.1, phosphorus occurs in the soil as:",
+    "correct": "HPO₄⁻ and H₂PO₄⁻",
+    "options": [
+      "HPO₄⁻ and H₂PO₄⁻",
+      "NH₄⁺ and NO₃⁻",
+      "MoO₄⁻",
+      "H₂BO₃⁻"
+    ],
+    "feedback": "P: phosphate forms HPO₄ and H₂PO₄.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q108",
+    "module": "M17",
+    "question": "Per Table 17.7.2, sulfur occurs in the soil as:",
+    "correct": "SO₄⁻ (sulfate)",
+    "options": [
+      "SO₄⁻ (sulfate)",
+      "S²⁺",
+      "H₂S",
+      "SO₂"
+    ],
+    "feedback": "S: sulfate.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q109",
+    "module": "M17",
+    "question": "Per Table 17.7.3, boron occurs in the soil as:",
+    "correct": "H₂BO₃⁻",
+    "options": [
+      "H₂BO₃⁻",
+      "B⁺⁺",
+      "MoO₄⁻",
+      "Cl⁻"
+    ],
+    "feedback": "B: borate (H₂BO₃⁻).",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q110",
+    "module": "M17",
+    "question": "Per Table 17.7.3, molybdenum occurs in the soil as:",
+    "correct": "MoO₄⁻ (molybdate)",
+    "options": [
+      "MoO₄⁻ (molybdate)",
+      "Mo⁺⁺",
+      "H₂BO₃⁻",
+      "Mn⁺⁺"
+    ],
+    "feedback": "Mo: molybdate.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q111",
+    "module": "M17",
+    "question": "Per Table 17.7.3, which nutrient is listed as occurring in \"many forms\"?",
+    "correct": "oxygen (O)",
+    "options": [
+      "oxygen (O)",
+      "carbon (C)",
+      "hydrogen (H)",
+      "chlorine (Cl)"
+    ],
+    "feedback": "Oxygen occurs in many forms.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q112",
+    "module": "M17",
+    "question": "Per Table 17.7.3, iron occurs in the soil as:",
+    "correct": "Fe⁺⁺",
+    "options": [
+      "Fe⁺⁺",
+      "FeO₄⁻",
+      "Fe⁻",
+      "H₂FeO₃"
+    ],
+    "feedback": "Fe: ferrous ion, Fe⁺⁺.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "m17q113",
+    "module": "M17",
+    "question": "Edaphology is the science that deals with:",
+    "correct": "the influence of soil and other media on plant growth",
+    "options": [
+      "the influence of soil and other media on plant growth",
+      "the atmosphere's influence on plants",
+      "plant classification",
+      "insect behavior"
+    ],
+    "feedback": "Edaphology studies soil (and other media) effects on plant growth.",
+    "source": "M17.8: Edaphic Influences",
+    "kind": "module"
+  },
+  {
+    "id": "m17q114",
+    "module": "M17",
+    "question": "The edaphic environment of a turfgrass community may be composed of:",
+    "correct": "synthetic materials, native soil, organic residues, or any combination",
+    "options": [
+      "synthetic materials, native soil, organic residues, or any combination",
+      "native soil only",
+      "sand only",
+      "organic residues only"
+    ],
+    "feedback": "It can be synthetic, native soil, organic, or combinations.",
+    "source": "M17.8: Edaphic Influences",
+    "kind": "module"
+  },
+  {
+    "id": "m17q115",
+    "module": "M17",
+    "question": "Where edaphic media are combined, they may:",
+    "correct": "form a uniform mixture or occur as distinct layers",
+    "options": [
+      "form a uniform mixture or occur as distinct layers",
+      "always form a uniform mixture",
+      "always form layers",
+      "never interact"
+    ],
+    "feedback": "Combined media mix uniformly or layer.",
+    "source": "M17.8: Edaphic Influences",
+    "kind": "module"
+  },
+  {
+    "id": "m17q116",
+    "module": "M17",
+    "question": "The module's edaphic illustration compares three profiles:",
+    "correct": "soil, sand, and thatch/soil",
+    "options": [
+      "soil, sand, and thatch/soil",
+      "clay, silt, and sand",
+      "O, A, and B horizons",
+      "thatch, mat, and gravel"
+    ],
+    "feedback": "The three profiles are soil, sand, and thatch over soil.",
+    "source": "M17.8: Edaphic Influences",
+    "kind": "module"
+  },
+  {
+    "id": "m17q117",
+    "module": "M17",
+    "question": "The predominantly organic layer separating turfgrass shoots from the underlying soil is the:",
+    "correct": "thatch zone",
+    "options": [
+      "thatch zone",
+      "soil zone",
+      "shoot zone",
+      "mat zone"
+    ],
+    "feedback": "Shoot zone, thatch zone, soil zone.",
+    "source": "M17.9: Thatch Zone",
+    "kind": "module"
+  },
+  {
+    "id": "m17q118",
+    "module": "M17",
+    "question": "The module's photograph of a large pile of organic residues extracted from thatchy turf shows why:",
+    "correct": "thatch-control measures should be employed on a regular basis",
+    "options": [
+      "thatch-control measures should be employed on a regular basis",
+      "thatch should never be removed",
+      "thatch improves turf quality",
+      "thatch increases nutrient retention"
+    ],
+    "feedback": "Large residue volumes show why regular thatch control is needed.",
+    "source": "M17.9: Thatch Zone",
+    "kind": "module"
+  },
+  {
+    "id": "m17q119",
+    "module": "M17",
+    "question": "Thatch is the undecomposed or partially decomposed layer of organic matter situated:",
+    "correct": "above the soil surface",
+    "options": [
+      "above the soil surface",
+      "below the subsoil",
+      "within the C horizon",
+      "on leaf surfaces"
+    ],
+    "feedback": "Thatch sits above the soil surface.",
+    "source": "M17.9: Thatch Zone",
+    "kind": "module"
+  },
+  {
+    "id": "m17q120",
+    "module": "M17",
+    "question": "Within the thatch layer, the greatest decomposition occurs:",
+    "correct": "closest to the soil surface",
+    "options": [
+      "closest to the soil surface",
+      "at the top near the shoots",
+      "uniformly throughout",
+      "only in the middle"
+    ],
+    "feedback": "Decomposition increases toward the soil (undecomposed top, highly decomposed bottom).",
+    "source": "M17.9: Thatch Zone",
+    "kind": "module"
+  },
+  {
+    "id": "m17q121",
+    "module": "M17",
+    "question": "In a thatch-free turf, the crown is located:",
+    "correct": "at or just below the soil surface",
+    "options": [
+      "at or just below the soil surface",
+      "well above the soil surface in thatch",
+      "deep in the subsoil",
+      "on top of stolons"
+    ],
+    "feedback": "Thatch-free: crowns at or just below the soil surface, roots deep.",
+    "source": "M17.9: Thatch Zone",
+    "kind": "module"
+  },
+  {
+    "id": "m17q122",
+    "module": "M17",
+    "question": "In a thatchy turf, crowns are situated:",
+    "correct": "above the soil surface, within the thatch layer",
+    "options": [
+      "above the soil surface, within the thatch layer",
+      "at or below the soil surface",
+      "deep in the subsoil",
+      "in the mat only"
+    ],
+    "feedback": "Thatchy turf has crowns elevated in the thatch.",
+    "source": "M17.9: Thatch Zone",
+    "kind": "module"
+  },
+  {
+    "id": "m17q123",
+    "module": "M17",
+    "question": "In some thatchy turfs, the entire root system may be confined to the thatch, so that the soil:",
+    "correct": "plays only a secondary role as a growth medium",
+    "options": [
+      "plays only a secondary role as a growth medium",
+      "becomes the only growth medium",
+      "is completely eliminated",
+      "gains nutrient retention"
+    ],
+    "feedback": "The soil becomes secondary.",
+    "source": "M17.9: Thatch Zone",
+    "kind": "module"
+  },
+  {
+    "id": "m17q124",
+    "module": "M17",
+    "question": "Why may soil test results be essentially meaningless in a thatchy turf?",
+    "correct": "turfgrass growth is largely or entirely confined to the thatch",
+    "options": [
+      "turfgrass growth is largely or entirely confined to the thatch",
+      "soil tests cannot be run on turf",
+      "thatch changes soil pH to 7",
+      "soil nutrients are always zero"
+    ],
+    "feedback": "If roots are in the thatch, the soil doesn't reflect the growth medium.",
+    "source": "M17.9: Thatch Zone",
+    "kind": "module"
+  },
+  {
+    "id": "m17q125",
+    "module": "M17",
+    "question": "Per the likely thatch-formation scenario, the process begins with:",
+    "correct": "deposition of organic residues atop the soil during periods of reduced biological activity",
+    "options": [
+      "deposition of organic residues atop the soil during periods of reduced biological activity",
+      "excess earthworm activity",
+      "frequent sand topdressing",
+      "core cultivation"
+    ],
+    "feedback": "Residues accumulate when biological activity that would degrade or redistribute them is reduced.",
+    "source": "M17.9: Thatch Zone",
+    "kind": "module"
+  },
+  {
+    "id": "m17q126",
+    "module": "M17",
+    "question": "In the thatch-formation scenario, what provides structural stability for the new organic medium?",
+    "correct": "roots and new rhizomes originating from crowns in the residue",
+    "options": [
+      "roots and new rhizomes originating from crowns in the residue",
+      "sand topdressing",
+      "earthworm casts",
+      "fungal mycelia only"
+    ],
+    "feedback": "Roots and rhizomes grow into the residue and stabilize it.",
+    "source": "M17.9: Thatch Zone",
+    "kind": "module"
+  },
+  {
+    "id": "m17q127",
+    "module": "M17",
+    "question": "Chlordane encouraged thatch formation where it otherwise would not form because it:",
+    "correct": "suppresses earthworms and presumably other soil biological activity",
+    "options": [
+      "suppresses earthworms and presumably other soil biological activity",
+      "adds nitrogen",
+      "kills turfgrass roots",
+      "increases decomposition"
+    ],
+    "feedback": "Chlordane suppressed earthworms, so residues accumulated.",
+    "source": "M17.9: Thatch Zone",
+    "kind": "module"
+  },
+  {
+    "id": "m17q128",
+    "module": "M17",
+    "question": "When adjacent thatchy and thatch-free turfs were vertically mowed, the thatchy plots recovered:",
+    "correct": "much more slowly, due to fewer vegetative propagules",
+    "options": [
+      "much more slowly, due to fewer vegetative propagules",
+      "much faster",
+      "at the same rate",
+      "not at all, ever"
+    ],
+    "feedback": "Fewer remaining propagules slowed recovery in thatchy plots.",
+    "source": "M17.9: Thatch Zone",
+    "kind": "module"
+  },
+  {
+    "id": "m17q129",
+    "module": "M17",
+    "question": "In image D of the pesticide-induced thatch plots, leaf spot incidence was:",
+    "correct": "higher where thatch had not been removed",
+    "options": [
+      "higher where thatch had not been removed",
+      "higher where thatch had been removed",
+      "identical everywhere",
+      "absent"
+    ],
+    "feedback": "Thatch contributes to leaf spot incidence and severity.",
+    "source": "M17.9: Thatch Zone",
+    "kind": "module"
+  },
+  {
+    "id": "m17q130",
+    "module": "M17",
+    "question": "Thatch-inducing pesticides such as calcium arsenate work by:",
+    "correct": "inhibiting soil biological activity",
+    "options": [
+      "inhibiting soil biological activity",
+      "adding organic matter",
+      "increasing earthworms",
+      "lowering bulk density"
+    ],
+    "feedback": "They inhibit soil biology, including earthworms.",
+    "source": "M17.9: Thatch Zone",
+    "kind": "module"
+  },
+  {
+    "id": "m17q131",
+    "module": "M17",
+    "question": "The earthworm species noted in the calcium arsenate experiment is:",
+    "correct": "Lumbricus terrestris",
+    "options": [
+      "Lumbricus terrestris",
+      "Helodrilus caliginosus",
+      "Helodrilus foetidus",
+      "Eisenia fetida"
+    ],
+    "feedback": "Lumbricus terrestris L. (night crawler).",
+    "source": "M17.9: Thatch Zone",
+    "kind": "module"
+  },
+  {
+    "id": "m17q132",
+    "module": "M17",
+    "question": "During a midsummer stress period, the thatchy calcium arsenate-treated plot showed:",
+    "correct": "severe wilting compared with the untreated control",
+    "options": [
+      "severe wilting compared with the untreated control",
+      "no wilting",
+      "less wilting than the control",
+      "better color than the control"
+    ],
+    "feedback": "Thatchy plots wilted severely.",
+    "source": "M17.9: Thatch Zone",
+    "kind": "module"
+  },
+  {
+    "id": "m17q133",
+    "module": "M17",
+    "question": "When irrigation was withheld from the thatchy plot and sod was cut, the underlying soil:",
+    "correct": "separated easily from the thatch because so little rooting extended into it",
+    "options": [
+      "separated easily from the thatch because so little rooting extended into it",
+      "was firmly bound by roots",
+      "was full of earthworms",
+      "was water-repellent"
+    ],
+    "feedback": "Little rooting into soil let soil fall away from the thatch.",
+    "source": "M17.9: Thatch Zone",
+    "kind": "module"
+  },
+  {
+    "id": "m17q134",
+    "module": "M17",
+    "question": "The moisture characteristic of a medium represents:",
+    "correct": "the amount of moisture extracted at increasing suction levels",
+    "options": [
+      "the amount of moisture extracted at increasing suction levels",
+      "its pH at different depths",
+      "its CEC",
+      "its color when wet"
+    ],
+    "feedback": "It shows moisture released as suction increases.",
+    "source": "M17.10: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "m17q135",
+    "module": "M17",
+    "question": "Moisture extracted at low suction levels comes from:",
+    "correct": "the larger pores",
+    "options": [
+      "the larger pores",
+      "the smaller pores",
+      "clay surfaces only",
+      "humus only"
+    ],
+    "feedback": "Low suction drains large pores; high suction drains small pores.",
+    "source": "M17.10: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "m17q136",
+    "module": "M17",
+    "question": "The moisture characteristic curve represents the medium's:",
+    "correct": "pore size distribution",
+    "options": [
+      "pore size distribution",
+      "nutrient content",
+      "bulk density only",
+      "pH"
+    ],
+    "feedback": "It reflects pore size distribution.",
+    "source": "M17.10: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "m17q137",
+    "module": "M17",
+    "question": "Compared with soil, the water extracted from thatch as suction increases comes primarily from:",
+    "correct": "larger, aeration-type pores",
+    "options": [
+      "larger, aeration-type pores",
+      "very small pores",
+      "clay films",
+      "no pores"
+    ],
+    "feedback": "Thatch drains mainly from large pores; soil has a more uniform pore distribution.",
+    "source": "M17.10: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "m17q138",
+    "module": "M17",
+    "question": "In a thatch-free turf, as upper soil dries from evapotranspiration, water from lower soil:",
+    "correct": "moves upward along a water potential gradient",
+    "options": [
+      "moves upward along a water potential gradient",
+      "moves only downward",
+      "stays in place",
+      "evaporates directly from the subsoil"
+    ],
+    "feedback": "Upward capillary movement replenishes the surface.",
+    "source": "M17.10: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "m17q139",
+    "module": "M17",
+    "question": "In a thatchy turf, water moves rapidly through thatch and then:",
+    "correct": "slows due to the lower conductivity of the underlying soil",
+    "options": [
+      "slows due to the lower conductivity of the underlying soil",
+      "speeds up in the soil",
+      "stops permanently",
+      "moves upward"
+    ],
+    "feedback": "Underlying soil has lower conductivity.",
+    "source": "M17.10: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "m17q140",
+    "module": "M17",
+    "question": "Why is thatchy turf more prone to wilt under moisture stress?",
+    "correct": "when thatch dries, water from the soil can't move up into the coarse-textured thatch",
+    "options": [
+      "when thatch dries, water from the soil can't move up into the coarse-textured thatch",
+      "thatch holds too much water",
+      "soil drains too fast",
+      "thatch blocks transpiration"
+    ],
+    "feedback": "Coarse thatch cannot draw water up from soil.",
+    "source": "M17.10: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "m17q141",
+    "module": "M17",
+    "question": "When thatch's structural integrity is destroyed, its volume:",
+    "correct": "decreases, reflecting abundant aeration-type pores",
+    "options": [
+      "decreases, reflecting abundant aeration-type pores",
+      "increases",
+      "stays the same",
+      "doubles"
+    ],
+    "feedback": "Thatch collapses; soil expands when disturbed.",
+    "source": "M17.10: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "m17q142",
+    "module": "M17",
+    "question": "When soil is disturbed (as in cultivation), its volume:",
+    "correct": "increases in proportion to the increase in aeration porosity",
+    "options": [
+      "increases in proportion to the increase in aeration porosity",
+      "decreases",
+      "stays the same",
+      "is halved"
+    ],
+    "feedback": "Disturbed soil gains aeration pores and volume.",
+    "source": "M17.10: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "m17q143",
+    "module": "M17",
+    "question": "When undisturbed surface soil samples from thatchy and thatch-free plots dried, which shrank more?",
+    "correct": "soil from the thatch-free plots, due to greater porosity",
+    "options": [
+      "soil from the thatch-free plots, due to greater porosity",
+      "soil from the thatchy plots",
+      "neither shrank",
+      "both shrank equally"
+    ],
+    "feedback": "Thatch-free soil had greater porosity, especially large pores.",
+    "source": "M17.10: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "m17q144",
+    "module": "M17",
+    "question": "In the module's bulk density illustration, thatch has a BD of about:",
+    "correct": "0.25 g/cc",
+    "options": [
+      "0.25 g/cc",
+      "1.00 g/cc",
+      "1.10 g/cc",
+      "1.40 g/cc"
+    ],
+    "feedback": "Thatch is very light: about 0.25 g/cc.",
+    "source": "M17.10: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "m17q145",
+    "module": "M17",
+    "question": "In the bulk density illustration, the soil underlying thatch has a BD of about:",
+    "correct": "1.40 g/cc",
+    "options": [
+      "1.40 g/cc",
+      "0.25 g/cc",
+      "1.00 g/cc",
+      "1.10 g/cc"
+    ],
+    "feedback": "Soil under thatch: 1.40 g/cc — highest, due to lack of roots and rhizomes.",
+    "source": "M17.10: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "m17q146",
+    "module": "M17",
+    "question": "In the bulk density illustration, the surface and deeper soil in thatch-free turf have BDs of about:",
+    "correct": "1.00 and 1.10 g/cc",
+    "options": [
+      "1.00 and 1.10 g/cc",
+      "0.25 and 1.40 g/cc",
+      "1.40 and 1.40 g/cc",
+      "2.65 and 2.65 g/cc"
+    ],
+    "feedback": "Thatch-free soil: 1.00 surface and 1.10 deeper.",
+    "source": "M17.10: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "m17q147",
+    "module": "M17",
+    "question": "The lower bulk density of soil in thatch-free turf reflects the impact of:",
+    "correct": "turfgrass root and rhizome growth and soil macrofauna such as earthworms",
+    "options": [
+      "turfgrass root and rhizome growth and soil macrofauna such as earthworms",
+      "frequent mowing",
+      "sand topdressing",
+      "herbicide use"
+    ],
+    "feedback": "Roots, rhizomes, and earthworms improve soil physical properties.",
+    "source": "M17.10: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "m17q148",
+    "module": "M17",
+    "question": "Infiltration tests on thatchy and thatch-free plots used a:",
+    "correct": "double-ring infiltrometer",
+    "options": [
+      "double-ring infiltrometer",
+      "penetrometer",
+      "tensiometer",
+      "vacuum distillation flask"
+    ],
+    "feedback": "A double-ring infiltrometer (cylindrical inner, rectangular outer ring).",
+    "source": "M17.10: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "m17q149",
+    "module": "M17",
+    "question": "During infiltration tests, foot traffic made the water turbid over the:",
+    "correct": "thatch-free plot",
+    "options": [
+      "thatch-free plot",
+      "thatchy plot",
+      "both equally",
+      "neither plot"
+    ],
+    "feedback": "The thatch-free plot became turbid; thatch insulated the soil.",
+    "source": "M17.10: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "m17q150",
+    "module": "M17",
+    "question": "Little turbidity over the thatchy plot reflects:",
+    "correct": "thatch's insulating effect, separating soil from aerial shoots",
+    "options": [
+      "thatch's insulating effect, separating soil from aerial shoots",
+      "high clay content",
+      "compaction",
+      "salt accumulation"
+    ],
+    "feedback": "Thatch kept the soil separated from the surface.",
+    "source": "M17.10: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "m17q151",
+    "module": "M17",
+    "question": "Thatchy turf treated with paraquat and drill seeded with perennial ryegrass a week later showed:",
+    "correct": "inhibited seedling emergence, an unexpected residual effect",
+    "options": [
+      "inhibited seedling emergence, an unexpected residual effect",
+      "excellent emergence",
+      "emergence identical to glyphosate",
+      "faster emergence than untreated turf"
+    ],
+    "feedback": "Paraquat, thought non-residual, inhibited emergence in thatch.",
+    "source": "M17.10: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "m17q152",
+    "module": "M17",
+    "question": "In the residual-herbicide experiment, which herbicide did NOT inhibit ryegrass emergence?",
+    "correct": "glyphosate",
+    "options": [
+      "glyphosate",
+      "paraquat",
+      "both did",
+      "neither — both inhibited"
+    ],
+    "feedback": "Glyphosate (right) allowed emergence; paraquat (left) did not.",
+    "source": "M17.10: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "m17q153",
+    "module": "M17",
+    "question": "Paraquat's residual toxicity in thatch can be overcome by:",
+    "correct": "incorporating sufficient soil into the thatch for adsorption",
+    "options": [
+      "incorporating sufficient soil into the thatch for adsorption",
+      "adding more paraquat",
+      "removing all soil",
+      "irrigating heavily only"
+    ],
+    "feedback": "Soil incorporation adsorbs paraquat.",
+    "source": "M17.10: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "m17q154",
+    "module": "M17",
+    "question": "Nitrogen volatilization from thatch and soil was measured using a:",
+    "correct": "two-flask vacuum distillation apparatus",
+    "options": [
+      "two-flask vacuum distillation apparatus",
+      "double-ring infiltrometer",
+      "penetrometer",
+      "pH meter"
+    ],
+    "feedback": "A two-flask vacuum distillation setup captured volatilized NH₃.",
+    "source": "M17.11: Nitrogen",
+    "kind": "module"
+  },
+  {
+    "id": "m17q155",
+    "module": "M17",
+    "question": "Nitrogen volatilization from water-soluble nitrogen is:",
+    "correct": "greater from thatch than from soil",
+    "options": [
+      "greater from thatch than from soil",
+      "greater from soil than from thatch",
+      "equal in both",
+      "zero in thatch"
+    ],
+    "feedback": "Volatilization (like leaching) is greater from thatch.",
+    "source": "M17.11: Nitrogen",
+    "kind": "module"
+  },
+  {
+    "id": "m17q156",
+    "module": "M17",
+    "question": "The use of a slowly soluble nitrogen carrier:",
+    "correct": "dramatically reduces volatilization and leaching",
+    "options": [
+      "dramatically reduces volatilization and leaching",
+      "increases volatilization",
+      "increases leaching",
+      "has no effect"
+    ],
+    "feedback": "Slowly soluble carriers reduce both losses.",
+    "source": "M17.11: Nitrogen",
+    "kind": "module"
+  },
+  {
+    "id": "m17q157",
+    "module": "M17",
+    "question": "Nitrogen leaching from a water-soluble source is:",
+    "correct": "greater through thatch than through soil",
+    "options": [
+      "greater through thatch than through soil",
+      "greater through soil",
+      "equal",
+      "zero through thatch"
+    ],
+    "feedback": "Thatch leaches more N than soil.",
+    "source": "M17.11: Nitrogen",
+    "kind": "module"
+  },
+  {
+    "id": "m17q158",
+    "module": "M17",
+    "question": "A slowly soluble carrier can provide a(n) ________ retention of nutrients in media where it would not otherwise occur.",
+    "correct": "\"induced\"",
+    "options": [
+      "\"induced\"",
+      "\"natural\"",
+      "\"permanent\"",
+      "\"negative\""
+    ],
+    "feedback": "Slowly soluble carriers provide \"induced\" retention.",
+    "source": "M17.11: Nitrogen",
+    "kind": "module"
+  },
+  {
+    "id": "m17q159",
+    "module": "M17",
+    "question": "The leaching apparatus collected leachate through a:",
+    "correct": "porous ceramic plate under vacuum",
+    "options": [
+      "porous ceramic plate under vacuum",
+      "cotton filter by gravity",
+      "sand column only",
+      "paper towel"
+    ],
+    "feedback": "Sample core sits on a porous ceramic plate with vacuum drawing leachate.",
+    "source": "M17.11: Nitrogen",
+    "kind": "module"
+  },
+  {
+    "id": "m17q160",
+    "module": "M17",
+    "question": "Per Table 17.12.1, the aeration of thatch is:",
+    "correct": "good",
+    "options": [
+      "good",
+      "fair to poor",
+      "poor",
+      "none"
+    ],
+    "feedback": "Thatch: good aeration; soil: fair to poor.",
+    "source": "M17.12: Thatch vs. Soil",
+    "kind": "module"
+  },
+  {
+    "id": "m17q161",
+    "module": "M17",
+    "question": "Per Table 17.12.1, soil aeration is:",
+    "correct": "fair to poor",
+    "options": [
+      "fair to poor",
+      "good",
+      "excellent",
+      "resistant"
+    ],
+    "feedback": "Soil aeration is fair to poor.",
+    "source": "M17.12: Thatch vs. Soil",
+    "kind": "module"
+  },
+  {
+    "id": "m17q162",
+    "module": "M17",
+    "question": "Per Table 17.12.1, thatch is ________ to compaction.",
+    "correct": "resistant",
+    "options": [
+      "resistant",
+      "susceptible",
+      "highly susceptible",
+      "neutral"
+    ],
+    "feedback": "Thatch resists compaction; soil is susceptible.",
+    "source": "M17.12: Thatch vs. Soil",
+    "kind": "module"
+  },
+  {
+    "id": "m17q163",
+    "module": "M17",
+    "question": "Per Table 17.12.1, thatch's moisture and nutrient retention are:",
+    "correct": "poor",
+    "options": [
+      "poor",
+      "good",
+      "excellent",
+      "fair to good"
+    ],
+    "feedback": "Thatch retains moisture and nutrients poorly.",
+    "source": "M17.12: Thatch vs. Soil",
+    "kind": "module"
+  },
+  {
+    "id": "m17q164",
+    "module": "M17",
+    "question": "Per Table 17.12.1, soil's moisture and nutrient retention are:",
+    "correct": "good",
+    "options": [
+      "good",
+      "poor",
+      "none",
+      "fair to poor"
+    ],
+    "feedback": "Soil retains moisture and nutrients well.",
+    "source": "M17.12: Thatch vs. Soil",
+    "kind": "module"
+  },
+  {
+    "id": "m17q165",
+    "module": "M17",
+    "question": "Integrating thatch and soil constituents would likely produce a medium with:",
+    "correct": "better moisture and nutrient retention than thatch and better aeration and compaction resistance than soil",
+    "options": [
+      "better moisture and nutrient retention than thatch and better aeration and compaction resistance than soil",
+      "worse properties than both",
+      "only better aeration",
+      "only better nutrient retention"
+    ],
+    "feedback": "Integration combines the strengths of both.",
+    "source": "M17.12: Thatch vs. Soil",
+    "kind": "module"
+  },
+  {
+    "id": "m17q166",
+    "module": "M17",
+    "question": "The procedure by which thatch and soil (or sand) media are typically integrated is:",
+    "correct": "topdressing",
+    "options": [
+      "topdressing",
+      "vertical mowing",
+      "core cultivation only",
+      "rolling"
+    ],
+    "feedback": "Topdressing integrates thatch and soil/sand.",
+    "source": "M17.13: Topdressing",
+    "kind": "module"
+  },
+  {
+    "id": "m17q167",
+    "module": "M17",
+    "question": "The proportion of thatch and soil constituents in the resulting medium is determined by topdressing:",
+    "correct": "frequency and intensity",
+    "options": [
+      "frequency and intensity",
+      "color and texture only",
+      "timing of day",
+      "mower type"
+    ],
+    "feedback": "Frequency and intensity set the proportions.",
+    "source": "M17.13: Topdressing",
+    "kind": "module"
+  },
+  {
+    "id": "m17q168",
+    "module": "M17",
+    "question": "If topdressing frequency is insufficient:",
+    "correct": "distinct layers of thatch and soil can result",
+    "options": [
+      "distinct layers of thatch and soil can result",
+      "the medium becomes too soil-like",
+      "no thatch forms",
+      "the green floods"
+    ],
+    "feedback": "Infrequent topdressing creates layers.",
+    "source": "M17.13: Topdressing",
+    "kind": "module"
+  },
+  {
+    "id": "m17q169",
+    "module": "M17",
+    "question": "If topdressing intensity is insufficient, the resulting medium is:",
+    "correct": "too thatch-like",
+    "options": [
+      "too thatch-like",
+      "too soil-like",
+      "perfectly balanced",
+      "layered with gravel"
+    ],
+    "feedback": "Too little = too thatch-like.",
+    "source": "M17.13: Topdressing",
+    "kind": "module"
+  },
+  {
+    "id": "m17q170",
+    "module": "M17",
+    "question": "If topdressing intensity is excessive, the resulting medium is:",
+    "correct": "too soil-like",
+    "options": [
+      "too soil-like",
+      "too thatch-like",
+      "perfectly balanced",
+      "free of sand"
+    ],
+    "feedback": "Too much = too soil-like.",
+    "source": "M17.13: Topdressing",
+    "kind": "module"
+  },
+  {
+    "id": "m17q171",
+    "module": "M17",
+    "question": "In the thatch-sand proportion range illustration, resiliency is highest with:",
+    "correct": "the most thatch-like medium",
+    "options": [
+      "the most thatch-like medium",
+      "the most sand-like medium",
+      "pure gravel",
+      "a 50:50 mix always"
+    ],
+    "feedback": "Resiliency runs from high (thatch-like) to low (sand-like).",
+    "source": "M17.13: Topdressing",
+    "kind": "module"
+  },
+  {
+    "id": "m17q172",
+    "module": "M17",
+    "question": "In the golf green profile photo, the thatch-like derivative beneath the thatch layer is the result of:",
+    "correct": "topdressing",
+    "options": [
+      "topdressing",
+      "earthworms",
+      "core cultivation only",
+      "black layer"
+    ],
+    "feedback": "Topdressing produced the thatch-like derivative.",
+    "source": "M17.13: Topdressing",
+    "kind": "module"
+  },
+  {
+    "id": "m17q173",
+    "module": "M17",
+    "question": "The thatch, or \"surface biomass,\" contains:",
+    "correct": "most of the stolons and a large percentage of the root system",
+    "options": [
+      "most of the stolons and a large percentage of the root system",
+      "no roots",
+      "only dead leaves",
+      "only soil"
+    ],
+    "feedback": "Surface biomass holds most stolons and many roots.",
+    "source": "M17.14: Overview of Thatch",
+    "kind": "module"
+  },
+  {
+    "id": "m17q174",
+    "module": "M17",
+    "question": "The thatch-like derivative resulting from topdressing is also called:",
+    "correct": "mat or soil biomass",
+    "options": [
+      "mat or soil biomass",
+      "surface biomass",
+      "subsoil",
+      "black layer"
+    ],
+    "feedback": "Mat = soil biomass.",
+    "source": "M17.14: Overview of Thatch",
+    "kind": "module"
+  },
+  {
+    "id": "m17q175",
+    "module": "M17",
+    "question": "The mat (soil biomass) combines:",
+    "correct": "the advantageous features of thatch and soil while minimizing their disadvantages",
+    "options": [
+      "the advantageous features of thatch and soil while minimizing their disadvantages",
+      "the worst features of thatch and soil",
+      "only soil features",
+      "only thatch features"
+    ],
+    "feedback": "Mat combines the advantages of both.",
+    "source": "M17.14: Overview of Thatch",
+    "kind": "module"
+  },
+  {
+    "id": "m17q176",
+    "module": "M17",
+    "question": "Had the topdressing program not been suspended:",
+    "correct": "little or no surface biomass would be evident and the turf would be improved",
+    "options": [
+      "little or no surface biomass would be evident and the turf would be improved",
+      "thatch would be thicker",
+      "soil biomass would disappear",
+      "the turf would die"
+    ],
+    "feedback": "Continued topdressing would have converted surface biomass to soil biomass.",
+    "source": "M17.14: Overview of Thatch",
+    "kind": "module"
+  },
+  {
+    "id": "m17q177",
+    "module": "M17",
+    "question": "In the turf cross-section illustration, from top to bottom the layers are:",
+    "correct": "aerial shoots, surface biomass, soil biomass, soil",
+    "options": [
+      "aerial shoots, surface biomass, soil biomass, soil",
+      "soil, soil biomass, surface biomass, shoots",
+      "surface biomass, shoots, soil, soil biomass",
+      "soil biomass, surface biomass, soil, shoots"
+    ],
+    "feedback": "Aerial shoots, surface biomass, soil biomass, then soil.",
+    "source": "M17.14: Overview of Thatch",
+    "kind": "module"
+  },
+  {
+    "id": "m17q178",
+    "module": "M17",
+    "question": "In the soil aeration illustration, O₂ entering the soil combines with organic matter (CH₂O)ₙ to produce:",
+    "correct": "CO₂ and H₂O",
+    "options": [
+      "CO₂ and H₂O",
+      "O₂ and N₂",
+      "CH₄ and NH₃",
+      "H₂S and Fe"
+    ],
+    "feedback": "Respiration: O₂ + (CH₂O)ₙ gives CO₂ + H₂O; CO₂ is released to the atmosphere.",
+    "source": "M17.15: Soil Aeration",
+    "kind": "module"
+  },
+  {
+    "id": "m17q179",
+    "module": "M17",
+    "question": "A specific amount of water applied to the surface moves faster and deeper into:",
+    "correct": "a sandy soil",
+    "options": [
+      "a sandy soil",
+      "a clayey soil",
+      "a loamy soil",
+      "a compacted soil"
+    ],
+    "feedback": "Sand has larger pores and faster conductivity.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q180",
+    "module": "M17",
+    "question": "Compared with clayey soil, sandy soil has:",
+    "correct": "larger pores but smaller total porosity and water-holding capacity",
+    "options": [
+      "larger pores but smaller total porosity and water-holding capacity",
+      "smaller pores and greater total porosity",
+      "identical porosity",
+      "no pores"
+    ],
+    "feedback": "Sand: larger pores, less total porosity.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q181",
+    "module": "M17",
+    "question": "Loamy soils are ________ in porosity, conductivity, and water-holding capacity.",
+    "correct": "intermediate",
+    "options": [
+      "intermediate",
+      "highest",
+      "lowest",
+      "zero"
+    ],
+    "feedback": "Loams are intermediate.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q182",
+    "module": "M17",
+    "question": "The Washington State University soil physics demonstration compared water movement in sandy soil, loam, and clayey soil with:",
+    "correct": "the same water application interval",
+    "options": [
+      "the same water application interval",
+      "different water amounts",
+      "no water",
+      "heated water"
+    ],
+    "feedback": "Same application interval in all three.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q183",
+    "module": "M17",
+    "question": "Plant-available water is delimited by:",
+    "correct": "field capacity and the permanent wilting point",
+    "options": [
+      "field capacity and the permanent wilting point",
+      "saturation and field capacity",
+      "the water table and the surface",
+      "hygroscopic water and gravitational water"
+    ],
+    "feedback": "PAW lies between field capacity and permanent wilting point.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q184",
+    "module": "M17",
+    "question": "Field capacity is the water retained by the soil after:",
+    "correct": "gravitational water has drained from the large pores",
+    "options": [
+      "gravitational water has drained from the large pores",
+      "all water has evaporated",
+      "the soil reaches 15 atmospheres",
+      "plants wilt permanently"
+    ],
+    "feedback": "Field capacity follows gravitational drainage.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q185",
+    "module": "M17",
+    "question": "The permanent wilting point is defined by hygroscopic water remaining after drying down to:",
+    "correct": "15 atmospheres",
+    "options": [
+      "15 atmospheres",
+      "1/3 atmosphere",
+      "1 atmosphere",
+      "100 atmospheres"
+    ],
+    "feedback": "Permanent wilting point: 15 atmospheres.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q186",
+    "module": "M17",
+    "question": "Plant-available water is greatest with:",
+    "correct": "silty soils",
+    "options": [
+      "silty soils",
+      "sandy soils",
+      "clayey soils",
+      "gravel"
+    ],
+    "feedback": "Silty soils have the most plant-available water.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q187",
+    "module": "M17",
+    "question": "Clayey soils retain large amounts of water, but:",
+    "correct": "much of it is not plant-available",
+    "options": [
+      "much of it is not plant-available",
+      "all of it is plant-available",
+      "they drain instantly",
+      "they hold no water"
+    ],
+    "feedback": "Clay holds water too tightly.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q188",
+    "module": "M17",
+    "question": "Sandy soils:",
+    "correct": "drain quickly and retain little plant-available water",
+    "options": [
+      "drain quickly and retain little plant-available water",
+      "retain the most plant-available water",
+      "hold water too tightly",
+      "never drain"
+    ],
+    "feedback": "Sand drains fast, holds little available water.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q189",
+    "module": "M17",
+    "question": "The water remaining in soil after gravitational water drains is called:",
+    "correct": "capillary water",
+    "options": [
+      "capillary water",
+      "hygroscopic water only",
+      "perched water",
+      "free water"
+    ],
+    "feedback": "After gravitational drainage, the remainder is capillary water.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q190",
+    "module": "M17",
+    "question": "The portion of capillary water that roots can absorb is called:",
+    "correct": "available water",
+    "options": [
+      "available water",
+      "unavailable water",
+      "gravitational water",
+      "hygroscopic water"
+    ],
+    "feedback": "Absorbable capillary water = available water.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q191",
+    "module": "M17",
+    "question": "Water moving INTO a soil is called ________; water moving THROUGH a soil is called ________.",
+    "correct": "infiltration; percolation",
+    "options": [
+      "infiltration; percolation",
+      "percolation; infiltration",
+      "evaporation; transpiration",
+      "drainage; leaching"
+    ],
+    "feedback": "Infiltrates into, percolates through.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q192",
+    "module": "M17",
+    "question": "The rate of infiltration and percolation is determined by the soil's:",
+    "correct": "hydraulic conductivity",
+    "options": [
+      "hydraulic conductivity",
+      "CEC",
+      "pH",
+      "bulk density alone"
+    ],
+    "feedback": "Hydraulic conductivity controls these rates.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q193",
+    "module": "M17",
+    "question": "Direct evaporation from soil plus transpiration by plants is collectively called:",
+    "correct": "evapotranspiration (ET)",
+    "options": [
+      "evapotranspiration (ET)",
+      "infiltration",
+      "percolation",
+      "guttation"
+    ],
+    "feedback": "ET = evaporation + transpiration.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q194",
+    "module": "M17",
+    "question": "Wetter soils have a ________ water potential than drier soils.",
+    "correct": "higher",
+    "options": [
+      "higher",
+      "lower",
+      "identical",
+      "negative-only"
+    ],
+    "feedback": "Wetter = higher water potential.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q195",
+    "module": "M17",
+    "question": "Water moves along a water potential gradient from:",
+    "correct": "wetter (higher potential) to drier (lower potential) regions",
+    "options": [
+      "wetter (higher potential) to drier (lower potential) regions",
+      "drier to wetter regions",
+      "lower to higher potential",
+      "only downward"
+    ],
+    "feedback": "Water moves \"down\" the gradient.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q196",
+    "module": "M17",
+    "question": "Unsaturated flow of water along a water potential gradient is sometimes called:",
+    "correct": "capillary flow",
+    "options": [
+      "capillary flow",
+      "gravitational flow",
+      "saturated flow",
+      "percolation only"
+    ],
+    "feedback": "Unsaturated flow = capillary flow.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q197",
+    "module": "M17",
+    "question": "When a fine-textured layer sits over a coarse-textured layer, water stops at the interface until:",
+    "correct": "the water potential above builds enough to overcome the attraction between the water and the fine soil",
+    "options": [
+      "the water potential above builds enough to overcome the attraction between the water and the fine soil",
+      "the coarse layer dries",
+      "the pH changes",
+      "gravity reverses"
+    ],
+    "feedback": "Water crosses only after potential builds sufficiently.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q198",
+    "module": "M17",
+    "question": "The module's perched water table demonstration uses a sponge measuring:",
+    "correct": "5 by 3 by 1 inches",
+    "options": [
+      "5 by 3 by 1 inches",
+      "12 by 2 by 4 inches",
+      "10 by 10 by 1 inches",
+      "6 by 4 by 2 inches"
+    ],
+    "feedback": "A 5 × 3 × 1-inch sponge.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q199",
+    "module": "M17",
+    "question": "When the saturated sponge lies flat (5- and 3-inch sides horizontal):",
+    "correct": "very little water drains out",
+    "options": [
+      "very little water drains out",
+      "the most water drains out",
+      "all water drains out",
+      "water moves upward"
+    ],
+    "feedback": "Flat = shortest water column = least drainage.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q200",
+    "module": "M17",
+    "question": "The most drainage from the sponge occurs when:",
+    "correct": "its 5-inch side is vertical",
+    "options": [
+      "its 5-inch side is vertical",
+      "it lies flat",
+      "its 3-inch side is vertical",
+      "it is cut in half"
+    ],
+    "feedback": "Taller water column = more drainage.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q201",
+    "module": "M17",
+    "question": "When the vertical 5-inch sponge was cut into three sections and squeezed, the wettest section was:",
+    "correct": "the lowermost",
+    "options": [
+      "the lowermost",
+      "the uppermost",
+      "the middle",
+      "all equal"
+    ],
+    "feedback": "Moisture concentrates at the bottom; top is driest.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q202",
+    "module": "M17",
+    "question": "The sponge demonstration shows the relationship between water retention and:",
+    "correct": "the height of the water column",
+    "options": [
+      "the height of the water column",
+      "the sponge's color",
+      "the water temperature",
+      "the pH"
+    ],
+    "feedback": "Retention depends on water column height.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q203",
+    "module": "M17",
+    "question": "The USGA Green Section design places medium-textured sand with amendments above:",
+    "correct": "a coarser medium of gravel, perhaps with an intermediate choker layer of coarse sand",
+    "options": [
+      "a coarser medium of gravel, perhaps with an intermediate choker layer of coarse sand",
+      "a clay layer",
+      "a peat layer",
+      "bedrock directly"
+    ],
+    "feedback": "Root zone over gravel, possibly with a coarse-sand choker layer.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q204",
+    "module": "M17",
+    "question": "The perched water table in a USGA green serves as:",
+    "correct": "a moisture reservoir for replenishing root-zone moisture",
+    "options": [
+      "a moisture reservoir for replenishing root-zone moisture",
+      "a drainage barrier that kills roots",
+      "a source of nutrients",
+      "a heat sink"
+    ],
+    "feedback": "It stores water for the root zone.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q205",
+    "module": "M17",
+    "question": "In the module's USGA green profile, the root zone mix is ________ deep.",
+    "correct": "12 inches",
+    "options": [
+      "12 inches",
+      "2 inches",
+      "4 inches",
+      "22 inches"
+    ],
+    "feedback": "12-in root zone, 2-in coarse sand, 4-in gravel.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q206",
+    "module": "M17",
+    "question": "In the module's USGA green profile, the coarse sand (choker) layer is ________ thick and the gravel layer ________.",
+    "correct": "2 inches; 4 inches",
+    "options": [
+      "2 inches; 4 inches",
+      "4 inches; 2 inches",
+      "12 inches; 4 inches",
+      "1 inch; 10 inches"
+    ],
+    "feedback": "2-in coarse sand over 4-in gravel.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q207",
+    "module": "M17",
+    "question": "At the edge of a USGA green, water is pulled from the root zone mix into adjacent finer soil by:",
+    "correct": "adhesive and cohesive forces",
+    "options": [
+      "adhesive and cohesive forces",
+      "gravity alone",
+      "osmotic pumps",
+      "wind"
+    ],
+    "feedback": "Adhesion (to soil surfaces) and cohesion (hydrogen bonding) pull water outward.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q208",
+    "module": "M17",
+    "question": "Moisture stress along the edge of a USGA green can be avoided by:",
+    "correct": "installing a physical barrier between the root-zone mix and adjacent soil",
+    "options": [
+      "installing a physical barrier between the root-zone mix and adjacent soil",
+      "removing the gravel layer",
+      "adding clay to the edge",
+      "mowing lower"
+    ],
+    "feedback": "A physical barrier stops lateral water loss.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q209",
+    "module": "M17",
+    "question": "Cohesion is the attraction between:",
+    "correct": "water molecules, by hydrogen bonding",
+    "options": [
+      "water molecules, by hydrogen bonding",
+      "water and soil surfaces",
+      "clay and sand",
+      "cations and anions"
+    ],
+    "feedback": "Cohesion = water-water; adhesion = water-soil.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q210",
+    "module": "M17",
+    "question": "In a USGA root-zone mix, most sand particles should be in the ________ range.",
+    "correct": "medium (0.2–0.5 mm) to coarse (0.5–1.0 mm)",
+    "options": [
+      "medium (0.2–0.5 mm) to coarse (0.5–1.0 mm)",
+      "very fine (0.05–0.1 mm)",
+      "silt (0.002–0.05 mm)",
+      "very coarse sand to fine gravel"
+    ],
+    "feedback": "Medium to coarse sand dominates.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q211",
+    "module": "M17",
+    "question": "In a USGA root-zone mix, clay should not exceed:",
+    "correct": "3 percent",
+    "options": [
+      "3 percent",
+      "5 percent",
+      "10 percent",
+      "20 percent"
+    ],
+    "feedback": "Clay max 3%; silt 5%; very fine sand 5%; fine sand 20%.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q212",
+    "module": "M17",
+    "question": "In a USGA root-zone mix, fine sand should not exceed:",
+    "correct": "20 percent",
+    "options": [
+      "20 percent",
+      "3 percent",
+      "5 percent",
+      "10 percent"
+    ],
+    "feedback": "Fine sand max 20%.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q213",
+    "module": "M17",
+    "question": "In a USGA root-zone mix, clay + silt + very fine sand combined should not exceed:",
+    "correct": "10 percent",
+    "options": [
+      "10 percent",
+      "3 percent",
+      "20 percent",
+      "50 percent"
+    ],
+    "feedback": "Combined fines max 10%, or the green may not drain properly.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q214",
+    "module": "M17",
+    "question": "In a USGA root-zone mix, the fine gravel component should not exceed:",
+    "correct": "3 percent",
+    "options": [
+      "3 percent",
+      "10 percent",
+      "20 percent",
+      "5 percent"
+    ],
+    "feedback": "Fine gravel max 3%.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q215",
+    "module": "M17",
+    "question": "In a USGA root-zone mix, very coarse sand + fine gravel combined should not exceed:",
+    "correct": "10 percent",
+    "options": [
+      "10 percent",
+      "3 percent",
+      "20 percent",
+      "25 percent"
+    ],
+    "feedback": "Very coarse sand + fine gravel max 10%.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q216",
+    "module": "M17",
+    "question": "In a coarse-over-fine profile, once the upper coarse layer dries out:",
+    "correct": "water from the underlying fine layer is not available for replenishment",
+    "options": [
+      "water from the underlying fine layer is not available for replenishment",
+      "water moves up readily",
+      "the fine layer floods",
+      "capillary flow accelerates"
+    ],
+    "feedback": "Textural differences block upward replenishment.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "m17q217",
+    "module": "M17",
+    "question": "In the module's black layer example, the coarse-textured sand layer overlying the fine sand of the green developed through:",
+    "correct": "topdressing",
+    "options": [
+      "topdressing",
+      "construction",
+      "earthworm activity",
+      "wind deposition"
+    ],
+    "feedback": "Topdressing laid coarse sand over the fine construction sand.",
+    "source": "M17.17: Black Layer",
+    "kind": "module"
+  },
+  {
+    "id": "m17q218",
+    "module": "M17",
+    "question": "Black layer formed in the example green because of:",
+    "correct": "very slow percolation in fine sand and temporary water tables in the coarse sand layer",
+    "options": [
+      "very slow percolation in fine sand and temporary water tables in the coarse sand layer",
+      "excessive drainage",
+      "too much oxygen",
+      "high pH only"
+    ],
+    "feedback": "Slow drainage and temporary water tables favored black layer.",
+    "source": "M17.17: Black Layer",
+    "kind": "module"
+  },
+  {
+    "id": "m17q219",
+    "module": "M17",
+    "question": "The California Method of green construction uses:",
+    "correct": "a 12-inch pure sand layer placed directly atop a compacted subgrade with drain lines",
+    "options": [
+      "a 12-inch pure sand layer placed directly atop a compacted subgrade with drain lines",
+      "a gravel blanket and choker layer",
+      "plastic sheeting and a riser",
+      "a 2-inch sand cap over native soil"
+    ],
+    "feedback": "California Method: 12 in of pure sand on compacted subgrade with drains.",
+    "source": "M17.17: Black Layer",
+    "kind": "module"
+  },
+  {
+    "id": "m17q220",
+    "module": "M17",
+    "question": "In a California Method green, intermittent temporary water tables form and persist:",
+    "correct": "between the drain lines",
+    "options": [
+      "between the drain lines",
+      "directly above the drain lines",
+      "only at the surface",
+      "nowhere"
+    ],
+    "feedback": "Water tables drop fastest over drains, persisting between them.",
+    "source": "M17.17: Black Layer",
+    "kind": "module"
+  },
+  {
+    "id": "m17q221",
+    "module": "M17",
+    "question": "The Purr-Wick method of green design was developed at:",
+    "correct": "Purdue",
+    "options": [
+      "Purdue",
+      "Penn State",
+      "the USGA",
+      "UC Davis"
+    ],
+    "feedback": "Purr-Wick was developed at Purdue.",
+    "source": "M17.17: Black Layer",
+    "kind": "module"
+  },
+  {
+    "id": "m17q222",
+    "module": "M17",
+    "question": "In a Purr-Wick green, organic amendments (usually peat moss) are incorporated only in the:",
+    "correct": "surface 1 to 2 inches",
+    "options": [
+      "surface 1 to 2 inches",
+      "entire profile",
+      "bottom 6 inches",
+      "gravel layer"
+    ],
+    "feedback": "Pure sand except the surface 1–2 inches.",
+    "source": "M17.17: Black Layer",
+    "kind": "module"
+  },
+  {
+    "id": "m17q223",
+    "module": "M17",
+    "question": "In a Purr-Wick green, the sand depth ranges from:",
+    "correct": "14 to 22 inches, depending on particle size",
+    "options": [
+      "14 to 22 inches, depending on particle size",
+      "6 to 8 inches",
+      "30 to 36 inches",
+      "2 to 4 inches"
+    ],
+    "feedback": "14–22 in depending on sand size.",
+    "source": "M17.17: Black Layer",
+    "kind": "module"
+  },
+  {
+    "id": "m17q224",
+    "module": "M17",
+    "question": "In a Purr-Wick green, very fine sand should be placed to a depth of:",
+    "correct": "18 to 22 inches",
+    "options": [
+      "18 to 22 inches",
+      "14 to 16 inches",
+      "6 to 10 inches",
+      "30 inches"
+    ],
+    "feedback": "Very fine sand: 18–22 in; medium sand: 14–16 in.",
+    "source": "M17.17: Black Layer",
+    "kind": "module"
+  },
+  {
+    "id": "m17q225",
+    "module": "M17",
+    "question": "In a Purr-Wick green, a predominantly medium sand layer should be:",
+    "correct": "14 to 16 inches deep",
+    "options": [
+      "14 to 16 inches deep",
+      "18 to 22 inches deep",
+      "8 to 10 inches deep",
+      "24 inches deep"
+    ],
+    "feedback": "Medium sand: 14–16 in.",
+    "source": "M17.17: Black Layer",
+    "kind": "module"
+  },
+  {
+    "id": "m17q226",
+    "module": "M17",
+    "question": "Before sand placement in a Purr-Wick green, the excavated site is covered by:",
+    "correct": "two layers of 4-mil-thick plastic sheeting",
+    "options": [
+      "two layers of 4-mil-thick plastic sheeting",
+      "a 4-inch gravel blanket",
+      "geotextile fabric",
+      "a clay liner"
+    ],
+    "feedback": "Two layers of 4-mil plastic.",
+    "source": "M17.17: Black Layer",
+    "kind": "module"
+  },
+  {
+    "id": "m17q227",
+    "module": "M17",
+    "question": "Purr-Wick drain pipes are ________ in diameter and spaced ________ apart.",
+    "correct": "2 inches; 10 to 20 feet",
+    "options": [
+      "2 inches; 10 to 20 feet",
+      "4 inches; 5 feet",
+      "6 inches; 30 feet",
+      "1 inch; 2 feet"
+    ],
+    "feedback": "2-in slotted pipes on 10–20-ft spacing.",
+    "source": "M17.17: Black Layer",
+    "kind": "module"
+  },
+  {
+    "id": "m17q228",
+    "module": "M17",
+    "question": "In a Purr-Wick green, the water table is maintained at a desirable level by:",
+    "correct": "an adjustable riser in an adjacent service pit",
+    "options": [
+      "an adjustable riser in an adjacent service pit",
+      "a pump in the gravel",
+      "daily hand watering",
+      "a sealed clay plug"
+    ],
+    "feedback": "An adjustable riser in the service pit controls the water table, reducing irrigation needs.",
+    "source": "M17.17: Black Layer",
+    "kind": "module"
+  },
+  {
+    "id": "m17q229",
+    "module": "M17",
+    "question": "In the Purr-Wick diagram, the plastic barrier at the edge extends:",
+    "correct": "16 to 20 inches",
+    "options": [
+      "16 to 20 inches",
+      "2 to 4 inches",
+      "36 inches",
+      "6 inches"
+    ],
+    "feedback": "The plastic barrier is 16–20 in.",
+    "source": "M17.17: Black Layer",
+    "kind": "module"
+  },
+  {
+    "id": "m17q230",
+    "module": "M17",
+    "question": "A turf profile with numerous textural layers resulted from:",
+    "correct": "sand topdressing combined with core cultivation and reincorporation of soil cores",
+    "options": [
+      "sand topdressing combined with core cultivation and reincorporation of soil cores",
+      "only sand topdressing",
+      "only earthworm activity",
+      "construction with pure sand"
+    ],
+    "feedback": "Reincorporating soil cores after sand topdressing created soil layers atop sand.",
+    "source": "M17.17: Black Layer",
+    "kind": "module"
+  },
+  {
+    "id": "m17q231",
+    "module": "M17",
+    "question": "After starting a sand topdressing program, soil cores from core cultivation should:",
+    "correct": "be removed for as long as cultivations extract appreciable soil",
+    "options": [
+      "be removed for as long as cultivations extract appreciable soil",
+      "always be reincorporated",
+      "be left on the surface permanently",
+      "be mixed with clay"
+    ],
+    "feedback": "Remove cores rather than reincorporate them.",
+    "source": "M17.17: Black Layer",
+    "kind": "module"
+  },
+  {
+    "id": "m17q232",
+    "module": "M17",
+    "question": "Per the textbook, organic matter integrated with surface soil forms a thatchlike derivative called:",
+    "correct": "mat",
+    "options": [
+      "mat",
+      "thatch",
+      "humus",
+      "black layer"
+    ],
+    "feedback": "Thatch + soil = mat.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q233",
+    "module": "M17",
+    "question": "Per the textbook, the optimum proportion of a plant growth medium is:",
+    "correct": "one-half solids, one-fourth liquid, and one-fourth air",
+    "options": [
+      "one-half solids, one-fourth liquid, and one-fourth air",
+      "one-fourth solids, one-half liquid, one-fourth air",
+      "all solids",
+      "one-third each"
+    ],
+    "feedback": "Half solids, quarter water, quarter air.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q234",
+    "module": "M17",
+    "question": "How many soil separates are recognized by the USDA system?",
+    "correct": "seven",
+    "options": [
+      "seven",
+      "three",
+      "five",
+      "twelve"
+    ],
+    "feedback": "Clay, silt, and five sands = seven separates.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q235",
+    "module": "M17",
+    "question": "Per the textbook, silt pores, compared with clay and sand pores:",
+    "correct": "retain higher amounts of plant-available moisture",
+    "options": [
+      "retain higher amounts of plant-available moisture",
+      "hold water too tightly",
+      "contribute little to water retention",
+      "are the smallest"
+    ],
+    "feedback": "Clay holds water unavailable; sand holds little; silt holds most available water.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q236",
+    "module": "M17",
+    "question": "Per the textbook, the first step in aggregate formation is the bringing together of soil particles by forces such as:",
+    "correct": "freezing and thawing, wetting and drying, root growth, and soil organisms",
+    "options": [
+      "freezing and thawing, wetting and drying, root growth, and soil organisms",
+      "sodium saturation",
+      "compaction by traffic",
+      "splashing rain"
+    ],
+    "feedback": "These forces bring particles together; cations and cementing agents then bind them.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q237",
+    "module": "M17",
+    "question": "Polyvalent cations such as Ca²⁺, Mg²⁺, and Al³⁺ promote aggregation by:",
+    "correct": "bridging adjacent soil particles through electrostatic bonds",
+    "options": [
+      "bridging adjacent soil particles through electrostatic bonds",
+      "dispersing clay",
+      "increasing sodium",
+      "dissolving organic matter"
+    ],
+    "feedback": "Polyvalent cations bridge particles.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q238",
+    "module": "M17",
+    "question": "Per the textbook, soils composed entirely of sand are said to be:",
+    "correct": "structureless",
+    "options": [
+      "structureless",
+      "well aggregated",
+      "highly buffered",
+      "colloidal"
+    ],
+    "feedback": "Sand particles don't aggregate, so pure sand is structureless.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q239",
+    "module": "M17",
+    "question": "In constructing a USGA-design green, ________ of sand are installed to ensure 12 inches remain after settling.",
+    "correct": "14 inches",
+    "options": [
+      "14 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "feedback": "14 in installed settles to 12 in.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q240",
+    "module": "M17",
+    "question": "Per the textbook, a sand composed of different particle sizes compared with one of uniform medium sand has:",
+    "correct": "fewer macropores and poorer drainage",
+    "options": [
+      "fewer macropores and poorer drainage",
+      "more macropores",
+      "identical drainage",
+      "no porosity at all"
+    ],
+    "feedback": "Mixed sizes pack tightly, reducing macroporosity.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q241",
+    "module": "M17",
+    "question": "Per the textbook, drainage may be very poor where sand includes a large percentage of:",
+    "correct": "very fine sand (0.1 to 0.05 mm)",
+    "options": [
+      "very fine sand (0.1 to 0.05 mm)",
+      "coarse sand",
+      "very coarse sand",
+      "fine gravel"
+    ],
+    "feedback": "Lots of very fine sand impairs drainage.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q242",
+    "module": "M17",
+    "question": "Particle density (PD) of soil averages:",
+    "correct": "2.65 g/cc",
+    "options": [
+      "2.65 g/cc",
+      "1.00 g/cc",
+      "1.30 g/cc",
+      "0.25 g/cc"
+    ],
+    "feedback": "PD averages 2.65 g/cc.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q243",
+    "module": "M17",
+    "question": "Bulk density (BD) is defined as:",
+    "correct": "the dry weight of an undisturbed volume of soil",
+    "options": [
+      "the dry weight of an undisturbed volume of soil",
+      "the density of dry solid particles only",
+      "the weight of water in soil",
+      "the density of soil air"
+    ],
+    "feedback": "BD = dry weight per undisturbed volume.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q244",
+    "module": "M17",
+    "question": "Per the textbook, macropores are larger than ________, mesopores 75–30 µm, and micropores smaller than 30 µm.",
+    "correct": "75 µm",
+    "options": [
+      "75 µm",
+      "30 µm",
+      "100 µm",
+      "2 mm"
+    ],
+    "feedback": "Macro over 75 µm; meso 75–30; micro under 30 µm.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q245",
+    "module": "M17",
+    "question": "If a soil were compacted so that virtually all pore spaces were removed, BD would:",
+    "correct": "equal PD",
+    "options": [
+      "equal PD",
+      "equal 1.0",
+      "equal zero",
+      "exceed PD"
+    ],
+    "feedback": "No pores means BD = PD.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q246",
+    "module": "M17",
+    "question": "With compaction, pore-size distribution shifts so that:",
+    "correct": "macroporosity decreases and microporosity increases",
+    "options": [
+      "macroporosity decreases and microporosity increases",
+      "macroporosity increases",
+      "both increase",
+      "neither changes"
+    ],
+    "feedback": "Compaction trades macropores for micropores.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q247",
+    "module": "M17",
+    "question": "A loam soil with a BD of 1.30 g/cc has about ________ pore space.",
+    "correct": "49%",
+    "options": [
+      "49%",
+      "30%",
+      "65%",
+      "13%"
+    ],
+    "feedback": "100 − (1.30 ÷ 2.65 × 100) = 49%.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q248",
+    "module": "M17",
+    "question": "Per the textbook, why may a high bulk density NOT indicate poor aeration in a coarse sand?",
+    "correct": "sands have predominantly large pores yet high BD because of their large mass of solids",
+    "options": [
+      "sands have predominantly large pores yet high BD because of their large mass of solids",
+      "sands have no pores",
+      "sands always have low BD",
+      "BD is unrelated to mass"
+    ],
+    "feedback": "A BD of 1.5 may mean a compacted loam but a well-aerated coarse sand.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q249",
+    "module": "M17",
+    "question": "Plant roots require pores in excess of ________ in diameter to force their way through the soil.",
+    "correct": "0.1 mm",
+    "options": [
+      "0.1 mm",
+      "0.002 mm",
+      "1 mm",
+      "2 mm"
+    ],
+    "feedback": "Roots need pores larger than 0.1 mm.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q250",
+    "module": "M17",
+    "question": "Per the textbook, available water is contained within the:",
+    "correct": "mesopores",
+    "options": [
+      "mesopores",
+      "macropores",
+      "micropores",
+      "gravel"
+    ],
+    "feedback": "Available water is in mesopores; unavailable in micropores; gravitational drains from macropores.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q251",
+    "module": "M17",
+    "question": "The water content of soil following drainage of the aeration pores is called ________, and the air content is called aeration capacity.",
+    "correct": "field capacity",
+    "options": [
+      "field capacity",
+      "permanent wilting point",
+      "saturation",
+      "hygroscopic coefficient"
+    ],
+    "feedback": "Field capacity and aeration capacity.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q252",
+    "module": "M17",
+    "question": "At field capacity, a well-structured loam may contain about 25% moisture, while a USGA-specification sand may contain only about:",
+    "correct": "5%",
+    "options": [
+      "5%",
+      "25%",
+      "50%",
+      "1%"
+    ],
+    "feedback": "USGA sand holds about 5% at field capacity.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q253",
+    "module": "M17",
+    "question": "The permanent wilting percentage ranges from 1–2% for sandy soils to ________ for clayey soils.",
+    "correct": "25–30%",
+    "options": [
+      "25–30%",
+      "5–10%",
+      "50–60%",
+      "2–3%"
+    ],
+    "feedback": "Clayey soils: 25–30%.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q254",
+    "module": "M17",
+    "question": "Water potential is symbolized by:",
+    "correct": "the Greek letter psi (Ψ)",
+    "options": [
+      "the Greek letter psi (Ψ)",
+      "the Greek letter pi (π)",
+      "the Greek letter sigma (Σ)",
+      "the letter W"
+    ],
+    "feedback": "Ψ (psi).",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q255",
+    "module": "M17",
+    "question": "Relative to pure free water (0), the water potential of the soil solution is almost always:",
+    "correct": "negative",
+    "options": [
+      "negative",
+      "positive",
+      "zero",
+      "infinite"
+    ],
+    "feedback": "Soil water potential is almost always negative.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q256",
+    "module": "M17",
+    "question": "Soil water potential (Ψsw) is the sum of:",
+    "correct": "matric, osmotic, and pressure potentials",
+    "options": [
+      "matric, osmotic, and pressure potentials",
+      "gravitational and hygroscopic potentials",
+      "osmotic and thermal potentials",
+      "matric and nutrient potentials"
+    ],
+    "feedback": "Ψsw = Ψm + Ψo + Ψp.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q257",
+    "module": "M17",
+    "question": "The matric potential accounts for:",
+    "correct": "reduced free energy of water adsorbed as films onto soil surfaces",
+    "options": [
+      "reduced free energy of water adsorbed as films onto soil surfaces",
+      "effects of dissolved salts",
+      "water under pressure in a water table",
+      "gravity only"
+    ],
+    "feedback": "Matric potential reflects water held by soil surfaces; always negative.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q258",
+    "module": "M17",
+    "question": "At the permanent wilting point, matric potential may decline to as low as:",
+    "correct": "−1500 kPa",
+    "options": [
+      "−1500 kPa",
+      "−33 kPa",
+      "−10 kPa",
+      "0 kPa"
+    ],
+    "feedback": "About −1500 kPa (15 atmospheres).",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q259",
+    "module": "M17",
+    "question": "Per the textbook, field capacity matric potential is usually expected between:",
+    "correct": "−10 and −33 kPa",
+    "options": [
+      "−10 and −33 kPa",
+      "0 and −1 kPa",
+      "−1500 and −3000 kPa",
+      "−100 and −500 kPa"
+    ],
+    "feedback": "−10 to −33 kPa, though turf soils may reach it at −3 or −4 kPa due to layers.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q260",
+    "module": "M17",
+    "question": "The osmotic potential of soil water reflects the effect of:",
+    "correct": "dissolved solutes such as salts",
+    "options": [
+      "dissolved solutes such as salts",
+      "soil particle adsorption",
+      "water column pressure",
+      "temperature"
+    ],
+    "feedback": "Osmotic potential drops as solute concentration rises.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q261",
+    "module": "M17",
+    "question": "In unsaturated soils, pressure potential equals zero, so soil water potential is simply:",
+    "correct": "matric plus osmotic potential",
+    "options": [
+      "matric plus osmotic potential",
+      "pressure potential alone",
+      "osmotic potential alone",
+      "zero"
+    ],
+    "feedback": "Ψsw = Ψm + Ψo when Ψp = 0.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q262",
+    "module": "M17",
+    "question": "Saturated water flow occurs primarily through large pores and is driven mainly by:",
+    "correct": "gravity, directed downward",
+    "options": [
+      "gravity, directed downward",
+      "capillary forces in all directions",
+      "osmotic potential",
+      "wind"
+    ],
+    "feedback": "Saturated flow is gravity-driven and downward.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q263",
+    "module": "M17",
+    "question": "Unsaturated water flow:",
+    "correct": "can proceed in any direction, irrespective of gravity",
+    "options": [
+      "can proceed in any direction, irrespective of gravity",
+      "only proceeds downward",
+      "only occurs in saturated soils",
+      "is fastest in dry soils"
+    ],
+    "feedback": "Unsaturated flow goes any direction; faster in moister soils.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q264",
+    "module": "M17",
+    "question": "Per the textbook, a perched water table is also called a:",
+    "correct": "suspended water table",
+    "options": [
+      "suspended water table",
+      "permanent water table",
+      "artesian table",
+      "capillary fringe"
+    ],
+    "feedback": "Perched = suspended water table.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q265",
+    "module": "M17",
+    "question": "Per the textbook, results with a USGA green are satisfactory only where the design includes:",
+    "correct": "a critical depth of the surface medium",
+    "options": [
+      "a critical depth of the surface medium",
+      "no gravel layer",
+      "clay in the root zone",
+      "a shallow 2-inch root zone"
+    ],
+    "feedback": "Too shallow won't drain; too deep is too dry at the surface.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q266",
+    "module": "M17",
+    "question": "A subsurface aeration (e.g., SubAir) system can:",
+    "correct": "apply suction to drains to speed drainage, or pump air to aerate and modify root-zone temperature",
+    "options": [
+      "apply suction to drains to speed drainage, or pump air to aerate and modify root-zone temperature",
+      "add fertilizer through drains",
+      "remove thatch",
+      "raise soil pH"
+    ],
+    "feedback": "Suction accelerates drainage; pressurized air aerates and cools or warms the root zone.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q267",
+    "module": "M17",
+    "question": "Water-repellent (hydrophobic) soil conditions are associated with the terms:",
+    "correct": "localized dry spot and dry patch",
+    "options": [
+      "localized dry spot and dry patch",
+      "black layer and perched water",
+      "fairy ring only",
+      "scalping and scald"
+    ],
+    "feedback": "Hydrophobic soils show localized dry spot or dry patch.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q268",
+    "module": "M17",
+    "question": "The usual cause of hydrophobic soil is:",
+    "correct": "wax-like organic coatings on soil particles",
+    "options": [
+      "wax-like organic coatings on soil particles",
+      "excess clay",
+      "high sodium",
+      "iron deficiency"
+    ],
+    "feedback": "Waxy organic coatings repel water when dry.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q269",
+    "module": "M17",
+    "question": "Which soils are most likely to become hydrophobic?",
+    "correct": "coarse-textured, sandy soils, due to their low surface-area/volume ratio",
+    "options": [
+      "coarse-textured, sandy soils, due to their low surface-area/volume ratio",
+      "clay soils",
+      "silt loams",
+      "peat soils"
+    ],
+    "feedback": "Sands have low surface area per volume.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q270",
+    "module": "M17",
+    "question": "Hydrophobic coatings usually occur in the top ________ of the soil, though they have been found as deep as 6 inches.",
+    "correct": "2 inches",
+    "options": [
+      "2 inches",
+      "12 inches",
+      "0.5 inch",
+      "24 inches"
+    ],
+    "feedback": "Usually top 2 in; sometimes to 6 in.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q271",
+    "module": "M17",
+    "question": "In the textbook's hydrophobicity test, a soil is hydrophobic if water droplets remain on a dried core for at least:",
+    "correct": "5 seconds",
+    "options": [
+      "5 seconds",
+      "1 second",
+      "1 minute",
+      "1 hour"
+    ],
+    "feedback": "5 seconds or longer = hydrophobic.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q272",
+    "module": "M17",
+    "question": "The most effective treatment for hydrophobic soils is:",
+    "correct": "selected wetting agents, often combined with core cultivation",
+    "options": [
+      "selected wetting agents, often combined with core cultivation",
+      "lime",
+      "gypsum",
+      "sulfur"
+    ],
+    "feedback": "Wetting agents, ideally with core cultivation.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q273",
+    "module": "M17",
+    "question": "Soil-inhabiting basidiomycete fungi can cause hydrophobic conditions associated with:",
+    "correct": "fairy ring",
+    "options": [
+      "fairy ring",
+      "leaf spot",
+      "dollar spot",
+      "brown patch"
+    ],
+    "feedback": "Fairy ring fungi can make soils hydrophobic.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q274",
+    "module": "M17",
+    "question": "The strength of a dry sand depends entirely on:",
+    "correct": "frictional forces",
+    "options": [
+      "frictional forces",
+      "electrostatic forces",
+      "cohesive forces between clay platelets",
+      "osmotic forces"
+    ],
+    "feedback": "Dry sand strength is purely frictional.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q275",
+    "module": "M17",
+    "question": "Sand structural stability is lowest with particles that are:",
+    "correct": "well rounded with high sphericity",
+    "options": [
+      "well rounded with high sphericity",
+      "very angular with low sphericity",
+      "sub-angular with medium sphericity",
+      "mixed in size"
+    ],
+    "feedback": "Well-rounded, highly spherical sand is least stable.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q276",
+    "module": "M17",
+    "question": "A well-irrigated sand-based turf provides a ________ surface than one allowed to dry completely.",
+    "correct": "firmer",
+    "options": [
+      "firmer",
+      "softer",
+      "more unstable",
+      "more hydrophobic"
+    ],
+    "feedback": "Water bridging particles increases strength, as on a wet beach.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q277",
+    "module": "M17",
+    "question": "A penetrometer measures:",
+    "correct": "the force required to push a cone-tipped rod into the turf",
+    "options": [
+      "the force required to push a cone-tipped rod into the turf",
+      "soil pH",
+      "water infiltration",
+      "bulk density directly"
+    ],
+    "feedback": "It estimates soil strength; readings must account for moisture.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q278",
+    "module": "M17",
+    "question": "Per the textbook, which process has the greater influence on soil aeration?",
+    "correct": "diffusion",
+    "options": [
+      "diffusion",
+      "mass flow",
+      "wind action",
+      "barometric changes"
+    ],
+    "feedback": "Mass flow has a minor influence relative to diffusion.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q279",
+    "module": "M17",
+    "question": "The conversion of nitrate to N₂ and N₂O gases in persistently wet soils is called:",
+    "correct": "denitrification",
+    "options": [
+      "denitrification",
+      "nitrification",
+      "volatilization",
+      "mineralization"
+    ],
+    "feedback": "Denitrification causes N loss to the atmosphere.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q280",
+    "module": "M17",
+    "question": "Why may weeds outcompete turf in persistently wet soils?",
+    "correct": "some weeds can transmit foliar-absorbed oxygen to their roots",
+    "options": [
+      "some weeds can transmit foliar-absorbed oxygen to their roots",
+      "weeds need no oxygen",
+      "turfgrass roots photosynthesize",
+      "weeds fix nitrogen"
+    ],
+    "feedback": "Some weeds move oxygen from leaves to roots.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q281",
+    "module": "M17",
+    "question": "The specific heat of water, dry mineral soil, and dry humus are, respectively:",
+    "correct": "1.0, 0.2, and 0.4",
+    "options": [
+      "1.0, 0.2, and 0.4",
+      "0.2, 1.0, and 0.4",
+      "1.0, 1.0, and 1.0",
+      "0.4, 0.2, and 1.0"
+    ],
+    "feedback": "Wet soils need more energy to warm.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q282",
+    "module": "M17",
+    "question": "Compared with clayey soils, sandy soils warm and cool:",
+    "correct": "faster",
+    "options": [
+      "faster",
+      "slower",
+      "at the same rate",
+      "never"
+    ],
+    "feedback": "Sands have more aeration porosity and less water.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q283",
+    "module": "M17",
+    "question": "Root growth of Kentucky bluegrass slows at soil temperatures above:",
+    "correct": "75°F",
+    "options": [
+      "75°F",
+      "60°F",
+      "85°F",
+      "95°F"
+    ],
+    "feedback": "Above 75°F; 85°F is favorable to bermudagrass.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q284",
+    "module": "M17",
+    "question": "Per the textbook, soil colloids include particles measuring ________ or less in diameter.",
+    "correct": "0.2 mm",
+    "options": [
+      "0.2 mm",
+      "2 mm",
+      "0.05 mm",
+      "20 mm"
+    ],
+    "feedback": "The textbook states 0.2 mm or less.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q285",
+    "module": "M17",
+    "question": "The substitution of a lower-valence cation (e.g., Al³⁺ for Si⁴⁺) within a clay crystal, producing negative charge, is called:",
+    "correct": "isomorphous substitution",
+    "options": [
+      "isomorphous substitution",
+      "cation exchange",
+      "flocculation",
+      "hydrolysis"
+    ],
+    "feedback": "Isomorphous substitution creates negative charge.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q286",
+    "module": "M17",
+    "question": "Kaolinite is a one-to-one clay with:",
+    "correct": "low CEC and almost no swelling",
+    "options": [
+      "low CEC and almost no swelling",
+      "high CEC and heavy swelling",
+      "potassium-limited swelling",
+      "no crystal structure"
+    ],
+    "feedback": "Kaolinite: low CEC (3–15 mEq/100 g), little swelling.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q287",
+    "module": "M17",
+    "question": "Montmorillonite is a two-to-one clay with:",
+    "correct": "high CEC (80–150 mEq/100 g) and substantial swelling",
+    "options": [
+      "high CEC (80–150 mEq/100 g) and substantial swelling",
+      "low CEC and no swelling",
+      "no charge",
+      "structure like fine sand"
+    ],
+    "feedback": "Water penetrates layers; it swells and shrinks.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q288",
+    "module": "M17",
+    "question": "Illite is similar to montmorillonite except that:",
+    "correct": "potassium ions hold adjacent layers together, limiting swelling",
+    "options": [
+      "potassium ions hold adjacent layers together, limiting swelling",
+      "it has no charge",
+      "it is one-to-one",
+      "it is amorphous"
+    ],
+    "feedback": "K⁺ limits illite's swelling.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q289",
+    "module": "M17",
+    "question": "Sesquioxide clays (hydrous oxides of iron and aluminum) are found mostly in:",
+    "correct": "tropical climates",
+    "options": [
+      "tropical climates",
+      "temperate climates",
+      "arctic climates",
+      "deserts only"
+    ],
+    "feedback": "Silicate clays dominate temperate climates; sesquioxides the tropics.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q290",
+    "module": "M17",
+    "question": "On a dry-weight basis, the CEC of humus is:",
+    "correct": "many times greater than that of clay colloids",
+    "options": [
+      "many times greater than that of clay colloids",
+      "much lower than clay",
+      "equal to clay",
+      "zero"
+    ],
+    "feedback": "Humus CEC far exceeds clay's.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q291",
+    "module": "M17",
+    "question": "Saturation of exchange sites by sodium causes:",
+    "correct": "dispersal of clay particles and loss of soil structure",
+    "options": [
+      "dispersal of clay particles and loss of soil structure",
+      "flocculation",
+      "improved drainage",
+      "lower pH"
+    ],
+    "feedback": "Na⁺ disperses clay; Ca²⁺ flocculates it.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q292",
+    "module": "M17",
+    "question": "CEC is measured in:",
+    "correct": "milliequivalents (mEq) per 100 g of soil",
+    "options": [
+      "milliequivalents (mEq) per 100 g of soil",
+      "grams per cubic centimeter",
+      "decisiemens per meter",
+      "pounds per 1000 ft²"
+    ],
+    "feedback": "CEC is expressed in mEq/100 g.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q293",
+    "module": "M17",
+    "question": "The milliequivalent weight of calcium (Ca²⁺, MW 40) is:",
+    "correct": "20 mg/mEq",
+    "options": [
+      "20 mg/mEq",
+      "40 mg/mEq",
+      "10 mg/mEq",
+      "80 mg/mEq"
+    ],
+    "feedback": "40 ÷ valence 2 = 20.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q294",
+    "module": "M17",
+    "question": "The acre furrow slice (surface 6.67 inches of an acre) weighs approximately:",
+    "correct": "2 million pounds",
+    "options": [
+      "2 million pounds",
+      "200,000 pounds",
+      "20 million pounds",
+      "1 million pounds"
+    ],
+    "feedback": "About 2 million pounds, so ppm × 2 = lb/acre.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q295",
+    "module": "M17",
+    "question": "Per the textbook, 2600 ppm calcium equals about:",
+    "correct": "5200 lb Ca per acre",
+    "options": [
+      "5200 lb Ca per acre",
+      "2600 lb Ca per acre",
+      "1300 lb Ca per acre",
+      "26,000 lb Ca per acre"
+    ],
+    "feedback": "2600 ppm × 2 = 5200 lb/acre.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q296",
+    "module": "M17",
+    "question": "Since many CEC sites on organic matter result from hydrogen ionization, increasing pH usually:",
+    "correct": "increases CEC",
+    "options": [
+      "increases CEC",
+      "decreases CEC",
+      "does not affect CEC",
+      "eliminates CEC"
+    ],
+    "feedback": "Higher pH ionizes more H, raising CEC.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q297",
+    "module": "M17",
+    "question": "The product of H⁺ and OH⁻ ion concentrations always equals:",
+    "correct": "10⁻¹⁴",
+    "options": [
+      "10⁻¹⁴",
+      "10⁻⁷",
+      "1",
+      "10⁷"
+    ],
+    "feedback": "(H⁺)(OH⁻) = 10⁻¹⁴.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q298",
+    "module": "M17",
+    "question": "The H⁺ concentration measured by a pH meter in the soil solution is called:",
+    "correct": "active acidity",
+    "options": [
+      "active acidity",
+      "potential acidity",
+      "reserve acidity",
+      "buffer acidity"
+    ],
+    "feedback": "Active acidity is in solution; potential acidity is on exchange sites.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q299",
+    "module": "M17",
+    "question": "Soils high in clay and organic matter resist pH change and are said to be:",
+    "correct": "buffered",
+    "options": [
+      "buffered",
+      "sodic",
+      "calcareous",
+      "hydrophobic"
+    ],
+    "feedback": "High CEC gives high potential acidity and buffering.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q300",
+    "module": "M17",
+    "question": "The normal pH range in soil is:",
+    "correct": "4.0 to 8.0",
+    "options": [
+      "4.0 to 8.0",
+      "0 to 14",
+      "6.0 to 7.0",
+      "8.5 to 10"
+    ],
+    "feedback": "Soil pH normally ranges 4.0–8.0; sodic soils may reach 8.5–10.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q301",
+    "module": "M17",
+    "question": "Probably the most important detrimental effect of excessive soil acidity is the high solubility of:",
+    "correct": "aluminum and manganese",
+    "options": [
+      "aluminum and manganese",
+      "calcium and magnesium",
+      "molybdenum",
+      "potassium"
+    ],
+    "feedback": "Al and Mn can reach toxic levels.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q302",
+    "module": "M17",
+    "question": "Which is a liming material listed in the textbook?",
+    "correct": "dolomitic limestone",
+    "options": [
+      "dolomitic limestone",
+      "elemental sulfur",
+      "gypsum",
+      "ammonium sulfate"
+    ],
+    "feedback": "Quicklime, hydrated lime, calcitic and dolomitic limestone.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q303",
+    "module": "M17",
+    "question": "Clayey soils may require ________ as much lime as sandy soils for comparable pH adjustment.",
+    "correct": "nearly twice",
+    "options": [
+      "nearly twice",
+      "half",
+      "ten times",
+      "the same"
+    ],
+    "feedback": "Clayey soils need nearly twice the lime.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q304",
+    "module": "M17",
+    "question": "If hydroxide or oxide forms of lime are used, rates above ________ may severely injure turf.",
+    "correct": "25 lb/1000 ft²",
+    "options": [
+      "25 lb/1000 ft²",
+      "5 lb/1000 ft²",
+      "100 lb/1000 ft²",
+      "200 lb/acre"
+    ],
+    "feedback": "Over 25 lb/1000 ft² can injure turf, especially when hot.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q305",
+    "module": "M17",
+    "question": "The maximum rate of elemental sulfur per year on greens is:",
+    "correct": "100 lb/acre/year",
+    "options": [
+      "100 lb/acre/year",
+      "200 lb/acre/year",
+      "35 lb/acre/year",
+      "500 lb/acre/year"
+    ],
+    "feedback": "200 on lawns/fairways, 100 on greens, 35 on annual bluegrass greens.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q306",
+    "module": "M17",
+    "question": "On calcareous sands, substantially reducing pH with sulfur is:",
+    "correct": "not feasible, so foliar feeding is generally necessary",
+    "options": [
+      "not feasible, so foliar feeding is generally necessary",
+      "easy and fast",
+      "required annually",
+      "done with lime"
+    ],
+    "feedback": "Calcareous sands resist acidification.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q307",
+    "module": "M17",
+    "question": "High soluble salt concentrations can limit water absorption, causing:",
+    "correct": "physiological drought",
+    "options": [
+      "physiological drought",
+      "black layer",
+      "hydrophobicity",
+      "denitrification"
+    ],
+    "feedback": "Low osmotic potential makes water unavailable.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q308",
+    "module": "M17",
+    "question": "In soils, sodium surrounded by six water molecules (waters of hydration):",
+    "correct": "forces clay platelets apart, destroying structure",
+    "options": [
+      "forces clay platelets apart, destroying structure",
+      "binds platelets tightly",
+      "improves drainage",
+      "lowers pH"
+    ],
+    "feedback": "The large hydrated Na⁺ ion disperses clay domains.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q309",
+    "module": "M17",
+    "question": "Soluble salts are inorganic chemicals with water solubility greater than that of gypsum, which is:",
+    "correct": "2.4 g/liter",
+    "options": [
+      "2.4 g/liter",
+      "24 g/liter",
+      "0.24 g/liter",
+      "240 g/liter"
+    ],
+    "feedback": "Gypsum solubility: 2.4 g/L.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q310",
+    "module": "M17",
+    "question": "An ECe of 1 dS/m corresponds to an osmotic potential of:",
+    "correct": "−36 kPa",
+    "options": [
+      "−36 kPa",
+      "−1 kPa",
+      "−360 kPa",
+      "+36 kPa"
+    ],
+    "feedback": "Multiply ECe by −36.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q311",
+    "module": "M17",
+    "question": "Salinity hazard is rated \"high\" when ECe is:",
+    "correct": "between 4.0 and 5.0 dS/m",
+    "options": [
+      "between 4.0 and 5.0 dS/m",
+      "less than 1.5 dS/m",
+      "between 1.6 and 3.9 dS/m",
+      "greater than 5.0 dS/m"
+    ],
+    "feedback": "Low under 1.5, moderate 1.6–3.9, high 4.0–5.0, very high over 5.0.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q312",
+    "module": "M17",
+    "question": "A sodic soil is characterized by:",
+    "correct": "pH 8.5 or higher, ECe under 4 dS/m, and ESP of 15% or more",
+    "options": [
+      "pH 8.5 or higher, ECe under 4 dS/m, and ESP of 15% or more",
+      "ECe over 4, ESP under 15%, pH under 8.5",
+      "low sodium and low salts",
+      "pH under 6"
+    ],
+    "feedback": "Sodic: high sodium, low salts, high pH, structureless.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q313",
+    "module": "M17",
+    "question": "A saline soil is characterized by:",
+    "correct": "ECe over 4 dS/m, ESP under 15%, pH under 8.5, and usually good structure",
+    "options": [
+      "ECe over 4 dS/m, ESP under 15%, pH under 8.5, and usually good structure",
+      "ESP over 15% and pH over 8.5",
+      "low salts and high sodium",
+      "pH under 5"
+    ],
+    "feedback": "Saline soils are usually well structured and permeable.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q314",
+    "module": "M17",
+    "question": "Per Table 4.3, the most salt-tolerant turfgrass listed is:",
+    "correct": "seashore paspalum (ECe 8.6)",
+    "options": [
+      "seashore paspalum (ECe 8.6)",
+      "alkaligrass (8.5)",
+      "St. Augustinegrass (6.5)",
+      "tall fescue (6.5)"
+    ],
+    "feedback": "Seashore paspalum tops the list.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q315",
+    "module": "M17",
+    "question": "Per Table 4.3, which cool-season grasses are most salt tolerant?",
+    "correct": "alkaligrass and the wheatgrasses",
+    "options": [
+      "alkaligrass and the wheatgrasses",
+      "annual and rough bluegrass",
+      "colonial bentgrass and Kentucky bluegrass",
+      "creeping bentgrass and fine fescue"
+    ],
+    "feedback": "Alkaligrass (8.5) and wheatgrasses (8.0).",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q316",
+    "module": "M17",
+    "question": "Per Table 4.3, which is rated highly sensitive to salinity (ECe 1.5)?",
+    "correct": "annual bluegrass",
+    "options": [
+      "annual bluegrass",
+      "perennial ryegrass",
+      "tall fescue",
+      "buffalograss"
+    ],
+    "feedback": "Centipedegrass, annual bluegrass, colonial bentgrass, and rough bluegrass are highly sensitive.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q317",
+    "module": "M17",
+    "question": "Controlling saline soils requires:",
+    "correct": "irrigation beyond plant needs to leach salts, frequent enough to prevent capillary rise",
+    "options": [
+      "irrigation beyond plant needs to leach salts, frequent enough to prevent capillary rise",
+      "adding sodium",
+      "lime applications only",
+      "withholding irrigation"
+    ],
+    "feedback": "Leach salts and keep soil from drying.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q318",
+    "module": "M17",
+    "question": "In sodic soils, gypsum usually causes the fastest response because:",
+    "correct": "it directly exchanges Ca²⁺ for Na⁺",
+    "options": [
+      "it directly exchanges Ca²⁺ for Na⁺",
+      "it must first be oxidized by microbes",
+      "it raises pH",
+      "it adds organic matter"
+    ],
+    "feedback": "Sulfur must be oxidized first, so it acts slowly.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q319",
+    "module": "M17",
+    "question": "The gypsum requirement formula is:",
+    "correct": "GR = 1.72 × (mEq Na/100 g to be replaced)",
+    "options": [
+      "GR = 1.72 × (mEq Na/100 g to be replaced)",
+      "GR = 2.65 × BD",
+      "GR = ECe × −36",
+      "GR = CEC ÷ 2"
+    ],
+    "feedback": "GR (tons/acre) = 1.72 (Nax).",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q320",
+    "module": "M17",
+    "question": "The efficiency of elemental sulfur in reclaiming sodic soils is about ________ that of gypsum.",
+    "correct": "5.6 times",
+    "options": [
+      "5.6 times",
+      "half",
+      "equal to",
+      "100 times"
+    ],
+    "feedback": "Sulfur is ~5.6× as efficient but slower.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q321",
+    "module": "M17",
+    "question": "Of the soil microflora, the most numerous are:",
+    "correct": "bacteria",
+    "options": [
+      "bacteria",
+      "fungi",
+      "actinomycetes",
+      "algae"
+    ],
+    "feedback": "Bacteria are most numerous; actinomycetes usually second.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q322",
+    "module": "M17",
+    "question": "Autotrophic bacteria derive their carbon from:",
+    "correct": "CO₂",
+    "options": [
+      "CO₂",
+      "organic matter",
+      "sugars from roots",
+      "humus"
+    ],
+    "feedback": "Autotrophs use CO₂; heterotrophs use organic matter.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q323",
+    "module": "M17",
+    "question": "The principal turf-type host plants supporting nitrogen-fixing bacteria are:",
+    "correct": "the clovers",
+    "options": [
+      "the clovers",
+      "the bentgrasses",
+      "the fescues",
+      "the bluegrasses"
+    ],
+    "feedback": "Clovers host nodule-forming N fixers.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q324",
+    "module": "M17",
+    "question": "Fungi in soil are most competitive at:",
+    "correct": "relatively low soil pH",
+    "options": [
+      "relatively low soil pH",
+      "high pH",
+      "neutral pH only",
+      "pH above 9"
+    ],
+    "feedback": "Fungi favor low pH; actinomycetes dominate high pH.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q325",
+    "module": "M17",
+    "question": "The symbiotic association between fungi and plant roots aiding nutrient absorption is called:",
+    "correct": "mycorrhizae",
+    "options": [
+      "mycorrhizae",
+      "nodulation",
+      "endophytism",
+      "saprophytism"
+    ],
+    "feedback": "Arbuscular mycorrhizae transfer nutrients like phosphate.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q326",
+    "module": "M17",
+    "question": "Actinomycetes give moist soil its characteristic smell and are widely known for producing:",
+    "correct": "antibiotics",
+    "options": [
+      "antibiotics",
+      "nitrogen gas",
+      "sulfide",
+      "methane"
+    ],
+    "feedback": "Actinomycetes produce antibiotics.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q327",
+    "module": "M17",
+    "question": "Algal mats in turf, upon drying, form:",
+    "correct": "a hard crust nearly impervious to water",
+    "options": [
+      "a hard crust nearly impervious to water",
+      "a soft mulch",
+      "black layer",
+      "hydrophobic thatch only"
+    ],
+    "feedback": "Dried algal mats crust the surface.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q328",
+    "module": "M17",
+    "question": "Of 7000 earthworm species, which is the night crawler?",
+    "correct": "Lumbricus terrestris",
+    "options": [
+      "Lumbricus terrestris",
+      "Helodrilus caliginosus",
+      "Helodrilus foetidus",
+      "Eisenia andrei"
+    ],
+    "feedback": "Garden worm, red worm (Helodrilus spp.), night crawler (Lumbricus terrestris).",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q329",
+    "module": "M17",
+    "question": "In Illinois studies, controlling earthworms with some pesticides resulted in:",
+    "correct": "thatch development, higher bulk density, shallow rooting, and greater disease",
+    "options": [
+      "thatch development, higher bulk density, shallow rooting, and greater disease",
+      "improved turf quality",
+      "lower bulk density",
+      "deeper rooting"
+    ],
+    "feedback": "Earthworm loss produced thatch and many negative effects.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q330",
+    "module": "M17",
+    "question": "Cultivated mineral soils usually contain ________ organic matter.",
+    "correct": "1% to 5%",
+    "options": [
+      "1% to 5%",
+      "10% to 20%",
+      "less than 0.1%",
+      "50%"
+    ],
+    "feedback": "1–5%; turf soils may be somewhat higher near the surface.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q331",
+    "module": "M17",
+    "question": "Per the textbook, the living plant community exerts a stabilizing influence on thatch because:",
+    "correct": "death of the turf community is often followed by destruction of the thatch layer",
+    "options": [
+      "death of the turf community is often followed by destruction of the thatch layer",
+      "thatch only forms on dead turf",
+      "roots decompose thatch",
+      "thatch grows without plants"
+    ],
+    "feedback": "Thatch breaks down after the turf dies.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q332",
+    "module": "M17",
+    "question": "Where organic matter exceeds ________ by weight in sand-based bentgrass greens, macroporosity may be severely deficient.",
+    "correct": "4%",
+    "options": [
+      "4%",
+      "1%",
+      "10%",
+      "20%"
+    ],
+    "feedback": "Over 4% organic matter can restrict water movement.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q333",
+    "module": "M17",
+    "question": "Mat is generally considered:",
+    "correct": "a desirable feature, improving resiliency and stability under traffic",
+    "options": [
+      "a desirable feature, improving resiliency and stability under traffic",
+      "always harmful",
+      "identical to thatch",
+      "a type of black layer"
+    ],
+    "feedback": "Mat improves resiliency and stabilizes turf.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q334",
+    "module": "M17",
+    "question": "Plant residues with C:N ratios of ________ or narrower release nitrogen for plant use as they decompose.",
+    "correct": "20:1",
+    "options": [
+      "20:1",
+      "90:1",
+      "250:1",
+      "40:1"
+    ],
+    "feedback": "Residues at 20:1 or narrower release N.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q335",
+    "module": "M17",
+    "question": "Adding sawdust (C:N 250:1) or straw (90:1) to soil can cause:",
+    "correct": "nitrogen deficiency, as microbes pull N from the soil",
+    "options": [
+      "nitrogen deficiency, as microbes pull N from the soil",
+      "excess nitrogen release",
+      "higher pH",
+      "black layer"
+    ],
+    "feedback": "Wide C:N materials immobilize N.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q336",
+    "module": "M17",
+    "question": "The optimum temperature for organic matter decomposition is about:",
+    "correct": "95°F",
+    "options": [
+      "95°F",
+      "50°F",
+      "75°F",
+      "120°F"
+    ],
+    "feedback": "Decomposition optimum is about 95°F (35°C).",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q337",
+    "module": "M17",
+    "question": "Subsurface compaction layers are called:",
+    "correct": "pans",
+    "options": [
+      "pans",
+      "mats",
+      "horizons",
+      "thatch"
+    ],
+    "feedback": "Genetic pans (claypan, hardpan) and induced pans.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q338",
+    "module": "M17",
+    "question": "With core cultivation, induced pans can occur:",
+    "correct": "at the maximum depth of tine penetration",
+    "options": [
+      "at the maximum depth of tine penetration",
+      "at the soil surface only",
+      "in the thatch",
+      "nowhere"
+    ],
+    "feedback": "Tines can compact at their maximum depth and along hole sides.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q339",
+    "module": "M17",
+    "question": "Black layer's foul odor comes from sulfide gases produced by:",
+    "correct": "sulfur-reducing bacteria under anaerobic conditions",
+    "options": [
+      "sulfur-reducing bacteria under anaerobic conditions",
+      "aerobic fungi",
+      "earthworms",
+      "nitrifying bacteria"
+    ],
+    "feedback": "Sulfur-reducing bacteria make H₂S.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q340",
+    "module": "M17",
+    "question": "The black band of black layer is actually a precipitate of:",
+    "correct": "metal sulfides such as FeS and MnS",
+    "options": [
+      "metal sulfides such as FeS and MnS",
+      "calcium carbonate",
+      "sodium chloride",
+      "humus"
+    ],
+    "feedback": "H₂S reacts with reduced Fe²⁺ and Mn²⁺.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q341",
+    "module": "M17",
+    "question": "Surface compaction of turf soils increases:",
+    "correct": "bulk density, soil strength, and water-holding capacity",
+    "options": [
+      "bulk density, soil strength, and water-holding capacity",
+      "aeration porosity",
+      "water infiltration",
+      "percolation"
+    ],
+    "feedback": "Compaction raises BD, strength, and retention; lowers aeration, infiltration, percolation.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q342",
+    "module": "M17",
+    "question": "Which weeds commonly increase as turf communities shift under soil compaction?",
+    "correct": "knotweed, annual bluegrass, goosegrass, and white clover",
+    "options": [
+      "knotweed, annual bluegrass, goosegrass, and white clover",
+      "crabgrass only",
+      "dandelion and plantain only",
+      "nutsedge and kyllinga"
+    ],
+    "feedback": "These compaction-tolerant weeds invade.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q343",
+    "module": "M17",
+    "question": "Per the textbook, wear is greater when direct pressure on turf is accompanied by:",
+    "correct": "lateral forces",
+    "options": [
+      "lateral forces",
+      "rainfall",
+      "shade",
+      "high mowing"
+    ],
+    "feedback": "Lateral forces increase wear.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q344",
+    "module": "M17",
+    "question": "Raising the mowing height, reducing succulence, and cultivating are measures to improve turf:",
+    "correct": "wearability",
+    "options": [
+      "wearability",
+      "salinity",
+      "hydrophobicity",
+      "thatch accumulation"
+    ],
+    "feedback": "They produce more vigorous, wear-tolerant shoots.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m17q345",
+    "module": "M17",
+    "question": "The susceptibility of turf to soil displacement and rutting is greatest on:",
+    "correct": "wet, fine-textured soils",
+    "options": [
+      "wet, fine-textured soils",
+      "dry sands",
+      "frozen soils only",
+      "well-drained gravel"
+    ],
+    "feedback": "Control traffic on wet, fine-textured soils.",
+    "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
+    "kind": "enrichment"
   }
 ]
