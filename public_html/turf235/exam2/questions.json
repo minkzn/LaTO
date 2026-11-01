@@ -21643,5 +21643,2915 @@
     "feedback": "Control traffic on wet, fine-textured soils.",
     "source": "Textbook Ch. 4, pp. 111-139: The Turfgrass Environment",
     "kind": "enrichment"
+  },
+  {
+    "id": "m18q001",
+    "module": "M18",
+    "question": "Per the M18 overview, for many turfs the principal problem is not disease, drainage, insect pests, or temperature stress, but:",
+    "correct": "traffic",
+    "options": [
+      "traffic",
+      "shade",
+      "salinity",
+      "thatch"
+    ],
+    "feedback": "\"For many turfs, the principal problem is... traffic!\"",
+    "source": "M18.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m18q002",
+    "module": "M18",
+    "question": "In the quoted complaint \"The turf would be fine if it weren't for all those...\", on a golf course the reference is to the:",
+    "correct": "golfers",
+    "options": [
+      "golfers",
+      "mowers",
+      "geese",
+      "grounds crew"
+    ],
+    "feedback": "On a golf course it refers to the golfers; on a football field, the players; on a campus, the students.",
+    "source": "M18.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m18q003",
+    "module": "M18",
+    "question": "On a school campus, the turfgrass manager's \"traffic problem\" refers to the:",
+    "correct": "students",
+    "options": [
+      "students",
+      "players",
+      "golfers",
+      "delivery trucks"
+    ],
+    "feedback": "On a school campus, the students.",
+    "source": "M18.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m18q004",
+    "module": "M18",
+    "question": "On a football field, the source of traffic named in the overview is the:",
+    "correct": "players",
+    "options": [
+      "players",
+      "spectators",
+      "band",
+      "line-painting crew"
+    ],
+    "feedback": "On a football field, the players.",
+    "source": "M18.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m18q005",
+    "module": "M18",
+    "question": "According to M18.1, turfgrasses tolerate traffic:",
+    "correct": "only up to a point, beyond which they show effects of excess traffic",
+    "options": [
+      "only up to a point, beyond which they show effects of excess traffic",
+      "without any limit",
+      "not at all",
+      "only when dormant"
+    ],
+    "feedback": "They tolerate traffic, but only up to a point.",
+    "source": "M18.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m18q006",
+    "module": "M18",
+    "question": "Which is a learning objective of Module 18?",
+    "correct": "Distinguish strategies that improve the traffic tolerance of a turf",
+    "options": [
+      "Distinguish strategies that improve the traffic tolerance of a turf",
+      "Calculate the CEC of a soil",
+      "Identify turfgrass species by ligule shape",
+      "Design an irrigation pump station"
+    ],
+    "feedback": "Objectives: determine effects of traffic, predict how injuries can be avoided, distinguish strategies that improve traffic tolerance.",
+    "source": "M18.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m18q007",
+    "module": "M18",
+    "question": "Module 18 asks you to predict how traffic-induced injuries can be:",
+    "correct": "avoided",
+    "options": [
+      "avoided",
+      "measured with a Stimpmeter",
+      "reversed with herbicides",
+      "transmitted to other sites"
+    ],
+    "feedback": "\"Predict how traffic-induced injuries can be avoided.\"",
+    "source": "M18.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m18q008",
+    "module": "M18",
+    "question": "The assigned reading for Module 18 is Turgeon's Turfgrass Management:",
+    "correct": "Chapter 4",
+    "options": [
+      "Chapter 4",
+      "Chapter 2",
+      "Chapter 6",
+      "Chapter 9"
+    ],
+    "feedback": "Readings: Chapter 4.",
+    "source": "M18.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m18q009",
+    "module": "M18",
+    "question": "The two big questions posed in the M18 overview are how to keep traffic below the tolerable point and whether it is possible to:",
+    "correct": "make a particular turf more traffic tolerant",
+    "options": [
+      "make a particular turf more traffic tolerant",
+      "eliminate all traffic permanently",
+      "make turf grow without water",
+      "convert all turf to artificial surfaces"
+    ],
+    "feedback": "\"Or, is it possible to make a particular turf more traffic tolerant?\"",
+    "source": "M18.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "m18q010",
+    "module": "M18",
+    "question": "In M18.2, traffic simply means:",
+    "correct": "the pursuit of activities on a turfgrass surface",
+    "options": [
+      "the pursuit of activities on a turfgrass surface",
+      "vehicles crossing turf only",
+      "mowing operations only",
+      "the movement of water across turf"
+    ],
+    "feedback": "Traffic simply means the pursuit of activities on a turfgrass surface.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q011",
+    "module": "M18",
+    "question": "Traffic on a turf may include sports and recreational activities, but it could include:",
+    "correct": "virtually any activity",
+    "options": [
+      "virtually any activity",
+      "only golf",
+      "only vehicle use",
+      "only maintenance equipment"
+    ],
+    "feedback": "It could include virtually any activity.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q012",
+    "module": "M18",
+    "question": "Whether traffic-related damage occurs depends on the traffic's:",
+    "correct": "nature, intensity, and duration",
+    "options": [
+      "nature, intensity, and duration",
+      "color, sound, and timing",
+      "cost, labor, and equipment",
+      "pH, salinity, and texture"
+    ],
+    "feedback": "Depending on the nature, intensity, and duration of traffic, damage may occur.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q013",
+    "module": "M18",
+    "question": "Which four forms of traffic-related turf damage are named in M18.2?",
+    "correct": "turfgrass wear, soil compaction, rutting, and divoting",
+    "options": [
+      "turfgrass wear, soil compaction, rutting, and divoting",
+      "scalping, scald, black layer, and thatch",
+      "dollar spot, brown patch, rust, and red thread",
+      "wilting, dormancy, chlorosis, and frost"
+    ],
+    "feedback": "Wear, compaction, rutting, and divoting.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q014",
+    "module": "M18",
+    "question": "Turfgrass wear refers to:",
+    "correct": "physical deterioration of turfgrass plant tissue from compression, tearing, or other forces",
+    "options": [
+      "physical deterioration of turfgrass plant tissue from compression, tearing, or other forces",
+      "displacement of soil by wheels",
+      "removal of turf sections by a golf club",
+      "destruction of soil structure"
+    ],
+    "feedback": "Wear is the physical deterioration of plant tissue from compression, tearing, or other forces.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q015",
+    "module": "M18",
+    "question": "Recovery from turfgrass wear can occur as long as the:",
+    "correct": "crown tissue survives",
+    "options": [
+      "crown tissue survives",
+      "leaf tips survive",
+      "thatch remains intact",
+      "soil stays dry"
+    ],
+    "feedback": "Recovery can occur as long as the crown tissue survives.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q016",
+    "module": "M18",
+    "question": "Severely worn turfs may be so weakened that they are highly susceptible to:",
+    "correct": "disease and environmental stresses",
+    "options": [
+      "disease and environmental stresses",
+      "overseeding",
+      "herbicide uptake",
+      "excess growth"
+    ],
+    "feedback": "Severely worn turfs are highly susceptible to disease and environmental stresses.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q017",
+    "module": "M18",
+    "question": "Soil compaction results where traffic:",
+    "correct": "destroys soil structure",
+    "options": [
+      "destroys soil structure",
+      "removes leaf tissue",
+      "adds organic matter",
+      "displaces soil into ruts"
+    ],
+    "feedback": "Compaction results where traffic destroys soil structure.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q018",
+    "module": "M18",
+    "question": "Soil compaction dramatically changes porosity by:",
+    "correct": "reducing macroporosity and increasing microporosity",
+    "options": [
+      "reducing macroporosity and increasing microporosity",
+      "increasing macroporosity and reducing microporosity",
+      "increasing both",
+      "reducing both equally"
+    ],
+    "feedback": "Macroporosity drops, microporosity rises.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q019",
+    "module": "M18",
+    "question": "Which is NOT listed in M18.2 as a result of soil compaction?",
+    "correct": "increased infiltration",
+    "options": [
+      "increased infiltration",
+      "increased runoff",
+      "oxygen deficiencies in the root zone",
+      "reduced percolation"
+    ],
+    "feedback": "Compaction reduces infiltration and percolation and increases runoff.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q020",
+    "module": "M18",
+    "question": "Compaction leads to a substantial decline in turfgrass growth and quality partly because of:",
+    "correct": "oxygen deficiencies in the root zone",
+    "options": [
+      "oxygen deficiencies in the root zone",
+      "excess oxygen in the root zone",
+      "increased percolation",
+      "reduced runoff"
+    ],
+    "feedback": "Oxygen deficiencies in the root zone result.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q021",
+    "module": "M18",
+    "question": "In the soil compaction diagram, bulk density rises from 1.0 to:",
+    "correct": "1.4",
+    "options": [
+      "1.4",
+      "2.65",
+      "0.8",
+      "1.1"
+    ],
+    "feedback": "BD 1.0 uncompacted vs. BD 1.4 compacted.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q022",
+    "module": "M18",
+    "question": "In the compaction diagram, the uncompacted soil has a bulk density of:",
+    "correct": "1.0",
+    "options": [
+      "1.0",
+      "1.4",
+      "2.65",
+      "0.5"
+    ],
+    "feedback": "The left panel is labeled BD 1.0.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q023",
+    "module": "M18",
+    "question": "Rutting occurs where:",
+    "correct": "wheel traffic displaces soil, leaving deep ruts",
+    "options": [
+      "wheel traffic displaces soil, leaving deep ruts",
+      "a golf club removes turf",
+      "frost forms on leaves",
+      "foot traffic tears leaf blades only"
+    ],
+    "feedback": "Rutting is wheel traffic displacing soil.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q024",
+    "module": "M18",
+    "question": "Divoting specifically refers to removal of sections of turf by a:",
+    "correct": "golf club",
+    "options": [
+      "golf club",
+      "football cleat",
+      "mower reel",
+      "cart tire"
+    ],
+    "feedback": "Divoting specifically refers to removal by a golf club.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q025",
+    "module": "M18",
+    "question": "In M18.2, divoting can be extended to mean any type of turf disruption, including damage from:",
+    "correct": "football cleats",
+    "options": [
+      "football cleats",
+      "frost",
+      "drought",
+      "fertilizer burn"
+    ],
+    "feedback": "It can be extended to include damage from football cleats.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q026",
+    "module": "M18",
+    "question": "The traffic threshold (TT) is the traffic intensity:",
+    "correct": "above which a measurable deterioration in turf quality is likely to occur",
+    "options": [
+      "above which a measurable deterioration in turf quality is likely to occur",
+      "below which turf stops growing",
+      "at which turf goes dormant",
+      "that maximizes turf density"
+    ],
+    "feedback": "TT is the intensity above which measurable deterioration is likely.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q027",
+    "module": "M18",
+    "question": "One method for dealing with excessive traffic is to reduce the traffic intensity to a level:",
+    "correct": "below the traffic threshold",
+    "options": [
+      "below the traffic threshold",
+      "above the traffic threshold",
+      "equal to zero",
+      "equal to the wilting point"
+    ],
+    "feedback": "Reduce traffic intensity below TT.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q028",
+    "module": "M18",
+    "question": "The two strategies for reducing traffic intensity are:",
+    "correct": "dilution and concentration",
+    "options": [
+      "dilution and concentration",
+      "aeration and topdressing",
+      "syringing and irrigation",
+      "fertilization and mowing"
+    ],
+    "feedback": "Dilution or concentration.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q029",
+    "module": "M18",
+    "question": "Through a dilution strategy, traffic is:",
+    "correct": "distributed over a larger area, reducing intensity per unit area",
+    "options": [
+      "distributed over a larger area, reducing intensity per unit area",
+      "kept off turf by concentrating it on paths",
+      "banned entirely",
+      "shifted to night hours only"
+    ],
+    "feedback": "Dilution spreads traffic over a large area.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q030",
+    "module": "M18",
+    "question": "Through a concentration strategy, traffic is:",
+    "correct": "kept off the turf by concentrating it on inanimate surfaces",
+    "options": [
+      "kept off the turf by concentrating it on inanimate surfaces",
+      "spread evenly over all turf",
+      "concentrated on the healthiest turf",
+      "moved onto shaded turf"
+    ],
+    "feedback": "Concentration keeps traffic on paths and sidewalks.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q031",
+    "module": "M18",
+    "question": "Golf cart paths and sidewalks are examples of which traffic strategy?",
+    "correct": "concentration",
+    "options": [
+      "concentration",
+      "dilution",
+      "raising the traffic threshold",
+      "cultivation"
+    ],
+    "feedback": "They concentrate traffic on inanimate surfaces.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q032",
+    "module": "M18",
+    "question": "Spreading foot traffic across a wide area of turf so no spot is used heavily is an example of:",
+    "correct": "dilution",
+    "options": [
+      "dilution",
+      "concentration",
+      "compaction",
+      "divoting"
+    ],
+    "feedback": "Dilution distributes traffic over a larger area.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q033",
+    "module": "M18",
+    "question": "In the first traffic-threshold graph, the arrow moves a point from above the TT line to below it. This represents:",
+    "correct": "reducing traffic intensity below the traffic threshold",
+    "options": [
+      "reducing traffic intensity below the traffic threshold",
+      "raising the traffic threshold",
+      "increasing traffic intensity",
+      "lowering the traffic threshold"
+    ],
+    "feedback": "The point (traffic intensity) drops below TT.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q034",
+    "module": "M18",
+    "question": "The axes on the M18.2 traffic threshold graphs are:",
+    "correct": "traffic intensity (y) versus time (x)",
+    "options": [
+      "traffic intensity (y) versus time (x)",
+      "soil moisture versus depth",
+      "turf quality versus mowing height",
+      "temperature versus time"
+    ],
+    "feedback": "Traffic intensity is plotted against time.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q035",
+    "module": "M18",
+    "question": "An alternate approach to managing traffic is to:",
+    "correct": "increase the traffic threshold above the traffic intensity",
+    "options": [
+      "increase the traffic threshold above the traffic intensity",
+      "lower the traffic threshold",
+      "increase the traffic intensity",
+      "eliminate mowing"
+    ],
+    "feedback": "Raise TT to a level above the traffic intensity.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q036",
+    "module": "M18",
+    "question": "Which is NOT listed in M18.2 as a way to raise the traffic threshold?",
+    "correct": "lowering the mowing height",
+    "options": [
+      "lowering the mowing height",
+      "improving light penetration and drainage",
+      "optimizing fertility and irrigation",
+      "establishing a more traffic-tolerant turfgrass"
+    ],
+    "feedback": "Raising, not lowering, the mowing height raises TT.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q037",
+    "module": "M18",
+    "question": "Per M18.2, to raise the traffic threshold you should adjust the mowing height by:",
+    "correct": "raising it",
+    "options": [
+      "raising it",
+      "lowering it",
+      "eliminating mowing",
+      "mowing twice daily"
+    ],
+    "feedback": "Raising the mowing height is listed.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q038",
+    "module": "M18",
+    "question": "In the second traffic-threshold graph with TT1 and TT2, the arrows between the two lines illustrate that:",
+    "correct": "the traffic threshold itself can be moved up or down",
+    "options": [
+      "the traffic threshold itself can be moved up or down",
+      "traffic intensity is constant",
+      "time has no effect",
+      "turf quality equals traffic intensity"
+    ],
+    "feedback": "TT can be raised (or lowered) by management.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q039",
+    "module": "M18",
+    "question": "Shaded turf has which characteristics?",
+    "correct": "thinner leaves and cuticles, shallower rooting, and reduced carbohydrate reserves",
+    "options": [
+      "thinner leaves and cuticles, shallower rooting, and reduced carbohydrate reserves",
+      "thicker cuticles and deeper roots",
+      "more carbohydrate reserves",
+      "higher tiller density"
+    ],
+    "feedback": "Shade produces thinner leaves and cuticles, shallow roots, low reserves.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q040",
+    "module": "M18",
+    "question": "Because of its morphology and low reserves, shaded turf is:",
+    "correct": "more delicate and less tolerant of traffic, disease, and environmental stresses",
+    "options": [
+      "more delicate and less tolerant of traffic, disease, and environmental stresses",
+      "more tolerant of traffic",
+      "immune to disease",
+      "unaffected by traffic"
+    ],
+    "feedback": "Shaded turf is more delicate and less tolerant.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q041",
+    "module": "M18",
+    "question": "Per M18.2, simply increasing which factor can produce a healthier, more traffic-tolerant turf?",
+    "correct": "light penetration",
+    "options": [
+      "light penetration",
+      "nitrogen rate",
+      "irrigation frequency",
+      "soil compaction"
+    ],
+    "feedback": "Simply increasing light penetration helps.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q042",
+    "module": "M18",
+    "question": "In the morning vs. afternoon shade photos, the turf under morning shade was labeled:",
+    "correct": "poorly rooted turfgrass",
+    "options": [
+      "poorly rooted turfgrass",
+      "well rooted turfgrass",
+      "thatch-free turfgrass",
+      "dormant turfgrass"
+    ],
+    "feedback": "The morning-shade plug was labeled \"Poorly rooted turfgrass.\"",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q043",
+    "module": "M18",
+    "question": "Comparing the morning- and afternoon-shade plugs, which turf held together better?",
+    "correct": "the afternoon-shade turf",
+    "options": [
+      "the afternoon-shade turf",
+      "the morning-shade turf",
+      "both equally",
+      "neither held together"
+    ],
+    "feedback": "The morning-shade plug fell apart as poorly rooted turfgrass.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q044",
+    "module": "M18",
+    "question": "Depending on the presence and activity of earthworms and other soil organisms, a soil-based turf may lack sufficient:",
+    "correct": "mat development to hold up well under intensive traffic",
+    "options": [
+      "mat development to hold up well under intensive traffic",
+      "thatch to cause disease",
+      "sand to drain",
+      "nitrogen to grow"
+    ],
+    "feedback": "It may lack mat development for intensive traffic.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q045",
+    "module": "M18",
+    "question": "A soil-based turf lacking mat development is highly susceptible to:",
+    "correct": "compaction",
+    "options": [
+      "compaction",
+      "black layer",
+      "salt injury",
+      "hydrophobicity"
+    ],
+    "feedback": "As a consequence, the soil is highly susceptible to compaction.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q046",
+    "module": "M18",
+    "question": "Under wet conditions with standing water, a soil-based turf may become soiled because:",
+    "correct": "suspended soil particles are deposited onto leaf surfaces after the water subsides",
+    "options": [
+      "suspended soil particles are deposited onto leaf surfaces after the water subsides",
+      "earthworms deposit casts on the leaves",
+      "sand topdressing is too coarse",
+      "mowers spread soil"
+    ],
+    "feedback": "Suspended soil is deposited on leaves, leaving a soiled turf.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q047",
+    "module": "M18",
+    "question": "A sand-based turf without sufficient mat development may have poor wear resistance because of:",
+    "correct": "low resiliency of the sand and greater destruction of plant tissue under traffic",
+    "options": [
+      "low resiliency of the sand and greater destruction of plant tissue under traffic",
+      "high compaction of the sand",
+      "excessive thatch",
+      "high water-holding capacity"
+    ],
+    "feedback": "Low resiliency of sand and greater tissue destruction.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q048",
+    "module": "M18",
+    "question": "Because structureless sand is resistant to compaction, aeration usually occurs:",
+    "correct": "as soon as gravitational water drains, drawing atmospheric air into the root zone",
+    "options": [
+      "as soon as gravitational water drains, drawing atmospheric air into the root zone",
+      "only after core cultivation",
+      "only in winter",
+      "never"
+    ],
+    "feedback": "Air is drawn in once gravitational water drains.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q049",
+    "module": "M18",
+    "question": "Sand-based root zones are resistant to:",
+    "correct": "compaction",
+    "options": [
+      "compaction",
+      "wear",
+      "drought",
+      "nutrient leaching"
+    ],
+    "feedback": "Structureless sand resists compaction.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q050",
+    "module": "M18",
+    "question": "A turf with substantial thatch development will be fairly resistant to:",
+    "correct": "wear and soil compaction",
+    "options": [
+      "wear and soil compaction",
+      "disease and environmental stress",
+      "drought",
+      "insects"
+    ],
+    "feedback": "Substantial thatch resists wear and compaction.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q051",
+    "module": "M18",
+    "question": "The downside of excessive thatch development is increased susceptibility to:",
+    "correct": "diseases and environmental stresses",
+    "options": [
+      "diseases and environmental stresses",
+      "compaction",
+      "wear",
+      "rutting"
+    ],
+    "feedback": "Excessive thatch increases disease and stress susceptibility.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q052",
+    "module": "M18",
+    "question": "Controlling thatch through cultivation and topdressing creates a:",
+    "correct": "mat layer",
+    "options": [
+      "mat layer",
+      "black layer",
+      "pan",
+      "hardpan"
+    ],
+    "feedback": "It creates a mat layer (integrated soil/thatch medium).",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q053",
+    "module": "M18",
+    "question": "A mat layer is defined in M18.2 as an:",
+    "correct": "integrated soil/thatch medium",
+    "options": [
+      "integrated soil/thatch medium",
+      "undecomposed layer of stolons only",
+      "compacted clay pan",
+      "layer of pure sand"
+    ],
+    "feedback": "Mat is an integrated soil/thatch medium.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q054",
+    "module": "M18",
+    "question": "A mat layer is desirable because it:",
+    "correct": "resists wear and compaction while reducing susceptibility to disease and stress",
+    "options": [
+      "resists wear and compaction while reducing susceptibility to disease and stress",
+      "increases disease susceptibility",
+      "prevents all root growth",
+      "repels water"
+    ],
+    "feedback": "Mat resists wear and compaction and reduces disease and stress susceptibility.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q055",
+    "module": "M18",
+    "question": "In the soil / sand / thatch-soil profile illustration, which profile combines wear and compaction resistance with reduced stress susceptibility once thatch is managed?",
+    "correct": "thatch/soil (mat)",
+    "options": [
+      "thatch/soil (mat)",
+      "soil",
+      "sand",
+      "none of them"
+    ],
+    "feedback": "Managed thatch with topdressing forms a mat combining the benefits.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q056",
+    "module": "M18",
+    "question": "Which practices are used to control thatch and create a mat layer?",
+    "correct": "cultivation and topdressing",
+    "options": [
+      "cultivation and topdressing",
+      "heavy nitrogen and frequent irrigation",
+      "lowering mowing height and syringing",
+      "fungicides and insecticides"
+    ],
+    "feedback": "Cultivation and topdressing.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "m18q057",
+    "module": "M18",
+    "question": "In a turf with good internal drainage, water readily moves through the:",
+    "correct": "pores permeating the soil matrix",
+    "options": [
+      "pores permeating the soil matrix",
+      "thatch only",
+      "leaf surfaces",
+      "catch basins only"
+    ],
+    "feedback": "Water moves through pores in the soil matrix.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q058",
+    "module": "M18",
+    "question": "Per M18.3, the larger the soil pores:",
+    "correct": "the faster water moves through the soil",
+    "options": [
+      "the faster water moves through the soil",
+      "the slower water moves through the soil",
+      "the more water is retained",
+      "the more compaction occurs"
+    ],
+    "feedback": "Larger pores mean faster water movement.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q059",
+    "module": "M18",
+    "question": "Per M18.3, the better the drainage:",
+    "correct": "the higher the traffic threshold",
+    "options": [
+      "the higher the traffic threshold",
+      "the lower the traffic threshold",
+      "the more the turf wilts",
+      "the more traffic damage"
+    ],
+    "feedback": "Better drainage raises TT.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q060",
+    "module": "M18",
+    "question": "The soil diagram in M18.3 labels four components of soil:",
+    "correct": "air, mineral, organic matter, and water",
+    "options": [
+      "air, mineral, organic matter, and water",
+      "sand, silt, clay, and thatch",
+      "nitrogen, phosphorus, potassium, and sulfur",
+      "roots, shoots, stolons, and rhizomes"
+    ],
+    "feedback": "Air, mineral, organic matter, and water.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q061",
+    "module": "M18",
+    "question": "When water falls at a rate in excess of a turf's infiltration capacity, the excess will:",
+    "correct": "flow downslope and accumulate in depressions",
+    "options": [
+      "flow downslope and accumulate in depressions",
+      "always percolate rapidly",
+      "evaporate immediately",
+      "raise the traffic threshold"
+    ],
+    "feedback": "Excess flows downslope and collects in depressions.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q062",
+    "module": "M18",
+    "question": "Catch basins situated in depressions can:",
+    "correct": "remove surface water and conduct it to drain lines, dramatically increasing the traffic threshold",
+    "options": [
+      "remove surface water and conduct it to drain lines, dramatically increasing the traffic threshold",
+      "increase compaction",
+      "reduce the traffic threshold",
+      "store water for irrigation only"
+    ],
+    "feedback": "Catch basins remove surface water and raise TT.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q063",
+    "module": "M18",
+    "question": "Where should catch basins be situated?",
+    "correct": "in depressions",
+    "options": [
+      "in depressions",
+      "on ridges",
+      "on putting surfaces only",
+      "under trees"
+    ],
+    "feedback": "Catch basins are situated in depressions.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q064",
+    "module": "M18",
+    "question": "The illustration with rain falling on two surfaces shows standing water on one and a catch basin removing water from the other. It illustrates:",
+    "correct": "surface drainage removing excess water",
+    "options": [
+      "surface drainage removing excess water",
+      "transpirational cooling",
+      "syringing",
+      "soil compaction"
+    ],
+    "feedback": "The catch basin removes the surface water.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q065",
+    "module": "M18",
+    "question": "Per M18.3, generally, the higher the mowing height:",
+    "correct": "the higher the traffic threshold",
+    "options": [
+      "the higher the traffic threshold",
+      "the lower the traffic threshold",
+      "the more compaction",
+      "the less verdure"
+    ],
+    "feedback": "Higher mowing raises TT.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q066",
+    "module": "M18",
+    "question": "With higher mowing there is more verdure, which is:",
+    "correct": "above-ground biomass",
+    "options": [
+      "above-ground biomass",
+      "root biomass",
+      "thatch",
+      "soil organic matter"
+    ],
+    "feedback": "Verdure is above-ground biomass.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q067",
+    "module": "M18",
+    "question": "Higher mowing helps traffic tolerance because more verdure:",
+    "correct": "cushions traffic, diluting wear and insulating the soil against compaction",
+    "options": [
+      "cushions traffic, diluting wear and insulating the soil against compaction",
+      "increases thatch decomposition",
+      "shades out weeds only",
+      "increases evapotranspiration"
+    ],
+    "feedback": "Verdure cushions traffic and insulates soil.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q068",
+    "module": "M18",
+    "question": "A balanced fertilization program provides turfgrasses:",
+    "correct": "all essential nutrients in the quantities needed to sustain healthy growth",
+    "options": [
+      "all essential nutrients in the quantities needed to sustain healthy growth",
+      "nitrogen only",
+      "as much nitrogen as possible",
+      "no phosphorus or potassium"
+    ],
+    "feedback": "All essential nutrients in needed quantities.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q069",
+    "module": "M18",
+    "question": "A balanced fertilization program contributes to:",
+    "correct": "maximizing the traffic threshold",
+    "options": [
+      "maximizing the traffic threshold",
+      "minimizing the traffic threshold",
+      "increasing thatch",
+      "increasing weed pressure"
+    ],
+    "feedback": "Balanced fertility helps maximize TT.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q070",
+    "module": "M18",
+    "question": "Which is a result of excessive nitrogen and other nutrients, per M18.3?",
+    "correct": "reduced stress tolerance, excessive growth, and foliar burn",
+    "options": [
+      "reduced stress tolerance, excessive growth, and foliar burn",
+      "dormancy and discoloration",
+      "chlorosis and thin stand",
+      "increased weed pressure"
+    ],
+    "feedback": "Excess fertility: reduced stress tolerance, excessive growth, foliar burn, disease.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q071",
+    "module": "M18",
+    "question": "Which diseases are favored by EXCESSIVE nitrogen fertility?",
+    "correct": "brown patch, Pythium blight, Microdochium patch, Typhula blight, and gray leaf spot",
+    "options": [
+      "brown patch, Pythium blight, Microdochium patch, Typhula blight, and gray leaf spot",
+      "dollar spot, anthracnose, and red thread",
+      "summer patch and take-all patch",
+      "pink patch and leaf spot"
+    ],
+    "feedback": "Excess N favors brown patch, Pythium blight, Microdochium patch, Typhula blight, gray leaf spot.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q072",
+    "module": "M18",
+    "question": "Which diseases are favored by INADEQUATE fertility?",
+    "correct": "dollar spot, anthracnose, pink patch, red thread, summer patch, take-all patch, and leaf spot",
+    "options": [
+      "dollar spot, anthracnose, pink patch, red thread, summer patch, take-all patch, and leaf spot",
+      "brown patch and Pythium blight",
+      "Microdochium patch and Typhula blight",
+      "gray leaf spot only"
+    ],
+    "feedback": "Low fertility favors dollar spot, anthracnose, pink patch, red thread, summer patch, take-all patch, leaf spot.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q073",
+    "module": "M18",
+    "question": "Brown patch pressure increases with:",
+    "correct": "excessive nitrogen",
+    "options": [
+      "excessive nitrogen",
+      "inadequate nitrogen",
+      "inadequate irrigation",
+      "raising the mowing height"
+    ],
+    "feedback": "Brown patch is listed under excessive fertility.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q074",
+    "module": "M18",
+    "question": "Dollar spot pressure increases with:",
+    "correct": "inadequate fertility",
+    "options": [
+      "inadequate fertility",
+      "excessive nitrogen",
+      "excessive irrigation",
+      "improved light penetration"
+    ],
+    "feedback": "Dollar spot is listed under inadequate fertility.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q075",
+    "module": "M18",
+    "question": "Red thread is associated with:",
+    "correct": "inadequate fertility",
+    "options": [
+      "inadequate fertility",
+      "excessive fertility",
+      "excessive irrigation",
+      "high mowing"
+    ],
+    "feedback": "Red thread is in the inadequate-nutrient list.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q076",
+    "module": "M18",
+    "question": "Gray leaf spot is associated with:",
+    "correct": "excessive fertility",
+    "options": [
+      "excessive fertility",
+      "inadequate fertility",
+      "inadequate irrigation",
+      "drought dormancy"
+    ],
+    "feedback": "Gray leaf spot is in the excessive-nutrient list.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q077",
+    "module": "M18",
+    "question": "Anthracnose pressure in M18.3 is linked to:",
+    "correct": "inadequate nutrients",
+    "options": [
+      "inadequate nutrients",
+      "excessive nutrients",
+      "excessive irrigation",
+      "high verdure"
+    ],
+    "feedback": "Anthracnose is in the inadequate list.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q078",
+    "module": "M18",
+    "question": "Typhula blight in M18.3 is linked to:",
+    "correct": "excessive nutrients",
+    "options": [
+      "excessive nutrients",
+      "inadequate nutrients",
+      "drought",
+      "low mowing"
+    ],
+    "feedback": "Typhula blight is in the excessive list.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q079",
+    "module": "M18",
+    "question": "Inadequate fertility increases weed pressure because:",
+    "correct": "the turfgrass is not competitive against potential weed invaders",
+    "options": [
+      "the turfgrass is not competitive against potential weed invaders",
+      "weeds need less light",
+      "fertilizer kills weeds",
+      "weeds prefer compacted soil only"
+    ],
+    "feedback": "Weak turf is not competitive against weed invaders.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q080",
+    "module": "M18",
+    "question": "A chlorotic appearance from inadequate fertility reflects:",
+    "correct": "specific nutrient deficiencies",
+    "options": [
+      "specific nutrient deficiencies",
+      "excess nitrogen",
+      "frost damage",
+      "scald injury"
+    ],
+    "feedback": "Chlorosis reflects specific nutrient deficiencies.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q081",
+    "module": "M18",
+    "question": "Inadequate fertility can cause a shoot density reduction resulting in:",
+    "correct": "a thin stand",
+    "options": [
+      "a thin stand",
+      "excessive growth",
+      "foliar burn",
+      "thatch accumulation"
+    ],
+    "feedback": "Reduced shoot density means a thin stand.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q082",
+    "module": "M18",
+    "question": "Because both excess and deficient fertility reduce the traffic threshold, it is important to:",
+    "correct": "remain within the fertilization \"window\" throughout the growing season",
+    "options": [
+      "remain within the fertilization \"window\" throughout the growing season",
+      "fertilize as heavily as possible",
+      "stop fertilizing during the season",
+      "fertilize only in winter"
+    ],
+    "feedback": "Stay within the fertilization window.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q083",
+    "module": "M18",
+    "question": "The optimum window for fertilization is the period when which factors are most favorable?",
+    "correct": "root-to-shoot ratio, stress tolerance, color, and disease resistance",
+    "options": [
+      "root-to-shoot ratio, stress tolerance, color, and disease resistance",
+      "growth rate and clipping yield only",
+      "thatch accumulation and verdure",
+      "soil pH and CEC"
+    ],
+    "feedback": "Optimum root:shoot ratio, stress tolerance, color, minimum disease.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q084",
+    "module": "M18",
+    "question": "In the \"Window of Fertilization\" chart, the fertilization window is determined by fertilization timing, irrigation rate, and:",
+    "correct": "phenological events",
+    "options": [
+      "phenological events",
+      "soil texture",
+      "mower type",
+      "cultivar color"
+    ],
+    "feedback": "Timing, irrigation rate, and phenological events.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q085",
+    "module": "M18",
+    "question": "In the \"Window of Fertilization\" chart, the effects listed in the upper box (too much) are:",
+    "correct": "reduced stress tolerance, excessive growth, foliar burn, and disease pressure",
+    "options": [
+      "reduced stress tolerance, excessive growth, foliar burn, and disease pressure",
+      "weed pressure, chlorosis, and thin stand",
+      "dormancy and discoloration",
+      "poor roots and scald"
+    ],
+    "feedback": "Upper box: reduced stress tolerance, excessive growth, foliar burn, disease pressure.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q086",
+    "module": "M18",
+    "question": "In the \"Window of Fertilization\" chart, the effects listed in the lower box (too little) are:",
+    "correct": "weed pressure, disease pressure, chlorotic appearance, and thin stand",
+    "options": [
+      "weed pressure, disease pressure, chlorotic appearance, and thin stand",
+      "foliar burn and excessive growth",
+      "scald injury and poor roots",
+      "dormancy and discoloration"
+    ],
+    "feedback": "Lower box: weed pressure, disease pressure, chlorotic appearance, thin stand.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q087",
+    "module": "M18",
+    "question": "On the fertilization window chart, the horizontal axis is labeled:",
+    "correct": "application interval / phenological events",
+    "options": [
+      "application interval / phenological events",
+      "soil depth",
+      "mowing height",
+      "traffic intensity"
+    ],
+    "feedback": "The x axis: application interval, phenological events.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q088",
+    "module": "M18",
+    "question": "Where the irrigation program provides excessive moisture, which effects may result?",
+    "correct": "poor rooting, scald injury, and increased disease pressure",
+    "options": [
+      "poor rooting, scald injury, and increased disease pressure",
+      "dormancy and discoloration",
+      "chlorosis and weed pressure",
+      "foliar burn"
+    ],
+    "feedback": "Excess irrigation: poor rooting, scald, disease.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q089",
+    "module": "M18",
+    "question": "Scald injury results from:",
+    "correct": "prolonged standing water",
+    "options": [
+      "prolonged standing water",
+      "frost on leaves",
+      "excess nitrogen",
+      "low mowing"
+    ],
+    "feedback": "Scald is from prolonged standing water.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q090",
+    "module": "M18",
+    "question": "Which diseases are especially favored by excessive irrigation?",
+    "correct": "Pythium blight and brown patch",
+    "options": [
+      "Pythium blight and brown patch",
+      "dollar spot and red thread",
+      "summer patch and take-all patch",
+      "anthracnose and leaf spot"
+    ],
+    "feedback": "Pythium blight and brown patch especially.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q091",
+    "module": "M18",
+    "question": "With inadequate irrigation, effects may include:",
+    "correct": "dormancy, discoloration, and a thin stand",
+    "options": [
+      "dormancy, discoloration, and a thin stand",
+      "scald injury and Pythium blight",
+      "poor rooting from saturation",
+      "foliar burn"
+    ],
+    "feedback": "Inadequate water: dormancy, discoloration, thin stand.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q092",
+    "module": "M18",
+    "question": "The optimum window for irrigation depends on irrigation timing, irrigation rate, and:",
+    "correct": "environmental conditions",
+    "options": [
+      "environmental conditions",
+      "phenological events",
+      "cultivar color",
+      "mower sharpness"
+    ],
+    "feedback": "Timing, rate, and environmental conditions.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q093",
+    "module": "M18",
+    "question": "Optimal irrigation leads to:",
+    "correct": "favorable growth, favorable color, and minimal disease",
+    "options": [
+      "favorable growth, favorable color, and minimal disease",
+      "maximum clipping yield",
+      "dormancy",
+      "deep thatch"
+    ],
+    "feedback": "Optimum growth, favorable color, minimum disease.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q094",
+    "module": "M18",
+    "question": "On the \"Window of Irrigation\" chart, the horizontal axis is labeled:",
+    "correct": "application interval / environmental conditions",
+    "options": [
+      "application interval / environmental conditions",
+      "phenological events",
+      "soil texture",
+      "traffic intensity"
+    ],
+    "feedback": "Application interval, environmental conditions.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q095",
+    "module": "M18",
+    "question": "On the fertilization window chart, the horizontal axis includes phenological events, whereas on the irrigation window chart it includes:",
+    "correct": "environmental conditions",
+    "options": [
+      "environmental conditions",
+      "phenological events",
+      "soil pH",
+      "mowing height"
+    ],
+    "feedback": "Fertilization: phenological events; irrigation: environmental conditions.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q096",
+    "module": "M18",
+    "question": "In the lawn photo, brown patches contrasting with green turf illustrate the importance of water for sustaining turfgrass:",
+    "correct": "growth, color, and density",
+    "options": [
+      "growth, color, and density",
+      "thatch and mat",
+      "soil pH",
+      "compaction"
+    ],
+    "feedback": "Water sustains growth, color, and density.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q097",
+    "module": "M18",
+    "question": "In the absence of water, a turf may become:",
+    "correct": "dormant and possibly die",
+    "options": [
+      "dormant and possibly die",
+      "more traffic tolerant",
+      "greener",
+      "more dense"
+    ],
+    "feedback": "Dormancy and possibly death may result.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q098",
+    "module": "M18",
+    "question": "The traffic threshold of a turf when it is dormant is:",
+    "correct": "dramatically reduced",
+    "options": [
+      "dramatically reduced",
+      "dramatically increased",
+      "unchanged",
+      "slightly increased"
+    ],
+    "feedback": "TT is dramatically reduced when dormant.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q099",
+    "module": "M18",
+    "question": "A wilted turf has a traffic threshold that is:",
+    "correct": "substantially reduced",
+    "options": [
+      "substantially reduced",
+      "substantially increased",
+      "unchanged",
+      "highest of the season"
+    ],
+    "feedback": "A wilted turf has a substantially reduced TT.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q100",
+    "module": "M18",
+    "question": "Wilting reflects either the absence of sufficient moisture or:",
+    "correct": "the inability of plants to absorb water at a rate sufficient to meet requirements",
+    "options": [
+      "the inability of plants to absorb water at a rate sufficient to meet requirements",
+      "excess nitrogen",
+      "excess light",
+      "high mowing"
+    ],
+    "feedback": "Or inability to absorb water fast enough.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q101",
+    "module": "M18",
+    "question": "Per M18.3, the greatest need turfgrass plants have for water is for:",
+    "correct": "tissue cooling through transpiration",
+    "options": [
+      "tissue cooling through transpiration",
+      "photosynthesis",
+      "cell division",
+      "nutrient storage"
+    ],
+    "feedback": "The greatest need is transpirational cooling.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q102",
+    "module": "M18",
+    "question": "Transpiration is the process by which soil moisture is absorbed, translocated to the leaves, and:",
+    "correct": "evaporated from mesophyll cell surfaces, exiting through stomata",
+    "options": [
+      "evaporated from mesophyll cell surfaces, exiting through stomata",
+      "stored in the crown",
+      "released as liquid through roots",
+      "converted to sugar"
+    ],
+    "feedback": "Evaporated from mesophyll cells, exiting via stomata.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q103",
+    "module": "M18",
+    "question": "Water translocated during transpiration moves to the leaves through the:",
+    "correct": "vascular system",
+    "options": [
+      "vascular system",
+      "phloem only, against gravity",
+      "cuticle",
+      "thatch layer"
+    ],
+    "feedback": "Through the vascular system.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q104",
+    "module": "M18",
+    "question": "Water vapor exits the leaf through:",
+    "correct": "stomata openings",
+    "options": [
+      "stomata openings",
+      "the cuticle",
+      "root hairs",
+      "the crown"
+    ],
+    "feedback": "Through stomata openings.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q105",
+    "module": "M18",
+    "question": "The conversion of liquid water to water vapor cools the plant because:",
+    "correct": "heat energy is absorbed",
+    "options": [
+      "heat energy is absorbed",
+      "heat energy is released",
+      "oxygen is consumed",
+      "carbon dioxide is fixed"
+    ],
+    "feedback": "Evaporation absorbs heat energy.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q106",
+    "module": "M18",
+    "question": "Which two factors are named as influencing the transpiration rate?",
+    "correct": "ambient temperature and wind",
+    "options": [
+      "ambient temperature and wind",
+      "soil pH and CEC",
+      "mowing height and cultivar",
+      "nitrogen and phosphorus"
+    ],
+    "feedback": "Temperature and wind.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q107",
+    "module": "M18",
+    "question": "With increasing temperature and air movement, the water required for transpirational cooling:",
+    "correct": "increases proportionately",
+    "options": [
+      "increases proportionately",
+      "decreases",
+      "stays the same",
+      "drops to zero"
+    ],
+    "feedback": "It increases proportionately.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q108",
+    "module": "M18",
+    "question": "Turfgrasses may absorb enough water for transpirational cooling regardless of atmospheric conditions if they have:",
+    "correct": "a well-developed root system with adequate soil aeration and moisture",
+    "options": [
+      "a well-developed root system with adequate soil aeration and moisture",
+      "shallow roots in thatch",
+      "compacted soil",
+      "low mowing"
+    ],
+    "feedback": "Well-developed roots, aeration, and moisture.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q109",
+    "module": "M18",
+    "question": "Where rooting is too shallow or soil conditions unfavorable, turfgrasses often cannot meet transpirational demand, resulting in:",
+    "correct": "severe wilting and sometimes death",
+    "options": [
+      "severe wilting and sometimes death",
+      "excessive growth",
+      "scald from standing water",
+      "increased traffic threshold"
+    ],
+    "feedback": "Severe wilting and sometimes death.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q110",
+    "module": "M18",
+    "question": "Syringing is most likely required on:",
+    "correct": "close-cut turfs, such as greens",
+    "options": [
+      "close-cut turfs, such as greens",
+      "rough",
+      "home lawns mowed high",
+      "dormant turf"
+    ],
+    "feedback": "Close-cut turfs such as greens.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q111",
+    "module": "M18",
+    "question": "Syringing compensates for turfgrasses' inability to:",
+    "correct": "absorb soil water at a rate sufficient to meet transpirational demand",
+    "options": [
+      "absorb soil water at a rate sufficient to meet transpirational demand",
+      "photosynthesize at night",
+      "fix nitrogen",
+      "resist compaction"
+    ],
+    "feedback": "Syringing offsets inability to absorb water fast enough.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q112",
+    "module": "M18",
+    "question": "Syringing involves:",
+    "correct": "a light application of water",
+    "options": [
+      "a light application of water",
+      "a deep irrigation to field capacity",
+      "a fungicide application",
+      "a heavy topdressing"
+    ],
+    "feedback": "A light application of water.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q113",
+    "module": "M18",
+    "question": "Syringing works by which two mechanisms?",
+    "correct": "correcting an internal moisture deficit and cooling the plants",
+    "options": [
+      "correcting an internal moisture deficit and cooling the plants",
+      "adding nutrients and killing pathogens",
+      "compacting the surface and smoothing it",
+      "raising pH and leaching salts"
+    ],
+    "feedback": "Corrects internal moisture deficit and cools via contact and evaporation.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q114",
+    "module": "M18",
+    "question": "Syringing cools plants through contact with cool water and:",
+    "correct": "subsequent evaporation of water from leaf surfaces",
+    "options": [
+      "subsequent evaporation of water from leaf surfaces",
+      "shading the turf",
+      "raising the mowing height",
+      "increasing transpiration through roots"
+    ],
+    "feedback": "Contact plus evaporation from leaf surfaces.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q115",
+    "module": "M18",
+    "question": "In the transpiration diagram, heat energy is absorbed when:",
+    "correct": "liquid water becomes water vapor",
+    "options": [
+      "liquid water becomes water vapor",
+      "water vapor condenses",
+      "roots absorb nutrients",
+      "leaves are mowed"
+    ],
+    "feedback": "H2O liquid to H2O vapor absorbs heat energy.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "m18q116",
+    "module": "M18",
+    "question": "Per the textbook, the biotic component of the turfgrass environment includes primarily:",
+    "correct": "the use and culture of the turf by people",
+    "options": [
+      "the use and culture of the turf by people",
+      "earthworms only",
+      "fungi and bacteria only",
+      "weather patterns"
+    ],
+    "feedback": "Biotic: primarily people's use and culture of the turf.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q117",
+    "module": "M18",
+    "question": "According to Turgeon, the most formidable of adverse influences against turfgrass persistence and quality frequently are:",
+    "correct": "human activities",
+    "options": [
+      "human activities",
+      "insects",
+      "diseases",
+      "earthworms"
+    ],
+    "feedback": "Human activities frequently constitute the most formidable adverse influences.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q118",
+    "module": "M18",
+    "question": "The textbook names which conditions as reflecting the type and intensity of human activities on turf?",
+    "correct": "wear and breakage of the turf, and displacement and compaction of the soil",
+    "options": [
+      "wear and breakage of the turf, and displacement and compaction of the soil",
+      "thatch and mat formation",
+      "black layer and hydrophobicity",
+      "salinity and sodicity"
+    ],
+    "feedback": "Wear, breakage, displacement, compaction.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q119",
+    "module": "M18",
+    "question": "The textbook defines wear as:",
+    "correct": "the physical deterioration of a turfgrass community resulting from excessive traffic",
+    "options": [
+      "the physical deterioration of a turfgrass community resulting from excessive traffic",
+      "the removal of turf by golf clubs",
+      "the displacement of soil by vehicles",
+      "the compression of soil into a dense mass"
+    ],
+    "feedback": "Wear: physical deterioration from excessive traffic.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q120",
+    "module": "M18",
+    "question": "What constitutes \"excessive\" traffic varies with turfgrass genotype, edaphic and climatic conditions, and the:",
+    "correct": "physiological condition of the plants",
+    "options": [
+      "physiological condition of the plants",
+      "color of the turf",
+      "price of the seed",
+      "size of the field"
+    ],
+    "feedback": "Genotype, physiological condition, edaphic and climatic conditions.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q121",
+    "module": "M18",
+    "question": "The textbook contrasts which turf as much more susceptible to wear than a well-cared-for bermudagrass turf on a sunny, sandy site?",
+    "correct": "a rough bluegrass turf in a wet, shaded environment",
+    "options": [
+      "a rough bluegrass turf in a wet, shaded environment",
+      "a tall fescue turf in full sun",
+      "a zoysiagrass tee",
+      "a perennial ryegrass athletic field"
+    ],
+    "feedback": "Rough bluegrass in a wet, shaded environment.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q122",
+    "module": "M18",
+    "question": "Turgeon calls the rough bluegrass vs. bermudagrass wear comparison somewhat misleading because:",
+    "correct": "bermudagrass would not survive where rough bluegrass is well adapted",
+    "options": [
+      "bermudagrass would not survive where rough bluegrass is well adapted",
+      "both have identical wear tolerance",
+      "rough bluegrass is a warm-season grass",
+      "bermudagrass is never used on sand"
+    ],
+    "feedback": "Bermudagrass would not survive in rough bluegrass habitat.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q123",
+    "module": "M18",
+    "question": "Direct pressure tends to crush shoots, especially when the plants are:",
+    "correct": "stiff with frost or wilted",
+    "options": [
+      "stiff with frost or wilted",
+      "freshly fertilized",
+      "actively growing",
+      "mowed high"
+    ],
+    "feedback": "Especially when stiff with frost or wilted.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q124",
+    "module": "M18",
+    "question": "Because wear tolerance varies from site to site and season to season, a traffic threshold level must be determined:",
+    "correct": "for each location and time of year",
+    "options": [
+      "for each location and time of year",
+      "once for the entire country",
+      "only at establishment",
+      "only for golf greens"
+    ],
+    "feedback": "For each location and time of year.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q125",
+    "module": "M18",
+    "question": "On golf courses, traffic on greens, approaches, exit lanes, and tees can be made less concentrated by:",
+    "correct": "coordinating placement of pins and tee markers",
+    "options": [
+      "coordinating placement of pins and tee markers",
+      "lowering mowing heights",
+      "closing the course",
+      "applying more nitrogen"
+    ],
+    "feedback": "Coordinating pin and tee marker placement.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q126",
+    "module": "M18",
+    "question": "Per the textbook, shifting sand trap positions can reduce wear by:",
+    "correct": "providing wider traffic lanes",
+    "options": [
+      "providing wider traffic lanes",
+      "increasing compaction",
+      "reducing drainage",
+      "concentrating traffic"
+    ],
+    "feedback": "Wider traffic lanes plus improved drainage reduce wear.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q127",
+    "module": "M18",
+    "question": "On athletic fields used for practice, wear can be reduced by:",
+    "correct": "shifting intensive traffic to different field locations",
+    "options": [
+      "shifting intensive traffic to different field locations",
+      "practicing only in the goal mouths",
+      "mowing lower",
+      "eliminating irrigation"
+    ],
+    "feedback": "Shift practice to different locations to promote recovery.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q128",
+    "module": "M18",
+    "question": "Strategic placement of ornamental plantings, sidewalks, and fences can be used to:",
+    "correct": "uniformly distribute or concentrate traffic",
+    "options": [
+      "uniformly distribute or concentrate traffic",
+      "increase soil compaction",
+      "increase disease",
+      "raise soil pH"
+    ],
+    "feedback": "They distribute or concentrate traffic for better turf.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q129",
+    "module": "M18",
+    "question": "Which cultural consideration does the textbook give for improving wearability by providing larger, more vigorous shoots?",
+    "correct": "raising the mowing height",
+    "options": [
+      "raising the mowing height",
+      "lowering the mowing height",
+      "increasing nitrogen",
+      "eliminating cultivation"
+    ],
+    "feedback": "Raise mowing height for larger, more vigorous shoots.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q130",
+    "module": "M18",
+    "question": "Adjusting fertilization and irrigation practices improves wearability by reducing:",
+    "correct": "plant succulence",
+    "options": [
+      "plant succulence",
+      "root growth",
+      "verdure",
+      "photosynthesis"
+    ],
+    "feedback": "Reduce plant succulence.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q131",
+    "module": "M18",
+    "question": "Which conditions require that traffic be avoided entirely, per the textbook?",
+    "correct": "frosted leaves, winter-dormant turfgrass, and wet soil",
+    "options": [
+      "frosted leaves, winter-dormant turfgrass, and wet soil",
+      "dry sand and full sun",
+      "high mowing and low nitrogen",
+      "after core cultivation only"
+    ],
+    "feedback": "Frost, winter dormancy, and wet soil.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q132",
+    "module": "M18",
+    "question": "Per Turgeon, moderately shaded turfgrass may be so weak that it is intolerant of:",
+    "correct": "all but minimal traffic",
+    "options": [
+      "all but minimal traffic",
+      "any fertilization",
+      "any mowing",
+      "sunlight"
+    ],
+    "feedback": "Moderately shaded turf tolerates only minimal traffic.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q133",
+    "module": "M18",
+    "question": "Turf breakage results from activities that:",
+    "correct": "disrupt the structural integrity of the turf",
+    "options": [
+      "disrupt the structural integrity of the turf",
+      "add soil to thatch",
+      "raise the mowing height",
+      "compress soil particles"
+    ],
+    "feedback": "Breakage disrupts structural integrity.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q134",
+    "module": "M18",
+    "question": "A golf ball landing on a green can tear the turf surface, producing a:",
+    "correct": "ball mark",
+    "options": [
+      "ball mark",
+      "divot",
+      "rut",
+      "pan"
+    ],
+    "feedback": "Ball marks.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q135",
+    "module": "M18",
+    "question": "Ball marks are most likely to tear the turf where plants are:",
+    "correct": "shallow rooted",
+    "options": [
+      "shallow rooted",
+      "deeply rooted",
+      "dormant",
+      "heavily thatched with mat"
+    ],
+    "feedback": "Especially where plants are shallow rooted.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q136",
+    "module": "M18",
+    "question": "If ball marks are not repaired, mowing can:",
+    "correct": "scalp the upraised plants and soil, causing more severe injury",
+    "options": [
+      "scalp the upraised plants and soil, causing more severe injury",
+      "heal them automatically",
+      "raise the traffic threshold",
+      "decompose thatch"
+    ],
+    "feedback": "Mowing scalps the upraised plants and soil.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q137",
+    "module": "M18",
+    "question": "Ball marks should be repaired by:",
+    "correct": "carefully reshaping the turf surface",
+    "options": [
+      "carefully reshaping the turf surface",
+      "applying fungicide",
+      "core cultivating",
+      "syringing"
+    ],
+    "feedback": "Repair by carefully reshaping the surface.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q138",
+    "module": "M18",
+    "question": "Golf shots and other physical forces that rip out sections of sod cause:",
+    "correct": "divots",
+    "options": [
+      "divots",
+      "ball marks",
+      "pans",
+      "black layer"
+    ],
+    "feedback": "Ripped-out sections of sod are divots.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q139",
+    "module": "M18",
+    "question": "Divot size is influenced by the physical force, turfgrass species, cultural practices, and the:",
+    "correct": "overall condition of the turf",
+    "options": [
+      "overall condition of the turf",
+      "color of the ball",
+      "time of day",
+      "fertilizer brand"
+    ],
+    "feedback": "And the overall condition of the turf.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q140",
+    "module": "M18",
+    "question": "Divot repair may include:",
+    "correct": "replacing torn sod or filling divots with soil (and perhaps seed)",
+    "options": [
+      "replacing torn sod or filling divots with soil (and perhaps seed)",
+      "applying herbicide",
+      "core cultivating the divot",
+      "rolling only"
+    ],
+    "feedback": "Replace sod or fill with soil and seed.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q141",
+    "module": "M18",
+    "question": "Soil displacement and rutting occur where foot or vehicular traffic:",
+    "correct": "substantially changes the shape of the turf surface",
+    "options": [
+      "substantially changes the shape of the turf surface",
+      "removes leaf tissue only",
+      "compresses thatch",
+      "spreads disease"
+    ],
+    "feedback": "Traffic changes the shape of the surface.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q142",
+    "module": "M18",
+    "question": "The textbook lists turf susceptibility to rutting as a function of soil moisture, texture, and strength, the intensity and duration of traffic, and:",
+    "correct": "the extent to which roots and lateral shoots enhance the shear strength of the turf",
+    "options": [
+      "the extent to which roots and lateral shoots enhance the shear strength of the turf",
+      "the color of the turf",
+      "the mowing direction",
+      "the fertilizer analysis"
+    ],
+    "feedback": "Roots and lateral shoots enhance shear strength.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q143",
+    "module": "M18",
+    "question": "The textbook defines compaction as:",
+    "correct": "compression of soil constituents into a relatively dense mass",
+    "options": [
+      "compression of soil constituents into a relatively dense mass",
+      "tearing of leaf tissue",
+      "removal of sod by a club",
+      "accumulation of thatch"
+    ],
+    "feedback": "Compression into a relatively dense mass.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q144",
+    "module": "M18",
+    "question": "A moderate amount of compaction may be desirable in turf soils to provide:",
+    "correct": "a firm surface and favorable root-soil contact",
+    "options": [
+      "a firm surface and favorable root-soil contact",
+      "better drainage",
+      "more macropores",
+      "more thatch"
+    ],
+    "feedback": "Firm surface and root-to-soil contact.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q145",
+    "module": "M18",
+    "question": "Severe compaction is usually associated with inadequate aeration and poor drainage due to the loss of:",
+    "correct": "aeration porosity",
+    "options": [
+      "aeration porosity",
+      "capillary porosity",
+      "bulk density",
+      "organic matter"
+    ],
+    "feedback": "Loss of aeration porosity.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q146",
+    "module": "M18",
+    "question": "A claypan and a hardpan are examples of:",
+    "correct": "genetic pans",
+    "options": [
+      "genetic pans",
+      "induced pans",
+      "plow soles",
+      "black layers"
+    ],
+    "feedback": "Genetic pans form naturally.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q147",
+    "module": "M18",
+    "question": "A claypan forms due to:",
+    "correct": "very high clay content present during soil formation",
+    "options": [
+      "very high clay content present during soil formation",
+      "tine penetration",
+      "sulfur-reducing bacteria",
+      "wheel traffic"
+    ],
+    "feedback": "High clay content during formation.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q148",
+    "module": "M18",
+    "question": "A hardpan forms from:",
+    "correct": "cementation of soil particles by organic matter or inorganic materials",
+    "options": [
+      "cementation of soil particles by organic matter or inorganic materials",
+      "high clay content alone",
+      "plow pressure",
+      "foot traffic"
+    ],
+    "feedback": "Cementation of particles.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q149",
+    "module": "M18",
+    "question": "Induced pans result from:",
+    "correct": "pressure applied by cultivation or tillage operations",
+    "options": [
+      "pressure applied by cultivation or tillage operations",
+      "natural soil formation",
+      "high clay content",
+      "earthworm activity"
+    ],
+    "feedback": "Pressure from cultivation or tillage.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q150",
+    "module": "M18",
+    "question": "In field crop culture, the induced pan that develops at plow depth is called a:",
+    "correct": "plow sole",
+    "options": [
+      "plow sole",
+      "claypan",
+      "hardpan",
+      "black layer"
+    ],
+    "feedback": "A plow sole.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q151",
+    "module": "M18",
+    "question": "With core cultivation, an induced pan may also occur:",
+    "correct": "along the sides of the holes",
+    "options": [
+      "along the sides of the holes",
+      "on the leaf surfaces",
+      "in the clippings",
+      "only in sand"
+    ],
+    "feedback": "At maximum tine depth and possibly along hole sides.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q152",
+    "module": "M18",
+    "question": "Surface compaction of turf soils occurs primarily in response to:",
+    "correct": "traffic",
+    "options": [
+      "traffic",
+      "earthworms",
+      "freezing and thawing",
+      "rainfall alone"
+    ],
+    "feedback": "Primarily in response to traffic.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q153",
+    "module": "M18",
+    "question": "With surface compaction, which properties increase?",
+    "correct": "bulk density, soil strength, and water-holding capacity",
+    "options": [
+      "bulk density, soil strength, and water-holding capacity",
+      "aeration porosity, infiltration, and percolation",
+      "total porosity",
+      "macropore volume"
+    ],
+    "feedback": "BD, strength, and water-holding capacity increase.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q154",
+    "module": "M18",
+    "question": "With surface compaction, which properties decrease?",
+    "correct": "aeration porosity, water infiltration, and percolation",
+    "options": [
+      "aeration porosity, water infiltration, and percolation",
+      "bulk density",
+      "soil strength",
+      "water-holding capacity"
+    ],
+    "feedback": "Aeration porosity, infiltration, and percolation decrease.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q155",
+    "module": "M18",
+    "question": "Increased bulk density after compaction results from:",
+    "correct": "the reduction in soil volume",
+    "options": [
+      "the reduction in soil volume",
+      "the addition of organic matter",
+      "increased particle density",
+      "more macropores"
+    ],
+    "feedback": "Reduced volume raises BD.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q156",
+    "module": "M18",
+    "question": "During compaction, clay particles become flattened in a plane:",
+    "correct": "perpendicular to the compacting force",
+    "options": [
+      "perpendicular to the compacting force",
+      "parallel to the compacting force",
+      "at 45 degrees",
+      "randomly oriented"
+    ],
+    "feedback": "Perpendicular to the compacting force.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q157",
+    "module": "M18",
+    "question": "Which pores are most susceptible to loss during compaction?",
+    "correct": "large (aeration) pores",
+    "options": [
+      "large (aeration) pores",
+      "capillary pores",
+      "micropores",
+      "intra-aggregate pores only"
+    ],
+    "feedback": "Large aeration pores are most susceptible.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q158",
+    "module": "M18",
+    "question": "Compacted soils retain more moisture because:",
+    "correct": "pore-size distribution shifts toward smaller pores",
+    "options": [
+      "pore-size distribution shifts toward smaller pores",
+      "particle density increases",
+      "organic matter increases",
+      "sand content increases"
+    ],
+    "feedback": "Shift toward smaller pores increases retention.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q159",
+    "module": "M18",
+    "question": "Poor root growth in compacted soils is partially accounted for by increased:",
+    "correct": "soil strength (resistance to penetration)",
+    "options": [
+      "soil strength (resistance to penetration)",
+      "macroporosity",
+      "oxygen",
+      "infiltration"
+    ],
+    "feedback": "Increased soil strength measurable as penetration resistance.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q160",
+    "module": "M18",
+    "question": "Besides soil strength, poor rooting in compacted soil is due to:",
+    "correct": "inadequate oxygen and relatively high CO2 and other potentially toxic gases",
+    "options": [
+      "inadequate oxygen and relatively high CO2 and other potentially toxic gases",
+      "excess oxygen",
+      "too much nitrogen",
+      "high infiltration"
+    ],
+    "feedback": "Low O2 and high CO2 and toxic gases.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q161",
+    "module": "M18",
+    "question": "Physiological responses to soil compaction include reduced root and shoot growth and:",
+    "correct": "increased susceptibility to scald and direct low-temperature injury",
+    "options": [
+      "increased susceptibility to scald and direct low-temperature injury",
+      "increased drought tolerance",
+      "increased nutrient uptake",
+      "increased heat tolerance"
+    ],
+    "feedback": "Also reduced uptake and heat/drought tolerance.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q162",
+    "module": "M18",
+    "question": "Higher disease incidence in compacted turf is attributed to weakened plants plus:",
+    "correct": "prolonged periods of high humidity in the microenvironment",
+    "options": [
+      "prolonged periods of high humidity in the microenvironment",
+      "low humidity",
+      "high light",
+      "reduced irrigation"
+    ],
+    "feedback": "Weak plants and prolonged high humidity.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q163",
+    "module": "M18",
+    "question": "Which is a compaction-tolerant weed named by Turgeon?",
+    "correct": "goosegrass",
+    "options": [
+      "goosegrass",
+      "crabgrass",
+      "dandelion",
+      "yellow nutsedge"
+    ],
+    "feedback": "Knotweed, annual bluegrass, goosegrass, white clover.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q164",
+    "module": "M18",
+    "question": "Knotweed invading a heavily trafficked area is an ecological indicator of:",
+    "correct": "soil compaction",
+    "options": [
+      "soil compaction",
+      "excess shade",
+      "low pH only",
+      "black layer"
+    ],
+    "feedback": "Knotweed is a compaction-tolerant weed.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q165",
+    "module": "M18",
+    "question": "Soil compaction influences cultural requirements by requiring:",
+    "correct": "more frequent fertilization and irrigation",
+    "options": [
+      "more frequent fertilization and irrigation",
+      "less frequent fertilization and irrigation",
+      "no cultivation",
+      "no pesticides"
+    ],
+    "feedback": "More frequent fertilization and irrigation.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q166",
+    "module": "M18",
+    "question": "In compacted turf, which practices may be essential to dispose of excessive surface moisture?",
+    "correct": "drainage tiles, slit trenches, and catch basins",
+    "options": [
+      "drainage tiles, slit trenches, and catch basins",
+      "syringing and dew removal",
+      "higher mowing and rolling",
+      "sulfur applications"
+    ],
+    "feedback": "Drainage tiles, slit trenches, catch basins.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q167",
+    "module": "M18",
+    "question": "Mistakes in pesticide application are of greater consequence on compacted turf because:",
+    "correct": "suitable conditions for turfgrass recovery do not exist",
+    "options": [
+      "suitable conditions for turfgrass recovery do not exist",
+      "pesticides do not work on compacted soil",
+      "compacted soil absorbs pesticides",
+      "pesticides cause compaction"
+    ],
+    "feedback": "Recovery conditions are lacking.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q168",
+    "module": "M18",
+    "question": "Per Turgeon, traffic should be avoided on frosted turfs because:",
+    "correct": "damage to leaf tissue may occur and be evident until new growth takes place",
+    "options": [
+      "damage to leaf tissue may occur and be evident until new growth takes place",
+      "frost raises the traffic threshold",
+      "frost prevents compaction",
+      "frost fertilizes the turf"
+    ],
+    "feedback": "Leaf tissue damage persists until new growth.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q169",
+    "module": "M18",
+    "question": "Figure 4.14 shows damage to turfgrass caused by:",
+    "correct": "cart traffic across frosted turf",
+    "options": [
+      "cart traffic across frosted turf",
+      "snow mold",
+      "divots on a tee",
+      "black layer"
+    ],
+    "feedback": "Cart traffic across frosted turf.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q170",
+    "module": "M18",
+    "question": "Per the textbook, snow cover protects the turf from:",
+    "correct": "winter desiccation and traffic-induced injury",
+    "options": [
+      "winter desiccation and traffic-induced injury",
+      "all winter diseases",
+      "ice encasement",
+      "annual bluegrass invasion"
+    ],
+    "feedback": "Snow protects against desiccation and traffic injury.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q171",
+    "module": "M18",
+    "question": "Per the textbook, a \"shade\" turf is less tolerant of wear partly because inactive phytochrome results in:",
+    "correct": "longer, thinner leaves, reduced density, shallower rooting, thinner cuticles, and lower reserves",
+    "options": [
+      "longer, thinner leaves, reduced density, shallower rooting, thinner cuticles, and lower reserves",
+      "shorter, thicker leaves",
+      "deeper rooting",
+      "higher carbohydrate reserves"
+    ],
+    "feedback": "Shade morphology makes turf delicate.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q172",
+    "module": "M18",
+    "question": "In a heavily trafficked turf, the loss of plant tissue to mechanical damage necessitates:",
+    "correct": "additional growth (and photosynthesis) to sustain quality",
+    "options": [
+      "additional growth (and photosynthesis) to sustain quality",
+      "less photosynthesis",
+      "reduced fertility",
+      "lower mowing"
+    ],
+    "feedback": "Additional growth is needed to replace lost tissue.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q173",
+    "module": "M18",
+    "question": "For shaded, trafficked turf, which is a course of action the textbook suggests?",
+    "correct": "reducing traffic intensity to minimize mechanical damage",
+    "options": [
+      "reducing traffic intensity to minimize mechanical damage",
+      "lowering mowing height",
+      "increasing nitrogen sharply",
+      "removing all irrigation"
+    ],
+    "feedback": "Prune, reduce traffic, or use shade-adapted plants.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q174",
+    "module": "M18",
+    "question": "At high moisture contents, fine-textured soils can be very unstable and yield under foot or vehicular traffic because:",
+    "correct": "particles are forced apart, weakening cohesive and frictional forces",
+    "options": [
+      "particles are forced apart, weakening cohesive and frictional forces",
+      "clay forms aggregates",
+      "sand dominates",
+      "particle density rises"
+    ],
+    "feedback": "Water forces particles apart, weakening both forces.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q175",
+    "module": "M18",
+    "question": "When a sand-based turf dries out completely, its strength under traffic depends entirely on:",
+    "correct": "frictional forces",
+    "options": [
+      "frictional forces",
+      "electrostatic forces",
+      "cohesion from clay",
+      "organic matter"
+    ],
+    "feedback": "Dry sand strength is entirely frictional.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q176",
+    "module": "M18",
+    "question": "Walking on a dry, poorly rooted sand-based turf is likened to walking on:",
+    "correct": "a blanket on the beach",
+    "options": [
+      "a blanket on the beach",
+      "a concrete slab",
+      "a wet clay field",
+      "a trampoline"
+    ],
+    "feedback": "Like a blanket on the beach.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q177",
+    "module": "M18",
+    "question": "A well-irrigated sand-based turf provides a firmer surface than a dry one because:",
+    "correct": "water bridging between particles increases soil strength",
+    "options": [
+      "water bridging between particles increases soil strength",
+      "water dissolves the sand",
+      "water adds clay",
+      "water raises particle density"
+    ],
+    "feedback": "Water bridges increase strength via electrostatic attraction.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q178",
+    "module": "M18",
+    "question": "Which sand is least structurally stable under traffic?",
+    "correct": "well-rounded particles of high sphericity",
+    "options": [
+      "well-rounded particles of high sphericity",
+      "very angular particles of low sphericity",
+      "widely differing particle sizes",
+      "sand with a strong root system"
+    ],
+    "feedback": "Lowest stability: well-rounded, high sphericity.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q179",
+    "module": "M18",
+    "question": "A strong, well-developed root system affects sand stability by:",
+    "correct": "dramatically improving it",
+    "options": [
+      "dramatically improving it",
+      "reducing it",
+      "having no effect",
+      "making sand hydrophobic"
+    ],
+    "feedback": "Roots dramatically improve stability.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q180",
+    "module": "M18",
+    "question": "To check for traffic-induced compaction, a penetrometer measures:",
+    "correct": "the force required to push a rod tip into the turf",
+    "options": [
+      "the force required to push a rod tip into the turf",
+      "soil pH",
+      "water infiltration rate",
+      "green speed"
+    ],
+    "feedback": "Force to push a cone-shaped rod into the turf.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q181",
+    "module": "M18",
+    "question": "Penetrometer readings may not accurately characterize compaction unless:",
+    "correct": "soil moisture content is taken into account",
+    "options": [
+      "soil moisture content is taken into account",
+      "the sand is dry",
+      "the turf is dormant",
+      "measured at noon"
+    ],
+    "feedback": "Moisture strongly influences soil strength.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q182",
+    "module": "M18",
+    "question": "Per the textbook, the protective cover provided by turfgrasses reduces soil compaction from traffic and:",
+    "correct": "splashing raindrops",
+    "options": [
+      "splashing raindrops",
+      "root growth",
+      "earthworms",
+      "mowing clippings"
+    ],
+    "feedback": "Traffic, splashing raindrops, and other forces.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q183",
+    "module": "M18",
+    "question": "Thatch, as a growth medium, is described as:",
+    "correct": "well-aerated and compaction-resistant, with poor nutrient- and water-holding properties",
+    "options": [
+      "well-aerated and compaction-resistant, with poor nutrient- and water-holding properties",
+      "poorly aerated and easily compacted",
+      "high in nutrient-holding capacity",
+      "identical to mat"
+    ],
+    "feedback": "Well-aerated, compaction-resistant, poor holding capacity.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q184",
+    "module": "M18",
+    "question": "A mat layer is considered especially desirable in turfs receiving:",
+    "correct": "frequent or intensive traffic",
+    "options": [
+      "frequent or intensive traffic",
+      "no traffic",
+      "only wildlife traffic",
+      "winter dormancy"
+    ],
+    "feedback": "Mat is desirable under frequent or intensive traffic.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q185",
+    "module": "M18",
+    "question": "Mat provides better surface resiliency and:",
+    "correct": "stabilizes turf against impacting forces from traffic and play",
+    "options": [
+      "stabilizes turf against impacting forces from traffic and play",
+      "prevents all disease",
+      "increases compaction",
+      "repels water"
+    ],
+    "feedback": "It stabilizes turf against impacting forces.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q186",
+    "module": "M18",
+    "question": "Excess salts reduce plant-available water, making plants more susceptible to environmental stresses, including:",
+    "correct": "wear",
+    "options": [
+      "wear",
+      "overseeding",
+      "mowing",
+      "fertilization"
+    ],
+    "feedback": "Salt-induced water deficits increase susceptibility to wear.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q187",
+    "module": "M18",
+    "question": "Traffic, along with splashing rain or irrigation and cultivation, tends to:",
+    "correct": "destroy soil structure",
+    "options": [
+      "destroy soil structure",
+      "build soil aggregates",
+      "add organic matter",
+      "increase macroporosity"
+    ],
+    "feedback": "These forces destroy soil structure.",
+    "source": "Textbook Ch. 4: The Turfgrass Environment (traffic-related passages, pp. 94-139)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q188",
+    "module": "M18",
+    "question": "Per Table 3.17, the most wear-resistant cool-season turfgrass is:",
+    "correct": "tall fescue",
+    "options": [
+      "tall fescue",
+      "rough bluegrass",
+      "creeping bentgrass",
+      "fine fescue"
+    ],
+    "feedback": "Tall fescue is most wear resistant among cool-season grasses.",
+    "source": "Textbook Ch. 2-3: Functional Quality and Wear Resistance (pp. 14-16, 89-90)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q189",
+    "module": "M18",
+    "question": "Among popular turfgrasses, which ranks lowest in wear resistance?",
+    "correct": "rough bluegrass",
+    "options": [
+      "rough bluegrass",
+      "tall fescue",
+      "zoysiagrass",
+      "bermudagrass"
+    ],
+    "feedback": "Rough bluegrass ranks lowest.",
+    "source": "Textbook Ch. 2-3: Functional Quality and Wear Resistance (pp. 14-16, 89-90)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q190",
+    "module": "M18",
+    "question": "Zoysiagrasses are very wear resistant but:",
+    "correct": "very slow to recover from injury",
+    "options": [
+      "very slow to recover from injury",
+      "have excellent recuperative capacity",
+      "cannot be mowed",
+      "are cool-season grasses"
+    ],
+    "feedback": "Very slow to recover.",
+    "source": "Textbook Ch. 2-3: Functional Quality and Wear Resistance (pp. 14-16, 89-90)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q191",
+    "module": "M18",
+    "question": "Creeping bentgrass ranks only fair in wear resistance but has:",
+    "correct": "excellent recuperative ability",
+    "options": [
+      "excellent recuperative ability",
+      "the poorest recuperative ability",
+      "the highest wear resistance",
+      "no stolons"
+    ],
+    "feedback": "Excellent recuperative capacity via stolons.",
+    "source": "Textbook Ch. 2-3: Functional Quality and Wear Resistance (pp. 14-16, 89-90)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q192",
+    "module": "M18",
+    "question": "Elasticity, the tendency of leaves to spring back after compression, is dramatically reduced when turf is:",
+    "correct": "frozen",
+    "options": [
+      "frozen",
+      "wet",
+      "fertilized",
+      "mowed high"
+    ],
+    "feedback": "Elasticity drops when frozen; avoid traffic on frosted turf.",
+    "source": "Textbook Ch. 2-3: Functional Quality and Wear Resistance (pp. 14-16, 89-90)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q193",
+    "module": "M18",
+    "question": "Frost disappearance on turf can be accelerated so traffic can resume sooner by:",
+    "correct": "early-morning syringing",
+    "options": [
+      "early-morning syringing",
+      "rolling",
+      "topdressing",
+      "fertilizing"
+    ],
+    "feedback": "Early-morning syringing accelerates frost removal.",
+    "source": "Textbook Ch. 2-3: Functional Quality and Wear Resistance (pp. 14-16, 89-90)",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m18q194",
+    "module": "M18",
+    "question": "At higher mowing heights, the same genotype will often have more verdure and:",
+    "correct": "better wear resistance",
+    "options": [
+      "better wear resistance",
+      "poorer wear resistance",
+      "less resiliency",
+      "less rigidity"
+    ],
+    "feedback": "More verdure, better wear resistance.",
+    "source": "Textbook Ch. 2-3: Functional Quality and Wear Resistance (pp. 14-16, 89-90)",
+    "kind": "enrichment"
   }
 ]
