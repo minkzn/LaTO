@@ -1,80 +1,5 @@
 [
   {
-    "id": "m13q001",
-    "module": "M13",
-    "question": "Western Oregon's climate, as described in the Module 13 overview, features mild, wet winters and:",
-    "correct": "cool, dry summers",
-    "options": [
-      "cool, dry summers",
-      "hot, humid summers",
-      "cold, dry summers",
-      "hot, dry summers"
-    ],
-    "feedback": "Western Oregon's climate features mild, wet winters and cool, dry summers.",
-    "source": "M13.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m13q002",
-    "module": "M13",
-    "question": "At the newly constructed Oregon Golf Club, the putting greens were planted with:",
-    "correct": "Pennlinks creeping bentgrass",
-    "options": [
-      "Pennlinks creeping bentgrass",
-      "Penncross creeping bentgrass",
-      "Bardot colonial bentgrass",
-      "Seaside creeping bentgrass"
-    ],
-    "feedback": "The Oregon Golf Club's greens were Pennlinks creeping bentgrass.",
-    "source": "M13.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m13q003",
-    "module": "M13",
-    "question": "At the Oregon Golf Club, the tees were planted with:",
-    "correct": "Penncross creeping bentgrass",
-    "options": [
-      "Penncross creeping bentgrass",
-      "Pennlinks creeping bentgrass",
-      "Bardot colonial bentgrass",
-      "Crenshaw creeping bentgrass"
-    ],
-    "feedback": "The Oregon Golf Club's tees were Penncross creeping bentgrass.",
-    "source": "M13.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m13q004",
-    "module": "M13",
-    "question": "At the Oregon Golf Club, the fairways were planted with:",
-    "correct": "Bardot colonial bentgrass",
-    "options": [
-      "Bardot colonial bentgrass",
-      "Pennlinks creeping bentgrass",
-      "Penncross creeping bentgrass",
-      "Highland dryland bentgrass"
-    ],
-    "feedback": "The Oregon Golf Club's fairways were Bardot colonial bentgrass.",
-    "source": "M13.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m13q005",
-    "module": "M13",
-    "question": "Per the overview, velvet bentgrass can be found in more than just little patches on old greens in:",
-    "correct": "Rhode Island",
-    "options": [
-      "Rhode Island",
-      "Oregon",
-      "Georgia",
-      "Iowa"
-    ],
-    "feedback": "The overview notes velvet bentgrass is found beyond little patches on old greens in Rhode Island.",
-    "source": "M13.1: Overview",
-    "kind": "module"
-  },
-  {
     "id": "m13q006",
     "module": "M13",
     "question": "Even though it is a little-used bentgrass species today, redtop can persist on sites that are wet, poorly drained, and:",
@@ -86,36 +11,6 @@
       "acidic"
     ],
     "feedback": "Redtop can persist on wet, poorly drained, trafficked sites where no other turfgrass will.",
-    "source": "M13.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m13q007",
-    "module": "M13",
-    "question": "Module 13 reviews four turfgrasses: Creeping bentgrass, Colonial bentgrass, Velvet bentgrass, and:",
-    "correct": "Redtop",
-    "options": [
-      "Redtop",
-      "Dryland bentgrass",
-      "Idaho bentgrass",
-      "Tall fescue"
-    ],
-    "feedback": "Module 13 covers Creeping, Colonial, and Velvet bentgrass, plus Redtop.",
-    "source": "M13.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m13q008",
-    "module": "M13",
-    "question": "The assigned textbook reading for Module 13 covers Chapter 3, pages:",
-    "correct": "68-70",
-    "options": [
-      "68-70",
-      "61-64",
-      "65-69",
-      "71-75"
-    ],
-    "feedback": "Module 13's reading is Turfgrass Management, Chapter 3, pages 68-70.",
     "source": "M13.1: Overview",
     "kind": "module"
   },
@@ -156,9 +51,9 @@
     "correct": "membranous, 0.6 to 3 mm long, finely toothed or entire, rounded",
     "options": [
       "membranous, 0.6 to 3 mm long, finely toothed or entire, rounded",
-      "membranous, 0.3 to 1.2 mm long, truncate",
-      "membranous, 1.5 to 5 mm long, rounded",
-      "membranous, 0.4 to 0.8 mm long, pointed"
+      "membranous, 0.3 to 1.2 mm long, truncate, entire",
+      "membranous, 1.5 to 5 mm long, pointed, finely toothed",
+      "membranous, 0.4 to 0.8 mm long, pointed, entire"
     ],
     "feedback": "Creeping bentgrass's ligule is membranous, 0.6 to 3 mm long, finely toothed or entire, and rounded.",
     "source": "M13.2: Creeping Bentgrass",
@@ -683,7 +578,7 @@
       "marginally adapted",
       "well adapted",
       "not suitable",
-      "ideal"
+      "well adapted for roadsides"
     ],
     "feedback": "Colonial bentgrass is marginally adapted for utility turf.",
     "source": "M13.4: Colonial Bentgrass",
@@ -723,12 +618,12 @@
     "id": "m13q049",
     "module": "M13",
     "question": "Colonial bentgrass's high susceptibility to brown patch disease limits its use primarily to:",
-    "correct": "temperate oceanic climates where summer temperatures are milder",
+    "correct": "temperate oceanic climates",
     "options": [
-      "temperate oceanic climates where summer temperatures are milder",
+      "temperate oceanic climates",
       "hot, arid desert climates",
       "tropical rainforest climates",
-      "cool subtropical-humid (transition zone) climates"
+      "the transition zone"
     ],
     "feedback": "Because of brown patch susceptibility, colonial bentgrass use is limited mainly to temperate oceanic climates with milder summers.",
     "source": "M13.4: Colonial Bentgrass",
@@ -998,7 +893,7 @@
       "marginally adapted",
       "well adapted",
       "not suitable",
-      "ideal"
+      "well adapted for roadsides"
     ],
     "feedback": "Velvet bentgrass is marginally adapted for utility turf.",
     "source": "M13.5: Velvet Bentgrass",
@@ -1038,9 +933,9 @@
     "id": "m13q070",
     "module": "M13",
     "question": "Because of its relatively slow growth, velvet bentgrass must avoid:",
-    "correct": "aggressive cultivation methods",
+    "correct": "aggressive cultivation",
     "options": [
-      "aggressive cultivation methods",
+      "aggressive cultivation",
       "all topdressing",
       "all fertilization",
       "close mowing"
@@ -1365,66 +1260,6 @@
     "kind": "module"
   },
   {
-    "id": "m13q092",
-    "module": "M13",
-    "question": "Per the textbook, the Aveneae tribe's one major turfgrass genus is Agrostis, and its one minor genus is:",
-    "correct": "Phleum",
-    "options": [
-      "Phleum",
-      "Festuca",
-      "Lolium",
-      "Puccinellia"
-    ],
-    "feedback": "Agrostis is the major Aveneae genus; Phleum (timothy) is the minor one.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m13q093",
-    "module": "M13",
-    "question": "Per the textbook, ploidy levels within the Aveneae tribe range from diploid up to:",
-    "correct": "decaploid (2n = 10x = 70)",
-    "options": [
-      "decaploid (2n = 10x = 70)",
-      "octoploid (2n = 8x = 56)",
-      "hexaploid (2n = 6x = 42)",
-      "tetraploid (2n = 4x = 28)"
-    ],
-    "feedback": "Aveneae ploidy ranges from diploid (2n = 2x = 14) up to decaploid (2n = 10x = 70).",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m13q094",
-    "module": "M13",
-    "question": "Per the textbook, the genus Agrostis (bentgrass) includes about how many species?",
-    "correct": "125",
-    "options": [
-      "125",
-      "25",
-      "60",
-      "10"
-    ],
-    "feedback": "The genus Agrostis includes about 125 species.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m13q095",
-    "module": "M13",
-    "question": "Per the textbook, of the roughly 125 Agrostis species, how many are used as turfgrasses?",
-    "correct": "six",
-    "options": [
-      "six",
-      "two",
-      "ten",
-      "all of them"
-    ],
-    "feedback": "Six Agrostis species are used as turfgrasses.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m13q096",
     "module": "M13",
     "question": "Per the textbook, the six bentgrass turfgrass species are creeping, colonial, dryland, Idaho, velvet, and:",
@@ -1436,21 +1271,6 @@
       "annual"
     ],
     "feedback": "The six bentgrass species are creeping, colonial, dryland, Idaho, velvet bentgrass, and redtop.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m13q097",
-    "module": "M13",
-    "question": "Per the textbook, with the exception of Idaho bentgrass and redtop, the bentgrasses have been used extensively for:",
-    "correct": "greens and other intensively cultured turfs",
-    "options": [
-      "greens and other intensively cultured turfs",
-      "roadside soil stabilization only",
-      "forage and pasture use",
-      "shaded woodland lawns only"
-    ],
-    "feedback": "Except for Idaho bentgrass and redtop, the bentgrasses are used extensively for greens and other intensively cultured turfs.",
     "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
     "kind": "enrichment"
   },
@@ -1530,21 +1350,6 @@
     "kind": "enrichment"
   },
   {
-    "id": "m13q103",
-    "module": "M13",
-    "question": "In South German Mixed Bent, colonial and dryland bentgrass together typically made up:",
-    "correct": "75% to 85%",
-    "options": [
-      "75% to 85%",
-      "1% to 5%",
-      "10% to 20%",
-      "50% to 60%"
-    ],
-    "feedback": "Colonial and dryland bentgrass together made up 75% to 85% of South German Mixed Bent.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m13q104",
     "module": "M13",
     "question": "Over time, South German Mixed Bent greens separated into distinct patches of predominantly creeping bentgrass and, to a lesser extent:",
@@ -1560,62 +1365,17 @@
     "kind": "enrichment"
   },
   {
-    "id": "m13q105",
-    "module": "M13",
-    "question": "USGA Green Section-selected creeping bentgrass patches were propagated in plots at Arlington, Virginia, now the site of the:",
-    "correct": "Pentagon",
-    "options": [
-      "Pentagon",
-      "U.S. Capitol",
-      "White House",
-      "Smithsonian Institution"
-    ],
-    "feedback": "The Arlington, Virginia test plots are now the site of the Pentagon.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m13q106",
     "module": "M13",
     "question": "The C-series creeping bentgrass cultivars (e.g., Arlington C-1, Cohansey C-7, Congressional C-19) had to be propagated vegetatively because they could not be:",
-    "correct": "established true-to-type from seed",
+    "correct": "established from seed",
     "options": [
-      "established true-to-type from seed",
+      "established from seed",
       "grown outside Virginia",
       "mowed below 1 inch",
       "fertilized at low rates"
     ],
     "feedback": "The C-series cultivars could not be established true-to-type from seed, so they were propagated vegetatively.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m13q107",
-    "module": "M13",
-    "question": "The only seeded C-series-era creeping bentgrass cultivar was Seaside, discovered in the tidal flatlands of:",
-    "correct": "western Oregon",
-    "options": [
-      "western Oregon",
-      "coastal Rhode Island",
-      "the Chesapeake Bay",
-      "southern New Jersey"
-    ],
-    "feedback": "Seaside was a salt-tolerant cultivar discovered in the tidal flatlands of western Oregon.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m13q108",
-    "module": "M13",
-    "question": "Seaside was valued for being salt-tolerant but was ultimately considered:",
-    "correct": "inferior quality",
-    "options": [
-      "inferior quality",
-      "too expensive to produce",
-      "unsuited to any climate",
-      "resistant to all diseases"
-    ],
-    "feedback": "Despite its salt tolerance, Seaside was of inferior quality.",
     "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
     "kind": "enrichment"
   },
@@ -1638,9 +1398,9 @@
     "id": "m13q110",
     "module": "M13",
     "question": "Penncross was the first-generation seed produced from random crossing of:",
-    "correct": "three vegetatively propagated clonal strains",
+    "correct": "three clonal strains",
     "options": [
-      "three vegetatively propagated clonal strains",
+      "three clonal strains",
       "two seeded cultivars",
       "five C-series cultivars",
       "Seaside and Highland"
@@ -1661,36 +1421,6 @@
       "high-density, prostrate-growing"
     ],
     "feedback": "Penncross is the low-density, prostrate-growing type among creeping bentgrass cultivars.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m13q112",
-    "module": "M13",
-    "question": "Per the textbook, medium-density upright-growing creeping bentgrass cultivars include Brighton, Cato, Crenshaw, Pennlinks, and:",
-    "correct": "SR 1020",
-    "options": [
-      "SR 1020",
-      "Penn A-1",
-      "007",
-      "T-1"
-    ],
-    "feedback": "SR 1020 is listed among the medium-density upright-growing creeping bentgrass cultivars.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m13q113",
-    "module": "M13",
-    "question": "Per the textbook, high-density upright-growing creeping bentgrass cultivars include 007, Pure Distinction, T-1, V8, and the:",
-    "correct": "Penn A- and G-series",
-    "options": [
-      "Penn A- and G-series",
-      "C-series",
-      "SR 7100 series",
-      "Alister and Allure series"
-    ],
-    "feedback": "The Penn A- and G-series are among the high-density upright-growing creeping bentgrass cultivars.",
     "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
     "kind": "enrichment"
   },
@@ -1740,51 +1470,6 @@
     "kind": "enrichment"
   },
   {
-    "id": "m13q117",
-    "module": "M13",
-    "question": "Per the textbook, U.S. colonial bentgrass cultivars include Alister, Allure, Astoria, Bardot, and:",
-    "correct": "Duchess",
-    "options": [
-      "Duchess",
-      "Highland",
-      "Boral",
-      "Holfior"
-    ],
-    "feedback": "Duchess is among the U.S. colonial bentgrass cultivars listed alongside Alister, Allure, Astoria, and Bardot.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m13q118",
-    "module": "M13",
-    "question": "Per the textbook, northern European breeding of colonial bentgrass produced the cultivars Holfior and:",
-    "correct": "Boral",
-    "options": [
-      "Boral",
-      "Highland",
-      "Duchess",
-      "Tracenta"
-    ],
-    "feedback": "Holfior and Boral resulted from northern European colonial bentgrass breeding efforts.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m13q119",
-    "module": "M13",
-    "question": "Per the textbook, a common type of dryland bentgrass grown in the United States is:",
-    "correct": "Highland",
-    "options": [
-      "Highland",
-      "Exeter",
-      "Astoria",
-      "GolfStar"
-    ],
-    "feedback": "Highland is a common U.S. dryland bentgrass type.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m13q120",
     "module": "M13",
     "question": "Per the textbook, Idaho bentgrass differs from colonial and dryland bentgrass in that its leaves are broader and darker, and it lacks rhizomes and:",
@@ -1815,21 +1500,6 @@
     "kind": "enrichment"
   },
   {
-    "id": "m13q122",
-    "module": "M13",
-    "question": "Per the textbook, the single cultivar of Idaho bentgrass is:",
-    "correct": "GolfStar",
-    "options": [
-      "GolfStar",
-      "Highland",
-      "Exeter",
-      "Rudiger"
-    ],
-    "feedback": "GolfStar is the single cultivar of Idaho bentgrass.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m13q123",
     "module": "M13",
     "question": "Per the textbook, velvet bentgrass is a diploid with how many chromosomes?",
@@ -1856,51 +1526,6 @@
       "high fertility"
     ],
     "feedback": "Velvet bentgrass is more tolerant of shade, drought, and soil acidity than other bentgrasses.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m13q125",
-    "module": "M13",
-    "question": "Per the textbook, the currently best velvet bentgrass cultivars are SR 7200, Vesper, and:",
-    "correct": "Greenwich",
-    "options": [
-      "Greenwich",
-      "Highland",
-      "Rudiger",
-      "Exeter"
-    ],
-    "feedback": "SR 7200, Greenwich, and Vesper are the currently best velvet bentgrass cultivars per the textbook.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m13q126",
-    "module": "M13",
-    "question": "Per the textbook, velvet bentgrass's inflorescence is described as a reddish,:",
-    "correct": "spreading panicle",
-    "options": [
-      "spreading panicle",
-      "contracted panicle",
-      "flattened spike",
-      "cylindrical spike"
-    ],
-    "feedback": "Velvet bentgrass's inflorescence is a reddish, spreading panicle.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m13q127",
-    "module": "M13",
-    "question": "Per the textbook's taxonomy discussion, redtop (Agrostis gigantea) has been identified by two different authorities, reflected in the alternate Latin name:",
-    "correct": "Agrostis alba L.",
-    "options": [
-      "Agrostis alba L.",
-      "Agrostis palustris Huds.",
-      "Agrostis trachyphylla",
-      "Agrostis rubra"
-    ],
-    "feedback": "Redtop has been identified by the Latin names Agrostis gigantea Roth and Agrostis alba L., reflecting two different naming authorities.",
     "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
     "kind": "enrichment"
   },
@@ -1976,81 +1601,6 @@
       "3 to 4 inches"
     ],
     "feedback": "Redtop needs a mowing height of at least 1.5 to 2 inches to persist, matching its module page's range.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m13q133",
-    "module": "M13",
-    "question": "Per the textbook, redtop is occasionally used as a 'repair grass' for damaged or diseased greens, although ________ are generally preferred for that purpose.",
-    "correct": "fine fescues or ryegrasses",
-    "options": [
-      "fine fescues or ryegrasses",
-      "velvet or colonial bentgrass",
-      "Kentucky bluegrass cultivars",
-      "tall fescue cultivars"
-    ],
-    "feedback": "Fine fescues or ryegrasses are generally preferred over redtop as repair grasses.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m13q134",
-    "module": "M13",
-    "question": "Per the textbook, the redtop cultivar Rudiger was released promising improved tolerance to drought, salinity, and:",
-    "correct": "alkalinity",
-    "options": [
-      "alkalinity",
-      "acidity",
-      "shade",
-      "disease"
-    ],
-    "feedback": "Rudiger was released with improved tolerance to drought, salinity, and alkalinity.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m13q135",
-    "module": "M13",
-    "question": "Which bentgrass species has more chromosomes per the textbook: redtop (42) or velvet bentgrass (14)?",
-    "correct": "redtop",
-    "options": [
-      "redtop",
-      "velvet bentgrass",
-      "they are equal",
-      "neither has a reported chromosome count"
-    ],
-    "feedback": "Redtop is a hexaploid (42 chromosomes), more than velvet bentgrass's diploid 14.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m13q136",
-    "module": "M13",
-    "question": "Which species has more chromosomes per the textbook: dryland bentgrass (42) or colonial bentgrass (28)?",
-    "correct": "dryland bentgrass",
-    "options": [
-      "dryland bentgrass",
-      "colonial bentgrass",
-      "they are equal",
-      "neither has a reported chromosome count"
-    ],
-    "feedback": "Dryland bentgrass is a hexaploid (42 chromosomes), more than colonial bentgrass's tetraploid 28.",
-    "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m13q137",
-    "module": "M13",
-    "question": "Per the textbook's species descriptions, which is finer textured: velvet bentgrass or redtop?",
-    "correct": "velvet bentgrass",
-    "options": [
-      "velvet bentgrass",
-      "redtop",
-      "they are equally fine",
-      "neither description mentions texture"
-    ],
-    "feedback": "Velvet bentgrass is described as very fine-textured, while redtop is described as coarse-textured.",
     "source": "Textbook Ch. 3, pp. 68-70: Turfgrass Species",
     "kind": "enrichment"
   }

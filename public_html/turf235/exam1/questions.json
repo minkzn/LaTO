@@ -22,9 +22,9 @@
     "correct": "turfgrasses",
     "options": [
       "turfgrasses",
-      "turf",
-      "sod",
-      "sward"
+      "turf communities",
+      "sod pieces",
+      "swards of forage"
     ],
     "feedback": "Turfgrasses are plants that form a more-or-less contiguous ground cover that persists under regular mowing and traffic.",
     "source": "M1.2: Terminology",
@@ -50,12 +50,12 @@
     "id": "m1q004",
     "module": "M1",
     "question": "Turf and turfgrass differ in that turfgrass refers only to the plant community, while turf also includes:",
-    "correct": "the soil adhering to the roots and belowground organs",
+    "correct": "the soil attached to roots and belowground parts",
     "options": [
-      "the soil adhering to the roots and belowground organs",
+      "the soil attached to roots and belowground parts",
       "the mowing equipment used to maintain it",
       "only the aerial shoots above the crown",
-      "the irrigation system beneath it"
+      "the irrigation system installed beneath it"
     ],
     "feedback": "Turf represents a higher level of ecological organization than turfgrass by including a portion of the medium (soil) the turfgrasses are growing in.",
     "source": "M1.2: Terminology",
@@ -561,11 +561,11 @@
     "question": "The capacity of turfgrasses to recover from damage caused by disease organisms, insects, and traffic is called:",
     "correct": "recuperative capacity",
     "options": [
+      "recuperative capacity",
       "elasticity",
-      "uniformity",
-      "density",
-      "rooting",
-      "recuperative capacity"
+      "uniformity of the surface",
+      "shoot density",
+      "rooting depth"
     ],
     "feedback": "Recuperative capacity is the capacity of turfgrasses to recover from damage caused by disease organisms, insects, and traffic.",
     "source": "M1.9: Functional Components of Turf Quality",
@@ -725,9 +725,9 @@
     "correct": "decomposition and deterioration",
     "options": [
       "decomposition and deterioration",
-      "photosynthesis",
-      "transpiration",
-      "germination"
+      "photosynthesis and respiration",
+      "transpiration and guttation",
+      "germination and emergence"
     ],
     "feedback": "Turf quality level is determined by the relationship between growth/development factors and factors causing decomposition and deterioration.",
     "source": "M1.10: Turfgrass Quality Level",
@@ -1916,9 +1916,9 @@
     "correct": "very long, pointed, clawlike",
     "options": [
       "very long, pointed, clawlike",
-      "short and blunt",
-      "entirely absent",
-      "pubescent only"
+      "short, blunt, and hairy",
+      "entirely absent on all tillers",
+      "small and pubescent only"
     ],
     "feedback": "Annual ryegrass has very long, pointed, clawlike auricles.",
     "source": "M2.8: Auricles",
@@ -1976,9 +1976,9 @@
     "correct": "short, blunt, and pubescent",
     "options": [
       "short, blunt, and pubescent",
-      "very long, pointed",
-      "absent",
-      "large and clawlike"
+      "very long, pointed, clawlike",
+      "absent on most tillers",
+      "large, clawlike, and smooth"
     ],
     "feedback": "Tall fescue's auricles are short, blunt, and pubescent.",
     "source": "M2.8: Auricles",
@@ -2665,9 +2665,9 @@
     "correct": "lubricates the soil and favors mycorrhizae growth",
     "options": [
       "lubricates the soil and favors mycorrhizae growth",
-      "hardens the root surface against pests",
-      "increases root cell wall rigidity",
-      "prevents any water loss"
+      "hardens the root surface against soil pests",
+      "increases the rigidity of root cell walls",
+      "prevents any water loss from the root tip"
     ],
     "feedback": "The slime sheath lubricates the soil, favors mycorrhizae growth, increases nutrient availability, promotes soil aggregation, and reduces desiccation susceptibility.",
     "source": "M3.5: Roots",
@@ -2932,11 +2932,11 @@
     "id": "m3q043",
     "module": "M3",
     "question": "In the rhizosphere effect progression, epidermal cell autolysis refers to cells that:",
-    "correct": "enzymatically self-destruct, providing substrates for microbial growth",
+    "correct": "self-destruct, feeding microbes",
     "options": [
-      "enzymatically self-destruct, providing substrates for microbial growth",
+      "self-destruct, feeding microbes",
       "divide rapidly to repair damage",
-      "secrete a new secondary cell wall",
+      "secrete a new secondary wall",
       "block microbial invasion entirely"
     ],
     "feedback": "Epidermal cell autolysis is the enzymatic self-destruction of cells, which provides lysates as substrate for microbial growth.",
@@ -2980,9 +2980,9 @@
     "correct": "excessive nitrogen fertilization",
     "options": [
       "excessive nitrogen fertilization",
-      "high soil temperature",
-      "O2 deficiency",
-      "high salt concentration"
+      "high soil temperature in summer",
+      "oxygen (O₂) deficiency",
+      "high soil salt concentration"
     ],
     "feedback": "Excessive nitrogen (along with close mowing, K deficiency, and thatch) is a cultural factor; the others are environmental.",
     "source": "M3.9: Root Growth",
@@ -3175,9 +3175,9 @@
     "correct": "winter survival and spring regrowth",
     "options": [
       "winter survival and spring regrowth",
-      "summer heat tolerance",
-      "seed production",
-      "disease resistance"
+      "summer heat and drought tolerance",
+      "seed production the next season",
+      "disease resistance in summer"
     ],
     "feedback": "Fall tillers are important to winter survival and spring regrowth, though they may die during summer.",
     "source": "Textbook Ch. 2, pp. 21-31: Growth and Development",
@@ -3432,7 +3432,7 @@
       "flowering culm",
       "rhizome",
       "stolon",
-      "crown"
+      "crown node"
     ],
     "feedback": "The inflorescence sits atop the flowering culm, which develops from the growing point of the flowering shoot.",
     "source": "M4.2: Inflorescence",
@@ -3757,12 +3757,12 @@
     "id": "m4q024",
     "module": "M4",
     "question": "A day-neutral plant flowers:",
-    "correct": "at any naturally occurring daylength, if other requirements are met",
+    "correct": "at any daylength, if other needs are met",
     "options": [
-      "at any naturally occurring daylength, if other requirements are met",
+      "at any daylength, if other needs are met",
       "only above a critical daylength",
       "only below a critical daylength",
-      "only after vernalization"
+      "only after a cold vernalization period"
     ],
     "feedback": "Day-neutral plants flower at any naturally occurring daylength as long as other requirements are satisfied.",
     "source": "M4.4: Phases of Inflorescence Development",
@@ -3937,9 +3937,9 @@
     "id": "m4q036",
     "module": "M4",
     "question": "For successful germination, the new seedbed should be lightly raked and then lightly rolled in order to:",
-    "correct": "establish good seed-to-soil contact and retain moisture",
+    "correct": "ensure seed-soil contact and hold moisture",
     "options": [
-      "establish good seed-to-soil contact and retain moisture",
+      "ensure seed-soil contact and hold moisture",
       "bury the seed as deeply as possible",
       "increase soil temperature rapidly",
       "remove weed seeds from the site"
@@ -4285,8 +4285,8 @@
     "correct": "above the glumes, often between florets",
     "options": [
       "above the glumes, often between florets",
-      "below the glumes as well",
-      "at the coleoptile",
+      "below the glumes, as in panicoids",
+      "at the coleoptile node",
       "within the rachilla only"
     ],
     "feedback": "Disarticulation happens below the glumes in panicoid grasses, but above the glumes (often between florets) in pooid and chloridoid grasses.",
@@ -4510,9 +4510,9 @@
     "correct": "fall and into early winter",
     "options": [
       "fall and into early winter",
-      "only in mid-summer",
-      "only in mid-winter",
-      "spring only"
+      "only in the middle of summer",
+      "only in the middle of winter",
+      "in spring only"
     ],
     "feedback": "Root growth favors slightly cooler soil temperatures than shoots and continues developing after shoot growth slows, peaking in fall and early winter.",
     "source": "M5.2: Cardinal Temperatures in Turfgrass Growth and Survival",
@@ -4612,11 +4612,11 @@
     "id": "m5q013",
     "module": "M5",
     "question": "In perennial-type annual bluegrass, the mid-spring dip in root growth is associated with a shift to reproductive growth, as photoassimilates are partitioned to support:",
-    "correct": "inflorescence (seed-head) development",
+    "correct": "seed-head development",
     "options": [
-      "inflorescence (seed-head) development",
+      "seed-head development",
       "rhizome elongation",
-      "tiller formation",
+      "new tiller formation",
       "cold hardening"
     ],
     "feedback": "The mid-spring root growth dip coincides with the reproductive shift, as photoassimilates go to seed-head development instead of roots.",
@@ -4972,12 +4972,12 @@
     "id": "m5q037",
     "module": "M5",
     "question": "In the C-3 cycle's reduction phase, PGA is reduced by NADPH to produce:",
-    "correct": "PGAL (phosphoglyceraldehyde)",
+    "correct": "PGAL",
     "options": [
-      "PGAL (phosphoglyceraldehyde)",
+      "PGAL",
       "RuBP",
       "OAA",
-      "glucose directly"
+      "glucose"
     ],
     "feedback": "NADPH reduces PGA to PGAL; most PGAL regenerates RuBP, with the remainder eventually forming glucose.",
     "source": "M5.9: Stage 5 - Summer-stressed Growth",
@@ -5032,12 +5032,12 @@
     "id": "m5q041",
     "module": "M5",
     "question": "Photolysis in Photosystem II yields two electrons, two protons, and:",
-    "correct": "half of an oxygen molecule (½ O2)",
+    "correct": "½ O₂",
     "options": [
-      "half of an oxygen molecule (½ O2)",
-      "a full CO2 molecule",
-      "one glucose molecule",
-      "an ATP molecule directly"
+      "½ O₂",
+      "a CO₂ molecule",
+      "a glucose molecule",
+      "an ATP molecule"
     ],
     "feedback": "Splitting one water molecule (photolysis) yields two electrons, two H+ ions, and ½ O2.",
     "source": "M5.9: Stage 5 - Summer-stressed Growth",
@@ -5170,9 +5170,9 @@
     "correct": "phosphoglycolic acid",
     "options": [
       "phosphoglycolic acid",
-      "PGAL",
-      "OAA",
-      "RuBP"
+      "PGAL (phosphoglyceraldehyde)",
+      "OAA (oxaloacetic acid)",
+      "RuBP (ribulose bisphosphate)"
     ],
     "feedback": "Photorespiration produces one PGA plus a two-carbon phosphoglycolic acid molecule, instead of the usual two PGA.",
     "source": "M5.9: Stage 5 - Summer-stressed Growth",
@@ -5362,10 +5362,10 @@
     "id": "m5q063",
     "module": "M5",
     "question": "During Stage 8 (mid-fall dormancy), vertical shoot growth has ceased for the year, but the shoots are still:",
-    "correct": "green and physiologically active",
+    "correct": "still green and active",
     "options": [
-      "green and physiologically active",
-      "completely dead",
+      "still green and active",
+      "completely dead and brown",
       "turning brown and dormant",
       "producing new seed heads"
     ],
@@ -5396,7 +5396,7 @@
     "options": [
       "Microdochium patch",
       "dollar spot",
-      "anthracnose",
+      "anthracnose leaf blight",
       "fairy ring"
     ],
     "feedback": "The final snow-mold fungicide application at mid-fall dormancy protects against Typhula blight and Microdochium patch.",
@@ -5827,12 +5827,12 @@
     "id": "m6q026",
     "module": "M6",
     "question": "A ryegrass floret has a wide rachilla flattened against the palea, with an oblong top outline; a fescue floret has a rachilla that is:",
-    "correct": "narrow and cylindrical, with a circular, flared top",
+    "correct": "narrow and cylindrical, flared top",
     "options": [
-      "narrow and cylindrical, with a circular, flared top",
+      "narrow and cylindrical, flared top",
       "identical to the ryegrass rachilla",
-      "completely absent",
-      "triangular and rigid"
+      "completely absent from the floret",
+      "triangular, rigid, and pointed"
     ],
     "feedback": "Fescue's rachilla is narrow and cylindrical, with a circular, somewhat flared upper end — unlike ryegrass's wide, flattened rachilla.",
     "source": "M6.5: Ryegrass and Fescue",
@@ -5905,9 +5905,9 @@
     "correct": "wide and flattened front to back",
     "options": [
       "wide and flattened front to back",
-      "narrow and cylindrical",
-      "bright green in color",
-      "completely awnless"
+      "narrow and cylindrical in shape",
+      "bright green in color overall",
+      "completely awnless at the tip"
     ],
     "feedback": "Tall fescue is wide and flattened bract to bract, unlike red fescue's narrow, cylindrical shape.",
     "source": "M6.5: Ryegrass and Fescue",
@@ -5920,8 +5920,8 @@
     "correct": "arch away from the palea side",
     "options": [
       "arch away from the palea side",
-      "lie perfectly flat",
-      "fold in half",
+      "lie perfectly flat against it",
+      "fold in half lengthwise",
       "split down the middle"
     ],
     "feedback": "Red fescue's floret often arches away from the palea side when viewed from the side.",
@@ -5992,12 +5992,12 @@
     "id": "m6q037",
     "module": "M6",
     "question": "Canada bluegrass (Poa compressa) is distinguished by a smooth lemma (no visible intermediate nerves) and a characteristic:",
-    "correct": "widening/flaring of the lemma above the middle toward the apex",
+    "correct": "lemma flaring above the middle",
     "options": [
-      "widening/flaring of the lemma above the middle toward the apex",
+      "lemma flaring above the middle",
       "dense basal pubescence",
-      "long, slender awn",
-      "translucent, plump caryopsis"
+      "a long, slender awn",
+      "a translucent, plump caryopsis"
     ],
     "feedback": "Canada bluegrass has a smooth lemma with a distinctive flaring above the middle, toward the apex, visible in back view.",
     "source": "M6.6: Bluegrass Seed",
@@ -6010,9 +6010,9 @@
     "correct": "intermediate nerves",
     "options": [
       "intermediate nerves",
-      "awns",
+      "awns at the lemma tip",
       "glumes only",
-      "rachillae"
+      "rachilla segments"
     ],
     "feedback": "Rough bluegrass shows prominent intermediate nerves and often a surviving remnant of basal pubescence after cleaning.",
     "source": "M6.6: Bluegrass Seed",
@@ -6022,12 +6022,12 @@
     "id": "m6q039",
     "module": "M6",
     "question": "Compared to Kentucky bluegrass, rough bluegrass's lemma edges are:",
-    "correct": "straight to the apex and often severely folded over the palea",
+    "correct": "straight edges folded over the palea",
     "options": [
-      "straight to the apex and often severely folded over the palea",
-      "curved and weakly wrapped around the palea",
-      "entirely absent",
-      "fused permanently to the caryopsis"
+      "straight edges folded over the palea",
+      "curved edges weakly wrapping the palea",
+      "edges entirely absent",
+      "edges fused to the caryopsis"
     ],
     "feedback": "Rough bluegrass has straight lemma edges folded severely over the palea, unlike Kentucky bluegrass's curved, weaker wrap.",
     "source": "M6.6: Bluegrass Seed",
@@ -6040,9 +6040,9 @@
     "correct": "lateral and/or mid-nerves",
     "options": [
       "lateral and/or mid-nerves",
-      "awn tip only",
-      "rachilla",
-      "palea edge only"
+      "the awn tip only",
+      "the rachilla segment",
+      "the edges of the palea"
     ],
     "feedback": "After cleaning, any surviving hairs on Kentucky bluegrass are found along the lateral and/or mid-nerves, not at the base.",
     "source": "M6.6: Bluegrass Seed",
@@ -6252,7 +6252,7 @@
       "caryopsis inside",
       "rachilla",
       "lodicules",
-      "awn base"
+      "base of the awn"
     ],
     "feedback": "Bentgrass florets have translucent bracts, allowing a view of the caryopsis inside.",
     "source": "M6.8: Typical Bentgrass Sample",
@@ -6304,21 +6304,6 @@
     "kind": "module"
   },
   {
-    "id": "m6q058",
-    "module": "M6",
-    "question": "Which tool is described as essential, alongside a dissecting scope, for maneuvering tiny florets into position during identification?",
-    "correct": "probes and tweezers",
-    "options": [
-      "probes and tweezers",
-      "a soil probe",
-      "a Stimpmeter",
-      "a pH meter"
-    ],
-    "feedback": "Probes and tweezers are useful for maneuvering tiny florets into position beneath the dissecting scope.",
-    "source": "M6.1: Overview",
-    "kind": "module"
-  },
-  {
     "id": "m7q001",
     "module": "M7",
     "question": "The climatic classification system pioneer who originally developed his system in the early 20th century to align climate types with vegetation zones was:",
@@ -6337,9 +6322,9 @@
     "id": "m7q002",
     "module": "M7",
     "question": "Trewartha proposed a refinement to Köppen's system in 1966 (and again in 1968) primarily to address limitations in Köppen's treatment of:",
-    "correct": "mid-latitude climates (roughly 30°-60°)",
+    "correct": "mid-latitude climates",
     "options": [
-      "mid-latitude climates (roughly 30°-60°)",
+      "mid-latitude climates",
       "tropical rainforest climates",
       "polar icecap climates",
       "ocean current patterns"
@@ -6610,9 +6595,9 @@
     "correct": "Mediterranean climate",
     "options": [
       "Mediterranean climate",
-      "monsoon tropics",
+      "monsoon tropical climate",
       "boreal climate",
-      "transition zone"
+      "transition zone climate"
     ],
     "feedback": "Newport Beach's Csb classification is also commonly called a Mediterranean climate.",
     "source": "M7.6: Subtropical Climate",
@@ -6642,7 +6627,7 @@
       "cool subtropical humid (Cfb)",
       "tropical wet (Ar)",
       "polar tundra (Ft)",
-      "hot desert (BWh)"
+      "hot desert, low latitude (BWh)"
     ],
     "feedback": "The U.S. Transition Zone generally corresponds to a cool subtropical humid (Cfb) climate: 7-11 months above 50°F, uniform rainfall, warmest month below 80°F.",
     "source": "M7.6: Subtropical Climate",
@@ -6832,11 +6817,11 @@
     "id": "m7q035",
     "module": "M7",
     "question": "Within polar climates, polar tundra (Ft) has a warmest month above 32°F, while polar icecap (Fi) has:",
-    "correct": "temperatures below 32°F for all months",
+    "correct": "all months below 32°F",
     "options": [
-      "temperatures below 32°F for all months",
+      "all months below 32°F",
       "a warmest month above 50°F",
-      "only summer precipitation",
+      "summer-only precipitation",
       "no distinguishing feature"
     ],
     "feedback": "Polar icecap (Fi) climates stay below 32°F in every month, unlike polar tundra (Ft), which rises above 32°F in its warmest month.",
@@ -6937,12 +6922,12 @@
     "id": "m7q042",
     "module": "M7",
     "question": "A subtropical dry-summer (Cs) climate occurs within a narrow band in Northern Africa and Southern Europe surrounding the Mediterranean Sea — this is commonly called:",
-    "correct": "the Mediterranean climate",
+    "correct": "the Mediterranean",
     "options": [
-      "the Mediterranean climate",
+      "the Mediterranean",
       "the Transition Zone",
-      "the boreal climate",
-      "the monsoon climate"
+      "the boreal forest zone",
+      "the monsoon tropics"
     ],
     "feedback": "This narrow Cs band around the Mediterranean Sea gives the Mediterranean climate its name.",
     "source": "M7.10: Temperature-Based Climate Classification System",
@@ -6967,11 +6952,11 @@
     "id": "m7q044",
     "module": "M7",
     "question": "Much of the interior of Central and Northern Asia is dry and, at high elevations, cold — largely due to:",
-    "correct": "extensive mountain ranges and the vastness of the continent",
+    "correct": "mountain ranges and the continent's size",
     "options": [
-      "extensive mountain ranges and the vastness of the continent",
+      "mountain ranges and the continent's size",
       "proximity to the Arctic Ocean alone",
-      "lack of any mountain ranges",
+      "a complete lack of mountain ranges",
       "excessive rainfall from monsoons"
     ],
     "feedback": "Extensive mountain ranges and sheer continental size drive the dry, cold interior climate of Central and Northern Asia.",
@@ -7624,12 +7609,12 @@
     "id": "m8q012",
     "module": "M8",
     "question": "Within the Panicoideae's Paniceae tribe are the genera Axonopus (carpetgrass), Pennisetum (kikuyugrass), Stenotaphrum (St. Augustinegrass), and:",
-    "correct": "Paspalum (bahiagrass, seashore paspalum)",
+    "correct": "Paspalum",
     "options": [
-      "Paspalum (bahiagrass, seashore paspalum)",
-      "Cynodon (bermudagrasses)",
-      "Agrostis (bentgrasses)",
-      "Poa (bluegrasses)"
+      "Paspalum",
+      "Cynodon",
+      "Agrostis",
+      "Poa"
     ],
     "feedback": "Paspalum, covering bahiagrass and seashore paspalum, is the fourth genus in the Paniceae tribe.",
     "source": "M8.3: Turfgrass Taxonomy",
@@ -7894,9 +7879,9 @@
     "id": "m8q030",
     "module": "M8",
     "question": "For some species, such as Poa annua, the Latin name is:",
-    "correct": "more popular than the common name (annual bluegrass)",
+    "correct": "more popular than the common name",
     "options": [
-      "more popular than the common name (annual bluegrass)",
+      "more popular than the common name",
       "never used in practice",
       "identical to its common name",
       "reserved for scientific papers only"
@@ -8494,9 +8479,9 @@
     "id": "m9q002",
     "module": "M9",
     "question": "Rough bluegrass (Poa trivialis) is a specialty grass for moist, shaded environments and is also widely used for:",
-    "correct": "overseeding bermudagrass turfs in subtropical climates for winter color",
+    "correct": "overseeding bermudagrass for winter color",
     "options": [
-      "overseeding bermudagrass turfs in subtropical climates for winter color",
+      "overseeding bermudagrass for winter color",
       "permanent fairway turf in cool climates",
       "desert golf course roughs",
       "athletic field wear zones"
@@ -8512,9 +8497,9 @@
     "correct": "subarctic, temperate, and subtropical",
     "options": [
       "subarctic, temperate, and subtropical",
-      "tropical only",
+      "tropical climates only",
       "desert (dry) climates only",
-      "polar climates only"
+      "polar and alpine climates only"
     ],
     "feedback": "Annual bluegrass occurs in intensively cultured turfs worldwide across subarctic, temperate, and subtropical climates, despite rarely being planted on purpose.",
     "source": "M9.1: Overview",
@@ -8659,9 +8644,9 @@
     "id": "m9q013",
     "module": "M9",
     "question": "The Kentucky bluegrass cultivar Merion, discovered at Merion Golf Club in 1937, was significant as the first cultivar found to be:",
-    "correct": "resistant to Helminthosporium diseases",
+    "correct": "resistant to leaf spot",
     "options": [
-      "resistant to Helminthosporium diseases",
+      "resistant to leaf spot",
       "tolerant of full shade",
       "adapted to putting greens",
       "resistant to drought only"
@@ -8719,12 +8704,12 @@
     "id": "m9q017",
     "module": "M9",
     "question": "Texas bluegrass (Poa arachnifera) is described as a:",
-    "correct": "non-turf species found in Texas and adjacent states",
+    "correct": "non-turf species",
     "options": [
-      "non-turf species found in Texas and adjacent states",
-      "widely planted golf green species",
-      "cold-hardy subarctic turfgrass",
-      "shade-adapted lawn species"
+      "non-turf species",
+      "golf green species",
+      "subarctic turfgrass",
+      "shade lawn species"
     ],
     "feedback": "Texas bluegrass is a non-turf species native to Texas and nearby states, valued mainly for hybridizing with Kentucky bluegrass.",
     "source": "M9.5: Texas Bluegrass",
@@ -8749,9 +8734,9 @@
     "id": "m9q019",
     "module": "M9",
     "question": "Most Texas bluegrass x Kentucky bluegrass hybrids end up resembling Kentucky bluegrass because of:",
-    "correct": "successive backcrossings with Kentucky bluegrass",
+    "correct": "repeated backcrossing to Kentucky bluegrass",
     "options": [
-      "successive backcrossings with Kentucky bluegrass",
+      "repeated backcrossing to Kentucky bluegrass",
       "genetic drift under high mowing",
       "random mutation over time",
       "being grown exclusively in Kentucky"
@@ -8812,9 +8797,9 @@
     "correct": "summer disease and stress",
     "options": [
       "summer disease and stress",
-      "winter cold only",
-      "shade only",
-      "low mowing only"
+      "winter cold injury only",
+      "dense shade only",
+      "low mowing heights only"
     ],
     "feedback": "Annual bluegrass's high susceptibility to summer disease and stress limits it to moderate-to-high-intensity lawn culture.",
     "source": "M9.6: Annual Bluegrass",
@@ -8839,12 +8824,12 @@
     "id": "m9q025",
     "module": "M9",
     "question": "Poa annua's extraordinary global distribution is illustrated by its presence on:",
-    "correct": "Heard Island, in the Antarctic region",
+    "correct": "Heard Island (Antarctic)",
     "options": [
-      "Heard Island, in the Antarctic region",
+      "Heard Island (Antarctic)",
       "the summit of Mount Everest",
       "the Sahara Desert interior",
-      "the ocean floor"
+      "the floor of the ocean"
     ],
     "feedback": "Poa annua is found even on remote Heard Island in the Antarctic region, known for having no other human-introduced plants.",
     "source": "M9.7: Varieties of Annual Bluegrass",
@@ -8899,12 +8884,12 @@
     "id": "m9q029",
     "module": "M9",
     "question": "The preferred nitrogen fertilization rate for rough bluegrass, 2.0 to 4.0 lb N/1000 ft²/year, is lower than the rate recommended for:",
-    "correct": "Kentucky bluegrass and annual bluegrass (both 2.0-6.0 lb)",
+    "correct": "Kentucky and annual bluegrass",
     "options": [
-      "Kentucky bluegrass and annual bluegrass (both 2.0-6.0 lb)",
+      "Kentucky and annual bluegrass",
       "bermudagrass only",
-      "no other species — it is the highest rate",
-      "centipedegrass only"
+      "no other species listed",
+      "tall fescue and perennial ryegrass"
     ],
     "feedback": "Both Kentucky bluegrass and annual bluegrass call for 2.0-6.0 lb N/1000 ft²/year, a higher range than rough bluegrass's 2.0-4.0 lb.",
     "source": "M9.8: Rough Bluegrass",
@@ -8914,9 +8899,9 @@
     "id": "m9q030",
     "module": "M9",
     "question": "On a golf course, rough bluegrass's primary suitable use is:",
-    "correct": "overseeding greens (e.g., dormant bermudagrass)",
+    "correct": "overseeding greens",
     "options": [
-      "overseeding greens (e.g., dormant bermudagrass)",
+      "overseeding greens",
       "permanent fairway turf",
       "permanent rough turf",
       "tee surfaces"
@@ -8944,12 +8929,12 @@
     "id": "m9q032",
     "module": "M9",
     "question": "Among Kentucky bluegrass, annual bluegrass, and rough bluegrass, which has the shortest ligule?",
-    "correct": "Kentucky bluegrass (very short, truncate)",
+    "correct": "Kentucky bluegrass",
     "options": [
-      "Kentucky bluegrass (very short, truncate)",
-      "annual bluegrass (<0.8-3 mm)",
-      "rough bluegrass (2-6 mm)",
-      "all three are the same length"
+      "Kentucky bluegrass",
+      "annual bluegrass",
+      "rough bluegrass",
+      "all three are equal"
     ],
     "feedback": "Kentucky bluegrass's ligule is the shortest (very short, truncate); rough bluegrass's is the longest (2-6 mm).",
     "source": "M9.2: Kentucky Bluegrass",
@@ -8974,9 +8959,9 @@
     "id": "m9q034",
     "module": "M9",
     "question": "According to the textbook, the most distinguishing vegetative features shared across the bluegrass genus (Poa) are the boat-shaped leaf tip and:",
-    "correct": "parallel light lines on either side of the central vein",
+    "correct": "light lines beside the central vein",
     "options": [
-      "parallel light lines on either side of the central vein",
+      "light lines beside the central vein",
       "a fringe-of-hairs ligule",
       "broad, divided auricles",
       "a strongly keeled abaxial surface"
@@ -9019,10 +9004,10 @@
     "id": "m9q037",
     "module": "M9",
     "question": "Among the named Kentucky bluegrass cultivar types, the \"Aggressive Type\" (e.g., A-34, Touchdown, Washington) is notable for high shoot density and lateral growth that tends to:",
-    "correct": "dominate other cultivars and species in blends and mixtures",
+    "correct": "dominate other grasses in mixtures",
     "options": [
-      "dominate other cultivars and species in blends and mixtures",
-      "fail quickly under any nitrogen fertilization",
+      "dominate other grasses in mixtures",
+      "fail quickly under nitrogen fertilization",
       "require full shade to survive",
       "resist mowing entirely"
     ],
@@ -9184,9 +9169,9 @@
     "id": "m9q048",
     "module": "M9",
     "question": "Annual bluegrass is typically tetraploid with 28 chromosomes, but sterile amplihaploids with 14 chromosomes have been found that form very dense turfs while producing:",
-    "correct": "little vertical shoot growth and no viable seed",
+    "correct": "little shoot growth and no viable seed",
     "options": [
-      "little vertical shoot growth and no viable seed",
+      "little shoot growth and no viable seed",
       "excessive seed heads year-round",
       "unusually deep root systems",
       "resistance to all major diseases"
@@ -9234,7 +9219,7 @@
       "marginally adapted",
       "well adapted",
       "not adapted",
-      "ideal"
+      "well adapted, if overseeded"
     ],
     "feedback": "Kentucky bluegrass is only marginally adapted to golf tees.",
     "source": "M9.2: Kentucky Bluegrass",
@@ -9277,8 +9262,8 @@
     "correct": "low to moderately high",
     "options": [
       "low to moderately high",
-      "only very high",
-      "only very low",
+      "only very high levels",
+      "only very low levels",
       "moderate only"
     ],
     "feedback": "Kentucky bluegrass is well adapted for lawn turf across low to moderately high intensities of culture.",
@@ -9424,12 +9409,12 @@
     "id": "m9q064",
     "module": "M9",
     "question": "A photograph of a patchy Kentucky bluegrass stand at the Chicago Golf Club illustrates:",
-    "correct": "the separation of genotypes over time under the cultural system employed",
+    "correct": "genotypes separating over time",
     "options": [
-      "the separation of genotypes over time under the cultural system employed",
+      "genotypes separating over time",
       "complete turf failure from disease",
-      "the effects of a single catastrophic drought",
-      "uniform growth across all cultivars in a blend"
+      "a single catastrophic drought",
+      "uniform growth of all cultivars"
     ],
     "feedback": "The patchy appearance reflects how different genotypes within the stand separated out over time under the golf course's cultural system.",
     "source": "M9.3: Rhizome Development in Kentucky Bluegrass",

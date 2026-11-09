@@ -18,9 +18,9 @@
     "id": "m9q002",
     "module": "M9",
     "question": "Rough bluegrass (Poa trivialis) is a specialty grass for moist, shaded environments and is also widely used for:",
-    "correct": "overseeding bermudagrass turfs in subtropical climates for winter color",
+    "correct": "overseeding bermudagrass for winter color",
     "options": [
-      "overseeding bermudagrass turfs in subtropical climates for winter color",
+      "overseeding bermudagrass for winter color",
       "permanent fairway turf in cool climates",
       "desert golf course roughs",
       "athletic field wear zones"
@@ -36,9 +36,9 @@
     "correct": "subarctic, temperate, and subtropical",
     "options": [
       "subarctic, temperate, and subtropical",
-      "tropical only",
+      "tropical climates only",
       "desert (dry) climates only",
-      "polar climates only"
+      "polar and alpine climates only"
     ],
     "feedback": "Annual bluegrass occurs in intensively cultured turfs worldwide across subarctic, temperate, and subtropical climates, despite rarely being planted on purpose.",
     "source": "M9.1: Overview",
@@ -183,9 +183,9 @@
     "id": "m9q013",
     "module": "M9",
     "question": "The Kentucky bluegrass cultivar Merion, discovered at Merion Golf Club in 1937, was significant as the first cultivar found to be:",
-    "correct": "resistant to Helminthosporium diseases",
+    "correct": "resistant to leaf spot",
     "options": [
-      "resistant to Helminthosporium diseases",
+      "resistant to leaf spot",
       "tolerant of full shade",
       "adapted to putting greens",
       "resistant to drought only"
@@ -243,12 +243,12 @@
     "id": "m9q017",
     "module": "M9",
     "question": "Texas bluegrass (Poa arachnifera) is described as a:",
-    "correct": "non-turf species found in Texas and adjacent states",
+    "correct": "non-turf species",
     "options": [
-      "non-turf species found in Texas and adjacent states",
-      "widely planted golf green species",
-      "cold-hardy subarctic turfgrass",
-      "shade-adapted lawn species"
+      "non-turf species",
+      "golf green species",
+      "subarctic turfgrass",
+      "shade lawn species"
     ],
     "feedback": "Texas bluegrass is a non-turf species native to Texas and nearby states, valued mainly for hybridizing with Kentucky bluegrass.",
     "source": "M9.5: Texas Bluegrass",
@@ -273,9 +273,9 @@
     "id": "m9q019",
     "module": "M9",
     "question": "Most Texas bluegrass x Kentucky bluegrass hybrids end up resembling Kentucky bluegrass because of:",
-    "correct": "successive backcrossings with Kentucky bluegrass",
+    "correct": "repeated backcrossing to Kentucky bluegrass",
     "options": [
-      "successive backcrossings with Kentucky bluegrass",
+      "repeated backcrossing to Kentucky bluegrass",
       "genetic drift under high mowing",
       "random mutation over time",
       "being grown exclusively in Kentucky"
@@ -336,9 +336,9 @@
     "correct": "summer disease and stress",
     "options": [
       "summer disease and stress",
-      "winter cold only",
-      "shade only",
-      "low mowing only"
+      "winter cold injury only",
+      "dense shade only",
+      "low mowing heights only"
     ],
     "feedback": "Annual bluegrass's high susceptibility to summer disease and stress limits it to moderate-to-high-intensity lawn culture.",
     "source": "M9.6: Annual Bluegrass",
@@ -363,12 +363,12 @@
     "id": "m9q025",
     "module": "M9",
     "question": "Poa annua's extraordinary global distribution is illustrated by its presence on:",
-    "correct": "Heard Island, in the Antarctic region",
+    "correct": "Heard Island (Antarctic)",
     "options": [
-      "Heard Island, in the Antarctic region",
+      "Heard Island (Antarctic)",
       "the summit of Mount Everest",
       "the Sahara Desert interior",
-      "the ocean floor"
+      "the floor of the ocean"
     ],
     "feedback": "Poa annua is found even on remote Heard Island in the Antarctic region, known for having no other human-introduced plants.",
     "source": "M9.7: Varieties of Annual Bluegrass",
@@ -423,12 +423,12 @@
     "id": "m9q029",
     "module": "M9",
     "question": "The preferred nitrogen fertilization rate for rough bluegrass, 2.0 to 4.0 lb N/1000 ft²/year, is lower than the rate recommended for:",
-    "correct": "Kentucky bluegrass and annual bluegrass (both 2.0-6.0 lb)",
+    "correct": "Kentucky and annual bluegrass",
     "options": [
-      "Kentucky bluegrass and annual bluegrass (both 2.0-6.0 lb)",
+      "Kentucky and annual bluegrass",
       "bermudagrass only",
-      "no other species — it is the highest rate",
-      "centipedegrass only"
+      "no other species listed",
+      "tall fescue and perennial ryegrass"
     ],
     "feedback": "Both Kentucky bluegrass and annual bluegrass call for 2.0-6.0 lb N/1000 ft²/year, a higher range than rough bluegrass's 2.0-4.0 lb.",
     "source": "M9.8: Rough Bluegrass",
@@ -438,9 +438,9 @@
     "id": "m9q030",
     "module": "M9",
     "question": "On a golf course, rough bluegrass's primary suitable use is:",
-    "correct": "overseeding greens (e.g., dormant bermudagrass)",
+    "correct": "overseeding greens",
     "options": [
-      "overseeding greens (e.g., dormant bermudagrass)",
+      "overseeding greens",
       "permanent fairway turf",
       "permanent rough turf",
       "tee surfaces"
@@ -468,12 +468,12 @@
     "id": "m9q032",
     "module": "M9",
     "question": "Among Kentucky bluegrass, annual bluegrass, and rough bluegrass, which has the shortest ligule?",
-    "correct": "Kentucky bluegrass (very short, truncate)",
+    "correct": "Kentucky bluegrass",
     "options": [
-      "Kentucky bluegrass (very short, truncate)",
-      "annual bluegrass (<0.8-3 mm)",
-      "rough bluegrass (2-6 mm)",
-      "all three are the same length"
+      "Kentucky bluegrass",
+      "annual bluegrass",
+      "rough bluegrass",
+      "all three are equal"
     ],
     "feedback": "Kentucky bluegrass's ligule is the shortest (very short, truncate); rough bluegrass's is the longest (2-6 mm).",
     "source": "M9.2: Kentucky Bluegrass",
@@ -498,9 +498,9 @@
     "id": "m9q034",
     "module": "M9",
     "question": "According to the textbook, the most distinguishing vegetative features shared across the bluegrass genus (Poa) are the boat-shaped leaf tip and:",
-    "correct": "parallel light lines on either side of the central vein",
+    "correct": "light lines beside the central vein",
     "options": [
-      "parallel light lines on either side of the central vein",
+      "light lines beside the central vein",
       "a fringe-of-hairs ligule",
       "broad, divided auricles",
       "a strongly keeled abaxial surface"
@@ -543,10 +543,10 @@
     "id": "m9q037",
     "module": "M9",
     "question": "Among the named Kentucky bluegrass cultivar types, the \"Aggressive Type\" (e.g., A-34, Touchdown, Washington) is notable for high shoot density and lateral growth that tends to:",
-    "correct": "dominate other cultivars and species in blends and mixtures",
+    "correct": "dominate other grasses in mixtures",
     "options": [
-      "dominate other cultivars and species in blends and mixtures",
-      "fail quickly under any nitrogen fertilization",
+      "dominate other grasses in mixtures",
+      "fail quickly under nitrogen fertilization",
       "require full shade to survive",
       "resist mowing entirely"
     ],
@@ -708,9 +708,9 @@
     "id": "m9q048",
     "module": "M9",
     "question": "Annual bluegrass is typically tetraploid with 28 chromosomes, but sterile amplihaploids with 14 chromosomes have been found that form very dense turfs while producing:",
-    "correct": "little vertical shoot growth and no viable seed",
+    "correct": "little shoot growth and no viable seed",
     "options": [
-      "little vertical shoot growth and no viable seed",
+      "little shoot growth and no viable seed",
       "excessive seed heads year-round",
       "unusually deep root systems",
       "resistance to all major diseases"
@@ -758,7 +758,7 @@
       "marginally adapted",
       "well adapted",
       "not adapted",
-      "ideal"
+      "well adapted, if overseeded"
     ],
     "feedback": "Kentucky bluegrass is only marginally adapted to golf tees.",
     "source": "M9.2: Kentucky Bluegrass",
@@ -801,8 +801,8 @@
     "correct": "low to moderately high",
     "options": [
       "low to moderately high",
-      "only very high",
-      "only very low",
+      "only very high levels",
+      "only very low levels",
       "moderate only"
     ],
     "feedback": "Kentucky bluegrass is well adapted for lawn turf across low to moderately high intensities of culture.",
@@ -948,12 +948,12 @@
     "id": "m9q064",
     "module": "M9",
     "question": "A photograph of a patchy Kentucky bluegrass stand at the Chicago Golf Club illustrates:",
-    "correct": "the separation of genotypes over time under the cultural system employed",
+    "correct": "genotypes separating over time",
     "options": [
-      "the separation of genotypes over time under the cultural system employed",
+      "genotypes separating over time",
       "complete turf failure from disease",
-      "the effects of a single catastrophic drought",
-      "uniform growth across all cultivars in a blend"
+      "a single catastrophic drought",
+      "uniform growth of all cultivars"
     ],
     "feedback": "The patchy appearance reflects how different genotypes within the stand separated out over time under the golf course's cultural system.",
     "source": "M9.3: Rhizome Development in Kentucky Bluegrass",

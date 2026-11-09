@@ -22,9 +22,9 @@
     "correct": "turfgrasses",
     "options": [
       "turfgrasses",
-      "turf",
-      "sod",
-      "sward"
+      "turf communities",
+      "sod pieces",
+      "swards of forage"
     ],
     "feedback": "Turfgrasses are plants that form a more-or-less contiguous ground cover that persists under regular mowing and traffic.",
     "source": "M1.2: Terminology",
@@ -50,12 +50,12 @@
     "id": "m1q004",
     "module": "M1",
     "question": "Turf and turfgrass differ in that turfgrass refers only to the plant community, while turf also includes:",
-    "correct": "the soil adhering to the roots and belowground organs",
+    "correct": "the soil attached to roots and belowground parts",
     "options": [
-      "the soil adhering to the roots and belowground organs",
+      "the soil attached to roots and belowground parts",
       "the mowing equipment used to maintain it",
       "only the aerial shoots above the crown",
-      "the irrigation system beneath it"
+      "the irrigation system installed beneath it"
     ],
     "feedback": "Turf represents a higher level of ecological organization than turfgrass by including a portion of the medium (soil) the turfgrasses are growing in.",
     "source": "M1.2: Terminology",
@@ -561,11 +561,11 @@
     "question": "The capacity of turfgrasses to recover from damage caused by disease organisms, insects, and traffic is called:",
     "correct": "recuperative capacity",
     "options": [
+      "recuperative capacity",
       "elasticity",
-      "uniformity",
-      "density",
-      "rooting",
-      "recuperative capacity"
+      "uniformity of the surface",
+      "shoot density",
+      "rooting depth"
     ],
     "feedback": "Recuperative capacity is the capacity of turfgrasses to recover from damage caused by disease organisms, insects, and traffic.",
     "source": "M1.9: Functional Components of Turf Quality",
@@ -725,9 +725,9 @@
     "correct": "decomposition and deterioration",
     "options": [
       "decomposition and deterioration",
-      "photosynthesis",
-      "transpiration",
-      "germination"
+      "photosynthesis and respiration",
+      "transpiration and guttation",
+      "germination and emergence"
     ],
     "feedback": "Turf quality level is determined by the relationship between growth/development factors and factors causing decomposition and deterioration.",
     "source": "M1.10: Turfgrass Quality Level",

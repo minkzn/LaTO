@@ -1,86 +1,11 @@
 [
   {
-    "id": "m15q001",
-    "module": "M15",
-    "question": "In the southernmost portion of the United States, the climate to the east is mostly:",
-    "correct": "warm-subtropical-humid",
-    "options": [
-      "warm-subtropical-humid",
-      "arid or semiarid",
-      "subtropical-dry summer",
-      "cool-subtropical-humid"
-    ],
-    "feedback": "The east is mostly warm-subtropical-humid; the west is arid or semiarid; the west coast is subtropical-dry summer.",
-    "source": "M15.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m15q002",
-    "module": "M15",
-    "question": "In the southernmost portion of the United States, the climate to the west (inland) is mostly:",
-    "correct": "arid or semiarid",
-    "options": [
-      "arid or semiarid",
-      "warm-subtropical-humid",
-      "subtropical-dry summer",
-      "tropical rainforest"
-    ],
-    "feedback": "The west is arid or semiarid, distinct from the subtropical-dry-summer west coast.",
-    "source": "M15.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m15q003",
-    "module": "M15",
-    "question": "In the southernmost portion of the United States, the west coast has a ________ climate.",
-    "correct": "subtropical-dry summer",
-    "options": [
-      "subtropical-dry summer",
-      "warm-subtropical-humid",
-      "arid or semiarid",
-      "cool-subtropical-humid"
-    ],
-    "feedback": "The overview describes the west coast as subtropical-dry summer.",
-    "source": "M15.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m15q004",
-    "module": "M15",
-    "question": "In the southernmost U.S., the panicoid turfgrasses are used for sports, lawn, and utility turfs along with the:",
-    "correct": "eragrostoids",
-    "options": [
-      "eragrostoids",
-      "pooids",
-      "festucoids",
-      "bambusoids"
-    ],
-    "feedback": "Panicoids are used along with the eragrostoids (e.g., bermudagrass) in the far southern U.S.",
-    "source": "M15.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m15q005",
-    "module": "M15",
-    "question": "The Module 15 overview refers to bermudagrass as a(n):",
-    "correct": "eragrostoid",
-    "options": [
-      "eragrostoid",
-      "panicoid",
-      "pooid",
-      "andropogonoid"
-    ],
-    "feedback": "The overview calls bermudagrass \"an eragrostoid\" when explaining why St. Augustinegrass is planted next to it.",
-    "source": "M15.1: Overview",
-    "kind": "module"
-  },
-  {
     "id": "m15q006",
     "module": "M15",
     "question": "St. Augustinegrass is a widely used lawn grass that does well in:",
-    "correct": "both sunny and shaded environments",
+    "correct": "sun or shade",
     "options": [
-      "both sunny and shaded environments",
+      "sun or shade",
       "sunny environments only",
       "dense shade only",
       "saline soils only"
@@ -120,27 +45,12 @@
     "kind": "module"
   },
   {
-    "id": "m15q009",
-    "module": "M15",
-    "question": "Per the overview, kikuyugrass can be found in some sports and lawn turfs:",
-    "correct": "at scattered locations in the less-humid areas",
-    "options": [
-      "at scattered locations in the less-humid areas",
-      "throughout the more-humid southeast",
-      "only on saline soils",
-      "only on golf greens"
-    ],
-    "feedback": "Kikuyugrass occurs in some sports and lawn turfs at scattered locations in the less-humid areas.",
-    "source": "M15.1: Overview",
-    "kind": "module"
-  },
-  {
     "id": "m15q010",
     "module": "M15",
     "question": "Seashore paspalum currently has limited use on saline soils for:",
-    "correct": "golf greens and other intensively cultured turfs",
+    "correct": "golf greens and intensive turfs",
     "options": [
-      "golf greens and other intensively cultured turfs",
+      "golf greens and intensive turfs",
       "roadside utility turfs only",
       "shaded home lawns",
       "athletic fields with heavy traffic"
@@ -161,36 +71,6 @@
       "high cold tolerance"
     ],
     "feedback": "Its high salt tolerance is why seashore paspalum is used on saline soils.",
-    "source": "M15.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m15q012",
-    "module": "M15",
-    "question": "Which of the following is NOT one of the turfgrasses reviewed in Module 15?",
-    "correct": "zoysiagrass",
-    "options": [
-      "zoysiagrass",
-      "St. Augustinegrass",
-      "kikuyugrass",
-      "seashore paspalum"
-    ],
-    "feedback": "Module 15 reviews St. Augustinegrass, bahiagrass, centipedegrass, kikuyugrass, and seashore paspalum. Zoysiagrass was Module 14.",
-    "source": "M15.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m15q013",
-    "module": "M15",
-    "question": "The assigned textbook reading for Module 15 is Chapter 3, pages:",
-    "correct": "78–82",
-    "options": [
-      "78–82",
-      "74–77",
-      "68–70",
-      "84–88"
-    ],
-    "feedback": "The M15 overview assigns Turgeon & Kaminski, Chapter 3, pages 78–82.",
     "source": "M15.1: Overview",
     "kind": "module"
   },
@@ -366,9 +246,9 @@
     "correct": "between intermediate and moderately high, to high",
     "options": [
       "between intermediate and moderately high, to high",
-      "low to moderately low",
-      "low to intermediate",
-      "moderately low only"
+      "low to moderately low, at most",
+      "low to intermediate, never higher",
+      "moderately low only, never high"
     ],
     "feedback": "St. Augustinegrass prefers fertility from between intermediate and moderately high up to high.",
     "source": "M15.2: St. Augustinegrass",
@@ -502,8 +382,8 @@
     "options": [
       "possible, but not well adapted",
       "well adapted",
-      "adapted to saline soils",
-      "not adapted"
+      "adapted to saline soils only",
+      "not adapted for this use"
     ],
     "feedback": "Roughs are possible for St. Augustinegrass, but it is not well adapted there.",
     "source": "M15.2: St. Augustinegrass",
@@ -558,9 +438,9 @@
     "id": "m15q038",
     "module": "M15",
     "question": "Because of its shade tolerance, St. Augustinegrass does well:",
-    "correct": "under trees and along the north sides of buildings and other structures",
+    "correct": "under trees and on north sides of buildings",
     "options": [
-      "under trees and along the north sides of buildings and other structures",
+      "under trees and on north sides of buildings",
       "on golf greens in full sun",
       "on saline coastal soils",
       "on heavily trafficked athletic fields"
@@ -603,9 +483,9 @@
     "id": "m15q041",
     "module": "M15",
     "question": "When St. Augustinegrass sod is harvested in 18-inch-wide sections, the sod field is repopulated by:",
-    "correct": "thin strips, one to two inches wide, left behind",
+    "correct": "thin strips left behind",
     "options": [
-      "thin strips, one to two inches wide, left behind",
+      "thin strips left behind",
       "reseeding the harvested area",
       "plugging on 12-inch centers",
       "sprigging with rhizomes"
@@ -633,9 +513,9 @@
     "id": "m15q043",
     "module": "M15",
     "question": "In a St. Augustinegrass sod field, complete coverage after harvesting occurs:",
-    "correct": "several months after harvesting",
+    "correct": "several months later",
     "options": [
-      "several months after harvesting",
+      "several months later",
       "within one week",
       "after several years",
       "only after reseeding"
@@ -682,8 +562,8 @@
     "options": [
       "membranous with short hairs at the top, 0.5 mm long",
       "a fringe of hairs, 0.3 mm long",
-      "membranous, 2 to 3 mm long, pointed",
-      "membranous, 1 mm long, truncate"
+      "membranous, 2 to 3 mm long, pointed, toothed",
+      "membranous, 1 mm long, truncate, entire"
     ],
     "feedback": "Centipedegrass has a membranous ligule with short hairs at the top, 0.5 mm long.",
     "source": "M15.3: Centipedegrass",
@@ -696,9 +576,9 @@
     "correct": "broad, continuous, constricted by the fused keel, pubescent below",
     "options": [
       "broad, continuous, constricted by the fused keel, pubescent below",
-      "broad, continuous, narrowed to form a short stalk",
-      "narrow and divided",
-      "broad only"
+      "broad, continuous, narrowed to form a short stalk, smooth",
+      "narrow and divided by the midrib, smooth on the back",
+      "broad and divided, with no pubescence below the collar"
     ],
     "feedback": "Centipedegrass's collar is broad, continuous, constricted by the fused keel, and pubescent below.",
     "source": "M15.3: Centipedegrass",
@@ -742,8 +622,8 @@
     "options": [
       "3 to 5 mm wide, smooth, margins hairy toward the base",
       "4 to 10 mm wide, smooth on both surfaces",
-      "2 to 4 mm wide, margins rolled inward",
-      "keeled, sparsely hairy on both surfaces"
+      "2 to 4 mm wide, with margins rolled inward, hairy",
+      "keeled, sparsely hairy on both surfaces, 6 mm wide"
     ],
     "feedback": "Centipedegrass blades are flat, 3 to 5 mm wide, smooth, with margins hairy toward the base.",
     "source": "M15.3: Centipedegrass",
@@ -831,9 +711,9 @@
     "correct": "moderately sunny to moderately shady",
     "options": [
       "moderately sunny to moderately shady",
-      "sunny to intermediate",
+      "sunny to intermediate only",
       "sunny to moderately shady",
-      "shady only"
+      "shady to very shady only"
     ],
     "feedback": "Centipedegrass ranges from moderately sunny to moderately shady.",
     "source": "M15.3: Centipedegrass",
@@ -978,9 +858,9 @@
     "id": "m15q066",
     "module": "M15",
     "question": "A centipedegrass lawn in South Carolina tends to exhibit chlorosis unless provided with ample quantities of:",
-    "correct": "iron (Fe), on all but the most acid soils",
+    "correct": "iron, except on very acid soils",
     "options": [
-      "iron (Fe), on all but the most acid soils",
+      "iron, except on very acid soils",
       "nitrogen, on all soils",
       "potassium, on sandy soils",
       "lime, on acid soils"
@@ -1088,7 +968,7 @@
       "rhizomatous and stoloniferous",
       "stoloniferous only",
       "rhizomatous only",
-      "bunch-type"
+      "bunch-type, with tillers only"
     ],
     "feedback": "Kikuyugrass is rhizomatous and stoloniferous.",
     "source": "M15.4: Kikuyugrass",
@@ -1113,12 +993,12 @@
     "id": "m15q075",
     "module": "M15",
     "question": "Kikuyugrass turf can have a silvery cast because:",
-    "correct": "male flower parts (anthers and their white filaments) extend above the canopy",
+    "correct": "white anther filaments above the canopy",
     "options": [
-      "male flower parts (anthers and their white filaments) extend above the canopy",
-      "female flower parts extend above the canopy",
-      "the leaves have a waxy bloom",
-      "the stolons are exposed on the surface"
+      "white anther filaments above the canopy",
+      "female flower parts above the canopy",
+      "a waxy bloom on the leaves",
+      "stolons exposed on the surface"
     ],
     "feedback": "The anthers and white filaments of the male flower portions extend above the canopy, giving a silvery cast.",
     "source": "M15.4: Kikuyugrass",
@@ -1308,9 +1188,9 @@
     "id": "m15q088",
     "module": "M15",
     "question": "For golf course fairways, kikuyugrass is:",
-    "correct": "well adapted, when not considered a weed",
+    "correct": "well adapted, if not a weed",
     "options": [
-      "well adapted, when not considered a weed",
+      "well adapted, if not a weed",
       "not adapted",
       "adapted only on saline soils",
       "possible, but not well adapted"
@@ -1476,9 +1356,9 @@
     "correct": "flat with margins rolled inward, 2 to 4 mm wide, margins sparsely hairy toward base",
     "options": [
       "flat with margins rolled inward, 2 to 4 mm wide, margins sparsely hairy toward base",
-      "flat, 4 to 10 mm wide, smooth on both surfaces",
-      "flat to folded, 4 to 8 mm wide",
-      "flat, keeled, sparsely hairy on both surfaces"
+      "flat, 4 to 10 mm wide, smooth on both surfaces, hairless margins",
+      "flat to folded, 4 to 8 mm wide, margins sparsely hairy toward base",
+      "flat and keeled, 3 to 5 mm wide, hairy on both leaf surfaces"
     ],
     "feedback": "Seashore paspalum blades are flat with inward-rolled margins, 2 to 4 mm wide, sparsely hairy toward the base.",
     "source": "M15.5: Seashore Paspalum",
@@ -1493,7 +1373,7 @@
       "rhizomatous and stoloniferous",
       "stoloniferous only",
       "rhizomatous only",
-      "bunch-type"
+      "bunch-type, with tillers only"
     ],
     "feedback": "Seashore paspalum is rhizomatous and stoloniferous.",
     "source": "M15.5: Seashore Paspalum",
@@ -1566,9 +1446,9 @@
     "correct": "sunny to halfway between intermediate and moderately shady",
     "options": [
       "sunny to halfway between intermediate and moderately shady",
-      "sunny to intermediate",
+      "sunny to intermediate only",
       "moderately sunny to moderately shady",
-      "shady only"
+      "shady to very shady only"
     ],
     "feedback": "Seashore paspalum ranges from sunny to halfway between intermediate and moderately shady.",
     "source": "M15.5: Seashore Paspalum",
@@ -1641,9 +1521,9 @@
     "correct": "as needed to maintain growth density",
     "options": [
       "as needed to maintain growth density",
-      "frequent",
-      "minimal",
-      "for growth and color"
+      "frequent, daily applications",
+      "minimal, only in severe drought",
+      "enough for growth and color"
     ],
     "feedback": "Seashore paspalum is irrigated as needed to maintain growth density.",
     "source": "M15.5: Seashore Paspalum",
@@ -1882,8 +1762,8 @@
     "options": [
       "flat to folded, 4 to 8 mm wide, margins sparsely hairy toward base",
       "flat, 4 to 10 mm wide, smooth on both surfaces",
-      "flat, 3 to 5 mm wide, smooth",
-      "flat with margins rolled inward, 2 to 4 mm wide"
+      "flat, 3 to 5 mm wide, smooth, margins hairy toward base",
+      "flat with margins rolled inward, 2 to 4 mm wide, hairy"
     ],
     "feedback": "Bahiagrass blades are flat to folded, 4 to 8 mm wide, margins sparsely hairy toward the base.",
     "source": "M15.6: Bahiagrass",
@@ -1942,8 +1822,8 @@
     "options": [
       "halfway between low and moderately low, to halfway between intermediate and moderately high",
       "between intermediate and moderately high, to high",
-      "low only",
-      "high only"
+      "low only, with no tolerance of higher fertility levels at all",
+      "high only, with no tolerance of lower fertility levels at all"
     ],
     "feedback": "Bahiagrass fertility runs from halfway between low and moderately low to halfway between intermediate and moderately high.",
     "source": "M15.6: Bahiagrass",
@@ -2160,201 +2040,6 @@
     "kind": "module"
   },
   {
-    "id": "m15q145",
-    "module": "M15",
-    "question": "Among the five M15 grasses, which has rolled vernation per its module page?",
-    "correct": "bahiagrass",
-    "options": [
-      "bahiagrass",
-      "St. Augustinegrass",
-      "centipedegrass",
-      "kikuyugrass"
-    ],
-    "feedback": "Bahiagrass is rolled; St. Augustinegrass, centipedegrass, and kikuyugrass are folded (seashore paspalum's page lists none).",
-    "source": "M15.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m15q146",
-    "module": "M15",
-    "question": "Among the M15 grasses, which has a blunt rather than pointed leaf tip?",
-    "correct": "St. Augustinegrass",
-    "options": [
-      "St. Augustinegrass",
-      "centipedegrass",
-      "bahiagrass",
-      "seashore paspalum"
-    ],
-    "feedback": "St. Augustinegrass's tip is blunt; the others are pointed.",
-    "source": "M15.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m15q147",
-    "module": "M15",
-    "question": "Among the M15 grasses, which has a panicle (rather than raceme) inflorescence?",
-    "correct": "kikuyugrass",
-    "options": [
-      "kikuyugrass",
-      "St. Augustinegrass",
-      "centipedegrass",
-      "bahiagrass"
-    ],
-    "feedback": "Kikuyugrass has a dense, bristly, contracted panicle; the others have racemes.",
-    "source": "M15.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m15q148",
-    "module": "M15",
-    "question": "Which M15 grass has the highest preferred fertilization rate?",
-    "correct": "St. Augustinegrass (3.0 – 6.0 lb. N / K ft² / year)",
-    "options": [
-      "St. Augustinegrass (3.0 – 6.0 lb. N / K ft² / year)",
-      "seashore paspalum (2.0 – 4.0 lb. N / K ft² / year)",
-      "bahiagrass (1.0 – 4.0 lb. N / K ft² / year)",
-      "centipedegrass (1.0 – 2.0 lb. N / K ft² / year)"
-    ],
-    "feedback": "St. Augustinegrass tops the module at 3.0 – 6.0 lb. N / K ft² / year.",
-    "source": "M15.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m15q149",
-    "module": "M15",
-    "question": "Which two M15 grasses share a preferred mowing height of 2.5 – 3.5 inches?",
-    "correct": "St. Augustinegrass and bahiagrass",
-    "options": [
-      "St. Augustinegrass and bahiagrass",
-      "centipedegrass and kikuyugrass",
-      "seashore paspalum and kikuyugrass",
-      "centipedegrass and bahiagrass"
-    ],
-    "feedback": "St. Augustinegrass and bahiagrass are both mowed at 2.5 – 3.5 inches.",
-    "source": "M15.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m15q150",
-    "module": "M15",
-    "question": "Which two M15 grasses share a module fertilization rate of 1.0 – 2.0 lb. N / K ft² / year?",
-    "correct": "centipedegrass and kikuyugrass",
-    "options": [
-      "centipedegrass and kikuyugrass",
-      "St. Augustinegrass and bahiagrass",
-      "seashore paspalum and bahiagrass",
-      "St. Augustinegrass and seashore paspalum"
-    ],
-    "feedback": "Centipedegrass and kikuyugrass both list 1.0 – 2.0 lb. N / K ft² / year.",
-    "source": "M15.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m15q151",
-    "module": "M15",
-    "question": "Which is the only M15 grass the module rates as adapted for golf greens?",
-    "correct": "seashore paspalum (on saline soils)",
-    "options": [
-      "seashore paspalum (on saline soils)",
-      "kikuyugrass",
-      "St. Augustinegrass",
-      "centipedegrass"
-    ],
-    "feedback": "Only seashore paspalum is adapted to greens, and only on saline soils.",
-    "source": "M15.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m15q152",
-    "module": "M15",
-    "question": "Which two M15 grasses does the module rate as well adapted to low intensities of culture for lawns?",
-    "correct": "centipedegrass and bahiagrass",
-    "options": [
-      "centipedegrass and bahiagrass",
-      "St. Augustinegrass and kikuyugrass",
-      "seashore paspalum and St. Augustinegrass",
-      "kikuyugrass and seashore paspalum"
-    ],
-    "feedback": "Centipedegrass and bahiagrass are both well adapted to low-intensity lawn culture; St. Augustinegrass is adapted to high intensities.",
-    "source": "M15.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m15q153",
-    "module": "M15",
-    "question": "Which M15 grass has the most alkaline-reaching preferred pH range?",
-    "correct": "kikuyugrass (5.5 – 8.5)",
-    "options": [
-      "kikuyugrass (5.5 – 8.5)",
-      "St. Augustinegrass (6.0 – 8.0)",
-      "centipedegrass (5.0 – 7.5)",
-      "bahiagrass (5.0 – 7.5)"
-    ],
-    "feedback": "Kikuyugrass's range extends to pH 8.5.",
-    "source": "M15.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m15q154",
-    "module": "M15",
-    "question": "Which M15 grass has the least shade-tolerant microclimate range (sunny to intermediate)?",
-    "correct": "bahiagrass",
-    "options": [
-      "bahiagrass",
-      "St. Augustinegrass",
-      "kikuyugrass",
-      "centipedegrass"
-    ],
-    "feedback": "Bahiagrass ranges only from sunny to intermediate.",
-    "source": "M15.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m15q155",
-    "module": "M15",
-    "question": "Which M15 grass has the wettest preferred moisture range (intermediate to wet)?",
-    "correct": "St. Augustinegrass",
-    "options": [
-      "St. Augustinegrass",
-      "kikuyugrass",
-      "seashore paspalum",
-      "bahiagrass"
-    ],
-    "feedback": "St. Augustinegrass prefers intermediate to wet.",
-    "source": "M15.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m15q156",
-    "module": "M15",
-    "question": "Which M15 grasses are well adapted for utility turf per their module pages?",
-    "correct": "centipedegrass and bahiagrass",
-    "options": [
-      "centipedegrass and bahiagrass",
-      "St. Augustinegrass and seashore paspalum",
-      "St. Augustinegrass and kikuyugrass",
-      "kikuyugrass only"
-    ],
-    "feedback": "Centipedegrass and bahiagrass are both rated well adapted for utility; St. Augustinegrass is not adaptable.",
-    "source": "M15.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m15q157",
-    "module": "M15",
-    "question": "Which two M15 grasses are both rhizomatous and stoloniferous?",
-    "correct": "kikuyugrass and seashore paspalum",
-    "options": [
-      "kikuyugrass and seashore paspalum",
-      "St. Augustinegrass and centipedegrass",
-      "bahiagrass and centipedegrass",
-      "St. Augustinegrass and bahiagrass"
-    ],
-    "feedback": "Kikuyugrass and seashore paspalum are both rhizomatous and stoloniferous.",
-    "source": "M15.1: Overview",
-    "kind": "module"
-  },
-  {
     "id": "m15q158",
     "module": "M15",
     "question": "Per the textbook, panicoids are usually ________ plants requiring warm nights and no vernalization at floral initiation.",
@@ -2366,36 +2051,6 @@
       "long-day, vernalization-requiring"
     ],
     "feedback": "Panicoids are usually short- or intermediate-day plants needing warm nights and no vernalization.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m15q159",
-    "module": "M15",
-    "question": "In panicoid spikelets, disarticulation occurs:",
-    "correct": "below the glumes, so the entire spikelet (minus glumes) falls",
-    "options": [
-      "below the glumes, so the entire spikelet (minus glumes) falls",
-      "above the glumes, leaving the glumes attached",
-      "between each floret of a many-flowered spikelet",
-      "never — spikelets remain attached"
-    ],
-    "feedback": "Panicoid spikelets disarticulate below the glumes; the entire spikelet falls when florets are shed.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m15q160",
-    "module": "M15",
-    "question": "Panicoid spikelets are typically one-flowered and compressed:",
-    "correct": "dorsally",
-    "options": [
-      "dorsally",
-      "laterally",
-      "not at all",
-      "radially"
-    ],
-    "feedback": "Panicoid spikelets are dorsally compressed.",
     "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
     "kind": "enrichment"
   },
@@ -2430,21 +2085,6 @@
     "kind": "enrichment"
   },
   {
-    "id": "m15q163",
-    "module": "M15",
-    "question": "Which genus is NOT one of the four turfgrass genera in the Paniceae tribe?",
-    "correct": "Eremochloa",
-    "options": [
-      "Eremochloa",
-      "Paspalum",
-      "Pennisetum",
-      "Stenotaphrum"
-    ],
-    "feedback": "Paniceae's turfgrass genera are Axonopus, Paspalum, Pennisetum, and Stenotaphrum. Eremochloa (centipedegrass) is in Andropogoneae.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m15q164",
     "module": "M15",
     "question": "Centipedegrass's genus, Eremochloa, belongs to the tribe:",
@@ -2460,28 +2100,13 @@
     "kind": "enrichment"
   },
   {
-    "id": "m15q165",
-    "module": "M15",
-    "question": "Genera in the Andropogoneae tribe have spikelets organized in pairs of:",
-    "correct": "one sessile and one pediceled spikelet",
-    "options": [
-      "one sessile and one pediceled spikelet",
-      "two sessile spikelets",
-      "two pediceled spikelets",
-      "one fertile and one sterile floret within a single spikelet"
-    ],
-    "feedback": "Andropogoneae spikelets come in pairs of one sessile and one pediceled spikelet (the pediceled one usually reduced).",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m15q166",
     "module": "M15",
     "question": "The genus Paspalum contains about 400 species, of which ________ are used as turfgrasses.",
-    "correct": "two (bahiagrass and seashore paspalum)",
+    "correct": "two",
     "options": [
-      "two (bahiagrass and seashore paspalum)",
-      "one (bahiagrass)",
+      "two",
+      "one",
       "five",
       "about forty"
     ],
@@ -2505,36 +2130,6 @@
     "kind": "enrichment"
   },
   {
-    "id": "m15q168",
-    "module": "M15",
-    "question": "Which bahiagrass subspecific type is a small-seeded, sexually reproducing diploid with 20 chromosomes?",
-    "correct": "P. notatum var. saurae",
-    "options": [
-      "P. notatum var. saurae",
-      "P. notatum var. latiflorum",
-      "P. vaginatum",
-      "P. notatum var. Argentine"
-    ],
-    "feedback": "Var. saurae is the small-seeded sexual diploid (2n = 2x = 20); var. latiflorum is the large-seeded apomictic tetraploid (2n = 4x = 40).",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m15q169",
-    "module": "M15",
-    "question": "P. notatum var. latiflorum is a:",
-    "correct": "large-seeded, apomictically reproducing tetraploid with 40 chromosomes",
-    "options": [
-      "large-seeded, apomictically reproducing tetraploid with 40 chromosomes",
-      "small-seeded, sexually reproducing diploid with 20 chromosomes",
-      "sterile triploid with 27 chromosomes",
-      "diploid with 18 chromosomes"
-    ],
-    "feedback": "Var. latiflorum is large-seeded, apomictic, and tetraploid (40 chromosomes).",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m15q170",
     "module": "M15",
     "question": "The textbook attributes bahiagrass's very high drought tolerance to its:",
@@ -2553,9 +2148,9 @@
     "id": "m15q171",
     "module": "M15",
     "question": "Per the textbook, on soils with pH above 7.5, bahiagrass frequently shows:",
-    "correct": "iron deficiency, especially in spring",
+    "correct": "iron deficiency",
     "options": [
-      "iron deficiency, especially in spring",
+      "iron deficiency",
       "manganese toxicity",
       "aluminum toxicity",
       "salt injury"
@@ -2583,29 +2178,14 @@
     "id": "m15q173",
     "module": "M15",
     "question": "The textbook recommends using a rotary mower on bahiagrass during summer to:",
-    "correct": "cut off unsightly seed heads",
+    "correct": "remove seed heads",
     "options": [
-      "cut off unsightly seed heads",
+      "remove seed heads",
       "reduce thatch",
       "control mole crickets",
       "prevent scalping"
     ],
     "feedback": "A rotary mower is used in summer to cut off bahiagrass's unsightly seed heads.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m15q174",
-    "module": "M15",
-    "question": "Bahiagrass is highly susceptible to which herbicides sometimes used on other warm-season species?",
-    "correct": "triazines (atrazine, simazine) and sulfometuron",
-    "options": [
-      "triazines (atrazine, simazine) and sulfometuron",
-      "trinexapac-ethyl",
-      "glyphosate only",
-      "2,4-D only"
-    ],
-    "feedback": "Bahiagrass is highly susceptible to the triazines (atrazine, simazine) and sulfometuron.",
     "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
     "kind": "enrichment"
   },
@@ -2625,21 +2205,6 @@
     "kind": "enrichment"
   },
   {
-    "id": "m15q176",
-    "module": "M15",
-    "question": "The bahiagrass cultivar Argentine is preferred for lawns because of its:",
-    "correct": "superior density, color, disease resistance, and response to fertilization",
-    "options": [
-      "superior density, color, disease resistance, and response to fertilization",
-      "finer texture and roadside adaptation",
-      "salt tolerance",
-      "shade tolerance"
-    ],
-    "feedback": "Argentine (var. latiflorum) is preferred in lawns for density, color, disease resistance, and fertilizer response.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m15q177",
     "module": "M15",
     "question": "Seashore paspalum is also called:",
@@ -2651,21 +2216,6 @@
       "pembagrass"
     ],
     "feedback": "Seashore paspalum is also called sand knotgrass.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m15q178",
-    "module": "M15",
-    "question": "Per the textbook, seashore paspalum is native to:",
-    "correct": "southern Africa and South America",
-    "options": [
-      "southern Africa and South America",
-      "southeast Asia",
-      "the southeastern United States",
-      "central Africa's highlands"
-    ],
-    "feedback": "Seashore paspalum is native to southern Africa and South America.",
     "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
     "kind": "enrichment"
   },
@@ -2703,29 +2253,14 @@
     "id": "m15q181",
     "module": "M15",
     "question": "Per the textbook, seashore paspalum is adapted to marshy, brackish conditions and moist, saline soils, and will tolerate:",
-    "correct": "waterlogged conditions and periodic flooding",
+    "correct": "waterlogging and flooding",
     "options": [
-      "waterlogged conditions and periodic flooding",
+      "waterlogging and flooding",
       "only well-drained, nonsaline soils",
       "prolonged drought only",
       "heavy shade only"
     ],
     "feedback": "Seashore paspalum tolerates waterlogging and periodic flooding.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m15q182",
-    "module": "M15",
-    "question": "Per the textbook, seashore paspalum is more shade tolerant than:",
-    "correct": "bermudagrass",
-    "options": [
-      "bermudagrass",
-      "St. Augustinegrass",
-      "zoysiagrass",
-      "centipedegrass"
-    ],
-    "feedback": "The textbook notes seashore paspalum is more shade tolerant than bermudagrass.",
     "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
     "kind": "enrichment"
   },
@@ -2775,42 +2310,12 @@
     "kind": "enrichment"
   },
   {
-    "id": "m15q186",
-    "module": "M15",
-    "question": "Per the textbook, vertical mowing may be needed on seashore paspalum to control:",
-    "correct": "puffiness",
-    "options": [
-      "puffiness",
-      "chlorosis",
-      "mole crickets",
-      "seed heads"
-    ],
-    "feedback": "Vertical mowing may be needed to control puffiness in seashore paspalum.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m15q187",
-    "module": "M15",
-    "question": "The textbook gives the vernation of seashore paspalum (not listed on its module page) as:",
-    "correct": "rolled",
-    "options": [
-      "rolled",
-      "folded",
-      "convolute",
-      "absent"
-    ],
-    "feedback": "The textbook lists seashore paspalum's vernation as rolled.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m15q188",
     "module": "M15",
     "question": "Per the textbook, the genus Pennisetum has about 80 species, and kikuyugrass:",
-    "correct": "invades subtropical and highland tropical turfs and is sometimes cultured as a desirable turfgrass",
+    "correct": "invades turfs, yet is sometimes cultured",
     "options": [
-      "invades subtropical and highland tropical turfs and is sometimes cultured as a desirable turfgrass",
+      "invades turfs, yet is sometimes cultured",
       "is never used as a turfgrass",
       "is the only salt-tolerant species",
       "is the only annual species"
@@ -2835,21 +2340,6 @@
     "kind": "enrichment"
   },
   {
-    "id": "m15q190",
-    "module": "M15",
-    "question": "Per the textbook, kikuyugrass is a ________ with 36 chromosomes.",
-    "correct": "tetraploid",
-    "options": [
-      "tetraploid",
-      "diploid",
-      "hexaploid",
-      "sterile triploid"
-    ],
-    "feedback": "The textbook calls kikuyugrass a tetraploid with 36 chromosomes.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m15q191",
     "module": "M15",
     "question": "Kikuyugrass is well adapted to elevations above ________ in the moist tropics of Mexico and central Africa.",
@@ -2868,9 +2358,9 @@
     "id": "m15q192",
     "module": "M15",
     "question": "In warm, damp tropical lowlands, kikuyugrass:",
-    "correct": "becomes severely diseased and does not persist",
+    "correct": "becomes diseased and dies out",
     "options": [
-      "becomes severely diseased and does not persist",
+      "becomes diseased and dies out",
       "becomes the dominant turfgrass",
       "goes dormant but persists",
       "outcompetes bermudagrass on wear"
@@ -2883,9 +2373,9 @@
     "id": "m15q193",
     "module": "M15",
     "question": "Compared with most other warm-season turfgrasses, below 60°F kikuyugrass:",
-    "correct": "retains more color and maintains more growth",
+    "correct": "keeps more color and growth",
     "options": [
-      "retains more color and maintains more growth",
+      "keeps more color and growth",
       "goes fully dormant immediately",
       "loses color faster",
       "dies back to the rhizomes"
@@ -2910,42 +2400,12 @@
     "kind": "enrichment"
   },
   {
-    "id": "m15q195",
-    "module": "M15",
-    "question": "To help reduce scalping proneness in kikuyugrass, the textbook mentions judicious use of the PGR:",
-    "correct": "trinexapac-ethyl",
-    "options": [
-      "trinexapac-ethyl",
-      "atrazine",
-      "simazine",
-      "sulfometuron"
-    ],
-    "feedback": "Trinexapac-ethyl, used judiciously, helps reduce kikuyugrass scalping proneness.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m15q196",
-    "module": "M15",
-    "question": "The textbook gives kikuyugrass's mowing range as 0.5 to 2 inches, preferably with a:",
-    "correct": "heavy reel mower",
-    "options": [
-      "heavy reel mower",
-      "rotary mower",
-      "flail mower",
-      "string trimmer"
-    ],
-    "feedback": "Kikuyugrass is preferably mowed with a heavy reel mower.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m15q197",
     "module": "M15",
     "question": "Of the six species in the genus Stenotaphrum, how many are used as turfgrass?",
-    "correct": "one (St. Augustinegrass)",
+    "correct": "one",
     "options": [
-      "one (St. Augustinegrass)",
+      "one",
       "two",
       "three",
       "all six"
@@ -2970,42 +2430,12 @@
     "kind": "enrichment"
   },
   {
-    "id": "m15q199",
-    "module": "M15",
-    "question": "Per the textbook, St. Augustinegrass spreads by branching stolons, forming a canopy that is:",
-    "correct": "moderately to highly compressible and spongy",
-    "options": [
-      "moderately to highly compressible and spongy",
-      "tough, dense, and springy",
-      "fine-textured and dark green",
-      "open with erect leaves"
-    ],
-    "feedback": "St. Augustinegrass forms a moderately to highly compressible, spongy canopy.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m15q200",
-    "module": "M15",
-    "question": "Which species can interbreed with St. Augustinegrass, producing hybrids with sparse pubescence along the leaf blades?",
-    "correct": "pembagrass (S. dimidiatum)",
-    "options": [
-      "pembagrass (S. dimidiatum)",
-      "seashore paspalum (P. vaginatum)",
-      "kikuyugrass (P. clandestinum)",
-      "centipedegrass (E. ophiuroides)"
-    ],
-    "feedback": "Pembagrass (Stenotaphrum dimidiatum) interbreeds with St. Augustinegrass.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m15q201",
     "module": "M15",
     "question": "Because of its poor cold tolerance, St. Augustinegrass is best adapted to:",
-    "correct": "coastal areas with mild winters",
+    "correct": "mild coastal areas",
     "options": [
-      "coastal areas with mild winters",
+      "mild coastal areas",
       "high-elevation tropics",
       "the transition zone",
       "continental interiors"
@@ -3030,87 +2460,12 @@
     "kind": "enrichment"
   },
   {
-    "id": "m15q203",
-    "module": "M15",
-    "question": "The Breviflorus race of St. Augustinegrass includes the relatively cold-tolerant Gulf Coast Group, which has:",
-    "correct": "green stolons (e.g., Texas Common, Raleigh)",
-    "options": [
-      "green stolons (e.g., Texas Common, Raleigh)",
-      "red stolons and shorter leaves",
-      "grayish-green leaves and sterile flowers",
-      "an open turf adapted to low culture"
-    ],
-    "feedback": "The Gulf Coast Group has green stolons and includes Texas Common and Raleigh; the Dwarf Group has red stolons.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m15q204",
-    "module": "M15",
-    "question": "The St. Augustinegrass Dwarf Group (Breviflorus race) is characterized by:",
-    "correct": "red stolons, shorter leaves, and less cold tolerance",
-    "options": [
-      "red stolons, shorter leaves, and less cold tolerance",
-      "green stolons and greater cold tolerance",
-      "polyploidy and sterility",
-      "an open turf for low culture"
-    ],
-    "feedback": "The Dwarf Group has red stolons and shorter leaves and is less cold tolerant.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m15q205",
-    "module": "M15",
-    "question": "Hybridization between the Gulf Coast and Dwarf groups of St. Augustinegrass produced:",
-    "correct": "shade-tolerant cultivars such as Del Mar and Jade",
-    "options": [
-      "shade-tolerant cultivars such as Del Mar and Jade",
-      "salt-tolerant cultivars such as Sea Isle 2000",
-      "cold-tolerant cultivars such as Tenn Turf",
-      "seeded cultivars such as Tifblair"
-    ],
-    "feedback": "Gulf Coast x Dwarf hybrids include the shade-tolerant Del Mar, Jade, and Seville.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m15q206",
-    "module": "M15",
-    "question": "The Longicaudatus race of St. Augustinegrass is characterized by:",
-    "correct": "an open turf adapted to low intensities of culture (e.g., Florida Common, Roselawn)",
-    "options": [
-      "an open turf adapted to low intensities of culture (e.g., Florida Common, Roselawn)",
-      "red stolons and shorter leaves",
-      "polyploidy, sterility, and grayish-green color",
-      "resistance to chinch bugs and SAD"
-    ],
-    "feedback": "The Longicaudatus (long-stemmed) race is diploid, with an open turf adapted to low culture.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m15q207",
-    "module": "M15",
-    "question": "The Cape race of St. Augustinegrass is:",
-    "correct": "polyploid, sterile, and grayish-green",
-    "options": [
-      "polyploid, sterile, and grayish-green",
-      "diploid with bright green leaves",
-      "diploid with red stolons",
-      "apomictic and large-seeded"
-    ],
-    "feedback": "The Cape race is polyploid, sterile, and grayish-green, with the Bitterblue and Floratam groups.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m15q208",
     "module": "M15",
     "question": "The Floratam Group of St. Augustinegrass is more drought tolerant and resistant to some chinch bugs and to:",
-    "correct": "the St. Augustine decline (SAD) strain of Panicum mosaic virus",
+    "correct": "SAD virus",
     "options": [
-      "the St. Augustine decline (SAD) strain of Panicum mosaic virus",
+      "SAD virus",
       "brown patch",
       "mole crickets",
       "gray leaf spot"
@@ -3180,21 +2535,6 @@
     "kind": "enrichment"
   },
   {
-    "id": "m15q213",
-    "module": "M15",
-    "question": "The centipedegrass cultivar Oaklawn was not commercially successful because of:",
-    "correct": "poor seed production",
-    "options": [
-      "poor seed production",
-      "poor cold tolerance",
-      "chinch bug susceptibility",
-      "excessive thatch"
-    ],
-    "feedback": "Oaklawn, one of the first cultivars, failed commercially due to poor seed production.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m15q214",
     "module": "M15",
     "question": "Which centipedegrass cultivar is a seeded type with improved cold tolerance?",
@@ -3206,36 +2546,6 @@
       "Oaklawn"
     ],
     "feedback": "Tifblair is seeded with improved cold tolerance; AU Centennial (compact) and Tenn Turf (cold tolerant) are vegetative.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m15q215",
-    "module": "M15",
-    "question": "Per the textbook's leaf-anatomy section, St. Augustinegrass and centipedegrass both have:",
-    "correct": "flat, smooth leaves and folded vernation",
-    "options": [
-      "flat, smooth leaves and folded vernation",
-      "ridged leaves and rolled vernation",
-      "hairy leaves and rolled vernation",
-      "needle-like leaves and folded vernation"
-    ],
-    "feedback": "Both have flat, smooth leaves and folded vernation.",
-    "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m15q216",
-    "module": "M15",
-    "question": "Per the textbook's leaf-anatomy section, bahiagrass has a relatively smooth flat leaf and a ________ vernation.",
-    "correct": "rolled",
-    "options": [
-      "rolled",
-      "folded",
-      "convolute",
-      "absent"
-    ],
-    "feedback": "Bahiagrass has a rolled vernation, unlike St. Augustinegrass and centipedegrass.",
     "source": "Textbook Ch. 3, pp. 78-82: Turfgrass Species",
     "kind": "enrichment"
   },

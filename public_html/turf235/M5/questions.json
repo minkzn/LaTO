@@ -81,9 +81,9 @@
     "correct": "fall and into early winter",
     "options": [
       "fall and into early winter",
-      "only in mid-summer",
-      "only in mid-winter",
-      "spring only"
+      "only in the middle of summer",
+      "only in the middle of winter",
+      "in spring only"
     ],
     "feedback": "Root growth favors slightly cooler soil temperatures than shoots and continues developing after shoot growth slows, peaking in fall and early winter.",
     "source": "M5.2: Cardinal Temperatures in Turfgrass Growth and Survival",
@@ -183,11 +183,11 @@
     "id": "m5q013",
     "module": "M5",
     "question": "In perennial-type annual bluegrass, the mid-spring dip in root growth is associated with a shift to reproductive growth, as photoassimilates are partitioned to support:",
-    "correct": "inflorescence (seed-head) development",
+    "correct": "seed-head development",
     "options": [
-      "inflorescence (seed-head) development",
+      "seed-head development",
       "rhizome elongation",
-      "tiller formation",
+      "new tiller formation",
       "cold hardening"
     ],
     "feedback": "The mid-spring root growth dip coincides with the reproductive shift, as photoassimilates go to seed-head development instead of roots.",
@@ -543,12 +543,12 @@
     "id": "m5q037",
     "module": "M5",
     "question": "In the C-3 cycle's reduction phase, PGA is reduced by NADPH to produce:",
-    "correct": "PGAL (phosphoglyceraldehyde)",
+    "correct": "PGAL",
     "options": [
-      "PGAL (phosphoglyceraldehyde)",
+      "PGAL",
       "RuBP",
       "OAA",
-      "glucose directly"
+      "glucose"
     ],
     "feedback": "NADPH reduces PGA to PGAL; most PGAL regenerates RuBP, with the remainder eventually forming glucose.",
     "source": "M5.9: Stage 5 - Summer-stressed Growth",
@@ -603,12 +603,12 @@
     "id": "m5q041",
     "module": "M5",
     "question": "Photolysis in Photosystem II yields two electrons, two protons, and:",
-    "correct": "half of an oxygen molecule (½ O2)",
+    "correct": "½ O₂",
     "options": [
-      "half of an oxygen molecule (½ O2)",
-      "a full CO2 molecule",
-      "one glucose molecule",
-      "an ATP molecule directly"
+      "½ O₂",
+      "a CO₂ molecule",
+      "a glucose molecule",
+      "an ATP molecule"
     ],
     "feedback": "Splitting one water molecule (photolysis) yields two electrons, two H+ ions, and ½ O2.",
     "source": "M5.9: Stage 5 - Summer-stressed Growth",
@@ -741,9 +741,9 @@
     "correct": "phosphoglycolic acid",
     "options": [
       "phosphoglycolic acid",
-      "PGAL",
-      "OAA",
-      "RuBP"
+      "PGAL (phosphoglyceraldehyde)",
+      "OAA (oxaloacetic acid)",
+      "RuBP (ribulose bisphosphate)"
     ],
     "feedback": "Photorespiration produces one PGA plus a two-carbon phosphoglycolic acid molecule, instead of the usual two PGA.",
     "source": "M5.9: Stage 5 - Summer-stressed Growth",
@@ -933,10 +933,10 @@
     "id": "m5q063",
     "module": "M5",
     "question": "During Stage 8 (mid-fall dormancy), vertical shoot growth has ceased for the year, but the shoots are still:",
-    "correct": "green and physiologically active",
+    "correct": "still green and active",
     "options": [
-      "green and physiologically active",
-      "completely dead",
+      "still green and active",
+      "completely dead and brown",
       "turning brown and dormant",
       "producing new seed heads"
     ],
@@ -967,7 +967,7 @@
     "options": [
       "Microdochium patch",
       "dollar spot",
-      "anthracnose",
+      "anthracnose leaf blight",
       "fairy ring"
     ],
     "feedback": "The final snow-mold fungicide application at mid-fall dormancy protects against Typhula blight and Microdochium patch.",

@@ -1,20 +1,5 @@
 [
   {
-    "id": "m14q001",
-    "module": "M14",
-    "question": "The chloridoid species (bermudagrasses, zoysiagrasses, and buffalograss) are important for sports, lawn, and utility turfs in at least the southern half of the United States, as well as in:",
-    "correct": "subtropical and tropical climates throughout the world",
-    "options": [
-      "subtropical and tropical climates throughout the world",
-      "polar and subarctic climates throughout the world",
-      "temperate oceanic climates only",
-      "cool continental climates only"
-    ],
-    "feedback": "Chloridoid species are important across the southern half of the U.S. and in subtropical and tropical climates worldwide.",
-    "source": "M14.1: Overview",
-    "kind": "module"
-  },
-  {
     "id": "m14q002",
     "module": "M14",
     "question": "In Florida's warm-subtropical-humid and tropical climates, ________ substitutes for the bentgrasses used in colder climates on greens and other golf turfs.",
@@ -30,21 +15,6 @@
     "kind": "module"
   },
   {
-    "id": "m14q003",
-    "module": "M14",
-    "question": "In St. Louis' cool-subtropical-humid climate, ________ is an important species for fairway turfs.",
-    "correct": "zoysiagrass",
-    "options": [
-      "zoysiagrass",
-      "hybrid bermudagrass",
-      "buffalograss",
-      "creeping bentgrass"
-    ],
-    "feedback": "Zoysiagrass is an important fairway species in St. Louis' cool-subtropical-humid climate.",
-    "source": "M14.1: Overview",
-    "kind": "module"
-  },
-  {
     "id": "m14q004",
     "module": "M14",
     "question": "With the commercial development of several new cultivars, ________ is becoming a popular turfgrass species, especially in dry climates throughout the United States.",
@@ -56,36 +26,6 @@
       "common bermudagrass"
     ],
     "feedback": "New cultivars have made buffalograss an increasingly popular species in dry U.S. climates.",
-    "source": "M14.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m14q005",
-    "module": "M14",
-    "question": "The purpose of Module 14 is to review which three turfgrass groups?",
-    "correct": "Bermudagrasses, Zoysiagrasses, and Buffalograss",
-    "options": [
-      "Bermudagrasses, Zoysiagrasses, and Buffalograss",
-      "Bentgrasses, Fescues, and Ryegrasses",
-      "Bluegrasses, Fescues, and Bentgrasses",
-      "Zoysiagrasses, Centipedegrass, and St. Augustinegrass"
-    ],
-    "feedback": "Module 14 reviews bermudagrasses, zoysiagrasses, and buffalograss.",
-    "source": "M14.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m14q006",
-    "module": "M14",
-    "question": "The assigned textbook reading for Module 14 covers Chapter 3, pages:",
-    "correct": "74-77, 83",
-    "options": [
-      "74-77, 83",
-      "68-70",
-      "61-64",
-      "78-82"
-    ],
-    "feedback": "Module 14's reading is Turfgrass Management, Chapter 3, pages 74-77 and 83.",
     "source": "M14.1: Overview",
     "kind": "module"
   },
@@ -396,9 +336,9 @@
     "correct": "Cynodon dactylon X C. transvaalensis",
     "options": [
       "Cynodon dactylon X C. transvaalensis",
-      "Cynodon dactylon [L.]",
-      "Cynodon magennisii",
-      "Buchloe dactyloides"
+      "Cynodon dactylon [L.] Pers.",
+      "Cynodon magennisii Hurcombe",
+      "Buchloe dactyloides [Nutt.] Engelm."
     ],
     "feedback": "Hybrid bermudagrass is the cross Cynodon dactylon X C. transvaalensis.",
     "source": "M14.3: Hybrid Bermudagrass",
@@ -693,9 +633,9 @@
     "id": "m14q047",
     "module": "M14",
     "question": "Hybrid bermudagrass is prone to scalp, especially during:",
-    "correct": "the summer months when growth is vigorous and thatch is likely to form",
+    "correct": "summer, with vigorous growth and thatch",
     "options": [
-      "the summer months when growth is vigorous and thatch is likely to form",
+      "summer, with vigorous growth and thatch",
       "the winter months during dormancy",
       "periods of drought stress",
       "periods of heavy shade"
@@ -798,11 +738,11 @@
     "id": "m14q054",
     "module": "M14",
     "question": "Because the three zoysiagrass species easily interbreed, many zoysiagrasses are actually:",
-    "correct": "interspecific hybrids or combinations of these species",
+    "correct": "interspecific hybrids",
     "options": [
-      "interspecific hybrids or combinations of these species",
-      "completely sterile and non-reproducing",
-      "unrelated genetically",
+      "interspecific hybrids",
+      "completely sterile",
+      "genetically unrelated",
       "identical to one another"
     ],
     "feedback": "Zoysiagrasses easily interbreed, so many are actually interspecific hybrids or combinations of the three species.",
@@ -858,9 +798,9 @@
     "id": "m14q058",
     "module": "M14",
     "question": "Zoysiagrasses are generally slow to establish, but vary widely in:",
-    "correct": "their rate of spread among different cultivars",
+    "correct": "rate of spread among cultivars",
     "options": [
-      "their rate of spread among different cultivars",
+      "rate of spread among cultivars",
       "their chromosome number",
       "their cold tolerance only",
       "their need for nitrogen"
@@ -1028,7 +968,7 @@
       "poor recuperative capacity",
       "poor heat tolerance",
       "poor cold tolerance",
-      "excessive thatch"
+      "excessive thatch buildup"
     ],
     "feedback": "Common zoysiagrass's poor recuperative capacity makes it not well adapted for athletic turf.",
     "source": "M14.4: Zoysiagrasses",
@@ -1083,9 +1023,9 @@
     "id": "m14q073",
     "module": "M14",
     "question": "Common zoysiagrass has excellent wear tolerance but is slow to recover from injury; thus, zoysiagrass tees should be:",
-    "correct": "relatively large, to allow sufficient time for recovery from divots",
+    "correct": "relatively large, for divot recovery",
     "options": [
-      "relatively large, to allow sufficient time for recovery from divots",
+      "relatively large, for divot recovery",
       "kept very small to concentrate wear",
       "mowed at greens height",
       "irrigated minimally"
@@ -1143,9 +1083,9 @@
     "id": "m14q077",
     "module": "M14",
     "question": "Extensive plantings of common zoysiagrass could form a pleasing turf even when dormant, provided it was maintained properly and ________ were controlled.",
-    "correct": "volunteer cool-season grasses",
+    "correct": "cool-season grasses",
     "options": [
-      "volunteer cool-season grasses",
+      "cool-season grasses",
       "weeds of all kinds",
       "insect pests",
       "soil-borne pathogens"
@@ -1713,9 +1653,9 @@
     "id": "m14q115",
     "module": "M14",
     "question": "Male (staminate) buffalograss flowers have two to three short spikes borne on:",
-    "correct": "slender culms elevated above the leaves",
+    "correct": "culms raised above the leaves",
     "options": [
-      "slender culms elevated above the leaves",
+      "culms raised above the leaves",
       "burrs hidden within the leaves",
       "underground rhizomes",
       "the leaf tips themselves"
@@ -1728,9 +1668,9 @@
     "id": "m14q116",
     "module": "M14",
     "question": "Female (pistillate) buffalograss flowers are composed of:",
-    "correct": "a burr of female spikelets partially hidden within the leaves",
+    "correct": "burrs partly hidden in the leaves",
     "options": [
-      "a burr of female spikelets partially hidden within the leaves",
+      "burrs partly hidden in the leaves",
       "short spikes on elevated culms",
       "a single terminal spikelet",
       "a contracted panicle above the canopy"
@@ -1743,9 +1683,9 @@
     "id": "m14q117",
     "module": "M14",
     "question": "In El Paso, Texas, with relatively little watering, buffalograss forms a lawn of acceptable quality in arid climates where other warm-season turfgrasses would:",
-    "correct": "require more water to maintain growth and color",
+    "correct": "need more water",
     "options": [
-      "require more water to maintain growth and color",
+      "need more water",
       "fail to germinate at all",
       "require less water",
       "need no fertilization at all"
@@ -1845,47 +1785,17 @@
     "kind": "enrichment"
   },
   {
-    "id": "m14q124",
-    "module": "M14",
-    "question": "Per the textbook, chloridoid grasses are Pooid in most spikelet characters but Panicoid with respect to chromosome number and size and in most features of the:",
-    "correct": "embryo, root, stem, and leaf",
-    "options": [
-      "embryo, root, stem, and leaf",
-      "inflorescence only",
-      "seed coat only",
-      "flowering culm only"
-    ],
-    "feedback": "Chloridoid grasses resemble Pooids in spikelet traits but Panicoids in chromosome traits and embryo/root/stem/leaf features.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m14q125",
     "module": "M14",
     "question": "Per the textbook, photosynthesis in chloridoid grasses occurs principally through:",
-    "correct": "the C4 (Hatch and Slack) pathway",
+    "correct": "the C4 pathway",
     "options": [
-      "the C4 (Hatch and Slack) pathway",
+      "the C4 pathway",
       "the C3 (Calvin) cycle",
       "the CAM pathway",
       "anaerobic respiration"
     ],
     "feedback": "Chloridoid grasses use the C4 (Hatch and Slack) photosynthetic pathway, unlike the C3 pooid grasses.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q126",
-    "module": "M14",
-    "question": "Per the textbook, the Chloridoideae subfamily contains five tribes, how many of which include turfgrass genera?",
-    "correct": "three",
-    "options": [
-      "three",
-      "one",
-      "two",
-      "all five"
-    ],
-    "feedback": "Three of the Chloridoideae subfamily's five tribes include turfgrass genera.",
     "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
     "kind": "enrichment"
   },
@@ -1905,117 +1815,12 @@
     "kind": "enrichment"
   },
   {
-    "id": "m14q128",
-    "module": "M14",
-    "question": "Per the textbook, the genus Cynodon includes about how many species?",
-    "correct": "10",
-    "options": [
-      "10",
-      "50",
-      "125",
-      "25"
-    ],
-    "feedback": "The genus Cynodon includes about 10 species.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q129",
-    "module": "M14",
-    "question": "Per the textbook, besides common, African, Magennis, and hybrid bermudagrass, a fifth principal bermudagrass turfgrass species is Bradley bermudagrass, whose Latin name is:",
-    "correct": "Cynodon incompletus var. hirsutis",
-    "options": [
-      "Cynodon incompletus var. hirsutis",
-      "Cynodon dactylon var. seleucidus",
-      "Cynodon transvaalensis var. hirsutis",
-      "Cynodon magennisii var. bradleyi"
-    ],
-    "feedback": "Bradley bermudagrass is Cynodon incompletus var. hirsutis.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q130",
-    "module": "M14",
-    "question": "Per the textbook, there are three races within C. dactylon var. dactylon: a tropical race, a temperate race, and a:",
-    "correct": "seleucidus race",
-    "options": [
-      "seleucidus race",
-      "subarctic race",
-      "oceanic race",
-      "Mediterranean race"
-    ],
-    "feedback": "Common bermudagrass has tropical, temperate, and seleucidus races.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q131",
-    "module": "M14",
-    "question": "Per the textbook, the tropical race of common bermudagrass is short in stature and forms a:",
-    "correct": "loose turf",
-    "options": [
-      "loose turf",
-      "dense turf",
-      "thatch-free turf",
-      "deeply rooted turf"
-    ],
-    "feedback": "The tropical race of common bermudagrass forms a loose turf.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q132",
-    "module": "M14",
-    "question": "Per the textbook, the temperate race of common bermudagrass is more winter hardy and forms a:",
-    "correct": "denser turf",
-    "options": [
-      "denser turf",
-      "looser turf",
-      "coarser turf",
-      "shade-tolerant turf"
-    ],
-    "feedback": "The temperate race of common bermudagrass is more winter hardy and denser than the tropical race.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q133",
-    "module": "M14",
-    "question": "Per the textbook, the seleucidus race of common bermudagrass is quite cold tolerant and very coarse textured, with thick:",
-    "correct": "stolons and rhizomes",
-    "options": [
-      "stolons and rhizomes",
-      "leaf blades only",
-      "roots only",
-      "ligules"
-    ],
-    "feedback": "The seleucidus race is cold tolerant, coarse textured, with thick stolons and rhizomes.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q134",
-    "module": "M14",
-    "question": "Per the textbook, depending on race, bermudagrass may occur as far north as:",
-    "correct": "53°N latitude",
-    "options": [
-      "53°N latitude",
-      "32°N latitude",
-      "40°N latitude",
-      "60°N latitude"
-    ],
-    "feedback": "Bermudagrass may occur as far north as 53°N latitude, depending on race.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m14q135",
     "module": "M14",
     "question": "Per the textbook, common bermudagrass spreads laterally by:",
-    "correct": "both stolons and rhizomes",
+    "correct": "stolons and rhizomes",
     "options": [
-      "both stolons and rhizomes",
+      "stolons and rhizomes",
       "stolons only",
       "rhizomes only",
       "seed dispersal only"
@@ -2036,36 +1841,6 @@
       "convolute"
     ],
     "feedback": "Common bermudagrass has folded vernation.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q137",
-    "module": "M14",
-    "question": "Per the textbook, common bermudagrass's intolerance of shade necessitates the use of alternative warm-season species where:",
-    "correct": "trees and other structures restrict sunlight penetration",
-    "options": [
-      "trees and other structures restrict sunlight penetration",
-      "soils are sandy",
-      "rainfall is heaviest",
-      "soil pH is highest"
-    ],
-    "feedback": "Bermudagrass's shade intolerance requires alternative species on shaded sites.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q138",
-    "module": "M14",
-    "question": "Per the textbook, early U.S. golf-green plantings of bermudagrass used imported seed from:",
-    "correct": "Africa",
-    "options": [
-      "Africa",
-      "South America",
-      "Australia",
-      "Southeast Asia"
-    ],
-    "feedback": "Early U.S. bermudagrass greens were planted with seed imported from Africa.",
     "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
     "kind": "enrichment"
   },
@@ -2115,21 +1890,6 @@
     "kind": "enrichment"
   },
   {
-    "id": "m14q142",
-    "module": "M14",
-    "question": "Per the textbook, African bermudagrass is a very fine-textured, puffy, yellowish-green grass with soft hairy leaves and:",
-    "correct": "threadlike stolons",
-    "options": [
-      "threadlike stolons",
-      "thick rhizomes",
-      "no stolons at all",
-      "coarse, woody stolons"
-    ],
-    "feedback": "African bermudagrass has threadlike stolons along with its fine, puffy, yellowish-green growth.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m14q143",
     "module": "M14",
     "question": "Per the textbook, African bermudagrass is one of the parents of many:",
@@ -2145,21 +1905,6 @@
     "kind": "enrichment"
   },
   {
-    "id": "m14q144",
-    "module": "M14",
-    "question": "Per the textbook, the improved cultivar of African bermudagrass is:",
-    "correct": "Uganda",
-    "options": [
-      "Uganda",
-      "Sunturf",
-      "U-3",
-      "Tiflawn"
-    ],
-    "feedback": "Uganda is the improved African bermudagrass cultivar.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m14q145",
     "module": "M14",
     "question": "Per the textbook, Magennis bermudagrass is a sterile triploid with how many chromosomes?",
@@ -2171,21 +1916,6 @@
       "40 (2n = 4x = 40)"
     ],
     "feedback": "Magennis bermudagrass is a sterile triploid with 27 chromosomes, the same count as hybrid bermudagrass.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q146",
-    "module": "M14",
-    "question": "Per the textbook, the improved cultivar of Magennis bermudagrass is:",
-    "correct": "Sunturf",
-    "options": [
-      "Sunturf",
-      "Uganda",
-      "U-3",
-      "Tiflawn"
-    ],
-    "feedback": "Sunturf is the improved Magennis bermudagrass cultivar.",
     "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
     "kind": "enrichment"
   },
@@ -2220,21 +1950,6 @@
     "kind": "enrichment"
   },
   {
-    "id": "m14q149",
-    "module": "M14",
-    "question": "Per the textbook, Tiffine was developed from a controlled cross between Tiflawn and:",
-    "correct": "a C. transvaalensis selection",
-    "options": [
-      "a C. transvaalensis selection",
-      "a C. magennisii selection",
-      "a seleucidus-race selection",
-      "a tropical-race selection"
-    ],
-    "feedback": "Tiffine was a controlled cross of Tiflawn with a C. transvaalensis selection.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m14q150",
     "module": "M14",
     "question": "Per the textbook, Tiffine, released in 1953, proved too stemmy for use on:",
@@ -2261,21 +1976,6 @@
       "TifEagle"
     ],
     "feedback": "Tifgreen, released in 1956, became the standard for golf greens in warm subtropical and tropical climates.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q152",
-    "module": "M14",
-    "question": "Per the textbook, Tifway (Tifton 419) was a chance interspecific hybrid received in a packet of C. transvaalensis seed from:",
-    "correct": "South Africa, in 1954",
-    "options": [
-      "South Africa, in 1954",
-      "Uganda, in 1960",
-      "Australia, in 1956",
-      "Brazil, in 1962"
-    ],
-    "feedback": "Tifway arrived by chance in a packet of C. transvaalensis seed from South Africa in 1954.",
     "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
     "kind": "enrichment"
   },
@@ -2325,51 +2025,6 @@
     "kind": "enrichment"
   },
   {
-    "id": "m14q156",
-    "module": "M14",
-    "question": "Per the textbook, the ultradwarf hybrid bermudagrass FloraDwarf was selected from Tifgreen and released in:",
-    "correct": "1995",
-    "options": [
-      "1995",
-      "1953",
-      "1962",
-      "1997"
-    ],
-    "feedback": "FloraDwarf, selected from Tifgreen, was released in 1995.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q157",
-    "module": "M14",
-    "question": "Per the textbook, the ultradwarf hybrid bermudagrass TifEagle was an induced mutant by cobalt radiation from:",
-    "correct": "Tifway II, released in 1997",
-    "options": [
-      "Tifway II, released in 1997",
-      "Tifgreen, released in 1995",
-      "Tifdwarf, released in 1965",
-      "Tiflawn, released in 1953"
-    ],
-    "feedback": "TifEagle was induced by cobalt radiation from Tifway II and released in 1997.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q158",
-    "module": "M14",
-    "question": "Per the textbook, newer ultradwarf cultivars arising as somatic mutations from Tifgreen or Tifdwarf include Champion, Classic, Florida Dwarf, MS Supreme, MiniVerde, and:",
-    "correct": "Reesegrass",
-    "options": [
-      "Reesegrass",
-      "Sunturf",
-      "Uganda",
-      "Riviera"
-    ],
-    "feedback": "Reesegrass is among the newer ultradwarf bermudagrass cultivars derived as somatic mutations.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m14q159",
     "module": "M14",
     "question": "Per the textbook, the environmental adaptation of ultradwarf hybrid bermudagrasses is largely restricted to warm subtropical climates, generally below:",
@@ -2393,39 +2048,9 @@
       "creeping bentgrasses",
       "zoysiagrasses",
       "buffalograsses",
-      "fine fescues"
+      "fine-leaf fescues"
     ],
     "feedback": "In cooler climates, creeping bentgrasses are used for greens instead of cold-tolerant hybrid bermudagrass cultivars.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q161",
-    "module": "M14",
-    "question": "Per the textbook, the genus Bouteloua (gramagrasses) consists of about how many species?",
-    "correct": "50",
-    "options": [
-      "50",
-      "10",
-      "125",
-      "11"
-    ],
-    "feedback": "The genus Bouteloua includes about 50 species.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q162",
-    "module": "M14",
-    "question": "Per the textbook, species within Bouteloua with dryland turf value include buffalograss, blue grama, and:",
-    "correct": "sideoats grama",
-    "options": [
-      "sideoats grama",
-      "crested wheatgrass",
-      "fairway wheatgrass",
-      "tufted hairgrass"
-    ],
-    "feedback": "Buffalograss, blue grama, and sideoats grama are the Bouteloua species with dryland turf value.",
     "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
     "kind": "enrichment"
   },
@@ -2436,41 +2061,11 @@
     "correct": "Buchloe dactyloides [Nutt.] Engelm.",
     "options": [
       "Buchloe dactyloides [Nutt.] Engelm.",
-      "Cynodon dactylon [L.]",
-      "Zoysia dactyloides",
-      "Bouteloua gracilis"
+      "Cynodon dactylon [L.] Pers.",
+      "Zoysia dactyloides Steud.",
+      "Bouteloua gracilis [Kunth] Lag."
     ],
     "feedback": "The textbook's modern reclassification (Bouteloua dactyloides) differs from the module page's traditional name, Buchloe dactyloides.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q164",
-    "module": "M14",
-    "question": "Per the textbook, buffalograss's base chromosome number is:",
-    "correct": "10 (n = 10)",
-    "options": [
-      "10 (n = 10)",
-      "18 (n = 18)",
-      "20 (n = 20)",
-      "40 (n = 40)"
-    ],
-    "feedback": "Buffalograss has a base chromosome number of 10.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q165",
-    "module": "M14",
-    "question": "Per the textbook, buffalograss is found as diploid, tetraploid, and:",
-    "correct": "hexaploid clones",
-    "options": [
-      "hexaploid clones",
-      "octoploid clones",
-      "triploid clones",
-      "pentaploid clones"
-    ],
-    "feedback": "Buffalograss occurs as diploid, tetraploid, and hexaploid clones.",
     "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
     "kind": "enrichment"
   },
@@ -2501,51 +2096,6 @@
       "peat soils"
     ],
     "feedback": "Buffalograss is exceptionally well suited to fine-textured, alkaline soils.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q168",
-    "module": "M14",
-    "question": "Per the textbook, blue grama (Bouteloua gracilis) is generally considered a tetraploid with how many chromosomes?",
-    "correct": "40 (2n = 4x = 40)",
-    "options": [
-      "40 (2n = 4x = 40)",
-      "20 (2n = 2x = 20)",
-      "60 (2n = 6x = 60)",
-      "27 (2n = 3x = 27)"
-    ],
-    "feedback": "Blue grama is generally a tetraploid with 40 chromosomes.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q169",
-    "module": "M14",
-    "question": "Per the textbook, blue grama's vernation is:",
-    "correct": "folded",
-    "options": [
-      "folded",
-      "rolled",
-      "flat",
-      "convolute"
-    ],
-    "feedback": "Blue grama has folded vernation, unlike buffalograss's rolled vernation.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q170",
-    "module": "M14",
-    "question": "Per the textbook, sideoats grama differs from blue grama in having a ________ vernation and long, scattered hairs along the adaxial leaf blade surface.",
-    "correct": "rolled",
-    "options": [
-      "rolled",
-      "folded",
-      "flat",
-      "convolute"
-    ],
-    "feedback": "Sideoats grama has rolled vernation, unlike blue grama's folded vernation.",
     "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
     "kind": "enrichment"
   },
@@ -2598,59 +2148,14 @@
     "id": "m14q174",
     "module": "M14",
     "question": "Per the textbook, Japanese lawngrass's outstanding cold tolerance even allows it to persist in a subarctic climate, although its very short growing season makes it:",
-    "correct": "impractical for use in this climatic zone",
+    "correct": "impractical there",
     "options": [
-      "impractical for use in this climatic zone",
+      "impractical there",
       "the preferred turfgrass there",
       "toxic to livestock there",
       "unable to survive winter there"
     ],
     "feedback": "Although cold-tolerant enough to persist subarctically, Japanese lawngrass's short growing season there makes it impractical.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q175",
-    "module": "M14",
-    "question": "Per the textbook, Japanese lawngrass's late-season discoloration begins with the onset of what temperature range?",
-    "correct": "50°F to 55°F (10°C to 13°C)",
-    "options": [
-      "50°F to 55°F (10°C to 13°C)",
-      "32°F to 40°F (0°C to 4°C)",
-      "60°F to 65°F (16°C to 18°C)",
-      "70°F to 75°F (21°C to 24°C)"
-    ],
-    "feedback": "Japanese lawngrass begins late-season discoloration at 50-55°F.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q176",
-    "module": "M14",
-    "question": "Per the textbook, Japanese lawngrass's slow green-up and late discoloration result in a straw-colored turf during much of the:",
-    "correct": "winter season",
-    "options": [
-      "winter season",
-      "summer season",
-      "spring season",
-      "early fall season"
-    ],
-    "feedback": "Japanese lawngrass stays straw-colored through much of winter due to its slow green-up and early discoloration.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q177",
-    "module": "M14",
-    "question": "Per the textbook, Japanese lawngrass is being used successfully as a fairway and lawn grass in transitional climates, between temperate and subtropical zones, where some cool-season and other warm-season grasses:",
-    "correct": "encounter the limits of their environmental adaptation",
-    "options": [
-      "encounter the limits of their environmental adaptation",
-      "grow most vigorously",
-      "are entirely absent",
-      "require no management at all"
-    ],
-    "feedback": "Japanese lawngrass thrives in transitional climates where both cool- and other warm-season grasses hit adaptation limits.",
     "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
     "kind": "enrichment"
   },
@@ -2685,36 +2190,6 @@
     "kind": "enrichment"
   },
   {
-    "id": "m14q180",
-    "module": "M14",
-    "question": "Per the textbook, newer Japanese lawngrass cultivars that must be propagated vegetatively include Crowne, El Toro, and:",
-    "correct": "Palisades",
-    "options": [
-      "Palisades",
-      "Zenith",
-      "Compatibility",
-      "Meyer"
-    ],
-    "feedback": "Crowne, El Toro, and Palisades are vegetatively propagated Japanese lawngrass cultivars.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q181",
-    "module": "M14",
-    "question": "Per the textbook, newer Japanese lawngrass cultivars that can be propagated by seed include Compatibility and:",
-    "correct": "Zenith",
-    "options": [
-      "Zenith",
-      "Palisades",
-      "Crowne",
-      "El Toro"
-    ],
-    "feedback": "Compatibility and Zenith are seed-propagated Japanese lawngrass cultivars.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m14q182",
     "module": "M14",
     "question": "Per the textbook, manilagrass is described, compared with the other two Zoysia species, as:",
@@ -2726,21 +2201,6 @@
       "identical in all respects"
     ],
     "feedback": "Manilagrass is intermediate in both texture and cold tolerance among the three zoysiagrass species.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q183",
-    "module": "M14",
-    "question": "Per the textbook, improved manilagrass cultivars include Cashmere, Cavalier, Diamond, Royal, and:",
-    "correct": "Zorro",
-    "options": [
-      "Zorro",
-      "Meyer",
-      "Zenith",
-      "Uganda"
-    ],
-    "feedback": "Zorro is among the improved manilagrass cultivars listed alongside Cashmere, Cavalier, Diamond, and Royal.",
     "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
     "kind": "enrichment"
   },
@@ -2771,111 +2231,6 @@
       "irrigated-only utility turf"
     ],
     "feedback": "Mascarenegrass is typically maintained as unmowed ground cover where used.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q186",
-    "module": "M14",
-    "question": "Per the textbook, where a very dense thatch is allowed to develop on mascarenegrass, especially on untrafficked sites, ________ develop in the surface that disrupt the uniform appearance of the turf.",
-    "correct": "convolutions",
-    "options": [
-      "convolutions",
-      "bare patches",
-      "disease lesions",
-      "insect mounds"
-    ],
-    "feedback": "Heavy thatch on untrafficked mascarenegrass causes surface convolutions that disrupt uniformity.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q187",
-    "module": "M14",
-    "question": "Per the leaf-anatomy section of the textbook (p. 83), bermudagrasses (Cynodon) have relatively smooth, sometimes hairy, leaf surfaces and a ________ vernation.",
-    "correct": "folded",
-    "options": [
-      "folded",
-      "rolled",
-      "flat",
-      "convolute"
-    ],
-    "feedback": "The leaf-anatomy section confirms bermudagrass has folded vernation with smooth, sometimes hairy leaf surfaces.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q188",
-    "module": "M14",
-    "question": "Per the leaf-anatomy section of the textbook (p. 83), zoysiagrasses (Zoysia) have relatively smooth leaf surfaces, but all have a ________ vernation.",
-    "correct": "rolled",
-    "options": [
-      "rolled",
-      "folded",
-      "flat",
-      "convolute"
-    ],
-    "feedback": "The leaf-anatomy section confirms all zoysiagrasses have rolled vernation.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q189",
-    "module": "M14",
-    "question": "Per the leaf-anatomy section of the textbook (p. 83), some zoysia species have sparse, long hairs usually confined to:",
-    "correct": "the adaxial leaf surface",
-    "options": [
-      "the adaxial leaf surface",
-      "the abaxial leaf surface",
-      "the ligule only",
-      "the root hairs"
-    ],
-    "feedback": "Sparse long hairs on some zoysia species are usually confined to the adaxial (upper) leaf surface.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q190",
-    "module": "M14",
-    "question": "Which bermudagrass has more chromosomes per the textbook: common bermudagrass (36) or African bermudagrass (18)?",
-    "correct": "common bermudagrass",
-    "options": [
-      "common bermudagrass",
-      "African bermudagrass",
-      "they are equal",
-      "neither has a reported chromosome count"
-    ],
-    "feedback": "Common bermudagrass is a tetraploid (36 chromosomes), double African bermudagrass's diploid 18.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q191",
-    "module": "M14",
-    "question": "Which has a folded vernation and which has rolled, per the textbook: bermudagrass or zoysiagrass?",
-    "correct": "bermudagrass has folded; zoysiagrass has rolled",
-    "options": [
-      "bermudagrass has folded; zoysiagrass has rolled",
-      "bermudagrass has rolled; zoysiagrass has folded",
-      "both have folded vernation",
-      "both have rolled vernation"
-    ],
-    "feedback": "Per the leaf-anatomy section, bermudagrass has folded vernation while zoysiagrass has rolled vernation.",
-    "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m14q192",
-    "module": "M14",
-    "question": "Among the Bouteloua species discussed, which has folded vernation and which has rolled: blue grama or buffalograss?",
-    "correct": "blue grama has folded; buffalograss has rolled",
-    "options": [
-      "blue grama has folded; buffalograss has rolled",
-      "blue grama has rolled; buffalograss has folded",
-      "both have folded vernation",
-      "both have rolled vernation"
-    ],
-    "feedback": "Blue grama has folded vernation while buffalograss (also a Bouteloua species per the textbook) has rolled vernation.",
     "source": "Textbook Ch. 3, pp. 74-77, 83: Turfgrass Species",
     "kind": "enrichment"
   }

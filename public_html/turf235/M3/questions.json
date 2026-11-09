@@ -365,9 +365,9 @@
     "correct": "lubricates the soil and favors mycorrhizae growth",
     "options": [
       "lubricates the soil and favors mycorrhizae growth",
-      "hardens the root surface against pests",
-      "increases root cell wall rigidity",
-      "prevents any water loss"
+      "hardens the root surface against soil pests",
+      "increases the rigidity of root cell walls",
+      "prevents any water loss from the root tip"
     ],
     "feedback": "The slime sheath lubricates the soil, favors mycorrhizae growth, increases nutrient availability, promotes soil aggregation, and reduces desiccation susceptibility.",
     "source": "M3.5: Roots",
@@ -632,11 +632,11 @@
     "id": "m3q043",
     "module": "M3",
     "question": "In the rhizosphere effect progression, epidermal cell autolysis refers to cells that:",
-    "correct": "enzymatically self-destruct, providing substrates for microbial growth",
+    "correct": "self-destruct, feeding microbes",
     "options": [
-      "enzymatically self-destruct, providing substrates for microbial growth",
+      "self-destruct, feeding microbes",
       "divide rapidly to repair damage",
-      "secrete a new secondary cell wall",
+      "secrete a new secondary wall",
       "block microbial invasion entirely"
     ],
     "feedback": "Epidermal cell autolysis is the enzymatic self-destruction of cells, which provides lysates as substrate for microbial growth.",
@@ -680,9 +680,9 @@
     "correct": "excessive nitrogen fertilization",
     "options": [
       "excessive nitrogen fertilization",
-      "high soil temperature",
-      "O2 deficiency",
-      "high salt concentration"
+      "high soil temperature in summer",
+      "oxygen (O₂) deficiency",
+      "high soil salt concentration"
     ],
     "feedback": "Excessive nitrogen (along with close mowing, K deficiency, and thatch) is a cultural factor; the others are environmental.",
     "source": "M3.9: Root Growth",
@@ -875,9 +875,9 @@
     "correct": "winter survival and spring regrowth",
     "options": [
       "winter survival and spring regrowth",
-      "summer heat tolerance",
-      "seed production",
-      "disease resistance"
+      "summer heat and drought tolerance",
+      "seed production the next season",
+      "disease resistance in summer"
     ],
     "feedback": "Fall tillers are important to winter survival and spring regrowth, though they may die during summer.",
     "source": "Textbook Ch. 2, pp. 21-31: Growth and Development",

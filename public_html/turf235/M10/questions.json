@@ -1,20 +1,5 @@
 [
   {
-    "id": "m10q001",
-    "module": "M10",
-    "question": "At Beaver Stadium, perennial ryegrass is used to overseed the principally ________ turf whenever there is damage from play.",
-    "correct": "Kentucky bluegrass",
-    "options": [
-      "Kentucky bluegrass",
-      "creeping bentgrass",
-      "tall fescue",
-      "annual bluegrass"
-    ],
-    "feedback": "Beaver Stadium's turf is principally Kentucky bluegrass, overseeded with perennial ryegrass to repair damage from play.",
-    "source": "M10.1: Overview",
-    "kind": "module"
-  },
-  {
     "id": "m10q002",
     "module": "M10",
     "question": "The traits that make perennial ryegrass almost ideal for overseeding wear-damaged turf are rapid germination, vigorous seedling growth, and:",
@@ -378,9 +363,9 @@
     "id": "m10q026",
     "module": "M10",
     "question": "Besides improved stress tolerance, the fungal endophyte in perennial ryegrass also imparts:",
-    "correct": "foliar-feeding insect resistance",
+    "correct": "insect resistance",
     "options": [
-      "foliar-feeding insect resistance",
+      "insect resistance",
       "disease immunity",
       "drought-proof rooting",
       "faster seed germination"
@@ -468,11 +453,11 @@
     "id": "m10q032",
     "module": "M10",
     "question": "On a golf course, annual ryegrass's adaptation to greens is rated:",
-    "correct": "sometimes used for overseeding bermudagrass, but the perennial species is preferred",
+    "correct": "used for overseeding, but perennial is preferred",
     "options": [
-      "sometimes used for overseeding bermudagrass, but the perennial species is preferred",
+      "used for overseeding, but perennial is preferred",
       "well adapted as a permanent greens turf",
-      "not adapted at all",
+      "not adapted for greens at all",
       "the preferred overseeding species"
     ],
     "feedback": "Annual ryegrass is sometimes used for overseeding bermudagrass greens, but perennial ryegrass is preferred.",
@@ -498,11 +483,11 @@
     "id": "m10q034",
     "module": "M10",
     "question": "On a golf course, annual ryegrass's adaptation to fairways is rated:",
-    "correct": "sometimes used for overseeding bermudagrass, but the perennial species is preferred",
+    "correct": "used for overseeding, but perennial is preferred",
     "options": [
-      "sometimes used for overseeding bermudagrass, but the perennial species is preferred",
+      "used for overseeding, but perennial is preferred",
       "well adapted as a permanent fairway turf",
-      "not adapted at all",
+      "not adapted for fairways at all",
       "the preferred overseeding species"
     ],
     "feedback": "Annual ryegrass is sometimes used for overseeding bermudagrass fairways, but perennial ryegrass is preferred.",
@@ -630,21 +615,6 @@
     "kind": "enrichment"
   },
   {
-    "id": "m10q043",
-    "module": "M10",
-    "question": "The genus Lolium includes about how many species, distributed primarily within the temperate climatic zone?",
-    "correct": "10",
-    "options": [
-      "10",
-      "2",
-      "25",
-      "100"
-    ],
-    "feedback": "About 10 Lolium species are distributed primarily within the temperate zone.",
-    "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m10q044",
     "module": "M10",
     "question": "The two Lolium species used as turfgrasses are perennial ryegrass and:",
@@ -705,21 +675,6 @@
     "kind": "enrichment"
   },
   {
-    "id": "m10q048",
-    "module": "M10",
-    "question": "Ryegrasses were traditionally valued as nursegrasses in seed mixtures because of their rapid germination rate and:",
-    "correct": "vigorous seedling growth",
-    "options": [
-      "vigorous seedling growth",
-      "deep root systems",
-      "low seeding rate",
-      "high shade tolerance"
-    ],
-    "feedback": "Rapid germination and vigorous seedling growth made ryegrasses useful nursegrasses.",
-    "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m10q049",
     "module": "M10",
     "question": "According to the textbook, perennial ryegrass has a ________ growth habit.",
@@ -750,102 +705,12 @@
     "kind": "enrichment"
   },
   {
-    "id": "m10q051",
-    "module": "M10",
-    "question": "According to the textbook, the vernation of perennial ryegrass is:",
-    "correct": "folded",
-    "options": [
-      "folded",
-      "rolled",
-      "flat",
-      "convolute"
-    ],
-    "feedback": "Perennial ryegrass has folded vernation.",
-    "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m10q052",
-    "module": "M10",
-    "question": "According to the textbook, the auricles of perennial ryegrass are:",
-    "correct": "small, soft, clawlike",
-    "options": [
-      "small, soft, clawlike",
-      "pointed, clawlike",
-      "absent",
-      "long and pointed"
-    ],
-    "feedback": "Perennial ryegrass's auricles are small, soft, and clawlike.",
-    "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m10q053",
-    "module": "M10",
-    "question": "According to the textbook, the collar of perennial ryegrass is:",
-    "correct": "broad, divided",
-    "options": [
-      "broad, divided",
-      "broad, continuous",
-      "narrow, divided",
-      "narrow, continuous"
-    ],
-    "feedback": "Perennial ryegrass's collar is broad and divided.",
-    "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m10q054",
-    "module": "M10",
-    "question": "According to the textbook, the leaf blade of perennial ryegrass is how wide?",
-    "correct": "2 to 5 mm",
-    "options": [
-      "2 to 5 mm",
-      "3 to 7 mm",
-      "1 to 3 mm",
-      "8 to 12 mm"
-    ],
-    "feedback": "Perennial ryegrass's leaf blade is 2 to 5 mm wide.",
-    "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m10q055",
-    "module": "M10",
-    "question": "According to the textbook, the inflorescence of perennial ryegrass is a flat spike with:",
-    "correct": "awnless spikelets",
-    "options": [
-      "awnless spikelets",
-      "awned spikelets",
-      "a single terminal spikelet",
-      "a contracted panicle"
-    ],
-    "feedback": "Perennial ryegrass's inflorescence is a flat spike with awnless spikelets.",
-    "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m10q056",
-    "module": "M10",
-    "question": "Perennial ryegrass grows best in neutral to slightly acid, moist soils of:",
-    "correct": "moderate to high fertility",
-    "options": [
-      "moderate to high fertility",
-      "low fertility",
-      "high salinity",
-      "poorly drained, low-oxygen conditions"
-    ],
-    "feedback": "Perennial ryegrass performs best in neutral to slightly acid, moist soils of moderate to high fertility.",
-    "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m10q057",
     "module": "M10",
     "question": "Perennial ryegrass is combined with Kentucky bluegrass for:",
-    "correct": "intensively trafficked athletic turfs",
+    "correct": "heavily trafficked athletic turf",
     "options": [
-      "intensively trafficked athletic turfs",
+      "heavily trafficked athletic turf",
       "low-maintenance roadside turf",
       "shaded woodland turf",
       "saline coastal turf"
@@ -873,9 +738,9 @@
     "id": "m10q059",
     "module": "M10",
     "question": "Mowing quality on perennial ryegrass is sometimes poor because of:",
-    "correct": "tough vascular bundles within the leaf blades",
+    "correct": "tough leaf vascular bundles",
     "options": [
-      "tough vascular bundles within the leaf blades",
+      "tough leaf vascular bundles",
       "excessive thatch buildup",
       "its rhizomatous growth habit",
       "its low shoot density"
@@ -888,10 +753,10 @@
     "id": "m10q060",
     "module": "M10",
     "question": "The fungal endophyte found in perennial ryegrass cultivars is:",
-    "correct": "Neotyphodium lolii (formerly Acremonium)",
+    "correct": "Neotyphodium lolii",
     "options": [
-      "Neotyphodium lolii (formerly Acremonium)",
-      "Dreschlera poae",
+      "Neotyphodium lolii",
+      "Drechslera poae",
       "Bipolaris sorokiniana",
       "Rhizoctonia solani"
     ],
@@ -900,105 +765,15 @@
     "kind": "enrichment"
   },
   {
-    "id": "m10q061",
-    "module": "M10",
-    "question": "According to the textbook, the vernation of annual ryegrass is:",
-    "correct": "rolled",
-    "options": [
-      "rolled",
-      "folded",
-      "flat",
-      "convolute"
-    ],
-    "feedback": "Annual ryegrass has rolled vernation, unlike perennial ryegrass's folded vernation.",
-    "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m10q062",
-    "module": "M10",
-    "question": "According to the textbook, the auricles of annual ryegrass are:",
-    "correct": "pointed, clawlike",
-    "options": [
-      "pointed, clawlike",
-      "small, soft, clawlike",
-      "absent",
-      "short and blunt"
-    ],
-    "feedback": "Annual ryegrass's auricles are pointed and clawlike.",
-    "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m10q063",
-    "module": "M10",
-    "question": "According to the textbook, the collar of annual ryegrass is:",
-    "correct": "broad, continuous",
-    "options": [
-      "broad, continuous",
-      "broad, divided",
-      "narrow, divided",
-      "narrow, continuous"
-    ],
-    "feedback": "Annual ryegrass's collar is broad and continuous, unlike perennial ryegrass's broad, divided collar.",
-    "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m10q064",
-    "module": "M10",
-    "question": "According to the textbook, the leaf blade of annual ryegrass is how wide?",
-    "correct": "3 to 7 mm",
-    "options": [
-      "3 to 7 mm",
-      "2 to 5 mm",
-      "1 to 3 mm",
-      "8 to 12 mm"
-    ],
-    "feedback": "Annual ryegrass's leaf blade is 3 to 7 mm wide.",
-    "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m10q065",
-    "module": "M10",
-    "question": "According to the textbook, the abaxial leaf surface of annual ryegrass is:",
-    "correct": "smooth and glossy",
-    "options": [
-      "smooth and glossy",
-      "glossy with a strong keel",
-      "dull and essentially flat",
-      "dull with a strong keel"
-    ],
-    "feedback": "Annual ryegrass's abaxial leaf surface is smooth and glossy, without the strong keel seen on perennial ryegrass.",
-    "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m10q066",
-    "module": "M10",
-    "question": "According to the textbook, the inflorescence of annual ryegrass is a flat spike with:",
-    "correct": "awned spikelets",
-    "options": [
-      "awned spikelets",
-      "awnless spikelets",
-      "a single terminal spikelet",
-      "a contracted panicle"
-    ],
-    "feedback": "Annual ryegrass's inflorescence is a flat spike with awned spikelets, unlike perennial ryegrass's awnless spikelets.",
-    "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m10q067",
     "module": "M10",
     "question": "Annual ryegrass's use in seed mixtures is discouraged because its aggressive seedling growth may prevent establishment of:",
-    "correct": "the more desirable cool-season turfgrasses",
+    "correct": "more desirable turfgrasses",
     "options": [
-      "the more desirable cool-season turfgrasses",
+      "more desirable turfgrasses",
       "warm-season turfgrasses",
       "its own seedlings",
-      "weeds"
+      "broadleaf weeds"
     ],
     "feedback": "Annual ryegrass's vigorous seedling growth can crowd out the more desirable cool-season turfgrasses it's mixed with.",
     "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
@@ -1020,42 +795,12 @@
     "kind": "enrichment"
   },
   {
-    "id": "m10q069",
-    "module": "M10",
-    "question": "The annual ryegrass cultivar bred for better spring transition in overseeded warm-season turf is:",
-    "correct": "Panterra",
-    "options": [
-      "Panterra",
-      "Pennfine",
-      "Repell",
-      "Manhattan"
-    ],
-    "feedback": "Panterra is a relatively fine-textured, slow-growing annual ryegrass cultivar bred for better spring transition.",
-    "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m10q070",
-    "module": "M10",
-    "question": "Intermediate ryegrass's Latin name is:",
-    "correct": "Lolium x hybridum Hausskn.",
-    "options": [
-      "Lolium x hybridum Hausskn.",
-      "Lolium perenne x multiflorum",
-      "Lolium intermedium Lam.",
-      "Lolium hybridus Schreb."
-    ],
-    "feedback": "Intermediate ryegrass is Lolium x hybridum Hausskn.",
-    "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
     "id": "m10q071",
     "module": "M10",
     "question": "Intermediate ryegrass is a naturally occurring or human-made hybrid derived from crossing:",
-    "correct": "perennial ryegrass (L. perenne) and annual ryegrass (L. multiflorum)",
+    "correct": "perennial and annual ryegrass",
     "options": [
-      "perennial ryegrass (L. perenne) and annual ryegrass (L. multiflorum)",
+      "perennial and annual ryegrass",
       "perennial ryegrass and tall fescue",
       "annual ryegrass and Kentucky bluegrass",
       "two perennial ryegrass cultivars"
@@ -1068,89 +813,14 @@
     "id": "m10q072",
     "module": "M10",
     "question": "Turf-type intermediate ryegrass cultivars were developed to combine perennial ryegrass's turf quality with annual ryegrass's rapid germination and:",
-    "correct": "quick spring transition characteristics",
+    "correct": "quick spring transition",
     "options": [
-      "quick spring transition characteristics",
-      "deep root system",
+      "quick spring transition",
+      "a deep root system",
       "disease resistance",
       "shade tolerance"
     ],
     "feedback": "Intermediate ryegrass combines perennial ryegrass's turf quality with annual ryegrass's rapid germination and quick spring transition.",
-    "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m10q073",
-    "module": "M10",
-    "question": "Turf-type intermediate ryegrass cultivars include Froghair II, Transeze, and:",
-    "correct": "Transist",
-    "options": [
-      "Transist",
-      "Panterra",
-      "Pennfine",
-      "Repell"
-    ],
-    "feedback": "Froghair II, Transeze, and Transist are turf-type intermediate ryegrass cultivars.",
-    "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m10q074",
-    "module": "M10",
-    "question": "Improved turf-type perennial ryegrass cultivars listed in the textbook include Citation, Derby, Diplomat, Manhattan, Palmer, Pennant, Pennfine, and:",
-    "correct": "Repell",
-    "options": [
-      "Repell",
-      "Panterra",
-      "Transist",
-      "Reveille"
-    ],
-    "feedback": "Repell is among the improved turf-type perennial ryegrass cultivars listed alongside Citation, Derby, Diplomat, Manhattan, Palmer, Pennant, and Pennfine.",
-    "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m10q075",
-    "module": "M10",
-    "question": "Which ryegrass species has rolled vernation: perennial or annual?",
-    "correct": "annual ryegrass",
-    "options": [
-      "annual ryegrass",
-      "perennial ryegrass",
-      "both have rolled vernation",
-      "neither has rolled vernation"
-    ],
-    "feedback": "Annual ryegrass has rolled vernation; perennial ryegrass's vernation is folded.",
-    "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m10q076",
-    "module": "M10",
-    "question": "Which ryegrass species's inflorescence bears awned spikelets: perennial or annual?",
-    "correct": "annual ryegrass",
-    "options": [
-      "annual ryegrass",
-      "perennial ryegrass",
-      "both bear awned spikelets",
-      "neither bears awned spikelets"
-    ],
-    "feedback": "Annual ryegrass's spikelets are awned; perennial ryegrass's spikelets are awnless.",
-    "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
-    "kind": "enrichment"
-  },
-  {
-    "id": "m10q077",
-    "module": "M10",
-    "question": "Which ryegrass species has a glossy, strongly keeled abaxial leaf surface: perennial or annual?",
-    "correct": "perennial ryegrass",
-    "options": [
-      "perennial ryegrass",
-      "annual ryegrass",
-      "both have a keeled abaxial surface",
-      "neither has a keeled abaxial surface"
-    ],
-    "feedback": "Perennial ryegrass's abaxial leaf surface is glossy with a strong keel; annual ryegrass's is smooth and glossy without a keel.",
     "source": "Textbook Ch. 3, pp. 66-68: Turfgrass Species",
     "kind": "enrichment"
   },

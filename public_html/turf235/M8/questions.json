@@ -168,12 +168,12 @@
     "id": "m8q012",
     "module": "M8",
     "question": "Within the Panicoideae's Paniceae tribe are the genera Axonopus (carpetgrass), Pennisetum (kikuyugrass), Stenotaphrum (St. Augustinegrass), and:",
-    "correct": "Paspalum (bahiagrass, seashore paspalum)",
+    "correct": "Paspalum",
     "options": [
-      "Paspalum (bahiagrass, seashore paspalum)",
-      "Cynodon (bermudagrasses)",
-      "Agrostis (bentgrasses)",
-      "Poa (bluegrasses)"
+      "Paspalum",
+      "Cynodon",
+      "Agrostis",
+      "Poa"
     ],
     "feedback": "Paspalum, covering bahiagrass and seashore paspalum, is the fourth genus in the Paniceae tribe.",
     "source": "M8.3: Turfgrass Taxonomy",
@@ -438,9 +438,9 @@
     "id": "m8q030",
     "module": "M8",
     "question": "For some species, such as Poa annua, the Latin name is:",
-    "correct": "more popular than the common name (annual bluegrass)",
+    "correct": "more popular than the common name",
     "options": [
-      "more popular than the common name (annual bluegrass)",
+      "more popular than the common name",
       "never used in practice",
       "identical to its common name",
       "reserved for scientific papers only"

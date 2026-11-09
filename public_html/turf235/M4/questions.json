@@ -23,7 +23,7 @@
       "flowering culm",
       "rhizome",
       "stolon",
-      "crown"
+      "crown node"
     ],
     "feedback": "The inflorescence sits atop the flowering culm, which develops from the growing point of the flowering shoot.",
     "source": "M4.2: Inflorescence",
@@ -348,12 +348,12 @@
     "id": "m4q024",
     "module": "M4",
     "question": "A day-neutral plant flowers:",
-    "correct": "at any naturally occurring daylength, if other requirements are met",
+    "correct": "at any daylength, if other needs are met",
     "options": [
-      "at any naturally occurring daylength, if other requirements are met",
+      "at any daylength, if other needs are met",
       "only above a critical daylength",
       "only below a critical daylength",
-      "only after vernalization"
+      "only after a cold vernalization period"
     ],
     "feedback": "Day-neutral plants flower at any naturally occurring daylength as long as other requirements are satisfied.",
     "source": "M4.4: Phases of Inflorescence Development",
@@ -528,9 +528,9 @@
     "id": "m4q036",
     "module": "M4",
     "question": "For successful germination, the new seedbed should be lightly raked and then lightly rolled in order to:",
-    "correct": "establish good seed-to-soil contact and retain moisture",
+    "correct": "ensure seed-soil contact and hold moisture",
     "options": [
-      "establish good seed-to-soil contact and retain moisture",
+      "ensure seed-soil contact and hold moisture",
       "bury the seed as deeply as possible",
       "increase soil temperature rapidly",
       "remove weed seeds from the site"
@@ -876,8 +876,8 @@
     "correct": "above the glumes, often between florets",
     "options": [
       "above the glumes, often between florets",
-      "below the glumes as well",
-      "at the coleoptile",
+      "below the glumes, as in panicoids",
+      "at the coleoptile node",
       "within the rachilla only"
     ],
     "feedback": "Disarticulation happens below the glumes in panicoid grasses, but above the glumes (often between florets) in pooid and chloridoid grasses.",

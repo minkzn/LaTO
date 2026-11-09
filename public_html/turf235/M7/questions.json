@@ -18,9 +18,9 @@
     "id": "m7q002",
     "module": "M7",
     "question": "Trewartha proposed a refinement to Köppen's system in 1966 (and again in 1968) primarily to address limitations in Köppen's treatment of:",
-    "correct": "mid-latitude climates (roughly 30°-60°)",
+    "correct": "mid-latitude climates",
     "options": [
-      "mid-latitude climates (roughly 30°-60°)",
+      "mid-latitude climates",
       "tropical rainforest climates",
       "polar icecap climates",
       "ocean current patterns"
@@ -291,9 +291,9 @@
     "correct": "Mediterranean climate",
     "options": [
       "Mediterranean climate",
-      "monsoon tropics",
+      "monsoon tropical climate",
       "boreal climate",
-      "transition zone"
+      "transition zone climate"
     ],
     "feedback": "Newport Beach's Csb classification is also commonly called a Mediterranean climate.",
     "source": "M7.6: Subtropical Climate",
@@ -323,7 +323,7 @@
       "cool subtropical humid (Cfb)",
       "tropical wet (Ar)",
       "polar tundra (Ft)",
-      "hot desert (BWh)"
+      "hot desert, low latitude (BWh)"
     ],
     "feedback": "The U.S. Transition Zone generally corresponds to a cool subtropical humid (Cfb) climate: 7-11 months above 50°F, uniform rainfall, warmest month below 80°F.",
     "source": "M7.6: Subtropical Climate",
@@ -513,11 +513,11 @@
     "id": "m7q035",
     "module": "M7",
     "question": "Within polar climates, polar tundra (Ft) has a warmest month above 32°F, while polar icecap (Fi) has:",
-    "correct": "temperatures below 32°F for all months",
+    "correct": "all months below 32°F",
     "options": [
-      "temperatures below 32°F for all months",
+      "all months below 32°F",
       "a warmest month above 50°F",
-      "only summer precipitation",
+      "summer-only precipitation",
       "no distinguishing feature"
     ],
     "feedback": "Polar icecap (Fi) climates stay below 32°F in every month, unlike polar tundra (Ft), which rises above 32°F in its warmest month.",
@@ -618,12 +618,12 @@
     "id": "m7q042",
     "module": "M7",
     "question": "A subtropical dry-summer (Cs) climate occurs within a narrow band in Northern Africa and Southern Europe surrounding the Mediterranean Sea — this is commonly called:",
-    "correct": "the Mediterranean climate",
+    "correct": "the Mediterranean",
     "options": [
-      "the Mediterranean climate",
+      "the Mediterranean",
       "the Transition Zone",
-      "the boreal climate",
-      "the monsoon climate"
+      "the boreal forest zone",
+      "the monsoon tropics"
     ],
     "feedback": "This narrow Cs band around the Mediterranean Sea gives the Mediterranean climate its name.",
     "source": "M7.10: Temperature-Based Climate Classification System",
@@ -648,11 +648,11 @@
     "id": "m7q044",
     "module": "M7",
     "question": "Much of the interior of Central and Northern Asia is dry and, at high elevations, cold — largely due to:",
-    "correct": "extensive mountain ranges and the vastness of the continent",
+    "correct": "mountain ranges and the continent's size",
     "options": [
-      "extensive mountain ranges and the vastness of the continent",
+      "mountain ranges and the continent's size",
       "proximity to the Arctic Ocean alone",
-      "lack of any mountain ranges",
+      "a complete lack of mountain ranges",
       "excessive rainfall from monsoons"
     ],
     "feedback": "Extensive mountain ranges and sheer continental size drive the dry, cold interior climate of Central and Northern Asia.",

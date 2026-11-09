@@ -777,9 +777,9 @@
     "correct": "very long, pointed, clawlike",
     "options": [
       "very long, pointed, clawlike",
-      "short and blunt",
-      "entirely absent",
-      "pubescent only"
+      "short, blunt, and hairy",
+      "entirely absent on all tillers",
+      "small and pubescent only"
     ],
     "feedback": "Annual ryegrass has very long, pointed, clawlike auricles.",
     "source": "M2.8: Auricles",
@@ -837,9 +837,9 @@
     "correct": "short, blunt, and pubescent",
     "options": [
       "short, blunt, and pubescent",
-      "very long, pointed",
-      "absent",
-      "large and clawlike"
+      "very long, pointed, clawlike",
+      "absent on most tillers",
+      "large, clawlike, and smooth"
     ],
     "feedback": "Tall fescue's auricles are short, blunt, and pubescent.",
     "source": "M2.8: Auricles",

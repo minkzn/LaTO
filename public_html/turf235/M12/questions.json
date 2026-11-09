@@ -1,20 +1,5 @@
 [
   {
-    "id": "m12q001",
-    "module": "M12",
-    "question": "Most fungi are \"decomposers\" that function in breaking down organic residues that would otherwise:",
-    "correct": "bury the planet in debris",
-    "options": [
-      "bury the planet in debris",
-      "poison the soil microbiome",
-      "prevent seed germination",
-      "cause turfgrass disease"
-    ],
-    "feedback": "Most fungi are decomposers that break down organic residues that would otherwise bury the planet in debris.",
-    "source": "M12.1: Overview",
-    "kind": "module"
-  },
-  {
     "id": "m12q002",
     "module": "M12",
     "question": "An endophyte is a type of beneficial fungus whose symbiotic association with host plants imparts greater drought, insect, and ________ resistance than would otherwise occur.",
@@ -26,51 +11,6 @@
       "temperature"
     ],
     "feedback": "Endophytes impart greater drought, insect, and disease resistance to their host plants.",
-    "source": "M12.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m12q003",
-    "module": "M12",
-    "question": "The appealing prospect raised by endophyte research is:",
-    "correct": "pest control without pesticides",
-    "options": [
-      "pest control without pesticides",
-      "fertilizer-free turf establishment",
-      "mowing-free turf management",
-      "irrigation-free turf in any climate"
-    ],
-    "feedback": "Endophyte research raised the appealing prospect of pest control without pesticides.",
-    "source": "M12.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m12q004",
-    "module": "M12",
-    "question": "By the end of Module 12, you should be able to define and describe an endophyte and identify which turfgrasses:",
-    "correct": "have endophytes",
-    "options": [
-      "have endophytes",
-      "are warm-season species",
-      "require vernalization",
-      "are classified as pooids"
-    ],
-    "feedback": "A learning objective of Module 12 is identifying which turfgrasses have endophytes.",
-    "source": "M12.1: Overview",
-    "kind": "module"
-  },
-  {
-    "id": "m12q005",
-    "module": "M12",
-    "question": "Among the Module 12 learning objectives is recognizing diseases associated with the presence of endophytes, and showing how the presence of an endophyte is:",
-    "correct": "detected",
-    "options": [
-      "detected",
-      "eliminated",
-      "transmitted to humans",
-      "measured in parts per million"
-    ],
-    "feedback": "A learning objective of Module 12 is showing how the presence of an endophyte is detected.",
     "source": "M12.1: Overview",
     "kind": "module"
   },
@@ -243,9 +183,9 @@
     "id": "m12q017",
     "module": "M12",
     "question": "Endophytes have historically been a problem in forage grasses because they produce alkaloid poisons that adversely affect:",
-    "correct": "herbivores grazing on infected populations",
+    "correct": "grazing herbivores",
     "options": [
-      "herbivores grazing on infected populations",
+      "grazing herbivores",
       "the turfgrass root system",
       "soil microbial communities",
       "nearby pollinator populations"
@@ -408,9 +348,9 @@
     "id": "m12q028",
     "module": "M12",
     "question": "The crown — where the endophyte occurs, along with the lower portion of leaf sheaths emanating from it — is described as a:",
-    "correct": "highly compressed stem located at the base of aerial shoots",
+    "correct": "compressed stem at the shoot base",
     "options": [
-      "highly compressed stem located at the base of aerial shoots",
+      "compressed stem at the shoot base",
       "swollen underground tuber",
       "cluster of adventitious roots",
       "waxy cuticle layer"
@@ -483,9 +423,9 @@
     "id": "m12q033",
     "module": "M12",
     "question": "To prepare a seed squash for microscopic examination of endophyte hyphae, seeds are first soaked in water and allowed to swell, then stained with a pigment, and finally:",
-    "correct": "squashed for microscopic examination",
+    "correct": "squashed",
     "options": [
-      "squashed for microscopic examination",
+      "squashed",
       "frozen for later testing",
       "germinated in soil",
       "dried and weighed"
@@ -708,9 +648,9 @@
     "id": "m12q048",
     "module": "M12",
     "question": "Per the textbook, the inclusion of endophytes in creeping red fescue cultivars has been shown to improve drought resistance, insect tolerance, and:",
-    "correct": "resistance to some diseases",
+    "correct": "disease resistance",
     "options": [
-      "resistance to some diseases",
+      "disease resistance",
       "seed germination rate",
       "cold hardiness only",
       "chlorophyll content"
@@ -723,12 +663,12 @@
     "id": "m12q049",
     "module": "M12",
     "question": "Per the textbook, which fine fescue species carries the SAME pair of endophyte species (Neotyphodium typhinum and Epichloe typhina) as creeping red fescue: slender creeping red fescue and Chewings fescue, or only tall fescue?",
-    "correct": "slender creeping red fescue and Chewings fescue",
+    "correct": "slender creeping red and Chewings",
     "options": [
-      "slender creeping red fescue and Chewings fescue",
+      "slender creeping red and Chewings",
       "only tall fescue",
       "only hard fescue",
-      "none of the other fescues carry it"
+      "none of the other fine fescues"
     ],
     "feedback": "Slender creeping red fescue, Chewings fescue, and hard fescue cultivars all carry Neotyphodium typhinum and Epichloe typhina, same as creeping red fescue.",
     "source": "Textbook Ch. 3, pp. 61-69: Turfgrass Species",
