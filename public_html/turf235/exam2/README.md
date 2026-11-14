@@ -2,24 +2,24 @@
 
 ## Contents
 - `study-guide.html` — searchable/printable study guide
-- `quiz.html` — 1201-question quiz, 10 at a time
-- `questions.json` — the question bank; currently the union of M10-M20, will grow as later modules are added
+- `quiz.html` — 150-question quiz, 10 at a time
+- `questions.json` — the 150-question practice exam (full per-module banks live in `../M#/questions.json`)
 - `styles.css`
 
 ## Question distribution
-Each module's questions carry over 1:1 from its own module bank (`../M#/questions.json`), so the distribution naturally reflects how much well-formed material each module supports — nothing here is padded to a fixed count.
+About 95% of questions restate items from the actual M10–M20 Canvas module quizzes (reworded, flipped, or with fresh distractors); the rest are high-yield module-page/textbook details. Weighting follows quiz size and content density. Where a quiz answer key disagrees with the module pages, the quiz key is followed.
 
-- M10: 61
-- M11: 119
-- M12: 50
-- M13: 107
-- M14: 149
-- M15: 171
-- M16: 104
-- M17: 122
-- M18: 59
-- M19: 161
-- M20: 98
+- M10: 8
+- M11: 12
+- M12: 8
+- M13: 12
+- M14: 12
+- M15: 12
+- M16: 14
+- M17: 20
+- M18: 10
+- M19: 24
+- M20: 18
 
 ## Accuracy / source rules
 - Each question is modeled on the real Canvas quiz style for its module and sourced from that module's own course PDFs, with a curated slice of textbook enrichment on the same topics where it adds real depth.
