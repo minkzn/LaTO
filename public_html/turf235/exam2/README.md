@@ -7,7 +7,7 @@
 - `styles.css`
 
 ## Question distribution
-About 95% of questions restate items from the actual M10–M20 Canvas module quizzes (reworded, flipped, or with fresh distractors); the rest are high-yield module-page/textbook details. Weighting follows quiz size and content density. Where a quiz answer key disagrees with the module pages, the quiz key is followed.
+Built on the Exam 1 pattern (exact quiz repeats are rare; the professor keeps quiz relationships but flips one variable or rewords the definition). About half the questions take M10–M20 quiz facts from the opposite direction (inverses, complements, which-is-NOT, term and definition swapped); the other half are module-page details from the per-module banks. Questions are interleaved across modules. Where a quiz answer key disagrees with the module pages, the quiz key is followed.
 
 - M10: 8
 - M11: 12
