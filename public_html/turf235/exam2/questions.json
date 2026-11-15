@@ -2246,5 +2246,1516 @@
     "source": "M13 module quiz (reworked)",
     "kind": "module",
     "tag": "grass-id"
+  },
+  {
+    "id": "e2r151",
+    "module": "M20",
+    "question": "An over-watered fairway center with dry edges indicates:",
+    "correct": "a single-row system",
+    "options": [
+      "a single-row system",
+      "a multiple-row system",
+      "excessive line pressure",
+      "calm, wind-free weather"
+    ],
+    "feedback": "Single rows cannot cover the edges.",
+    "source": "M20 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r152",
+    "module": "M19",
+    "question": "Released urea is hydrolyzed to ammonium by the enzyme:",
+    "correct": "urease",
+    "options": [
+      "urease",
+      "nitrogenase",
+      "amylase",
+      "phosphatase"
+    ],
+    "feedback": "Ammonium then nitrifies to nitrate.",
+    "source": "M19.4: Nitrogen Carriers",
+    "kind": "module"
+  },
+  {
+    "id": "e2r153",
+    "module": "M15",
+    "question": "The panicoid adapted for fairways but often a troublesome weed is:",
+    "correct": "kikuyugrass",
+    "options": [
+      "kikuyugrass",
+      "bahiagrass",
+      "centipedegrass",
+      "St. Augustinegrass"
+    ],
+    "feedback": "\"Well adapted, if not a weed.\"",
+    "source": "M15 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r154",
+    "module": "M13",
+    "question": "For lawn turf, creeping bentgrass can be adapted for:",
+    "correct": "intensively cultured lawns only",
+    "options": [
+      "intensively cultured lawns only",
+      "any intensity of lawn culture",
+      "low intensities of culture only",
+      "it is not adapted for lawns at all"
+    ],
+    "feedback": "Creeping bentgrass can be adapted only for intensively cultured lawns.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "e2r155",
+    "module": "M14",
+    "question": "Hybrid bermudagrass and hybrid zoysiagrass both:",
+    "correct": "are interspecific hybrids",
+    "options": [
+      "are interspecific hybrids",
+      "are bunch-type grasses",
+      "have folded vernation",
+      "are cool-season turfgrasses"
+    ],
+    "feedback": "Crosses between species of the same genus.",
+    "source": "M14 module quiz (reworked)",
+    "kind": "module",
+    "tag": "grass-id"
+  },
+  {
+    "id": "e2r156",
+    "module": "M13",
+    "question": "The preferred irrigation amount for colonial bentgrass is:",
+    "correct": "needed moderately",
+    "options": [
+      "needed moderately",
+      "needed frequently",
+      "low to moderate",
+      "not needed"
+    ],
+    "feedback": "Colonial bentgrass needs moderate irrigation.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "e2r157",
+    "module": "M16",
+    "question": "Compared with annual bluegrass, creeping bentgrass under long ice cover is:",
+    "correct": "far more tolerant",
+    "options": [
+      "far more tolerant",
+      "far less tolerant",
+      "about equally tolerant"
+    ],
+    "feedback": "They sit at opposite ends of ice tolerance.",
+    "source": "M16 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r158",
+    "module": "M16",
+    "question": "Which pair of processes both move heat with moving air?",
+    "correct": "convection and advection",
+    "options": [
+      "convection and advection",
+      "conduction and radiation",
+      "conduction and convection",
+      "radiation and advection"
+    ],
+    "feedback": "Conduction requires contact.",
+    "source": "M16 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r159",
+    "module": "M19",
+    "question": "N release is LEAST affected by temperature with:",
+    "correct": "IBDU",
+    "options": [
+      "IBDU",
+      "UF",
+      "natural organics",
+      "MDU"
+    ],
+    "feedback": "IBDU release depends on moisture.",
+    "source": "M19 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r160",
+    "module": "M14",
+    "question": "Hybrid bermudagrass is prone to scalp, especially during:",
+    "correct": "summer, with vigorous growth and thatch",
+    "options": [
+      "summer, with vigorous growth and thatch",
+      "the winter months during dormancy",
+      "periods of drought stress",
+      "periods of heavy shade"
+    ],
+    "feedback": "Hybrid bermudagrass scalps most in summer, when vigorous growth promotes thatch formation.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "e2r161",
+    "module": "M10",
+    "question": "Genetic improvements distinguishing turf-type from forage-type perennial ryegrass include finer texture, higher density, improved mowing quality, improved stress tolerance, slower shoot growth rate, and:",
+    "correct": "more pleasing color",
+    "options": [
+      "more pleasing color",
+      "deeper rhizome growth",
+      "larger seed heads",
+      "higher chromosome number"
+    ],
+    "feedback": "Turf-type perennial ryegrass was bred for finer texture, higher density, better mowing quality and stress tolerance, slower shoot growth, and more pleasing color than the forage type.",
+    "source": "M10.3: Close-up of Perennial Ryegrass",
+    "kind": "module"
+  },
+  {
+    "id": "e2r162",
+    "module": "M20",
+    "question": "Runoff is most likely with:",
+    "correct": "a fast rate on a compacted slope",
+    "options": [
+      "a fast rate on a compacted slope",
+      "a slow rate on flat, sandy ground",
+      "short cycles on a gentle slope",
+      "a slow rate on flat loam"
+    ],
+    "feedback": "PR exceeds IC.",
+    "source": "M20 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r163",
+    "module": "M17",
+    "question": "Thatchy turf is more prone to wilt because:",
+    "correct": "soil water can't move up into dry thatch",
+    "options": [
+      "soil water can't move up into dry thatch",
+      "thatch holds too much water for roots",
+      "the underlying soil drains too quickly",
+      "the thatch layer blocks transpiration"
+    ],
+    "feedback": "Capillary flow cannot enter coarse thatch.",
+    "source": "M17.10: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "e2r164",
+    "module": "M13",
+    "question": "Velvet bentgrass is most evident as dense patches in old greens established with:",
+    "correct": "a mixture of bentgrass species",
+    "options": [
+      "a mixture of bentgrass species",
+      "a pure stand of Kentucky bluegrass",
+      "a mixture of fine fescues",
+      "a single creeping bentgrass cultivar"
+    ],
+    "feedback": "Velvet bentgrass shows up as dense patches in old greens originally established with a mixture of bentgrass species.",
+    "source": "M13.5: Velvet Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "e2r165",
+    "module": "M18",
+    "question": "Syringing is most likely needed on:",
+    "correct": "greens",
+    "options": [
+      "greens",
+      "roughs",
+      "high-cut lawns",
+      "dormant turf"
+    ],
+    "feedback": "Shallow roots can't keep up with demand.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "e2r166",
+    "module": "M20",
+    "question": "Evaporation plus transpiration is called:",
+    "correct": "evapotranspiration",
+    "options": [
+      "evapotranspiration",
+      "infiltration",
+      "percolation",
+      "upward capillary flow"
+    ],
+    "feedback": "The main loss from the moisture pool.",
+    "source": "M20.2: Watering",
+    "kind": "module"
+  },
+  {
+    "id": "e2r167",
+    "module": "M15",
+    "question": "For lawn turf, St. Augustinegrass is well adapted for:",
+    "correct": "high cultural intensities",
+    "options": [
+      "high cultural intensities",
+      "low cultural intensities",
+      "saline soils only",
+      "minimum-maintenance sites"
+    ],
+    "feedback": "St. Augustinegrass lawns are well adapted for high cultural intensities.",
+    "source": "M15.2: St. Augustinegrass",
+    "kind": "module"
+  },
+  {
+    "id": "e2r168",
+    "module": "M12",
+    "question": "Which statement about turfgrass endophytes is FALSE?",
+    "correct": "they spread by airborne spores",
+    "options": [
+      "they spread by airborne spores",
+      "they live in crowns and culms",
+      "they occur in the aleurone layer",
+      "they produce alkaloids"
+    ],
+    "feedback": "They make no reproductive spores; transmission is through seed.",
+    "source": "M12 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r169",
+    "module": "M13",
+    "question": "Velvet bentgrass needs frequent topdressing and gentle cultivation because it is:",
+    "correct": "dense, slow-growing, and thatchy",
+    "options": [
+      "dense, slow-growing, and thatchy",
+      "coarse, fast-growing, and open",
+      "rhizomatous and very aggressive",
+      "bunch-type and slow to spread"
+    ],
+    "feedback": "Serious thatch former with very slow recovery.",
+    "source": "M13 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r170",
+    "module": "M12",
+    "question": "The presence of endophytes is also associated with improved drought tolerance, although the scientific basis for this effect is:",
+    "correct": "unknown",
+    "options": [
+      "unknown",
+      "fully characterized",
+      "due solely to deeper rooting",
+      "due solely to reduced transpiration"
+    ],
+    "feedback": "The scientific basis for endophyte-associated drought tolerance is unknown.",
+    "source": "M12.2: The Good Fungi",
+    "kind": "module"
+  },
+  {
+    "id": "e2r171",
+    "module": "M17",
+    "question": "Positively charged ions are called:",
+    "correct": "cations",
+    "options": [
+      "cations",
+      "anions",
+      "colloids",
+      "separates"
+    ],
+    "feedback": "e.g., K⁺, NH₄⁺, Ca²⁺.",
+    "source": "M17.7: Soil Chemistry",
+    "kind": "module"
+  },
+  {
+    "id": "e2r172",
+    "module": "M18",
+    "question": "Which is NOT one of the forms of traffic injury?",
+    "correct": "scalping",
+    "options": [
+      "scalping",
+      "wear",
+      "rutting",
+      "divoting"
+    ],
+    "feedback": "Scalping is a mowing injury.",
+    "source": "M18 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r173",
+    "module": "M17",
+    "question": "Compared with the atmosphere, soil air has less oxygen and more:",
+    "correct": "carbon dioxide",
+    "options": [
+      "carbon dioxide",
+      "nitrogen gas",
+      "helium and argon",
+      "ozone"
+    ],
+    "feedback": "Roots and microbes respire.",
+    "source": "M17 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r174",
+    "module": "M11",
+    "question": "Which pair both belong to the red fescue complex?",
+    "correct": "Chewings and slender creeping red fescue",
+    "options": [
+      "Chewings and slender creeping red fescue",
+      "tall fescue and meadow fescue",
+      "hard fescue and strong creeping red fescue",
+      "sheep fescue and tall fescue"
+    ],
+    "feedback": "Strong creeping, slender creeping, and Chewings fescue.",
+    "source": "M11 module quiz (reworked)",
+    "kind": "module",
+    "tag": "grass-id"
+  },
+  {
+    "id": "e2r175",
+    "module": "M17",
+    "question": "Incorporating soil into thatch increases which pair?",
+    "correct": "bulk density and water retention",
+    "options": [
+      "bulk density and water retention",
+      "resiliency and aeration porosity",
+      "resiliency and bulk density",
+      "aeration porosity and water retention"
+    ],
+    "feedback": "Resiliency and aeration porosity decrease.",
+    "source": "M17 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r176",
+    "module": "M16",
+    "question": "Water that freezes slowly forms:",
+    "correct": "black (clear) ice",
+    "options": [
+      "black (clear) ice",
+      "white (cloudy) ice",
+      "frost",
+      "slush"
+    ],
+    "feedback": "Slush and freezing rain form white ice.",
+    "source": "M16.9: Wind",
+    "kind": "module"
+  },
+  {
+    "id": "e2r177",
+    "module": "M20",
+    "question": "Turf on sandy soil should generally be irrigated:",
+    "correct": "more often, in smaller amounts",
+    "options": [
+      "more often, in smaller amounts",
+      "less often, in larger amounts",
+      "once a week, very deeply",
+      "only after wilt symptoms appear"
+    ],
+    "feedback": "Sand holds little available water.",
+    "source": "M20 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r178",
+    "module": "M13",
+    "question": "Which turfgrass is an Agrostis species?",
+    "correct": "redtop",
+    "options": [
+      "redtop",
+      "tall fescue",
+      "red fescue",
+      "perennial ryegrass"
+    ],
+    "feedback": "Redtop is a bentgrass.",
+    "source": "M13 module quiz (reworked)",
+    "kind": "module",
+    "tag": "grass-id"
+  },
+  {
+    "id": "e2r179",
+    "module": "M18",
+    "question": "A soil-based turf lacking mat is highly susceptible to:",
+    "correct": "compaction",
+    "options": [
+      "compaction",
+      "black layer",
+      "salt injury",
+      "hydrophobicity"
+    ],
+    "feedback": "Depends on earthworms and soil organisms.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "e2r180",
+    "module": "M11",
+    "question": "Hybridization of perennial ryegrass with tall fescue produces an intergeneric hybrid called:",
+    "correct": "Festulolium",
+    "options": [
+      "Festulolium",
+      "Schedolium",
+      "Loliofestuca",
+      "Festulium"
+    ],
+    "feedback": "Crossing perennial ryegrass with tall fescue produces the intergeneric hybrid Festulolium.",
+    "source": "M11.5: Tall Fescue",
+    "kind": "module",
+    "tag": "grass-id"
+  },
+  {
+    "id": "e2r181",
+    "module": "M12",
+    "question": "Microscopically, the endophytic fungus can be seen growing inside cells of the:",
+    "correct": "leaf sheaths",
+    "options": [
+      "leaf sheaths",
+      "root hairs",
+      "stomata",
+      "flower petals"
+    ],
+    "feedback": "A microscopic view shows the endophytic fungus growing inside cells of the leaf sheaths.",
+    "source": "M12.2: The Good Fungi",
+    "kind": "module"
+  },
+  {
+    "id": "e2r182",
+    "module": "M15",
+    "question": "\"Lazy man's grass,\" suited to low maintenance on acid soils, is:",
+    "correct": "centipedegrass",
+    "options": [
+      "centipedegrass",
+      "St. Augustinegrass",
+      "bermudagrass",
+      "kikuyugrass"
+    ],
+    "feedback": "Low fertility, acid soil.",
+    "source": "M15 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r183",
+    "module": "M20",
+    "question": "Rings of green turf around each head (\"blowing doughnuts\") indicate:",
+    "correct": "low pressure",
+    "options": [
+      "low pressure",
+      "high pressure",
+      "correct pressure",
+      "calm wind"
+    ],
+    "feedback": "Most dramatic in arid climates.",
+    "source": "M20.8: Water Distribution Patterns",
+    "kind": "module"
+  },
+  {
+    "id": "e2r184",
+    "module": "M18",
+    "question": "Shade reduces wear tolerance mainly through:",
+    "correct": "thin tissue and shallow roots",
+    "options": [
+      "thin tissue and shallow roots",
+      "heavier thatch formation",
+      "faster crown growth",
+      "higher carbohydrate reserve levels"
+    ],
+    "feedback": "Far-red-rich light weakens the plant.",
+    "source": "M18 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r185",
+    "module": "M13",
+    "question": "The Latin name of colonial bentgrass is:",
+    "correct": "Agrostis capillaris L.",
+    "options": [
+      "Agrostis capillaris L.",
+      "Agrostis stolonifera L.",
+      "Agrostis canina L.",
+      "Agrostis gigantea With."
+    ],
+    "feedback": "Colonial bentgrass is Agrostis capillaris L.",
+    "source": "M13.4: Colonial Bentgrass",
+    "kind": "module",
+    "tag": "grass-id"
+  },
+  {
+    "id": "e2r186",
+    "module": "M14",
+    "question": "Comparing a hybrid bermudagrass collar to a green, density, texture, and growth habit are profoundly influenced by:",
+    "correct": "the mowing height difference",
+    "options": [
+      "the mowing height difference",
+      "the fertilization difference",
+      "the irrigation difference",
+      "the soil pH difference"
+    ],
+    "feedback": "The mowing height difference between collar and green profoundly affects density, texture, and growth habit.",
+    "source": "M14.3: Hybrid Bermudagrass",
+    "kind": "module"
+  },
+  {
+    "id": "e2r187",
+    "module": "M19",
+    "question": "The primary nutrients are:",
+    "correct": "N, P, and K",
+    "options": [
+      "N, P, and K",
+      "Ca, Mg, and S",
+      "Fe, Mn, and Zn",
+      "N, Ca, and Fe"
+    ],
+    "feedback": "Ca, Mg, S are secondary.",
+    "source": "M19 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r188",
+    "module": "M11",
+    "question": "Red fescues can be very thatch prone, especially in:",
+    "correct": "sunny sites with vigorous growth",
+    "options": [
+      "sunny sites with vigorous growth",
+      "shaded, low-fertility sites",
+      "saline coastal sites",
+      "compacted, low-oxygen soils"
+    ],
+    "feedback": "Red fescues are very thatch prone, especially in sunny environments where growth is vigorous.",
+    "source": "M11.3: Red and Fine Fescues",
+    "kind": "module"
+  },
+  {
+    "id": "e2r189",
+    "module": "M20",
+    "question": "Golf courses commonly use which sprinklers?",
+    "correct": "pop-up or quick coupler",
+    "options": [
+      "pop-up or quick coupler",
+      "oscillating sprinklers",
+      "hose-end impact sprinklers",
+      "soaker hoses"
+    ],
+    "feedback": "Lawns: hose-and-sprinkler.",
+    "source": "M20.6: Water Application",
+    "kind": "module"
+  },
+  {
+    "id": "e2r190",
+    "module": "M11",
+    "question": "Creeping red fescue, Hard fescue, and Tall fescue all belong to a single genus:",
+    "correct": "Festuca",
+    "options": [
+      "Festuca",
+      "Lolium",
+      "Poa",
+      "Schedonorus"
+    ],
+    "feedback": "All three turfgrasses reviewed in this module belong to the genus Festuca.",
+    "source": "M11.1: Overview",
+    "kind": "module",
+    "tag": "grass-id"
+  },
+  {
+    "id": "e2r191",
+    "module": "M15",
+    "question": "Irrigation for bahiagrass will be:",
+    "correct": "minimal",
+    "options": [
+      "minimal",
+      "frequent",
+      "moderate",
+      "for growth and color"
+    ],
+    "feedback": "Bahiagrass needs only minimal irrigation.",
+    "source": "M15.6: Bahiagrass",
+    "kind": "module"
+  },
+  {
+    "id": "e2r192",
+    "module": "M16",
+    "question": "Removing trees on the east side of a green mainly reduces:",
+    "correct": "morning shade",
+    "options": [
+      "morning shade",
+      "afternoon shade",
+      "wind exposure",
+      "ice cover"
+    ],
+    "feedback": "Morning shade is the more damaging.",
+    "source": "M16 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r193",
+    "module": "M14",
+    "question": "Cynodon dactylon is usually referred to as:",
+    "correct": "common bermudagrass",
+    "options": [
+      "common bermudagrass",
+      "African bermudagrass",
+      "hybrid bermudagrass",
+      "Magennis bermudagrass"
+    ],
+    "feedback": "Cynodon dactylon is usually called common bermudagrass.",
+    "source": "M14.2: Bermudagrasses",
+    "kind": "module",
+    "tag": "grass-id"
+  },
+  {
+    "id": "e2r194",
+    "module": "M10",
+    "question": "Gray leaf spot is an especially serious threat to:",
+    "correct": "perennial ryegrass fairways",
+    "options": [
+      "perennial ryegrass fairways",
+      "Kentucky bluegrass home lawns",
+      "bermudagrass greens",
+      "red fescue roughs"
+    ],
+    "feedback": "It can devastate a ryegrass fairway in just a few days.",
+    "source": "M10 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r195",
+    "module": "M16",
+    "question": "A green's ice was broken up, melted, refroze, and the green died. The lesson is:",
+    "correct": "remove ice or leave it undisturbed",
+    "options": [
+      "remove ice or leave it undisturbed",
+      "always break ice and leave it",
+      "apply salt to melt ice",
+      "flood the green to thicken ice"
+    ],
+    "feedback": "Broken ice that refreezes is worse.",
+    "source": "M16.6: Ice Damage",
+    "kind": "module"
+  },
+  {
+    "id": "e2r196",
+    "module": "M17",
+    "question": "Which tends to destroy soil structure?",
+    "correct": "traffic, rain splash, and cultivation",
+    "options": [
+      "traffic, rain splash, and cultivation",
+      "earthworm burrowing and casting",
+      "repeated freezing and thawing",
+      "root growth and decay"
+    ],
+    "feedback": "These cause compaction.",
+    "source": "M17.3: Physical Properties",
+    "kind": "module"
+  },
+  {
+    "id": "e2r197",
+    "module": "M17",
+    "question": "Biogenic megapores in turf are usually provided by:",
+    "correct": "earthworms and other macrofauna",
+    "options": [
+      "earthworms and other macrofauna",
+      "bacteria in the rhizosphere",
+      "fungal hyphae within the thatch",
+      "nematodes and protozoa"
+    ],
+    "feedback": "Cultivation tries to provide them mechanically.",
+    "source": "M17.4: Oxygen - Moisture Relationship in Soils",
+    "kind": "module"
+  },
+  {
+    "id": "e2r198",
+    "module": "M20",
+    "question": "Clay soils retain more water, but:",
+    "correct": "much is held too tightly to use",
+    "options": [
+      "much is held too tightly to use",
+      "all of it is plant-available",
+      "it drains within hours",
+      "it all moves to the subsoil"
+    ],
+    "feedback": "Small pores.",
+    "source": "M20.4: Water Quantity in Irrigation",
+    "kind": "module"
+  },
+  {
+    "id": "e2r199",
+    "module": "M13",
+    "question": "Which bentgrass is adapted to greens but NOT suitable for tees?",
+    "correct": "velvet bentgrass",
+    "options": [
+      "velvet bentgrass",
+      "creeping bentgrass",
+      "colonial bentgrass",
+      "redtop"
+    ],
+    "feedback": "Its slow recovery cannot keep up with divots.",
+    "source": "M13 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r200",
+    "module": "M19",
+    "question": "How many pounds of urea (46-0-0) supply 1 lb of N?",
+    "correct": "about 2.2 lb",
+    "options": [
+      "about 2.2 lb",
+      "about 1.0 lb",
+      "about 4.6 lb",
+      "about 0.46 lb"
+    ],
+    "feedback": "1 ÷ 0.46 = 2.17.",
+    "source": "M19 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r201",
+    "module": "M11",
+    "question": "Tall fescue, creeping red fescue, and Chewings fescue all have:",
+    "correct": "ridged adaxial blades",
+    "options": [
+      "ridged adaxial blades",
+      "rolled vernation",
+      "rhizomatous growth habits",
+      "folded vernation"
+    ],
+    "feedback": "Vernation and growth habit differ; all three are ridged.",
+    "source": "M11 module quiz (reworked)",
+    "kind": "module",
+    "tag": "grass-id"
+  },
+  {
+    "id": "e2r202",
+    "module": "M16",
+    "question": "Seasonal changes in atmospheric conditions are caused by:",
+    "correct": "the earth revolving around the sun",
+    "options": [
+      "the earth revolving around the sun",
+      "the earth rotating on its own axis",
+      "changing ocean tides",
+      "changes in solar output"
+    ],
+    "feedback": "Revolution shifts the equator relative to insolation.",
+    "source": "M16.2: Climatology",
+    "kind": "module"
+  },
+  {
+    "id": "e2r203",
+    "module": "M16",
+    "question": "The small droplets in dew form when:",
+    "correct": "radiation cooling drops leaves below the dew point",
+    "options": [
+      "radiation cooling drops leaves below the dew point",
+      "root pressure forces water out of the leaf tips",
+      "rain or irrigation falls during the night",
+      "stomates release vapor during the midday heat"
+    ],
+    "feedback": "Air next to the cooled leaf reaches its dew point.",
+    "source": "M16.8: Moisture",
+    "kind": "module"
+  },
+  {
+    "id": "e2r204",
+    "module": "M10",
+    "question": "On a golf course, annual ryegrass's adaptation to greens is rated:",
+    "correct": "used for overseeding, but perennial is preferred",
+    "options": [
+      "used for overseeding, but perennial is preferred",
+      "well adapted as a permanent greens turf",
+      "not adapted for greens at all",
+      "the preferred overseeding species"
+    ],
+    "feedback": "Annual ryegrass is sometimes used for overseeding bermudagrass greens, but perennial ryegrass is preferred.",
+    "source": "M10.4: Annual Ryegrass",
+    "kind": "module"
+  },
+  {
+    "id": "e2r205",
+    "module": "M16",
+    "question": "For cool-season turfgrasses, the light saturation point is about:",
+    "correct": "one-third of full sunlight",
+    "options": [
+      "one-third of full sunlight",
+      "one-tenth of full sunlight",
+      "two-thirds of full sunlight",
+      "full sunlight"
+    ],
+    "feedback": "Warm-season grasses saturate much higher.",
+    "source": "M16.4: Light",
+    "kind": "module"
+  },
+  {
+    "id": "e2r206",
+    "module": "M20",
+    "question": "Too-high pressure produces droplets that are:",
+    "correct": "tiny",
+    "options": [
+      "tiny",
+      "large",
+      "evenly sized",
+      "absent"
+    ],
+    "feedback": "Over-atomized mist.",
+    "source": "M20.8: Water Distribution Patterns",
+    "kind": "module"
+  },
+  {
+    "id": "e2r207",
+    "module": "M20",
+    "question": "As soil dries, a tensiometer reads:",
+    "correct": "higher tension",
+    "options": [
+      "higher tension",
+      "lower tension",
+      "zero tension",
+      "positive pressure"
+    ],
+    "feedback": "Water is pulled from the cup.",
+    "source": "M20.3: Rooting Depth",
+    "kind": "module"
+  },
+  {
+    "id": "e2r208",
+    "module": "M19",
+    "question": "How much 10-10-10 supplies 1 lb N per 1000 ft²?",
+    "correct": "10 lb",
+    "options": [
+      "10 lb",
+      "1 lb",
+      "5 lb",
+      "100 lb"
+    ],
+    "feedback": "1 ÷ 0.10 = 10.",
+    "source": "M19 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r209",
+    "module": "M18",
+    "question": "A loam field and a sand field get equal play. The loam field is more prone to:",
+    "correct": "compaction",
+    "options": [
+      "compaction",
+      "thatch buildup",
+      "scald",
+      "salt injury"
+    ],
+    "feedback": "Sand resists compaction.",
+    "source": "M18 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r210",
+    "module": "M14",
+    "question": "In Florida's warm-subtropical-humid and tropical climates, ________ substitutes for the bentgrasses used in colder climates on greens and other golf turfs.",
+    "correct": "hybrid bermudagrass",
+    "options": [
+      "hybrid bermudagrass",
+      "zoysiagrass",
+      "buffalograss",
+      "common bermudagrass"
+    ],
+    "feedback": "Hybrid bermudagrass substitutes for bentgrasses on Florida golf turfs.",
+    "source": "M14.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "e2r211",
+    "module": "M19",
+    "question": "Potassium leaching can be substantial in:",
+    "correct": "low-CEC sandy soils",
+    "options": [
+      "low-CEC sandy soils",
+      "high-CEC clay soils",
+      "compacted loams",
+      "organic muck soils"
+    ],
+    "feedback": "Clay retains K.",
+    "source": "M19.8: Potassium",
+    "kind": "module"
+  },
+  {
+    "id": "e2r212",
+    "module": "M15",
+    "question": "The collar of St. Augustinegrass is:",
+    "correct": "broad, continuous, narrowed to form a short stalk at the base of the blade",
+    "options": [
+      "broad, continuous, narrowed to form a short stalk at the base of the blade",
+      "broad, continuous, constricted by the fused keel, pubescent below",
+      "narrow and divided",
+      "broad only, with no other distinguishing features"
+    ],
+    "feedback": "St. Augustinegrass's broad, continuous collar narrows to form a short stalk at the base of the blade.",
+    "source": "M15.2: St. Augustinegrass",
+    "kind": "module",
+    "tag": "grass-id"
+  },
+  {
+    "id": "e2r213",
+    "module": "M19",
+    "question": "Adding a sulfur coat lowers urea's N content from 46% to:",
+    "correct": "32%",
+    "options": [
+      "32%",
+      "21%",
+      "38%",
+      "6%"
+    ],
+    "feedback": "SCU is 32-0-0.",
+    "source": "M19.4: Nitrogen Carriers",
+    "kind": "module"
+  },
+  {
+    "id": "e2r214",
+    "module": "M18",
+    "question": "Which group of diseases is favored by EXCESSIVE fertility?",
+    "correct": "brown patch, Pythium, gray leaf spot",
+    "options": [
+      "brown patch, Pythium, gray leaf spot",
+      "dollar spot, anthracnose, red thread",
+      "summer patch, take-all, leaf spot",
+      "pink patch, red thread, dollar spot"
+    ],
+    "feedback": "Plus Microdochium patch and Typhula blight.",
+    "source": "M18.3: Drainage",
+    "kind": "module"
+  },
+  {
+    "id": "e2r215",
+    "module": "M11",
+    "question": "Tall fescue sod often needs netting to hold together because tall fescue:",
+    "correct": "lacks lateral shoots",
+    "options": [
+      "lacks lateral shoots",
+      "is strongly rhizomatous",
+      "is too fine-textured",
+      "forms heavy thatch"
+    ],
+    "feedback": "Bunch-type growth, no rhizomes or stolons.",
+    "source": "M11 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r216",
+    "module": "M15",
+    "question": "The Latin name of kikuyugrass is:",
+    "correct": "Pennisetum clandestinum",
+    "options": [
+      "Pennisetum clandestinum",
+      "Paspalum vaginatum",
+      "Stenotaphrum secundatum",
+      "Eremochloa ophiuroides"
+    ],
+    "feedback": "Kikuyugrass is Pennisetum clandestinum Hochst ex Chiov. (the module page spells it \"cladestinum\").",
+    "source": "M15.4: Kikuyugrass",
+    "kind": "module",
+    "tag": "grass-id"
+  },
+  {
+    "id": "e2r217",
+    "module": "M16",
+    "question": "\"Heat island\" turfs are stressed because:",
+    "correct": "nearby surfaces re-radiate absorbed heat",
+    "options": [
+      "nearby surfaces re-radiate absorbed heat",
+      "they receive less total sunlight overall",
+      "surrounding trees keep them shaded",
+      "nearby water bodies keep them cool"
+    ],
+    "feedback": "Adjacent areas absorb and re-radiate heat.",
+    "source": "M16.5: Temperature",
+    "kind": "module"
+  },
+  {
+    "id": "e2r218",
+    "module": "M15",
+    "question": "St. Augustinegrass sod is harvested in sections that are ________ wide.",
+    "correct": "18 inches",
+    "options": [
+      "18 inches",
+      "12 inches",
+      "24 inches",
+      "36 inches"
+    ],
+    "feedback": "Sections of St. Augustinegrass sod are harvested 18 inches wide.",
+    "source": "M15.2: St. Augustinegrass",
+    "kind": "module"
+  },
+  {
+    "id": "e2r219",
+    "module": "M15",
+    "question": "For a course irrigated with brackish water, the best warm-season grass is:",
+    "correct": "seashore paspalum",
+    "options": [
+      "seashore paspalum",
+      "centipedegrass",
+      "bahiagrass",
+      "St. Augustinegrass"
+    ],
+    "feedback": "High salt tolerance.",
+    "source": "M15 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r220",
+    "module": "M17",
+    "question": "Which is TRUE of thatch as a growing medium?",
+    "correct": "it holds little water or nutrients",
+    "options": [
+      "it holds little water or nutrients",
+      "it is a fine-textured, dense medium",
+      "it lowers the height of crowns",
+      "it compacts very easily"
+    ],
+    "feedback": "Thatch is coarse-textured and resists compaction.",
+    "source": "M17 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r221",
+    "module": "M19",
+    "question": "The smallest and most soluble UF polymer is:",
+    "correct": "MDU",
+    "options": [
+      "MDU",
+      "DMTU",
+      "TMTU",
+      "IBDU"
+    ],
+    "feedback": "Methylene diurea.",
+    "source": "M19.4: Nitrogen Carriers",
+    "kind": "module"
+  },
+  {
+    "id": "e2r222",
+    "module": "M16",
+    "question": "Which combination describes turf in dense shade?",
+    "correct": "upright thin leaves, shallow roots",
+    "options": [
+      "upright thin leaves, shallow roots",
+      "thick leaves and deep roots",
+      "dense tillers and deep roots",
+      "thick cuticles and high carbohydrate reserves"
+    ],
+    "feedback": "Shade also lowers carbohydrate reserves.",
+    "source": "M16 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r223",
+    "module": "M12",
+    "question": "Endophyte-infected seed stored warm and moist for several years will likely:",
+    "correct": "have lost endophyte viability",
+    "options": [
+      "have lost endophyte viability",
+      "have a more active endophyte",
+      "cause choke in the turf",
+      "carry more bacterial endophytes"
+    ],
+    "feedback": "Viability depends on moisture and temperature.",
+    "source": "M12 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r224",
+    "module": "M19",
+    "question": "Which N form is a cation held on soil colloids?",
+    "correct": "ammonium",
+    "options": [
+      "ammonium",
+      "nitrate",
+      "nitrite",
+      "nitrogen gas"
+    ],
+    "feedback": "Nitrate is an anion and leaches.",
+    "source": "M19 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r225",
+    "module": "M19",
+    "question": "Which carrier has the LOWEST N content?",
+    "correct": "ammonium sulfate",
+    "options": [
+      "ammonium sulfate",
+      "urea",
+      "sulfur-coated urea",
+      "isobutylidene diurea"
+    ],
+    "feedback": "About 21% N.",
+    "source": "M19 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r226",
+    "module": "M20",
+    "question": "A tensiometer reading rising from 20 to 70 cb means the soil is:",
+    "correct": "drying",
+    "options": [
+      "drying",
+      "wetting",
+      "saturated",
+      "frozen"
+    ],
+    "feedback": "Higher tension, less available water.",
+    "source": "M20 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r227",
+    "module": "M17",
+    "question": "Water moving INTO soil is ________; water moving THROUGH soil is ________.",
+    "correct": "infiltration; percolation",
+    "options": [
+      "infiltration; percolation",
+      "percolation; infiltration",
+      "evaporation; transpiration",
+      "drainage; leaching"
+    ],
+    "feedback": "Both governed by hydraulic conductivity.",
+    "source": "M17.16: Soil Water",
+    "kind": "module"
+  },
+  {
+    "id": "e2r228",
+    "module": "M17",
+    "question": "When moisture fills all soil pores, growth is most limited by lack of:",
+    "correct": "oxygen",
+    "options": [
+      "oxygen",
+      "nitrogen",
+      "light",
+      "carbon dioxide"
+    ],
+    "feedback": "Waterlogging excludes air.",
+    "source": "M17.4: Oxygen - Moisture Relationship in Soils",
+    "kind": "module"
+  },
+  {
+    "id": "e2r229",
+    "module": "M19",
+    "question": "The fertilizer grade is:",
+    "correct": "the minimum guaranteed analysis",
+    "options": [
+      "the minimum guaranteed analysis",
+      "the maximum possible analysis",
+      "the particle size rating",
+      "the salt index"
+    ],
+    "feedback": "Shown as N-P₂O₅-K₂O.",
+    "source": "M19.3: Soil Testing",
+    "kind": "module"
+  },
+  {
+    "id": "e2r230",
+    "module": "M19",
+    "question": "A 25-lb bag of 20-5-10 contains how much P₂O₅?",
+    "correct": "1.25 lb",
+    "options": [
+      "1.25 lb",
+      "5 lb",
+      "2.5 lb",
+      "0.5 lb"
+    ],
+    "feedback": "25 × 0.05.",
+    "source": "M19 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r231",
+    "module": "M19",
+    "question": "Potassium sulfate is used instead of KCl to:",
+    "correct": "add S with less salt",
+    "options": [
+      "add S with less salt",
+      "raise the salt index",
+      "supply nitrogen",
+      "raise soil pH"
+    ],
+    "feedback": "About 18% S.",
+    "source": "M19.8: Potassium",
+    "kind": "module"
+  },
+  {
+    "id": "e2r232",
+    "module": "M19",
+    "question": "Oxidation of SCU's sulfur coat:",
+    "correct": "acidifies the soil",
+    "options": [
+      "acidifies the soil",
+      "raises the soil pH",
+      "adds calcium",
+      "adds nitrogen"
+    ],
+    "feedback": "Forms sulfate and H⁺.",
+    "source": "M19.4: Nitrogen Carriers",
+    "kind": "module"
+  },
+  {
+    "id": "e2r233",
+    "module": "M18",
+    "question": "Rutting occurs where:",
+    "correct": "wheels displace soil",
+    "options": [
+      "wheels displace soil",
+      "a golf club removes turf",
+      "frost forms on leaves",
+      "cleats tear leaf blades"
+    ],
+    "feedback": "Deep ruts from wheel traffic.",
+    "source": "M18.2: Soil Traffic",
+    "kind": "module"
+  },
+  {
+    "id": "e2r234",
+    "module": "M10",
+    "question": "The traits that make perennial ryegrass almost ideal for overseeding wear-damaged turf are rapid germination, vigorous seedling growth, and:",
+    "correct": "excellent wear tolerance",
+    "options": [
+      "excellent wear tolerance",
+      "deep rhizome growth",
+      "low fertility requirements",
+      "shade tolerance"
+    ],
+    "feedback": "Rapid germination, vigorous seedling growth, and excellent wear tolerance make perennial ryegrass well suited to overseeding damaged turf.",
+    "source": "M10.1: Overview",
+    "kind": "module"
+  },
+  {
+    "id": "e2r235",
+    "module": "M12",
+    "question": "Initially, the endophyte is restricted to the aleurone layer within the seed; during germination, the fungus infects the developing embryo and, thus, the:",
+    "correct": "seedling plant",
+    "options": [
+      "seedling plant",
+      "soil microbiome",
+      "pollinating insects",
+      "neighboring seeds directly"
+    ],
+    "feedback": "During germination, the endophyte spreads from the aleurone layer to infect the embryo and seedling plant.",
+    "source": "M12.3: Endophytes",
+    "kind": "module"
+  },
+  {
+    "id": "e2r236",
+    "module": "M11",
+    "question": "Plants within the red fescue complex have how many distinct ridges on the adaxial leaf blade?",
+    "correct": "five",
+    "options": [
+      "five",
+      "three",
+      "seven",
+      "two"
+    ],
+    "feedback": "Plants within the red fescue complex have five distinct ridges on the adaxial leaf blade.",
+    "source": "M11.3: Red and Fine Fescues",
+    "kind": "module",
+    "tag": "grass-id"
+  },
+  {
+    "id": "e2r237",
+    "module": "M17",
+    "question": "Which nutrients are highly soluble at low soil pH?",
+    "correct": "iron, manganese, and zinc",
+    "options": [
+      "iron, manganese, and zinc",
+      "calcium and molybdenum ions",
+      "nitrogen and sulfur",
+      "potassium and boron"
+    ],
+    "feedback": "Ca and Mo are more available at high pH.",
+    "source": "M17.6: Influence of Soil pH on Nutrient Availability",
+    "kind": "module"
+  },
+  {
+    "id": "e2r238",
+    "module": "M14",
+    "question": "Higher ploidy levels in buffalograss mean that the species is capable of being:",
+    "correct": "more broadly adapted",
+    "options": [
+      "more broadly adapted",
+      "more narrowly adapted",
+      "sterile",
+      "slower growing"
+    ],
+    "feedback": "Higher ploidy levels allow buffalograss to be more broadly adapted.",
+    "source": "M14.6: Buffalograss",
+    "kind": "module"
+  },
+  {
+    "id": "e2r239",
+    "module": "M20",
+    "question": "Salinity of irrigation water is measured as:",
+    "correct": "electrical conductivity (EC)",
+    "options": [
+      "electrical conductivity (EC)",
+      "sodium adsorption ratio (SAR)",
+      "pH",
+      "water temperature"
+    ],
+    "feedback": "In dS/m.",
+    "source": "M20.5: Salinity and Sodium Hazard",
+    "kind": "module"
+  },
+  {
+    "id": "e2r240",
+    "module": "M19",
+    "question": "Magnesium is the central atom of:",
+    "correct": "chlorophyll",
+    "options": [
+      "chlorophyll",
+      "cell walls",
+      "amino acids",
+      "lignin"
+    ],
+    "feedback": "Also aids P absorption.",
+    "source": "M19.13: Secondary Nutrients",
+    "kind": "module"
+  },
+  {
+    "id": "e2r241",
+    "module": "M17",
+    "question": "A USGA green has a perched water table because:",
+    "correct": "a fine mix sits over coarse gravel",
+    "options": [
+      "a fine mix sits over coarse gravel",
+      "coarse sand sits over a clay subsoil",
+      "the subgrade is not drained",
+      "thatch sits over the sand"
+    ],
+    "feedback": "Fine over coarse = perched.",
+    "source": "M17 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r242",
+    "module": "M17",
+    "question": "At low pH, which element may be soluble enough to be toxic?",
+    "correct": "aluminum",
+    "options": [
+      "aluminum",
+      "calcium",
+      "molybdenum",
+      "potassium"
+    ],
+    "feedback": "Preventing Al toxicity is the main reason to keep pH up.",
+    "source": "M17.6: Influence of Soil pH on Nutrient Availability",
+    "kind": "module"
+  },
+  {
+    "id": "e2r243",
+    "module": "M11",
+    "question": "On golf fairways, tall fescue is rated:",
+    "correct": "marginally adapted",
+    "options": [
+      "marginally adapted",
+      "well adapted",
+      "not adapted",
+      "well adapted when overseeded"
+    ],
+    "feedback": "Tall fescue is marginally adapted for golf fairways.",
+    "source": "M11.5: Tall Fescue",
+    "kind": "module"
+  },
+  {
+    "id": "e2r244",
+    "module": "M13",
+    "question": "The preferred irrigation amount for creeping bentgrass is:",
+    "correct": "needed frequently",
+    "options": [
+      "needed frequently",
+      "needed moderately",
+      "low to moderate",
+      "not needed"
+    ],
+    "feedback": "Creeping bentgrass needs frequent irrigation.",
+    "source": "M13.2: Creeping Bentgrass",
+    "kind": "module"
+  },
+  {
+    "id": "e2r245",
+    "module": "M14",
+    "question": "Japanese lawngrass, manilagrass, and mascarenegrass are all species of:",
+    "correct": "Zoysia",
+    "options": [
+      "Zoysia",
+      "Cynodon",
+      "Buchloe",
+      "Paspalum"
+    ],
+    "feedback": "Z. japonica, Z. matrella, Z. pacifica.",
+    "source": "M14 module quiz (reworked)",
+    "kind": "module",
+    "tag": "grass-id"
+  },
+  {
+    "id": "e2r246",
+    "module": "M19",
+    "question": "Phosphorus deficiency first appears as:",
+    "correct": "purplish discoloration",
+    "options": [
+      "purplish discoloration",
+      "chlorosis along the midvein",
+      "leaf-tip whitening",
+      "reddish-brown margins"
+    ],
+    "feedback": "Plus wilting and poor spring greenup.",
+    "source": "M19.12: Primary Nutrients",
+    "kind": "module"
+  },
+  {
+    "id": "e2r247",
+    "module": "M20",
+    "question": "Water with an EC of 0.2 dS/m is a ___ salinity hazard.",
+    "correct": "low",
+    "options": [
+      "low",
+      "medium",
+      "high",
+      "very high"
+    ],
+    "feedback": "Below 0.25 dS/m is low (C1).",
+    "source": "M20 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r248",
+    "module": "M14",
+    "question": "A native warm-season grass needing minimal or no irrigation in dry climates is:",
+    "correct": "buffalograss",
+    "options": [
+      "buffalograss",
+      "hybrid bermudagrass",
+      "St. Augustinegrass",
+      "centipedegrass"
+    ],
+    "feedback": "Buffalograss.",
+    "source": "M14 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r249",
+    "module": "M17",
+    "question": "Which soil has the most total porosity but the least aeration porosity?",
+    "correct": "clay",
+    "options": [
+      "clay",
+      "sand",
+      "loam",
+      "gravel"
+    ],
+    "feedback": "Many tiny pores.",
+    "source": "M17 module quiz (reworked)",
+    "kind": "module"
+  },
+  {
+    "id": "e2r250",
+    "module": "M10",
+    "question": "A superintendent wants winter color on dormant bermudagrass greens. The preferred overseeding grass is:",
+    "correct": "perennial ryegrass",
+    "options": [
+      "perennial ryegrass",
+      "Kentucky bluegrass",
+      "tall fescue",
+      "creeping red fescue"
+    ],
+    "feedback": "Annual ryegrass is also used, but perennial is preferred.",
+    "source": "M10 module quiz (reworked)",
+    "kind": "module"
   }
 ]
