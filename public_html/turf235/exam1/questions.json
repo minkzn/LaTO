@@ -3157,14 +3157,14 @@
     "id": "m3q058",
     "module": "M3",
     "question": "The life of an individual turfgrass shoot is usually not more than:",
-    "correct": "1 week",
+    "correct": "1 year",
     "options": [
       "1 year",
       "1 week",
       "1 month",
       "5 years"
     ],
-    "feedback": "The life of an individual turfgrass shoot (tiller) is usually not more than 1 week, and frequently less; the plant community persists as dying shoots are replaced by new ones.",
+    "feedback": "The life of an individual tiller is usually not more than one year; the plant community persists as dying shoots are replaced by new ones.",
     "source": "Textbook Ch. 2, pp. 21-31: Growth and Development",
     "kind": "enrichment"
   },

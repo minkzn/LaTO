@@ -2,7 +2,7 @@
 
 One directory per module (M1-M20, growing). Each question bank is modeled on the real Canvas quizzes for that module (style, tone, and depth) and sourced primarily from that module's own course PDFs, with a curated slice of textbook enrichment on the same topics where useful. Question counts vary by module — sized to how much real, well-formed material each module supports, not forced to a fixed number.
 
-`exam1/` is a combined lock-in quiz covering Modules 1-9 (647 questions). `exam2/` is the same idea for Exam 2, covering Modules 10-20: 100-question practice exams drawn from a 250-question pool built from the M10-M20 module quizzes (the full banks stay on each module page).
+`exam1/` is a combined lock-in quiz covering Modules 1-9 (647 questions). `exam2/` is the same idea for Exam 2, covering Modules 10-20: 100-question practice exams drawn from a 250-question pool built from the M10-M20 module quizzes (the full banks stay on each module page). `final/` is the cumulative final, Modules 1-20: 200-question practice exams drawn from a 600-question pool that includes every Exam 1 and Exam 2 question plus the module quiz questions.
 
 Question-writing rules: Overview pages (scenarios, learning objectives, assigned readings) are not quizzed; counts follow how much testable material a module has rather than padding with near-duplicates; textbook enrichment stays well below the module-page count; and distractors are written to roughly match the correct answer's length so the longest option is not a tell.
 
