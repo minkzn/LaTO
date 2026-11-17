@@ -9107,5 +9107,2255 @@
     "source": "M9 module quiz",
     "kind": "module",
     "tag": "grass-id"
+  },
+  {
+    "id": "f601",
+    "module": "M24",
+    "question": "Stolonizing usually requires:",
+    "correct": "5 to 10 bushels per 1000 ft²",
+    "options": [
+      "5 to 10 bushels per 1000 ft²",
+      "1 to 4 bushels per 1000 ft²",
+      "15 to 20 bushels per 1000 ft²",
+      "0.5 to 1 bushel per 1000 ft²"
+    ],
+    "feedback": "Sprigging needs 1 to 4.",
+    "source": "M24.5: Vegetative Planting Methods",
+    "kind": "module"
+  },
+  {
+    "id": "f602",
+    "module": "M24",
+    "question": "After stolonizing, the preferred method to partially cover the stolons is:",
+    "correct": "topdressing",
+    "options": [
+      "topdressing",
+      "light disking",
+      "rolling only",
+      "straw mulch"
+    ],
+    "feedback": "Disking is the alternative.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f603",
+    "module": "M24",
+    "question": "Seeds placed too deep may fail because:",
+    "correct": "endosperm reserves run out before photosynthesis",
+    "options": [
+      "endosperm reserves run out before photosynthesis",
+      "oxygen is too abundant at depth",
+      "light inhibits germination at depth",
+      "roots cannot form below a depth of 1/4 inch in soil"
+    ],
+    "feedback": "At the surface, seeds may wash away.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f604",
+    "module": "M22",
+    "question": "The DryJect system draws sand into its holes by:",
+    "correct": "the vacuum created by the burst of water",
+    "options": [
+      "the vacuum created by the burst of water",
+      "vibrating the plow blades as it moves",
+      "a separate auger behind the injector",
+      "a separate auger mounted just behind the injector"
+    ],
+    "feedback": "Holes are 0.25-0.5 in wide, 3-10 in apart, 10 in deep.",
+    "source": "Textbook Ch. 6, pp. 191-201, 207-212: Cultivation, Wetting Agents, Colorants, PGRs, and Biostimulants",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f605",
+    "module": "M22",
+    "question": "Soil reincorporated into thick thatch fills the large pores, producing a:",
+    "correct": "thatchlike derivative",
+    "options": [
+      "thatchlike derivative",
+      "mat layer of pure sand",
+      "buried thatch layer",
+      "hydrophobic crust"
+    ],
+    "feedback": "The physical and chemical properties of the thatch are substantially altered.",
+    "source": "M22.3: Core Cultivation",
+    "kind": "module"
+  },
+  {
+    "id": "f606",
+    "module": "M22",
+    "question": "For greens and other intensively cultured turfs, cultivators that are ___ are used to minimize surface disruption.",
+    "correct": "slow-moving and vertical-motion",
+    "options": [
+      "slow-moving and vertical-motion",
+      "fast-moving and rotary-motion",
+      "slow-moving and rotary-motion",
+      "fast-moving and vertical-motion"
+    ],
+    "feedback": "Slow-moving, vertical-motion units.",
+    "source": "M22.3: Core Cultivation",
+    "kind": "module"
+  },
+  {
+    "id": "f607",
+    "module": "M21",
+    "question": "Mowing frequency ranges from daily on greens to:",
+    "correct": "a few mowings a season on utility turf",
+    "options": [
+      "a few mowings a season on utility turf",
+      "weekly on most utility turfs throughout the year",
+      "twice daily on home lawns",
+      "monthly on athletic fields"
+    ],
+    "feedback": "Some utility turfs are mowed only a few times during the growing season.",
+    "source": "M21.5: Mowing Variables",
+    "kind": "module"
+  },
+  {
+    "id": "f608",
+    "module": "M24",
+    "question": "In the marble-and-flour analogy, porosity only increases once:",
+    "correct": "adjacent marbles contact each other",
+    "options": [
+      "adjacent marbles contact each other",
+      "the first marble is added to the cup of flour",
+      "the flour is fully wetted by water",
+      "the marbles are smaller than flour"
+    ],
+    "feedback": "Sand improves aeration only when grains touch.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "f609",
+    "module": "M23",
+    "question": "Successive sand topdressings over dense thatch can create alternating layers of:",
+    "correct": "coarse sand and fine compressed thatch",
+    "options": [
+      "coarse sand and fine compressed thatch",
+      "fine sand and coarse loose thatch",
+      "coarse gravel and fine native soil",
+      "fine silt and coarse organic matter"
+    ],
+    "feedback": "A texturally layered profile.",
+    "source": "M23.3: Topdressing (continued)",
+    "kind": "module"
+  },
+  {
+    "id": "f610",
+    "module": "M21",
+    "question": "The clip of the reel (CR) is the:",
+    "correct": "forward distance traveled between clips",
+    "options": [
+      "forward distance traveled between clips",
+      "height of the aerial shoots just after mowing",
+      "number of blades on the reel",
+      "gap between bedknife and reel"
+    ],
+    "feedback": "CR is the forward distance traveled between successive clips.",
+    "source": "M21.3: Mechanical Mowing Types",
+    "kind": "module"
+  },
+  {
+    "id": "f611",
+    "module": "M24",
+    "question": "The PRINCIPAL advantage of sod washing is:",
+    "correct": "eliminating the soil interface at the site",
+    "options": [
+      "eliminating the soil interface at the site",
+      "reducing the sod's weight for easier and cheaper shipment",
+      "lowering the cost of the finished sod",
+      "removing weed seeds from the sod"
+    ],
+    "feedback": "Especially important on sand-based media.",
+    "source": "M24.5: Vegetative Planting Methods",
+    "kind": "module"
+  },
+  {
+    "id": "f612",
+    "module": "M21",
+    "question": "Which is NOT one of the mowing variables shown in the module's star diagram?",
+    "correct": "mowing speed",
+    "options": [
+      "mowing speed",
+      "mowing height",
+      "blade sharpness",
+      "mowing pattern"
+    ],
+    "feedback": "The five: mowing height, frequency, pattern, blade sharpness, and clippings.",
+    "source": "M21.5: Mowing Variables",
+    "kind": "module"
+  },
+  {
+    "id": "f613",
+    "module": "M22",
+    "question": "The T.D.I. International XGD System enhances a sand or gravel curtain by adding:",
+    "correct": "drain pipes at the base and a sand blanket on top",
+    "options": [
+      "drain pipes at the base and a sand blanket on top",
+      "vibratory plow blades plus a gravel blanket over the curtain",
+      "water injection and a layer of fresh sod",
+      "hollow tines and a layer of native soil"
+    ],
+    "feedback": "Pipes carry water away; the sand blanket directs infiltrating water to the curtains.",
+    "source": "M22.9: Vertical Mowers",
+    "kind": "module"
+  },
+  {
+    "id": "f614",
+    "module": "M23",
+    "question": "An alternative to coring for existing layers is shallow vertical mowing to:",
+    "correct": "remove some thatch and open up the rest",
+    "options": [
+      "remove some thatch and open up the rest",
+      "compact the thatch for a firmer surface",
+      "bury the sand layer beneath the thatch",
+      "sever stolons and reduce grain on greens"
+    ],
+    "feedback": "Facilitates subsequent sand incorporation.",
+    "source": "M23.3: Topdressing (continued)",
+    "kind": "module"
+  },
+  {
+    "id": "f615",
+    "module": "M23",
+    "question": "Alternating layers of sand and compressed thatch impede:",
+    "correct": "infiltration into and percolation through the green",
+    "options": [
+      "infiltration into and percolation through the green",
+      "root growth only in the topmost sand layer",
+      "green speed only, with no effect on water movement through it",
+      "fertilizer uptake by the leaves"
+    ],
+    "feedback": "Texturally distinct layers impede water movement.",
+    "source": "M23.3: Topdressing (continued)",
+    "kind": "module"
+  },
+  {
+    "id": "f616",
+    "module": "M22",
+    "question": "The \"Graden\" scarifier/verticutter blade has grown in popularity because it:",
+    "correct": "penetrates the turf with minimal damage",
+    "options": [
+      "penetrates the turf with minimal damage",
+      "removes cores without surface disruption",
+      "injects sand while it cuts the turf",
+      "installs gravel curtains for drainage"
+    ],
+    "feedback": "An alternative to the typical knives of a vertical mower.",
+    "source": "M22.9: Vertical Mowers",
+    "kind": "module"
+  },
+  {
+    "id": "f617",
+    "module": "M23",
+    "question": "The practice of topdressing originated to:",
+    "correct": "keep golf and bowling greens smooth",
+    "options": [
+      "keep golf and bowling greens smooth",
+      "control thatch buildup on golf fairways",
+      "protect greens from winter injury",
+      "change the root-zone soil texture"
+    ],
+    "feedback": "Smoothing came first; other benefits were observed later.",
+    "source": "M23.2: Topdressing",
+    "kind": "module"
+  },
+  {
+    "id": "f618",
+    "module": "M22",
+    "question": "Small vertical mowers suitable for residential lawns are often rented for seasonal:",
+    "correct": "dethatching or power raking",
+    "options": [
+      "dethatching or power raking",
+      "core cultivation or matting",
+      "water injection or slicing",
+      "drill-and-fill or spiking"
+    ],
+    "feedback": "Small units are available from local rental outlets.",
+    "source": "M22.9: Vertical Mowers",
+    "kind": "module"
+  },
+  {
+    "id": "f619",
+    "module": "M24",
+    "question": "Tillage is done to improve aeration, infiltration, and percolation and to:",
+    "correct": "minimize resistance to root penetration",
+    "options": [
+      "minimize resistance to root penetration",
+      "increase the bulk density of the surface soil layer",
+      "raise the soil pH for turfgrass",
+      "bury weed seeds below germination"
+    ],
+    "feedback": "Root penetration is eased.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "f620",
+    "module": "M22",
+    "question": "Regarding soil moisture, HTC can provide both:",
+    "correct": "faster drying of wet soils and better wetting of dry ones",
+    "options": [
+      "faster drying of wet soils and better wetting of dry ones",
+      "faster drying of dry soils and better wetting of wet ones",
+      "slower drying of wet soils and poorer wetting of dry ones",
+      "reduced infiltration and greater water-holding capacity"
+    ],
+    "feedback": "Accelerated drying of persistently wet soils; improved wetting of dry or hydrophobic soils.",
+    "source": "M22.5: Hollow-Tine Cultivation - Advantages and Disadvantages",
+    "kind": "module"
+  },
+  {
+    "id": "f621",
+    "module": "M22",
+    "question": "Because spiking causes only minor disruption, it can be practiced:",
+    "correct": "as often as weekly in the growing season",
+    "options": [
+      "as often as weekly in the growing season",
+      "only once a year in early spring",
+      "only during midsummer stress periods",
+      "only when the turf is dormant"
+    ],
+    "feedback": "To mitigate the soil-compacting effects of traffic.",
+    "source": "M22.6: Solid Tine Cultivation",
+    "kind": "module"
+  },
+  {
+    "id": "f622",
+    "module": "M22",
+    "question": "For best results with colorants, the turf should be dry and the temperature above:",
+    "correct": "40°F",
+    "options": [
+      "40°F",
+      "32°F",
+      "60°F",
+      "75°F"
+    ],
+    "feedback": "Use a fine spray with sufficient pressure for uniform coverage.",
+    "source": "Textbook Ch. 6, pp. 191-201, 207-212: Cultivation, Wetting Agents, Colorants, PGRs, and Biostimulants",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f623",
+    "module": "M24",
+    "question": "Mowing may begin when new shoots reach as low as:",
+    "correct": "3/4 inch",
+    "options": [
+      "3/4 inch",
+      "1/8 inch",
+      "2 inches",
+      "4 inches"
+    ],
+    "feedback": "Or much higher, depending on species and cultural intensity.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "f624",
+    "module": "M23",
+    "question": "Layering from sand and compressed thatch can be avoided by:",
+    "correct": "a more frequent sand topdressing program",
+    "options": [
+      "a more frequent sand topdressing program",
+      "a less frequent but heavier sand program",
+      "switching to soil instead of sand",
+      "rolling the green after each topdressing"
+    ],
+    "feedback": "Frequent light applications prevent distinct layers.",
+    "source": "M23.3: Topdressing (continued)",
+    "kind": "module"
+  },
+  {
+    "id": "f625",
+    "module": "M23",
+    "question": "Many traditional rolling practices were abandoned because of:",
+    "correct": "the severe soil compaction of heavy rolling",
+    "options": [
+      "the severe soil compaction of heavy rolling",
+      "the high cost of buying and running large rolling equipment",
+      "damage to irrigation pipes from rolling",
+      "the scalping caused by heavy rollers"
+    ],
+    "feedback": "Recognized as turfgrass technology progressed.",
+    "source": "M23.3: Topdressing (continued)",
+    "kind": "module"
+  },
+  {
+    "id": "f626",
+    "module": "M21",
+    "question": "The bench setting and the effective mowing height are usually:",
+    "correct": "similar but not identical",
+    "options": [
+      "similar but not identical",
+      "exactly the same",
+      "unrelated to each other",
+      "different by a factor of two"
+    ],
+    "feedback": "They should be similar, but are not likely to be the same.",
+    "source": "M21.5: Mowing Variables",
+    "kind": "module"
+  },
+  {
+    "id": "f627",
+    "module": "M24",
+    "question": "Drain tile lines are typically spaced:",
+    "correct": "15 to 60 feet apart",
+    "options": [
+      "15 to 60 feet apart",
+      "3 to 5 feet apart",
+      "100 to 150 feet apart",
+      "6 to 12 inches apart"
+    ],
+    "feedback": "At 18-36 inches deep.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "f628",
+    "module": "M21",
+    "question": "Flail mowers reduce tall vegetation to a fine mulch because:",
+    "correct": "debris is recut until it clears the housing",
+    "options": [
+      "debris is recut until it clears the housing",
+      "a separate blade chops clippings in the bag",
+      "the reel shears clippings against a bedknife",
+      "clippings are blown into the turf canopy"
+    ],
+    "feedback": "Small knife-to-housing clearance means debris is recut until small enough to clear.",
+    "source": "M21.3: Mechanical Mowing Types",
+    "kind": "module"
+  },
+  {
+    "id": "f629",
+    "module": "M22",
+    "question": "Commercial vertical mowers for large sites move extracted debris to a hopper using:",
+    "correct": "a series of propellers",
+    "options": [
+      "a series of propellers",
+      "a vacuum fan and hose",
+      "a conveyor of steel mats",
+      "a set of free-swinging knives"
+    ],
+    "feedback": "Debris accumulates in the hopper until discharged.",
+    "source": "M22.9: Vertical Mowers",
+    "kind": "module"
+  },
+  {
+    "id": "f630",
+    "module": "M23",
+    "question": "Texturally different layers from mixing sand topdressing with reincorporated soil cores interfere with:",
+    "correct": "root growth and water and air movement",
+    "options": [
+      "root growth and water and air movement",
+      "mowing quality and the ball-roll distance on the green",
+      "fertilizer uptake through the leaves",
+      "seed germination on the surface only"
+    ],
+    "feedback": "Layers seriously interfere with root growth and water and air movement.",
+    "source": "M23.2: Topdressing",
+    "kind": "module"
+  },
+  {
+    "id": "f631",
+    "module": "M23",
+    "question": "In the turf-soil profile, the sand \"finger\" resulted from:",
+    "correct": "filling a cultivation hole with sand",
+    "options": [
+      "filling a cultivation hole with sand",
+      "a crack in the soil from drought",
+      "a root channel left by old grass",
+      "an earthworm burrow filled with sand"
+    ],
+    "feedback": "Successive topdressings dramatically change the growth medium.",
+    "source": "M23.2: Topdressing",
+    "kind": "module"
+  },
+  {
+    "id": "f632",
+    "module": "M22",
+    "question": "In hollow-tine cultivation, additional compaction results from:",
+    "correct": "tines moving along the sides and base of the hole",
+    "options": [
+      "tines moving along the sides and base of the hole",
+      "cores dropped back on top of the turf",
+      "the weight of the operator walking on the turf surface",
+      "water pooling in the open coring holes"
+    ],
+    "feedback": "Tine movement compacts soil at the walls and bottom of the hole.",
+    "source": "M22.3: Core Cultivation",
+    "kind": "module"
+  },
+  {
+    "id": "f633",
+    "module": "M24",
+    "question": "Gravel is placed around drain tiles to:",
+    "correct": "prevent clogging by fine soil particles",
+    "options": [
+      "prevent clogging by fine soil particles",
+      "add weight that holds the pipe in place",
+      "raise the pipe above the water table",
+      "filter salts out of the drainage water"
+    ],
+    "feedback": "A buffer between tile and soil.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "f634",
+    "module": "M22",
+    "question": "In a USGA green with too many fines in the root zone, drill-and-fill with suitable sand creates bypass channels down to the:",
+    "correct": "gravel or choker layer",
+    "options": [
+      "gravel or choker layer",
+      "thatch layer",
+      "sand blanket",
+      "surface mat"
+    ],
+    "feedback": "Water moves around the root-zone matrix into the gravel layer and out through drain pipes.",
+    "source": "M22.3: Core Cultivation",
+    "kind": "module"
+  },
+  {
+    "id": "f635",
+    "module": "M21",
+    "question": "With MH = 1.0 in and CR = 1.5 in, the percent variation is:",
+    "correct": "25%",
+    "options": [
+      "25%",
+      "12%",
+      "50%",
+      "75%"
+    ],
+    "feedback": "R = 0.25 in; %V = 0.25 / 1.0 = 25%.",
+    "source": "M21.4: Marcelling",
+    "kind": "module"
+  },
+  {
+    "id": "f636",
+    "module": "M24",
+    "question": "Viability is the percentage of seed that:",
+    "correct": "is alive and germinates under standard lab conditions",
+    "options": [
+      "is alive and germinates under standard lab conditions",
+      "is the identified species or cultivar listed",
+      "emerges and survives in the field after planting is done",
+      "is free of weed and other crop seeds"
+    ],
+    "feedback": "Field emergence is often lower.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "f637",
+    "module": "M23",
+    "question": "For bentgrass/annual bluegrass greens, light topdressing rates should be used in:",
+    "correct": "summer",
+    "options": [
+      "summer",
+      "spring",
+      "fall",
+      "early spring"
+    ],
+    "feedback": "Slow growth means slow organic matter accumulation; for bermudagrass, light rates go in spring and fall.",
+    "source": "Textbook Ch. 6, pp. 201-207: Rolling, Topdressing, and Matting",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f638",
+    "module": "M24",
+    "question": "The optimum time to seed cool-season turfgrasses is generally:",
+    "correct": "late summer",
+    "options": [
+      "late summer",
+      "early spring",
+      "midsummer",
+      "late fall"
+    ],
+    "feedback": "Warm-season grasses: spring to early summer.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "f639",
+    "module": "M23",
+    "question": "Rolling has enjoyed a resurgence on greens since the 1990s with:",
+    "correct": "relatively lightweight units",
+    "options": [
+      "relatively lightweight units",
+      "heavy water-ballast drums",
+      "tractor-drawn steel rollers",
+      "vibratory compaction plates"
+    ],
+    "feedback": "Heavy rolling was abandoned once its compacting effects were recognized.",
+    "source": "Textbook Ch. 6, pp. 201-207: Rolling, Topdressing, and Matting",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f640",
+    "module": "M22",
+    "question": "Class-C PGRs suppress growth by:",
+    "correct": "stopping cell division in meristems",
+    "options": [
+      "stopping cell division in meristems",
+      "inhibiting gibberellin biosynthesis",
+      "releasing ethylene into the leaves",
+      "acting as sublethal herbicides"
+    ],
+    "feedback": "Formerly Type-I; foliar absorbed and immediate.",
+    "source": "Textbook Ch. 6, pp. 191-201, 207-212: Cultivation, Wetting Agents, Colorants, PGRs, and Biostimulants",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f641",
+    "module": "M23",
+    "question": "Rolling after planting ensures:",
+    "correct": "contact between soil and planting materials",
+    "options": [
+      "contact between soil and planting materials",
+      "faster germination of weed seed in the soil",
+      "deeper penetration of the irrigation water",
+      "removal of excess thatch from the surface"
+    ],
+    "feedback": "Seed, stolons, sprigs, plugs, and sod.",
+    "source": "Textbook Ch. 6, pp. 201-207: Rolling, Topdressing, and Matting",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f642",
+    "module": "M21",
+    "question": "In some rhizomatous turfgrasses, closer mowing results in:",
+    "correct": "fewer, shorter rhizomes",
+    "options": [
+      "fewer, shorter rhizomes",
+      "more, longer rhizomes",
+      "more, shorter rhizomes",
+      "fewer, longer rhizomes"
+    ],
+    "feedback": "Rhizome development declines with lower mowing.",
+    "source": "M21.5: Mowing Variables",
+    "kind": "module"
+  },
+  {
+    "id": "f643",
+    "module": "M21",
+    "question": "The most uniform cut from a reel mower occurs when:",
+    "correct": "CR equals MH",
+    "options": [
+      "CR equals MH",
+      "CR is twice MH",
+      "CR is less than MH",
+      "CR is half of MH"
+    ],
+    "feedback": "CR = MH gives a 12% variation, which is not noticeable.",
+    "source": "M21.4: Marcelling",
+    "kind": "module"
+  },
+  {
+    "id": "f644",
+    "module": "M24",
+    "question": "Drain tiles may be arranged in a herringbone pattern or a:",
+    "correct": "gridiron pattern",
+    "options": [
+      "gridiron pattern",
+      "spiral pattern",
+      "radial pattern",
+      "checkerboard pattern"
+    ],
+    "feedback": "Or placed in low areas where runoff collects.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f645",
+    "module": "M24",
+    "question": "Half-normal rates of 2,4-D and dicamba may work in seedling stands because:",
+    "correct": "seedling weeds are more sensitive than mature ones",
+    "options": [
+      "seedling weeds are more sensitive than mature ones",
+      "seedling turfgrasses are immune to these herbicides",
+      "herbicides are more active in cool weather",
+      "new turf absorbs herbicides more slowly"
+    ],
+    "feedback": "Less hazard to young turf.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "f646",
+    "module": "M24",
+    "question": "An advantage of hydroseeding is that:",
+    "correct": "fertilizer and mulch can go on with the seed",
+    "options": [
+      "fertilizer and mulch can go on with the seed",
+      "seed is incorporated 1/4 inch deep",
+      "no mulch is ever required afterward on any site",
+      "it costs less than broadcast seeding"
+    ],
+    "feedback": "Popular on steep slopes.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "f647",
+    "module": "M22",
+    "question": "In a combination vertical mower-seeder, the front vertical-mowing portion:",
+    "correct": "creates grooves for the seeder at the rear",
+    "options": [
+      "creates grooves for the seeder at the rear",
+      "spreads seed ahead of the vertical knives",
+      "rolls the seed into the soil after seeding",
+      "removes the seed that misses the grooves"
+    ],
+    "feedback": "Two operations previously done separately are combined.",
+    "source": "M22.9: Vertical Mowers",
+    "kind": "module"
+  },
+  {
+    "id": "f648",
+    "module": "M22",
+    "question": "Paclobutrazol (Trimmit) and flurprimidol (Cutless) are:",
+    "correct": "Class-B PGRs",
+    "options": [
+      "Class-B PGRs",
+      "Class-A PGRs",
+      "Class-C PGRs",
+      "Class-E PGRs"
+    ],
+    "feedback": "Root absorbed, early GA inhibitors.",
+    "source": "Textbook Ch. 6, pp. 191-201, 207-212: Cultivation, Wetting Agents, Colorants, PGRs, and Biostimulants",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f649",
+    "module": "M21",
+    "question": "Budding's reel mower was adapted from a rotary shear used to:",
+    "correct": "cut the nap from carpets",
+    "options": [
+      "cut the nap from carpets",
+      "trim hedges on estates",
+      "harvest wheat in fields",
+      "cut leather for shoes"
+    ],
+    "feedback": "Budding was a textile engineer; the mower adapted the carpet-nap shear.",
+    "source": "M21.2: Mowing",
+    "kind": "module"
+  },
+  {
+    "id": "f650",
+    "module": "M23",
+    "question": "When topdressing immediately follows core cultivation, the remaining medium not in the holes may:",
+    "correct": "fill thatch pores or form a layer above the thatch",
+    "options": [
+      "fill thatch pores or form a layer above the thatch",
+      "wash completely out of the turf with irrigation",
+      "compact the soil at the very base of the coring holes",
+      "be collected and reused at the next application"
+    ],
+    "feedback": "Part fills the holes; the rest goes into or onto the thatch.",
+    "source": "M23.2: Topdressing",
+    "kind": "module"
+  },
+  {
+    "id": "f651",
+    "module": "M21",
+    "question": "Light-exclusion injury from clippings is most likely during:",
+    "correct": "hot weather",
+    "options": [
+      "hot weather",
+      "cool weather",
+      "spring green-up",
+      "winter dormancy"
+    ],
+    "feedback": "Excessive clippings should be removed especially in hot weather.",
+    "source": "M21.5: Mowing Variables",
+    "kind": "module"
+  },
+  {
+    "id": "f652",
+    "module": "M24",
+    "question": "In renovation, a substantial thatch layer should be reduced by:",
+    "correct": "deep vertical mowing or a sod cutter",
+    "options": [
+      "deep vertical mowing or a sod cutter",
+      "light rolling and irrigation",
+      "spiking followed by wetting agents and irrigation",
+      "burning the debris on site"
+    ],
+    "feedback": "Haul the debris away.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f653",
+    "module": "M23",
+    "question": "When starting a sand topdressing program, core reincorporation should wait until the sand depth exceeds:",
+    "correct": "the cultivator's maximum penetration depth",
+    "options": [
+      "the cultivator's maximum penetration depth",
+      "the depth of the thatch layer above the soil",
+      "one inch below the putting surface",
+      "the mowing height of the green"
+    ],
+    "feedback": "Otherwise alternating sand and soil layers form.",
+    "source": "Textbook Ch. 6, pp. 201-207: Rolling, Topdressing, and Matting",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f654",
+    "module": "M24",
+    "question": "In semiarid climates, drain tiles may be placed up to ___ deep where salinization from groundwater is a risk.",
+    "correct": "6 feet",
+    "options": [
+      "6 feet",
+      "18 inches",
+      "3 feet",
+      "12 feet"
+    ],
+    "feedback": "Normal depth is 18 to 36 inches.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f655",
+    "module": "M23",
+    "question": "Per O'Brien and Hartwiger (2003), light, moderate, and heavy sand topdressing rates are:",
+    "correct": "0.02, 0.07, and 0.15 yd³/1000 ft²",
+    "options": [
+      "0.02, 0.07, and 0.15 yd³/1000 ft²",
+      "0.2, 0.7, and 1.5 yd³/1000 ft²",
+      "0.01, 0.05, and 0.10 yd³/1000 ft²",
+      "0.05, 0.10, and 0.20 yd³/1000 ft²"
+    ],
+    "feedback": "USGA Green Section rates.",
+    "source": "Textbook Ch. 6, pp. 201-207: Rolling, Topdressing, and Matting",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f656",
+    "module": "M24",
+    "question": "Which warm-season turfgrass is usually SEEDED?",
+    "correct": "common bermudagrass",
+    "options": [
+      "common bermudagrass",
+      "hybrid bermudagrass",
+      "St. Augustinegrass",
+      "most zoysiagrasses"
+    ],
+    "feedback": "Along with centipedegrass, bahiagrass, carpetgrass, buffalograss.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "f657",
+    "module": "M24",
+    "question": "Fumigation may be justified where the soil holds a large reservoir of:",
+    "correct": "annual bluegrass seed or perennial weed propagules",
+    "options": [
+      "annual bluegrass seed or perennial weed propagules",
+      "soluble salts and sodium accumulated in the root zone",
+      "beneficial microbes and earthworms",
+      "undecomposed thatch and organic matter"
+    ],
+    "feedback": "It is laborious and expensive.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f658",
+    "module": "M21",
+    "question": "With MH = 0.4 in and CR = 0.6 in, the restitution height is:",
+    "correct": "0.1 in",
+    "options": [
+      "0.1 in",
+      "0.2 in",
+      "0.3 in",
+      "0.05 in"
+    ],
+    "feedback": "b = 0.3; c = √(0.16 + 0.09) = 0.5; R = 0.5 − 0.4 = 0.1 in (%V = 25%).",
+    "source": "M21.4: Marcelling",
+    "kind": "module"
+  },
+  {
+    "id": "f659",
+    "module": "M22",
+    "question": "HTC can increase damage from:",
+    "correct": "cutworms and other insects in the holes",
+    "options": [
+      "cutworms and other insects in the holes",
+      "grubs feeding on the soil cores left on the surface",
+      "sod webworms in the mower baskets",
+      "mole crickets attracted to the sand"
+    ],
+    "feedback": "Insects reside in the holes.",
+    "source": "M22.5: Hollow-Tine Cultivation - Advantages and Disadvantages",
+    "kind": "module"
+  },
+  {
+    "id": "f660",
+    "module": "M24",
+    "question": "Seed for overseeding warm-season turf in subtropical climates is commonly treated with metalaxyl to control:",
+    "correct": "Pythium blight",
+    "options": [
+      "Pythium blight",
+      "dollar spot",
+      "brown patch",
+      "snow mold"
+    ],
+    "feedback": "Fungicide-treated seed.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "f661",
+    "module": "M24",
+    "question": "Which is NOT one of the five postplanting practices in the module's star?",
+    "correct": "rolling",
+    "options": [
+      "rolling",
+      "mowing",
+      "fertilization",
+      "pest management"
+    ],
+    "feedback": "The five: mowing, fertilization, irrigation, topdressing, pest management.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "f662",
+    "module": "M22",
+    "question": "Because no cores are removed, STC has the potential for:",
+    "correct": "more compaction along the sides and bases of holes",
+    "options": [
+      "more compaction along the sides and bases of holes",
+      "less compaction than any other method of cultivation used",
+      "more soil on the surface than hollow tines",
+      "more thatch removal than vertical mowing"
+    ],
+    "feedback": "Soil is pushed aside rather than extracted.",
+    "source": "M22.6: Solid Tine Cultivation",
+    "kind": "module"
+  },
+  {
+    "id": "f663",
+    "module": "M21",
+    "question": "A hover mower (Flymo) is a type of rotary mower especially useful for mowing:",
+    "correct": "steep banks",
+    "options": [
+      "steep banks",
+      "putting greens",
+      "sod crops",
+      "tall utility turf"
+    ],
+    "feedback": "Its air cushion and lack of wheels make it easy to move on steep banks.",
+    "source": "M21.3: Mechanical Mowing Types",
+    "kind": "module"
+  },
+  {
+    "id": "f664",
+    "module": "M22",
+    "question": "Drill-and-fill drills typically penetrate to a depth of about:",
+    "correct": "12 inches",
+    "options": [
+      "12 inches",
+      "3 inches",
+      "6 inches",
+      "24 inches"
+    ],
+    "feedback": "Sand fingers about 12 inches deep influence initial infiltration.",
+    "source": "M22.3: Core Cultivation",
+    "kind": "module"
+  },
+  {
+    "id": "f665",
+    "module": "M23",
+    "question": "The weight of a sand layer atop thatch:",
+    "correct": "compresses the thatch and reduces its porosity",
+    "options": [
+      "compresses the thatch and reduces its porosity",
+      "loosens the thatch and increases its overall porosity",
+      "has no effect on the thatch beneath it",
+      "speeds decomposition of the thatch layer"
+    ],
+    "feedback": "The thatch becomes fine-textured relative to sand.",
+    "source": "M23.3: Topdressing (continued)",
+    "kind": "module"
+  },
+  {
+    "id": "f666",
+    "module": "M22",
+    "question": "Today the term biostimulant mainly refers to:",
+    "correct": "seaweed extracts and humic acids",
+    "options": [
+      "seaweed extracts and humic acids",
+      "synthetic PGRs and wetting agents",
+      "fungicides and insecticides",
+      "lime and sulfur"
+    ],
+    "feedback": "Plus some triazoles, potassium silicate, and salicylic acid.",
+    "source": "Textbook Ch. 6, pp. 191-201, 207-212: Cultivation, Wetting Agents, Colorants, PGRs, and Biostimulants",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f667",
+    "module": "M23",
+    "question": "In established turfs, rolling corrects minor surface disruptions and:",
+    "correct": "reestablishes soil contact with turf torn by play",
+    "options": [
+      "reestablishes soil contact with turf torn by play",
+      "removes thatch accumulated at the surface",
+      "increases water infiltration into the compacted surface soil",
+      "incorporates topdressing sand into thatch"
+    ],
+    "feedback": "Sections loosened or torn by play.",
+    "source": "M23.3: Topdressing (continued)",
+    "kind": "module"
+  },
+  {
+    "id": "f668",
+    "module": "M22",
+    "question": "Percent displacement from coring is calculated as:",
+    "correct": "tine hole area ÷ area per tine spacing",
+    "options": [
+      "tine hole area ÷ area per tine spacing",
+      "tine diameter ÷ spacing between tines",
+      "tine hole area × number of passes",
+      "core depth ÷ the spacing between tines"
+    ],
+    "feedback": "Area of one hole (πr²) divided by the area each tine occupies (spacing x spacing).",
+    "source": "M22.3: Core Cultivation",
+    "kind": "module"
+  },
+  {
+    "id": "f669",
+    "module": "M22",
+    "question": "HTC increases the potential for desiccation because:",
+    "correct": "subsurface tissues are exposed",
+    "options": [
+      "subsurface tissues are exposed",
+      "cores block irrigation water",
+      "roots are cut by the tines",
+      "the soil is compacted at the surface"
+    ],
+    "feedback": "Exposed tissues dry out.",
+    "source": "M22.5: Hollow-Tine Cultivation - Advantages and Disadvantages",
+    "kind": "module"
+  },
+  {
+    "id": "f670",
+    "module": "M24",
+    "question": "Good-quality sod should be capable of rooting within:",
+    "correct": "1 to 2 weeks after planting",
+    "options": [
+      "1 to 2 weeks after planting",
+      "1 to 2 days after planting",
+      "2 to 3 months after planting",
+      "one full growing season"
+    ],
+    "feedback": "It should also be uniform, pest free, and strong.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f671",
+    "module": "M24",
+    "question": "Where cold is expected after overseeding, greens mowing height may be raised from 0.188 to:",
+    "correct": "0.313 inch",
+    "options": [
+      "0.313 inch",
+      "0.125 inch",
+      "0.5 inch",
+      "1.0 inch"
+    ],
+    "feedback": "For about 3 weeks or until tillering.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f672",
+    "module": "M24",
+    "question": "Excelsior (wood shavings) has an added advantage over straw of being:",
+    "correct": "free of weed seeds",
+    "options": [
+      "free of weed seeds",
+      "cheaper per acre",
+      "easier to remove",
+      "higher in nitrogen"
+    ],
+    "feedback": "Comparable in effectiveness.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f673",
+    "module": "M24",
+    "question": "Stolonizing is essentially:",
+    "correct": "broadcast sprigging",
+    "options": [
+      "broadcast sprigging",
+      "broadcast plugging",
+      "row sodding",
+      "hydro-sprigging"
+    ],
+    "feedback": "Material is spread uniformly on moist soil.",
+    "source": "M24.5: Vegetative Planting Methods",
+    "kind": "module"
+  },
+  {
+    "id": "f674",
+    "module": "M23",
+    "question": "Non-uniform hand application of topdressing can result in:",
+    "correct": "differential wilting or localized dry spots",
+    "options": [
+      "differential wilting or localized dry spots",
+      "marcelling and scalping of the green",
+      "severe soil compaction beneath the coring holes",
+      "grain and stolon buildup on the green"
+    ],
+    "feedback": "Plugs show the contrast between well and inadequately topdressed turf.",
+    "source": "M23.2: Topdressing",
+    "kind": "module"
+  },
+  {
+    "id": "f675",
+    "module": "M23",
+    "question": "Lightweight rolling of greens has enjoyed a resurgence since the:",
+    "correct": "1990s",
+    "options": [
+      "1990s",
+      "1940s",
+      "1960s",
+      "2010s"
+    ],
+    "feedback": "Part of superintendents' success in maintaining fast putting speeds.",
+    "source": "M23.3: Topdressing (continued)",
+    "kind": "module"
+  },
+  {
+    "id": "f676",
+    "module": "M24",
+    "question": "Soil settling before fine grading can be accelerated by:",
+    "correct": "intensive irrigation or rainfall",
+    "options": [
+      "intensive irrigation or rainfall",
+      "adding lime and fertilizer",
+      "harrowing in several directions",
+      "harrowing the site in several different directions"
+    ],
+    "feedback": "Settling prevents later depressions.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "f677",
+    "module": "M23",
+    "question": "For bermudagrass greens, moderate topdressing rates are used in:",
+    "correct": "summer",
+    "options": [
+      "summer",
+      "spring",
+      "fall",
+      "winter"
+    ],
+    "feedback": "When growth and organic matter accumulation are most rapid.",
+    "source": "Textbook Ch. 6, pp. 201-207: Rolling, Topdressing, and Matting",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f678",
+    "module": "M24",
+    "question": "Postplanting topdressing is primarily for turfs of:",
+    "correct": "stoloniferous grasses kept closely mowed",
+    "options": [
+      "stoloniferous grasses kept closely mowed",
+      "bunch-type grasses kept at high cuts",
+      "rhizomatous grasses on utility sites",
+      "any grass seeded in late summer"
+    ],
+    "feedback": "Favors rooting and shoots from stolon nodes.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "f679",
+    "module": "M24",
+    "question": "Spring seeding may be preferred for cool-season turf on:",
+    "correct": "tree-shaded sites, before leaves develop",
+    "options": [
+      "tree-shaded sites, before leaves develop",
+      "steep slopes that face the hot midday sun in summer",
+      "sites with heavy summer weed pressure",
+      "sand-based greens under heavy traffic"
+    ],
+    "feedback": "More light before deciduous leaf-out.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f680",
+    "module": "M22",
+    "question": "Matting reincorporates cores by dragging ___ across the turf.",
+    "correct": "chain-link fence or heavy steel mats",
+    "options": [
+      "chain-link fence or heavy steel mats",
+      "a vertical mower with shallow knives",
+      "a weighted roller filled with water",
+      "a rotary mower set at a low height"
+    ],
+    "feedback": "Hence the name matting.",
+    "source": "M22.3: Core Cultivation",
+    "kind": "module"
+  },
+  {
+    "id": "f681",
+    "module": "M24",
+    "question": "Adding a little sand to a fine-textured soil often produces:",
+    "correct": "a cement-like medium",
+    "options": [
+      "a cement-like medium",
+      "a well-aerated medium",
+      "a hydrophobic medium",
+      "a highly organic medium"
+    ],
+    "feedback": "Like adding a marble to a cup of flour: porosity drops.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "f682",
+    "module": "M21",
+    "question": "Where clippings are routinely removed, the turf may need:",
+    "correct": "additional fertilization",
+    "options": [
+      "additional fertilization",
+      "less irrigation",
+      "a higher mowing height",
+      "more frequent rolling"
+    ],
+    "feedback": "To compensate for nutrients lost in clippings.",
+    "source": "M21.5: Mowing Variables",
+    "kind": "module"
+  },
+  {
+    "id": "f683",
+    "module": "M22",
+    "question": "Biostimulants should be applied:",
+    "correct": "before the onset of stress",
+    "options": [
+      "before the onset of stress",
+      "only after stress symptoms appear",
+      "only during winter dormancy",
+      "once every three years"
+    ],
+    "feedback": "Current recommendations: monthly at low rates.",
+    "source": "Textbook Ch. 6, pp. 191-201, 207-212: Cultivation, Wetting Agents, Colorants, PGRs, and Biostimulants",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f684",
+    "module": "M24",
+    "question": "Severe weeds, disease, poor drainage, scalping, and stress intolerance in a turf often trace back to:",
+    "correct": "mistakes made during establishment",
+    "options": [
+      "mistakes made during establishment",
+      "improper mowing of the mature turf",
+      "poor choice of fertilizer carrier",
+      "overwatering in the first summer"
+    ],
+    "feedback": "Many problems are directly related to establishment mistakes or omissions.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "f685",
+    "module": "M24",
+    "question": "Seed priming differs from pregermination in that priming:",
+    "correct": "stops before seedling structures emerge",
+    "options": [
+      "stops before seedling structures emerge",
+      "allows the coleoptile and root to emerge",
+      "requires planting the seed immediately",
+      "is done in a cold, dry environment"
+    ],
+    "feedback": "Pregermination lets the coleoptile and root emerge.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f686",
+    "module": "M21",
+    "question": "Shoot recuperative capacity is the axillary bud response to:",
+    "correct": "recovery from injury or disease",
+    "options": [
+      "recovery from injury or disease",
+      "mowing height reduction",
+      "reduction of the mowing height within its range",
+      "clipping removal"
+    ],
+    "feedback": "Even more buds develop to repopulate the site after injury or disease.",
+    "source": "M21.5: Mowing Variables",
+    "kind": "module"
+  },
+  {
+    "id": "f687",
+    "module": "M24",
+    "question": "Drainage and irrigation systems should be installed:",
+    "correct": "after rough grading of the new site",
+    "options": [
+      "after rough grading of the new site",
+      "after final topsoil placement only",
+      "before any clearing operations begin",
+      "after the turf has been established"
+    ],
+    "feedback": "Settling of soil in trenches is less of a problem than after topsoil placement.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "f688",
+    "module": "M22",
+    "question": "Drill cultivation was not originally accepted by the industry because:",
+    "correct": "the operation was very slow",
+    "options": [
+      "the operation was very slow",
+      "it caused severe compaction",
+      "it was too costly to buy",
+      "it damaged irrigation lines"
+    ],
+    "feedback": "It reemerged with machines that probe deeply and backfill with sand.",
+    "source": "Textbook Ch. 6, pp. 191-201, 207-212: Cultivation, Wetting Agents, Colorants, PGRs, and Biostimulants",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f689",
+    "module": "M22",
+    "question": "Which PGRs are fairly effective in reducing seed head development and emergence?",
+    "correct": "Class C",
+    "options": [
+      "Class C",
+      "Class A",
+      "Class B",
+      "Class D"
+    ],
+    "feedback": "Class A and B shorten seed heads but generally do not prevent them.",
+    "source": "Textbook Ch. 6, pp. 191-201, 207-212: Cultivation, Wetting Agents, Colorants, PGRs, and Biostimulants",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f690",
+    "module": "M22",
+    "question": "Coring improves fertilizer response partly because ___ are highly immobile in soil.",
+    "correct": "lime and phosphorus",
+    "options": [
+      "lime and phosphorus",
+      "nitrogen and potassium",
+      "sulfur and calcium",
+      "iron and manganese"
+    ],
+    "feedback": "Coring inserts them below the surface.",
+    "source": "Textbook Ch. 6, pp. 191-201, 207-212: Cultivation, Wetting Agents, Colorants, PGRs, and Biostimulants",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f691",
+    "module": "M21",
+    "question": "Mowing frequency is:",
+    "correct": "the number of mowings per unit of time",
+    "options": [
+      "the number of mowings per unit of time",
+      "the number of days between mowings",
+      "the number of days between successive mowings",
+      "the fraction of growth removed"
+    ],
+    "feedback": "It is inversely related to the mowing interval.",
+    "source": "M21.5: Mowing Variables",
+    "kind": "module"
+  },
+  {
+    "id": "f692",
+    "module": "M21",
+    "question": "Which of the following does NOT determine the clip of the reel?",
+    "correct": "the mowing height",
+    "options": [
+      "the mowing height",
+      "the number of reel blades",
+      "the reel's rotational velocity",
+      "the forward operating speed"
+    ],
+    "feedback": "CR depends on blade number, reel speed, and forward speed.",
+    "source": "M21.3: Mechanical Mowing Types",
+    "kind": "module"
+  },
+  {
+    "id": "f693",
+    "module": "M21",
+    "question": "Reel mower cut quality is influenced by sharpness and by the:",
+    "correct": "adjustment of the bedknife against the reel",
+    "options": [
+      "adjustment of the bedknife against the reel",
+      "diameter of the rear drive roller",
+      "engine horsepower of the traction unit driving it",
+      "balance of the vertical drive shaft"
+    ],
+    "feedback": "Sharpness plus bedknife-to-reel adjustment.",
+    "source": "M21.3: Mechanical Mowing Types",
+    "kind": "module"
+  },
+  {
+    "id": "f694",
+    "module": "M22",
+    "question": "\"Aerification\" is more properly called core cultivation because aerification:",
+    "correct": "is a trade term for Mascaro's aerifier",
+    "options": [
+      "is a trade term for Mascaro's aerifier",
+      "describes only solid-tine cultivation",
+      "implies that cores are always removed",
+      "refers to cultivation of sand greens only"
+    ],
+    "feedback": "Aerification is a commercial term specific to Mascaro's aerifier.",
+    "source": "M22.2: Cultivation",
+    "kind": "module"
+  },
+  {
+    "id": "f695",
+    "module": "M21",
+    "question": "Mowing is considered the most basic turfgrass cultural practice because it:",
+    "correct": "affects the turf's response to most other influences",
+    "options": [
+      "affects the turf's response to most other influences",
+      "is the most expensive operation on nearly every turf site",
+      "is the only practice performed every season",
+      "determines which species can be established"
+    ],
+    "feedback": "It affects the turf's response to most other influences in the cultural or natural environment.",
+    "source": "M21.2: Mowing",
+    "kind": "module"
+  },
+  {
+    "id": "f696",
+    "module": "M22",
+    "question": "Which is NOT one of the four disadvantages of HTC?",
+    "correct": "release of toxic gases from the soil",
+    "options": [
+      "release of toxic gases from the soil",
+      "increased desiccation potential",
+      "temporary surface disruption",
+      "increased cutworm damage"
+    ],
+    "feedback": "Toxic-gas release is an advantage.",
+    "source": "M22.5: Hollow-Tine Cultivation - Advantages and Disadvantages",
+    "kind": "module"
+  },
+  {
+    "id": "f697",
+    "module": "M22",
+    "question": "Slicing penetrates the turf to a depth of:",
+    "correct": "3 to 4 inches",
+    "options": [
+      "3 to 4 inches",
+      "about 1 inch",
+      "6 to 8 inches",
+      "up to 16 inches"
+    ],
+    "feedback": "V-shaped knives mounted on disks.",
+    "source": "M22.6: Solid Tine Cultivation",
+    "kind": "module"
+  },
+  {
+    "id": "f698",
+    "module": "M21",
+    "question": "When the clip of the reel is less than the mowing height, the result is a:",
+    "correct": "ragged cut",
+    "options": [
+      "ragged cut",
+      "wavy cut",
+      "uniform cut",
+      "scalped cut"
+    ],
+    "feedback": "Reel blades cannot efficiently direct all leaves to the bedknife, so the cut is ragged.",
+    "source": "M21.4: Marcelling",
+    "kind": "module"
+  },
+  {
+    "id": "f699",
+    "module": "M23",
+    "question": "Excessive amounts of topdressing can lead to substantial turf loss by:",
+    "correct": "preventing light from reaching the leaves",
+    "options": [
+      "preventing light from reaching the leaves",
+      "raising the soil pH beyond optimal levels",
+      "introducing weed seeds into the green",
+      "compacting the soil beneath the thatch"
+    ],
+    "feedback": "Light exclusion.",
+    "source": "M23.2: Topdressing",
+    "kind": "module"
+  },
+  {
+    "id": "f700",
+    "module": "M23",
+    "question": "Per the module's photo caption, the factor that may be most important in setting topdressing amount is:",
+    "correct": "turfgrass growth",
+    "options": [
+      "turfgrass growth",
+      "sand price",
+      "mowing height",
+      "green speed"
+    ],
+    "feedback": "The amount depends on several factors, though growth may be most important.",
+    "source": "M23.2: Topdressing",
+    "kind": "module"
+  },
+  {
+    "id": "f701",
+    "module": "M22",
+    "question": "On severely compacted greens, coring is often followed by:",
+    "correct": "circular tufts of bright green grass",
+    "options": [
+      "circular tufts of bright green grass",
+      "rings of dead grass around each hole",
+      "a sudden flush of annual bluegrass",
+      "a white crust on the extracted cores"
+    ],
+    "feedback": "Growing conditions improve near the holes as long as moisture is not limiting.",
+    "source": "Textbook Ch. 6, pp. 191-201, 207-212: Cultivation, Wetting Agents, Colorants, PGRs, and Biostimulants",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f702",
+    "module": "M22",
+    "question": "Per Table 22.3.1, 0.75-inch tines on a 2 x 2 inch spacing displace about:",
+    "correct": "11.0% of the surface",
+    "options": [
+      "11.0% of the surface",
+      "4.9% of the surface",
+      "2.8% of the surface",
+      "20% of the surface"
+    ],
+    "feedback": "π(0.375)² / 4 = 0.4418 / 4 ≈ 11%.",
+    "source": "M22.3: Core Cultivation",
+    "kind": "module"
+  },
+  {
+    "id": "f703",
+    "module": "M22",
+    "question": "Tom Mascaro introduced the verticutter and aerifier in the:",
+    "correct": "1940s",
+    "options": [
+      "1940s",
+      "1900s",
+      "1960s",
+      "1990s"
+    ],
+    "feedback": "A modern approach to turf cultivation began in the 1940s.",
+    "source": "M22.2: Cultivation",
+    "kind": "module"
+  },
+  {
+    "id": "f704",
+    "module": "M23",
+    "question": "For thatch control, the AMOUNT of topdressing sand depends on:",
+    "correct": "the amount of thatch present",
+    "options": [
+      "the amount of thatch present",
+      "the rate thatch is accumulating",
+      "the green speed wanted",
+      "the mowing height used"
+    ],
+    "feedback": "Amount ↔ thatch present; frequency ↔ accumulation rate.",
+    "source": "M23.3: Topdressing (continued)",
+    "kind": "module"
+  },
+  {
+    "id": "f705",
+    "module": "M24",
+    "question": "Light fertilizer rates on new turf avoid direct injury and restricted growth of:",
+    "correct": "roots and lateral shoots",
+    "options": [
+      "roots and lateral shoots",
+      "seed heads and flowers",
+      "leaves and leaf sheaths",
+      "crowns and axillary buds"
+    ],
+    "feedback": "Supply enough but not too much.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "f706",
+    "module": "M21",
+    "question": "Modern mowers are relatively lightweight to ensure:",
+    "correct": "high-quality, efficient, reliable mowing",
+    "options": [
+      "high-quality, efficient, reliable mowing",
+      "that operators can carry them up slopes",
+      "lower prices than rotary mowers",
+      "compatibility with older reel units"
+    ],
+    "feedback": "Light weight gives excellent mowing quality and efficient, reliable operation.",
+    "source": "M21.3: Mechanical Mowing Types",
+    "kind": "module"
+  },
+  {
+    "id": "f707",
+    "module": "M22",
+    "question": "HTC improves fertilizer response by:",
+    "correct": "incorporating nutrients into the holes",
+    "options": [
+      "incorporating nutrients into the holes",
+      "reducing the need for any fertilizer",
+      "binding nutrients in the extracted cores",
+      "raising the soil pH around the holes"
+    ],
+    "feedback": "Fertilizer moves into the holes.",
+    "source": "M22.5: Hollow-Tine Cultivation - Advantages and Disadvantages",
+    "kind": "module"
+  },
+  {
+    "id": "f708",
+    "module": "M21",
+    "question": "Turf cut with a dull mower shows:",
+    "correct": "frayed tissue above the cut height",
+    "options": [
+      "frayed tissue above the cut height",
+      "smooth, evenly cut leaf tips",
+      "a wavy, marcelled surface",
+      "a wavy, marcelled surface across the whole turf"
+    ],
+    "feedback": "Dull blades cut raggedly, leaving frayed tissue.",
+    "source": "M21.5: Mowing Variables",
+    "kind": "module"
+  },
+  {
+    "id": "f709",
+    "module": "M21",
+    "question": "Each leaf emerging from an aerial shoot has at its base a(n) ___ that can give rise to a new tiller.",
+    "correct": "axillary bud",
+    "options": [
+      "axillary bud",
+      "intercalary meristem",
+      "adventitious root",
+      "rhizome node"
+    ],
+    "feedback": "One axillary bud per leaf.",
+    "source": "M21.5: Mowing Variables",
+    "kind": "module"
+  },
+  {
+    "id": "f710",
+    "module": "M24",
+    "question": "Percent pure live seed (PLS) is calculated as:",
+    "correct": "% purity × % viability",
+    "options": [
+      "% purity × % viability",
+      "% purity + % viability",
+      "% purity ÷ % viability",
+      "% viability − % inert"
+    ],
+    "feedback": "Divide by 100 to keep it a percent.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "f711",
+    "module": "M21",
+    "question": "Within a grass's mowing-tolerance range, closer mowing produces a turf that is:",
+    "correct": "denser and finer-textured",
+    "options": [
+      "denser and finer-textured",
+      "thinner and coarser",
+      "denser and coarser",
+      "thinner and finer-textured"
+    ],
+    "feedback": "More diminutive plants form a denser, finer-textured sward.",
+    "source": "M21.5: Mowing Variables",
+    "kind": "module"
+  },
+  {
+    "id": "f712",
+    "module": "M21",
+    "question": "Mulching mowers use a modified rotary blade to:",
+    "correct": "recut clippings so they settle into the canopy",
+    "options": [
+      "recut clippings so they settle into the canopy",
+      "lift clippings into a rear-mounted collection bag",
+      "grind the reel blades while mowing",
+      "fold away when striking a hard object"
+    ],
+    "feedback": "Smaller clippings move into the canopy where microbes degrade them.",
+    "source": "M21.3: Mechanical Mowing Types",
+    "kind": "module"
+  },
+  {
+    "id": "f713",
+    "module": "M24",
+    "question": "After seeding, the seedbed is rolled to:",
+    "correct": "ensure firm seed-soil contact",
+    "options": [
+      "ensure firm seed-soil contact",
+      "bury the seed 1 inch deep",
+      "smooth out tire tracks only",
+      "remove excess mulch"
+    ],
+    "feedback": "Best germination often occurs where foot traffic compressed the soil.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "f714",
+    "module": "M24",
+    "question": "Sprigs are usually planted ___ deep in furrows.",
+    "correct": "2 to 3 inches",
+    "options": [
+      "2 to 3 inches",
+      "0.25 inch",
+      "6 to 8 inches",
+      "1 foot"
+    ],
+    "feedback": "Each sprig should have two to four nodes.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f715",
+    "module": "M24",
+    "question": "Clear polyethylene covers on a seedbed:",
+    "correct": "speed germination but risk disease if left on",
+    "options": [
+      "speed germination but risk disease if left on",
+      "prevent erosion on slopes but slow the germination",
+      "supply nutrients but shade seedlings",
+      "stabilize slopes but raise salts"
+    ],
+    "feedback": "A greenhouse effect.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f716",
+    "module": "M24",
+    "question": "Very high seeding rates can result in:",
+    "correct": "poor individual plant development and more disease",
+    "options": [
+      "poor individual plant development and more disease",
+      "faster maturity with no drawbacks at all",
+      "fewer weeds and much less disease pressure in the stand",
+      "deeper rooting in the seedling stand"
+    ],
+    "feedback": "Competitive stress and a favorable disease microclimate.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f717",
+    "module": "M21",
+    "question": "Excessive clippings should be removed mainly to avoid:",
+    "correct": "light-exclusion injury",
+    "options": [
+      "light-exclusion injury",
+      "marcelling",
+      "soil compaction from mowing traffic",
+      "scalping"
+    ],
+    "feedback": "Especially during hot weather.",
+    "source": "M21.5: Mowing Variables",
+    "kind": "module"
+  },
+  {
+    "id": "f718",
+    "module": "M23",
+    "question": "Once a sand topdressing program begins, soil cores from hollow-tine cultivation should be:",
+    "correct": "removed from the site before topdressing",
+    "options": [
+      "removed from the site before topdressing",
+      "reincorporated with a steel mat right away",
+      "left on the surface to break down naturally",
+      "mixed with the sand and spread back out"
+    ],
+    "feedback": "Otherwise texturally different layers form.",
+    "source": "M23.2: Topdressing",
+    "kind": "module"
+  },
+  {
+    "id": "f719",
+    "module": "M22",
+    "question": "Reincorporating cores that contain both topdressing sand and native soil leads to:",
+    "correct": "distinct textural layers that obstruct water",
+    "options": [
+      "distinct textural layers that obstruct water",
+      "a uniform blend of sand and soil",
+      "faster thatch decomposition with no drawback",
+      "a firmer surface with better drainage"
+    ],
+    "feedback": "Sand and soil cannot be thoroughly mixed; layers form and water movement is obstructed.",
+    "source": "M22.3: Core Cultivation",
+    "kind": "module"
+  },
+  {
+    "id": "f720",
+    "module": "M24",
+    "question": "Hydroseeding usually requires mulching materials because the seed:",
+    "correct": "is deposited on the surface without incorporation",
+    "options": [
+      "is deposited on the surface without incorporation",
+      "is buried too deep in the soil for good germination",
+      "is damaged by the high pump pressure",
+      "is washed away by the hydroseeder spray"
+    ],
+    "feedback": "No incorporation or rolling.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "f721",
+    "module": "M21",
+    "question": "A 12-percent variation in the turf surface is:",
+    "correct": "not even noticeable",
+    "options": [
+      "not even noticeable",
+      "severe marcelling",
+      "a ragged cut",
+      "scalping injury"
+    ],
+    "feedback": "At CR = MH the 12% variation is acceptable and not noticeable.",
+    "source": "M21.4: Marcelling",
+    "kind": "module"
+  },
+  {
+    "id": "f722",
+    "module": "M24",
+    "question": "Seeding cool-season grasses well into fall risks:",
+    "correct": "poorly developed plants and frost heaving",
+    "options": [
+      "poorly developed plants and frost heaving",
+      "severe competition from summer annual weeds like crabgrass",
+      "heat and drought stress on seedlings",
+      "excessive growth before winter dormancy"
+    ],
+    "feedback": "Plants should be intermingled before winter.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f723",
+    "module": "M21",
+    "question": "While a flail mower shaft rotates, the knives are held out by:",
+    "correct": "centrifugal force",
+    "options": [
+      "centrifugal force",
+      "spring tension",
+      "a fixed bolt",
+      "air pressure"
+    ],
+    "feedback": "Centrifugal force extends the hinged knives.",
+    "source": "M21.3: Mechanical Mowing Types",
+    "kind": "module"
+  },
+  {
+    "id": "f724",
+    "module": "M23",
+    "question": "On a Penn A-4 green, topdressing should be conducted:",
+    "correct": "weekly",
+    "options": [
+      "weekly",
+      "monthly",
+      "twice a year",
+      "daily"
+    ],
+    "feedback": "Dense thatch requires frequent topdressing.",
+    "source": "M23.3: Topdressing (continued)",
+    "kind": "module"
+  },
+  {
+    "id": "f725",
+    "module": "M22",
+    "question": "Late spring and early summer coring can favor:",
+    "correct": "crabgrass and other summer annuals",
+    "options": [
+      "crabgrass and other summer annuals",
+      "annual bluegrass and winter annuals",
+      "moss and algae on the green surface",
+      "dollar spot and brown patch outbreaks"
+    ],
+    "feedback": "Unless the turf is vigorous enough to fill the holes quickly.",
+    "source": "Textbook Ch. 6, pp. 191-201, 207-212: Cultivation, Wetting Agents, Colorants, PGRs, and Biostimulants",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f726",
+    "module": "M24",
+    "question": "To ensure rapid rooting, sod should be cut:",
+    "correct": "as thin as possible",
+    "options": [
+      "as thin as possible",
+      "at least 2 inches thick",
+      "with extra thatch on it",
+      "in very large slabs"
+    ],
+    "feedback": "Thin sod roots faster.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "f727",
+    "module": "M23",
+    "question": "When soil cores are too wet for matting, the soil tends to:",
+    "correct": "smear",
+    "options": [
+      "smear",
+      "crumble",
+      "harden",
+      "blow away"
+    ],
+    "feedback": "Too dry, and the cores are hard and bricklike.",
+    "source": "Textbook Ch. 6, pp. 201-207: Rolling, Topdressing, and Matting",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f728",
+    "module": "M22",
+    "question": "HTC provides thatch control when:",
+    "correct": "cores are incorporated into the thatch",
+    "options": [
+      "cores are incorporated into the thatch",
+      "cores are removed from the site",
+      "the holes are left open all season",
+      "tines penetrate less than 1 inch"
+    ],
+    "feedback": "Soil from the cores modifies the thatch.",
+    "source": "M22.5: Hollow-Tine Cultivation - Advantages and Disadvantages",
+    "kind": "module"
+  },
+  {
+    "id": "f729",
+    "module": "M23",
+    "question": "Relative to the topdressing sand, compressed thatch is a:",
+    "correct": "finer-textured medium",
+    "options": [
+      "finer-textured medium",
+      "coarser-textured medium",
+      "more porous medium",
+      "more resilient medium"
+    ],
+    "feedback": "Compression reduces porosity.",
+    "source": "M23.3: Topdressing (continued)",
+    "kind": "module"
+  },
+  {
+    "id": "f730",
+    "module": "M22",
+    "question": "Turf cultivation is defined as mechanical methods of:",
+    "correct": "selective tillage that modify a turf",
+    "options": [
+      "selective tillage that modify a turf",
+      "complete tillage of the soil before replanting",
+      "chemical control of thatch layers",
+      "soil replacement under the turf"
+    ],
+    "feedback": "Selective tillage that modifies physical and possibly other characteristics of a turf.",
+    "source": "M22.2: Cultivation",
+    "kind": "module"
+  },
+  {
+    "id": "f731",
+    "module": "M24",
+    "question": "Cool-season exceptions that are not seeded are those Kentucky bluegrasses and creeping bentgrasses that:",
+    "correct": "don't propagate true-to-type from seed",
+    "options": [
+      "don't propagate true-to-type from seed",
+      "produce too little seed in the field to be harvested",
+      "germinate too slowly to establish",
+      "are too expensive to buy as seed"
+    ],
+    "feedback": "Otherwise most cool-season grasses can be seeded.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "f732",
+    "module": "M21",
+    "question": "Light and dark stripes after mowing result from:",
+    "correct": "shoots leaning, which changes light reflection",
+    "options": [
+      "shoots leaning, which changes light reflection",
+      "alternating units set at different heights",
+      "clippings left behind on alternating mowing passes",
+      "uneven fertilizer applied with the mower"
+    ],
+    "feedback": "Mowing direction orients shoots toward the direction of travel.",
+    "source": "M21.5: Mowing Variables",
+    "kind": "module"
+  },
+  {
+    "id": "f733",
+    "module": "M24",
+    "question": "A cultipacker seeder's roller is ridged, so germination is often largely confined to:",
+    "correct": "parallel valleys made by the roller",
+    "options": [
+      "parallel valleys made by the roller",
+      "the ridges between the valleys",
+      "the edges of the seeded area",
+      "areas of the heaviest traffic"
+    ],
+    "feedback": "It distributes seed and firms the seedbed.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "f734",
+    "module": "M21",
+    "question": "Reel blades are prepared for mowing by spin grinding followed by:",
+    "correct": "relief grinding",
+    "options": [
+      "relief grinding",
+      "back lapping",
+      "balancing",
+      "spin grinding again"
+    ],
+    "feedback": "Spin grind first, then relief grind.",
+    "source": "M21.3: Mechanical Mowing Types",
+    "kind": "module"
+  },
+  {
+    "id": "f735",
+    "module": "M21",
+    "question": "When the clip of the reel equals the mowing height, the percent variation is:",
+    "correct": "12%",
+    "options": [
+      "12%",
+      "0%",
+      "25%",
+      "50%"
+    ],
+    "feedback": "CR = MH yields a 12% variation, an acceptable amount.",
+    "source": "M21.4: Marcelling",
+    "kind": "module"
+  },
+  {
+    "id": "f736",
+    "module": "M23",
+    "question": "Rolling of greens is regarded as an alternative to:",
+    "correct": "ultra-low mowing heights for fast speeds",
+    "options": [
+      "ultra-low mowing heights for fast speeds",
+      "core cultivation for relieving soil compaction",
+      "topdressing for thatch control",
+      "vertical mowing for grain control"
+    ],
+    "feedback": "Especially on sand-based greens that resist compaction.",
+    "source": "Textbook Ch. 6, pp. 201-207: Rolling, Topdressing, and Matting",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f737",
+    "module": "M22",
+    "question": "Examples of Class-C PGRs include:",
+    "correct": "mefluidide and chlorflurenol-methyl",
+    "options": [
+      "mefluidide and chlorflurenol-methyl",
+      "trinexapac-ethyl and prohexadione-Ca",
+      "paclobutrazol and flurprimidol",
+      "ethephon and gibberellic acid"
+    ],
+    "feedback": "Embark and Maintain CF.",
+    "source": "Textbook Ch. 6, pp. 191-201, 207-212: Cultivation, Wetting Agents, Colorants, PGRs, and Biostimulants",
+    "kind": "enrichment"
+  },
+  {
+    "id": "f738",
+    "module": "M24",
+    "question": "Vegetative planting materials are used for genotypes that:",
+    "correct": "do not produce viable seed or true-to-type seed",
+    "options": [
+      "do not produce viable seed or true-to-type seed",
+      "produce seed too large for most drop spreaders to meter",
+      "germinate too quickly in cool weather",
+      "are too expensive to plant by seed alone"
+    ],
+    "feedback": "Also used where especially rapid establishment is desired.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "f739",
+    "module": "M23",
+    "question": "Traditional topdressing preparation involves screening and blending loam or sandy loam soil, medium-to-coarse sand, and:",
+    "correct": "peat moss or other organic materials",
+    "options": [
+      "peat moss or other organic materials",
+      "crushed gravel or other coarse materials",
+      "lime or other pH-adjusting materials",
+      "clay or other fine-textured soils"
+    ],
+    "feedback": "Three constituents screened and blended.",
+    "source": "M23.2: Topdressing",
+    "kind": "module"
+  },
+  {
+    "id": "f740",
+    "module": "M24",
+    "question": "To improve a predominantly sand medium, it is generally better to:",
+    "correct": "add a small amount of soil to the sand",
+    "options": [
+      "add a small amount of soil to the sand",
+      "add a small amount of sand to the soil",
+      "add perlite and vermiculite to the sand",
+      "add raw sawdust to the sand mixture"
+    ],
+    "feedback": "Improves moisture and nutrient retention and reduces hydrophobicity.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "f741",
+    "module": "M21",
+    "question": "In a reel mower, the cutting action begins as the bedknife pushes shoots forward while a reel blade:",
+    "correct": "pulls shoots toward the bedknife",
+    "options": [
+      "pulls shoots toward the bedknife",
+      "pushes shoots down into the canopy",
+      "lifts clippings into the basket",
+      "slices shoots against the housing"
+    ],
+    "feedback": "The bedknife pushes forward; the reel blade pulls toward the bedknife.",
+    "source": "M21.3: Mechanical Mowing Types",
+    "kind": "module"
+  },
+  {
+    "id": "f742",
+    "module": "M21",
+    "question": "Axillary bud development for shoot density EXPANSION is triggered by:",
+    "correct": "mowing height reduction",
+    "options": [
+      "mowing height reduction",
+      "injury or disease",
+      "shoot senescence",
+      "raising the mowing height"
+    ],
+    "feedback": "Lowering the height causes more buds to develop, raising density.",
+    "source": "M21.5: Mowing Variables",
+    "kind": "module"
+  },
+  {
+    "id": "f743",
+    "module": "M23",
+    "question": "Sand is especially likely to form a layer atop the thatch where the thatch is:",
+    "correct": "relatively dense, as in Penn A-4 greens",
+    "options": [
+      "relatively dense, as in Penn A-4 greens",
+      "relatively thin, as in new USGA greens",
+      "relatively loose, as in Kentucky bluegrass",
+      "relatively dry, as in dormant bermudagrass"
+    ],
+    "feedback": "Dense thatch resists sand infiltration.",
+    "source": "M23.3: Topdressing (continued)",
+    "kind": "module"
+  },
+  {
+    "id": "f744",
+    "module": "M22",
+    "question": "Soil cores range in surface displacement, depending on tine size and spacing, from:",
+    "correct": "0.1 to 11 percent",
+    "options": [
+      "0.1 to 11 percent",
+      "1 to 25 percent",
+      "5 to 50 percent",
+      "0.01 to 1 percent"
+    ],
+    "feedback": "Table 22.3.1 ranges from 0.1% (0.25 in, 6x8) to 11% (0.75 in, 2x2).",
+    "source": "M22.3: Core Cultivation",
+    "kind": "module"
+  },
+  {
+    "id": "f745",
+    "module": "M21",
+    "question": "A flail mower cuts with:",
+    "correct": "free-swinging knives on a horizontal shaft",
+    "options": [
+      "free-swinging knives on a horizontal shaft",
+      "a single blade on a vertical shaft",
+      "a reel turning against a bedknife",
+      "a fan-driven blade floating on a cushion of air"
+    ],
+    "feedback": "Small free-swinging knives hinged to a horizontal shaft; impact action.",
+    "source": "M21.3: Mechanical Mowing Types",
+    "kind": "module"
+  },
+  {
+    "id": "f746",
+    "module": "M22",
+    "question": "A modern approach to turf cultivation was introduced in the 1940s by:",
+    "correct": "Tom Mascaro",
+    "options": [
+      "Tom Mascaro",
+      "Edwin Budding",
+      "the Toro Company",
+      "John Kaminski"
+    ],
+    "feedback": "Mascaro introduced the early verticutter and aerifier.",
+    "source": "M22.2: Cultivation",
+    "kind": "module"
+  },
+  {
+    "id": "f747",
+    "module": "M21",
+    "question": "According to the module, where the clip of the reel is twice the mowing height, surface variation reaches:",
+    "correct": "100 percent",
+    "options": [
+      "100 percent",
+      "12 percent",
+      "25 percent",
+      "50 percent"
+    ],
+    "feedback": "The module states 100 percent, resulting in severe marcelling. (Running the formula with CR = 2 x MH gives about 41%, but the module's stated figure is 100%.)",
+    "source": "M21.4: Marcelling",
+    "kind": "module"
+  },
+  {
+    "id": "f748",
+    "module": "M24",
+    "question": "In the squeeze test, a soil that is too wet will:",
+    "correct": "smear under pressure",
+    "options": [
+      "smear under pressure",
+      "crumble easily",
+      "be hard to break",
+      "crack into plates"
+    ],
+    "feedback": "Too dry is very hard to break up.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "f749",
+    "module": "M21",
+    "question": "The three basic types of mowers in use today are:",
+    "correct": "reel, rotary, and flail",
+    "options": [
+      "reel, rotary, and flail",
+      "reel, rotary, and sickle",
+      "rotary, flail, and hover",
+      "reel, sickle, and scythe"
+    ],
+    "feedback": "Reel, rotary, and flail.",
+    "source": "M21.3: Mechanical Mowing Types",
+    "kind": "module"
+  },
+  {
+    "id": "f750",
+    "module": "M23",
+    "question": "For thatch control, the FREQUENCY of topdressing depends on:",
+    "correct": "the rate thatch is accumulating",
+    "options": [
+      "the rate thatch is accumulating",
+      "the amount of thatch present",
+      "the sand particle size",
+      "the green speed wanted for upcoming tournament play"
+    ],
+    "feedback": "Amount ↔ thatch present; frequency ↔ accumulation rate.",
+    "source": "M23.3: Topdressing (continued)",
+    "kind": "module"
   }
 ]

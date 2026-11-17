@@ -2,30 +2,32 @@
 
 ## Contents
 - `study-guide.html` — searchable/printable study guide
-- `quiz.html` — 647-question quiz, 10 at a time
-- `questions.json` — the question bank; the union of all nine module banks (M1-M9)
+- `quiz.html` — 100-question exams drawn from the 350-question pool, 10 at a time
+- `questions.json` — the 350-question pool (full per-module banks live in `../M#/questions.json`)
 - `styles.css`
 
-## Question distribution
-Each module's questions carry over 1:1 from its own module bank (`../M#/questions.json`), so the distribution naturally reflects how much well-formed material each module supports — nothing here is padded to a fixed count.
+## What's in the pool
+Same format as Exam 2. Built from how the real exams pull from the quizzes:
+- Every actual Exam 1 question with its correct answer (Q13 left out; its key is uncertain)
+- The M1-M9 module quiz questions, near-verbatim, with keys
+- The M8-M9 grass ID and subfamily questions that reappeared on Exam 2, plus "Who am I?" riddles
+- 68 module-page details from the per-module banks, added to the thinner modules (M1, M5-M9)
 
-- M1: 76
-- M2: 79
-- M3: 74
-- M4: 68
-- M5: 68
-- M6: 57
-- M7: 77
-- M8: 68
-- M9: 80
+Each exam draws 100 questions, weighted by module share of the pool. The "Skip grass ID questions" toggle hides the 105 tagged grass identification questions.
 
-## Accuracy / source rules
-- Each question is modeled on the real Canvas quiz style for its module (verified against the instructor's actual M1-M5, M7, M8, and M9 quiz history exports) and sourced from that module's own course PDFs, with a curated slice of textbook enrichment on the same topics where it adds real depth.
-- Every question reveals its source after submission.
-- M6's Overview cites a 9th-edition textbook page range not included in the source material; M6 questions use only the uploaded M6 course PDFs, with no textbook enrichment.
+## Pool by module
+- M1: 39
+- M2: 44
+- M3: 50
+- M4: 47
+- M5: 39
+- M6: 39
+- M7: 39
+- M8: 28
+- M9: 25
 
 ## Quiz behavior
 - 10 questions per batch
 - correct answers retire
 - missed answers cycle to the back
-- progress saved per module filter in localStorage
+- progress saved in localStorage (separately with grass ID skipped)

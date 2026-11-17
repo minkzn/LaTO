@@ -1,6 +1,6 @@
 # TURF 235 Final Exam Practice
 
-- `index.html`: 200-question practice exams drawn from a 600-question pool, 10 at a time
+- `index.html`: 200-question practice exams drawn from a 750-question pool, 10 at a time
 - `questions.json`: the pool
 
 ## What's in the pool
@@ -11,6 +11,7 @@ Built on the pattern of the two real exams. Exam 1 reused about 18% of quiz ques
 - The M10-M20 module quiz questions (quiz-derived set)
 - 12 "Who am I?" riddles, the format Exam 2 introduced
 - Remixed module details from the Exam 2 pool
+- 150 questions from M21-M24 (module pages plus Ch. 6 and Ch. 8 textbook), which no exam has covered yet
 
 Each exam draws 200 questions, weighted by module share of the pool. The "Skip grass ID questions" toggle works the same as on Exam 2.
 
@@ -35,3 +36,7 @@ Each exam draws 200 questions, weighted by module share of the pool. The "Skip g
 - M18: 17
 - M19: 40
 - M20: 32
+- M21: 35
+- M22: 40
+- M23: 30
+- M24: 45

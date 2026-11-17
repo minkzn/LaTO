@@ -1,0 +1,3797 @@
+[
+  {
+    "id": "m24q001",
+    "module": "M24",
+    "question": "The four components of turf establishment in the module's diagram are site preparation, turfgrass selection, planting procedures, and:",
+    "correct": "postplanting culture",
+    "options": [
+      "postplanting culture",
+      "soil testing",
+      "renovation",
+      "irrigation design"
+    ],
+    "feedback": "Mistakes or omissions in any of the four cause later problems.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q002",
+    "module": "M24",
+    "question": "Severe weeds, disease, poor drainage, scalping, and stress intolerance in a turf often trace back to:",
+    "correct": "mistakes made during establishment",
+    "options": [
+      "mistakes made during establishment",
+      "improper mowing of the mature turf",
+      "poor choice of fertilizer carrier",
+      "overwatering in the first summer"
+    ],
+    "feedback": "Many problems are directly related to establishment mistakes or omissions.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q003",
+    "module": "M24",
+    "question": "Which is NOT one of the site preparation steps in the module's hexagon?",
+    "correct": "seeding",
+    "options": [
+      "seeding",
+      "tillage",
+      "grading",
+      "soil modification"
+    ],
+    "feedback": "The six: clearing, tillage, soil modification, fertilization and liming, drainage/irrigation, grading.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q004",
+    "module": "M24",
+    "question": "Clearing operations are any practices designed to:",
+    "correct": "eliminate or reduce obstructions to propagation",
+    "options": [
+      "eliminate or reduce obstructions to propagation",
+      "provide a smooth planting bed of the desired contour",
+      "improve physical and chemical soil properties",
+      "prepare a soil for planting by loosening it"
+    ],
+    "feedback": "Trees, shrubs, rocks, debris, weeds.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q005",
+    "module": "M24",
+    "question": "Tillage is defined as:",
+    "correct": "any operation performed to prepare a soil for planting",
+    "options": [
+      "any operation performed to prepare a soil for planting",
+      "all operations providing a smooth bed of desired contour",
+      "the incorporation of amendments into the soil",
+      "the removal of obstructions to propagation"
+    ],
+    "feedback": "Grading = contour; modification = amendments; clearing = obstructions.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q006",
+    "module": "M24",
+    "question": "Grading includes all operations for:",
+    "correct": "providing a smooth planting bed of the desired contour",
+    "options": [
+      "providing a smooth planting bed of the desired contour",
+      "incorporating soil amendments to improve the soil's properties",
+      "removing trees, rocks, and debris from the site",
+      "loosening and granulating the soil for planting"
+    ],
+    "feedback": "Rough and fine grading.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q007",
+    "module": "M24",
+    "question": "Drainage and irrigation systems should be installed:",
+    "correct": "after rough grading of the new site",
+    "options": [
+      "after rough grading of the new site",
+      "after final topsoil placement only",
+      "before any clearing operations begin",
+      "after the turf has been established"
+    ],
+    "feedback": "Settling of soil in trenches is less of a problem than after topsoil placement.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q008",
+    "module": "M24",
+    "question": "Fumigation applies a highly volatile chemical to the soil under a:",
+    "correct": "polyethylene tarp",
+    "options": [
+      "polyethylene tarp",
+      "layer of straw mulch",
+      "sand topdressing",
+      "burlap cover"
+    ],
+    "feedback": "Controls weed seeds, vegetative propagules, pathogens, and nematodes.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q009",
+    "module": "M24",
+    "question": "Fumigation controls all of the following EXCEPT:",
+    "correct": "established turfgrass sod laid later",
+    "options": [
+      "established turfgrass sod laid later",
+      "weed seeds lying dormant in the soil seed bank",
+      "rhizomes, stolons, and tubers",
+      "nematodes and disease organisms"
+    ],
+    "feedback": "It targets seeds, vegetative propagules, disease organisms, nematodes, and others in the soil.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q010",
+    "module": "M24",
+    "question": "After applying the granular fumigant dazomet, the best practice is to:",
+    "correct": "tarp the site immediately",
+    "options": [
+      "tarp the site immediately",
+      "till it in after two weeks",
+      "mow the site the next day",
+      "seed directly into it"
+    ],
+    "feedback": "At minimum water it in; tarping immediately is better. (The module labels it \"Basagran\"; the textbook brand is Basamid.)",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q011",
+    "module": "M24",
+    "question": "Tillage is done to improve aeration, infiltration, and percolation and to:",
+    "correct": "minimize resistance to root penetration",
+    "options": [
+      "minimize resistance to root penetration",
+      "increase the bulk density of the surface soil layer",
+      "raise the soil pH for turfgrass",
+      "bury weed seeds below germination"
+    ],
+    "feedback": "Root penetration is eased.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q012",
+    "module": "M24",
+    "question": "Tilling a soil that is too WET causes it to:",
+    "correct": "clod or puddle",
+    "options": [
+      "clod or puddle",
+      "turn powdery",
+      "crack deeply",
+      "repel water"
+    ],
+    "feedback": "Too dry, it becomes a powdery mass.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q013",
+    "module": "M24",
+    "question": "Tilling a soil that is too DRY may reduce it to:",
+    "correct": "a powdery mass of particles",
+    "options": [
+      "a powdery mass of particles",
+      "hard clods and puddles",
+      "a smeared, sealed surface",
+      "a layer of surface crust"
+    ],
+    "feedback": "Too wet: clods or puddles.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q014",
+    "module": "M24",
+    "question": "In the squeeze test for tillage moisture, tillage may proceed if the soil mass:",
+    "correct": "crumbles easily",
+    "options": [
+      "crumbles easily",
+      "smears under pressure",
+      "is very hard to break",
+      "holds together firmly"
+    ],
+    "feedback": "Too dry is hard to break up; too wet smears.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q015",
+    "module": "M24",
+    "question": "In the squeeze test, a soil that is too wet will:",
+    "correct": "smear under pressure",
+    "options": [
+      "smear under pressure",
+      "crumble easily",
+      "be hard to break",
+      "crack into plates"
+    ],
+    "feedback": "Too dry is very hard to break up.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q016",
+    "module": "M24",
+    "question": "Plowing cuts loose a furrow slice of soil, granulates it, and:",
+    "correct": "inverts it",
+    "options": [
+      "inverts it",
+      "smooths it",
+      "compacts it",
+      "sieves it"
+    ],
+    "feedback": "Leaving furrows and ridges parallel to the plowing direction.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q017",
+    "module": "M24",
+    "question": "Disking is performed on plowed or loose soil to:",
+    "correct": "break up clods and surface crusts",
+    "options": [
+      "break up clods and surface crusts",
+      "invert the furrow slice of soil",
+      "incorporate seed into the top 1/4 inch",
+      "install drainage tile in the field"
+    ],
+    "feedback": "Improves granulation and surface uniformity.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q018",
+    "module": "M24",
+    "question": "The tillage step that further granulates and smooths the soil to complete the series is:",
+    "correct": "harrowing",
+    "options": [
+      "harrowing",
+      "plowing",
+      "disking",
+      "grading"
+    ],
+    "feedback": "It completes the series of tillage operations.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q019",
+    "module": "M24",
+    "question": "Rototilling is a very intensive tillage method used primarily on small sites as an alternative to:",
+    "correct": "plowing and disking",
+    "options": [
+      "plowing and disking",
+      "grading and rolling",
+      "harrowing and seeding",
+      "mulching and irrigating"
+    ],
+    "feedback": "Over-tilling can destroy structure and compact the soil.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q020",
+    "module": "M24",
+    "question": "Excessive rototilling on large sites can result in:",
+    "correct": "destroyed structure and severe compaction",
+    "options": [
+      "destroyed structure and severe compaction",
+      "too many large clods left on the soil surface afterward",
+      "a surface that is too loose to plant",
+      "a loss of all organic matter at once"
+    ],
+    "feedback": "Care is needed with this intensive method.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q021",
+    "module": "M24",
+    "question": "Adding a little sand to a fine-textured soil often produces:",
+    "correct": "a cement-like medium",
+    "options": [
+      "a cement-like medium",
+      "a well-aerated medium",
+      "a hydrophobic medium",
+      "a highly organic medium"
+    ],
+    "feedback": "Like adding a marble to a cup of flour: porosity drops.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q022",
+    "module": "M24",
+    "question": "In the marble-and-flour analogy, porosity only increases once:",
+    "correct": "adjacent marbles contact each other",
+    "options": [
+      "adjacent marbles contact each other",
+      "the first marble is added to the cup of flour",
+      "the flour is fully wetted by water",
+      "the marbles are smaller than flour"
+    ],
+    "feedback": "Sand improves aeration only when grains touch.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q023",
+    "module": "M24",
+    "question": "To improve a predominantly sand medium, it is generally better to:",
+    "correct": "add a small amount of soil to the sand",
+    "options": [
+      "add a small amount of soil to the sand",
+      "add a small amount of sand to the soil",
+      "add perlite and vermiculite to the sand",
+      "add raw sawdust to the sand mixture"
+    ],
+    "feedback": "Improves moisture and nutrient retention and reduces hydrophobicity.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q024",
+    "module": "M24",
+    "question": "Perlite and vermiculite are unsuitable for turf soils because under traffic:",
+    "correct": "perlite crushes and vermiculite flattens",
+    "options": [
+      "perlite crushes and vermiculite flattens",
+      "perlite flattens and vermiculite crushes",
+      "both decompose rapidly in the soil",
+      "both raise soil pH to toxic levels"
+    ],
+    "feedback": "Popular in potting media, but not for turf.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q025",
+    "module": "M24",
+    "question": "Raw sawdust should never be used as an amendment because its decomposition:",
+    "correct": "draws so much N that the turf becomes deficient",
+    "options": [
+      "draws so much N that the turf becomes deficient",
+      "releases toxic gases that kill the germinating seedlings",
+      "raises soil pH above the optimum range",
+      "makes the soil hydrophobic for years"
+    ],
+    "feedback": "Compost it with soil and fertilizer first.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q026",
+    "module": "M24",
+    "question": "Caution is needed with muck soil as an amendment because it may contain:",
+    "correct": "dispersed clay and silt that clog pores",
+    "options": [
+      "dispersed clay and silt that clog pores",
+      "weed seeds that cannot be controlled",
+      "salts that injure the turfgrass seedlings as they emerge",
+      "raw sawdust that draws soil nitrogen"
+    ],
+    "feedback": "This impedes drainage.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q027",
+    "module": "M24",
+    "question": "The most generally acceptable soil amendment is:",
+    "correct": "peat moss",
+    "options": [
+      "peat moss",
+      "sand",
+      "perlite",
+      "sawdust"
+    ],
+    "feedback": "Dilutes clay in fine soils and sand in coarse soils.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q028",
+    "module": "M24",
+    "question": "In clayey soils, incorporating peat moss primarily improves:",
+    "correct": "aeration capacity",
+    "options": [
+      "aeration capacity",
+      "water retention",
+      "nutrient retention",
+      "resiliency"
+    ],
+    "feedback": "In sandy soils it improves nutrient and moisture retention.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q029",
+    "module": "M24",
+    "question": "Peat moss and sand added but not incorporated resulted in:",
+    "correct": "a serious layering problem",
+    "options": [
+      "a serious layering problem",
+      "a well-mixed root zone",
+      "a hydrophobic surface",
+      "excess nitrogen release"
+    ],
+    "feedback": "Amendments must be mixed in.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q030",
+    "module": "M24",
+    "question": "\"Basic fertilizer\" refers primarily to:",
+    "correct": "phosphorus and potash",
+    "options": [
+      "phosphorus and potash",
+      "nitrogen and potash",
+      "nitrogen and phosphorus",
+      "lime and sulfur"
+    ],
+    "feedback": "May also include secondary and tertiary nutrients.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q031",
+    "module": "M24",
+    "question": "Basic fertilizer and lime should be:",
+    "correct": "tilled into the soil during bed preparation",
+    "options": [
+      "tilled into the soil during bed preparation",
+      "applied on the surface right after the seeding is done",
+      "withheld until after the first mowing",
+      "applied only with the starter fertilizer"
+    ],
+    "feedback": "Bed preparation is a rare chance to incorporate them into the root zone.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q032",
+    "module": "M24",
+    "question": "Starter fertilizer (nitrogen) is generally applied:",
+    "correct": "just prior to final grading",
+    "options": [
+      "just prior to final grading",
+      "before rough grading",
+      "with the lime in tillage",
+      "after the first mowing"
+    ],
+    "feedback": "Not tilled deeply, because leaching may lose it before roots develop.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q033",
+    "module": "M24",
+    "question": "Nitrogen is usually NOT tilled deeply into the soil because:",
+    "correct": "it may leach before roots can absorb it",
+    "options": [
+      "it may leach before roots can absorb it",
+      "it volatilizes when it is buried deeply",
+      "it reacts with lime to form insoluble salts",
+      "it burns the seed if placed near it"
+    ],
+    "feedback": "Roots are still shallow.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q034",
+    "module": "M24",
+    "question": "Drain tiles are normally placed at a depth of:",
+    "correct": "18 to 36 inches",
+    "options": [
+      "18 to 36 inches",
+      "6 to 12 inches",
+      "3 to 6 feet",
+      "12 to 18 inches"
+    ],
+    "feedback": "Lines spaced 15 to 60 feet apart.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q035",
+    "module": "M24",
+    "question": "Drain tile lines are typically spaced:",
+    "correct": "15 to 60 feet apart",
+    "options": [
+      "15 to 60 feet apart",
+      "3 to 5 feet apart",
+      "100 to 150 feet apart",
+      "6 to 12 inches apart"
+    ],
+    "feedback": "At 18-36 inches deep.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q036",
+    "module": "M24",
+    "question": "Gravel is placed around drain tiles to:",
+    "correct": "prevent clogging by fine soil particles",
+    "options": [
+      "prevent clogging by fine soil particles",
+      "add weight that holds the pipe in place",
+      "raise the pipe above the water table",
+      "filter salts out of the drainage water"
+    ],
+    "feedback": "A buffer between tile and soil.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q037",
+    "module": "M24",
+    "question": "Catch basins with covers flush with the turf surface dramatically improve:",
+    "correct": "surface as well as internal drainage",
+    "options": [
+      "surface as well as internal drainage",
+      "irrigation uniformity across the whole site",
+      "topsoil depth across the site",
+      "soil aeration beneath the turf"
+    ],
+    "feedback": "Cylinders extend down to the drain-tile depth.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q038",
+    "module": "M24",
+    "question": "If grading could damage an irrigation system installed before topsoil placement, installation should be:",
+    "correct": "delayed until topsoil is placed and graded",
+    "options": [
+      "delayed until topsoil is placed and graded",
+      "moved deeper into the subsoil",
+      "completed before any of the clearing operations occur",
+      "skipped in favor of hand watering"
+    ],
+    "feedback": "Delay all or part of the system.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q039",
+    "module": "M24",
+    "question": "Before major changes in contour, the topsoil should be:",
+    "correct": "removed and stockpiled",
+    "options": [
+      "removed and stockpiled",
+      "tilled into the subsoil",
+      "fumigated and tarped",
+      "buried under the fill"
+    ],
+    "feedback": "Determine its depth first, then scrape and store.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q040",
+    "module": "M24",
+    "question": "Rough grading refers to:",
+    "correct": "contouring the subgrade after topsoil removal",
+    "options": [
+      "contouring the subgrade after topsoil removal",
+      "smoothing the soil surface just before planting begins",
+      "working in starter fertilizer by raking",
+      "dragging a mat to smooth the surface"
+    ],
+    "feedback": "Cutting down high spots and filling depressions.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q041",
+    "module": "M24",
+    "question": "Fine grading smooths the soil for planting and is also effective for:",
+    "correct": "working in starter fertilizer",
+    "options": [
+      "working in starter fertilizer",
+      "breaking up surface clods",
+      "installing drainage tile",
+      "removing rocks and debris"
+    ],
+    "feedback": "Hand raking for small areas; mats, plank drags, tiller rakes for large ones.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q042",
+    "module": "M24",
+    "question": "Before fine grading, sufficient time should be allowed for:",
+    "correct": "settling of the soil",
+    "options": [
+      "settling of the soil",
+      "weed seeds to germinate",
+      "fertilizer to dissolve",
+      "the soil to dry fully"
+    ],
+    "feedback": "Otherwise traffic leaves depressions; irrigation or rain speeds settling.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q043",
+    "module": "M24",
+    "question": "Soil settling before fine grading can be accelerated by:",
+    "correct": "intensive irrigation or rainfall",
+    "options": [
+      "intensive irrigation or rainfall",
+      "adding lime and fertilizer",
+      "harrowing in several directions",
+      "harrowing the site in several different directions"
+    ],
+    "feedback": "Settling prevents later depressions.",
+    "source": "M24.2: Turf Establishment",
+    "kind": "module"
+  },
+  {
+    "id": "m24q044",
+    "module": "M24",
+    "question": "A blend is a combination of:",
+    "correct": "different cultivars of the same species",
+    "options": [
+      "different cultivars of the same species",
+      "two or more different turfgrass species combined",
+      "seed and vegetative materials",
+      "a turfgrass and a nursegrass"
+    ],
+    "feedback": "A mixture combines two or more species.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "m24q045",
+    "module": "M24",
+    "question": "In a Kentucky bluegrass-red fescue mixture, red fescue would be favored on:",
+    "correct": "infertile or shady sites",
+    "options": [
+      "infertile or shady sites",
+      "sunny, fertile sites",
+      "wet, poorly drained sites",
+      "heavily trafficked sites"
+    ],
+    "feedback": "Kentucky bluegrass dominates sunny sites of moderate-high fertility.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "m24q046",
+    "module": "M24",
+    "question": "A blend provides insurance against widespread turf deterioration because:",
+    "correct": "a cultivar may lose its pest resistance",
+    "options": [
+      "a cultivar may lose its pest resistance",
+      "blends contain several different species",
+      "blends germinate faster than mixtures",
+      "blends need less fertilizer to persist"
+    ],
+    "feedback": "If one cultivar becomes susceptible, others carry the stand.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "m24q047",
+    "module": "M24",
+    "question": "Blends may, to some extent, replace mixtures because:",
+    "correct": "some cultivars are better adapted to shade",
+    "options": [
+      "some cultivars are better adapted to shade",
+      "blends contain more seed per pound than mixtures do",
+      "mixtures are no longer sold in stores",
+      "mixtures cannot be seeded by machine"
+    ],
+    "feedback": "Cultivar differences in site adaptation.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "m24q048",
+    "module": "M24",
+    "question": "Vegetative planting materials are used for genotypes that:",
+    "correct": "do not produce viable seed or true-to-type seed",
+    "options": [
+      "do not produce viable seed or true-to-type seed",
+      "produce seed too large for most drop spreaders to meter",
+      "germinate too quickly in cool weather",
+      "are too expensive to plant by seed alone"
+    ],
+    "feedback": "Also used where especially rapid establishment is desired.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "m24q049",
+    "module": "M24",
+    "question": "The one vegetative propagation method that can be used for ALL turfgrasses is:",
+    "correct": "sodding",
+    "options": [
+      "sodding",
+      "plugging",
+      "sprigging",
+      "stolonizing"
+    ],
+    "feedback": "Others require strong creeping growth.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "m24q050",
+    "module": "M24",
+    "question": "To ensure rapid rooting, sod should be cut:",
+    "correct": "as thin as possible",
+    "options": [
+      "as thin as possible",
+      "at least 2 inches thick",
+      "with extra thatch on it",
+      "in very large slabs"
+    ],
+    "feedback": "Thin sod roots faster.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "m24q051",
+    "module": "M24",
+    "question": "Washing sod free of soil reduces weight, hastens rooting, and:",
+    "correct": "eliminates troublesome soil layers",
+    "options": [
+      "eliminates troublesome soil layers",
+      "adds nutrients to the root zone",
+      "prevents all thatch development",
+      "kills weed seeds in the sod"
+    ],
+    "feedback": "Important where production and transplant soils differ.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "m24q052",
+    "module": "M24",
+    "question": "Sprigs or stolons for propagation are produced by:",
+    "correct": "shredding sod or plugs of stoloniferous species",
+    "options": [
+      "shredding sod or plugs of stoloniferous species",
+      "harvesting seed heads before they mature",
+      "cutting cores during hollow-tine cultivation",
+      "dividing bunch-type plants into their individual tillers"
+    ],
+    "feedback": "Individual plants or plant parts.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "m24q053",
+    "module": "M24",
+    "question": "The principal factors influencing seed quality are:",
+    "correct": "purity and viability",
+    "options": [
+      "purity and viability",
+      "color and size",
+      "weight and shape",
+      "cost and origin"
+    ],
+    "feedback": "%P × %V = %PLS.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "m24q054",
+    "module": "M24",
+    "question": "Purity is the percentage of:",
+    "correct": "pure seed of the identified species or cultivar",
+    "options": [
+      "pure seed of the identified species or cultivar",
+      "seed that germinates under standard laboratory conditions",
+      "inert matter present in the seed lot",
+      "weed seeds found in a pound of seed"
+    ],
+    "feedback": "The remainder is inert matter, weed seeds, and other crop seeds.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "m24q055",
+    "module": "M24",
+    "question": "Where purity is below 100%, the remainder is composed of:",
+    "correct": "inert matter, weed seeds, and other crop seeds",
+    "options": [
+      "inert matter, weed seeds, and other crop seeds",
+      "dead seed, dormant seed, and hard seed",
+      "chaff, dust, and broken seed only, with no other materials",
+      "noxious weeds and restricted weeds only"
+    ],
+    "feedback": "Listed on the label.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "m24q056",
+    "module": "M24",
+    "question": "Viability is the percentage of seed that:",
+    "correct": "is alive and germinates under standard lab conditions",
+    "options": [
+      "is alive and germinates under standard lab conditions",
+      "is the identified species or cultivar listed",
+      "emerges and survives in the field after planting is done",
+      "is free of weed and other crop seeds"
+    ],
+    "feedback": "Field emergence is often lower.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "m24q057",
+    "module": "M24",
+    "question": "Percent pure live seed (PLS) is calculated as:",
+    "correct": "% purity × % viability",
+    "options": [
+      "% purity × % viability",
+      "% purity + % viability",
+      "% purity ÷ % viability",
+      "% viability − % inert"
+    ],
+    "feedback": "Divide by 100 to keep it a percent.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "m24q058",
+    "module": "M24",
+    "question": "A seed label shows 92% purity and 80% germination. The PLS is:",
+    "correct": "73.6%",
+    "options": [
+      "73.6%",
+      "86.0%",
+      "80.0%",
+      "72.0%"
+    ],
+    "feedback": "0.92 × 0.80 = 0.736.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "m24q059",
+    "module": "M24",
+    "question": "Seed costs $3.68/lb with 73.6% PLS. The cost per pound of PLS is:",
+    "correct": "$5.00",
+    "options": [
+      "$5.00",
+      "$2.71",
+      "$3.68",
+      "$4.60"
+    ],
+    "feedback": "$3.68 ÷ 73.6 × 100 = $5.00.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "m24q060",
+    "module": "M24",
+    "question": "Seed with 90% purity and 80% viability has a PLS of:",
+    "correct": "72%",
+    "options": [
+      "72%",
+      "85%",
+      "80%",
+      "70%"
+    ],
+    "feedback": "0.90 × 0.80 = 0.72.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "m24q061",
+    "module": "M24",
+    "question": "Seed lot A costs $2.00/lb at 50% PLS; lot B costs $3.00/lb at 90% PLS. The better buy per pound of PLS is:",
+    "correct": "lot B ($3.33/lb PLS)",
+    "options": [
+      "lot B ($3.33/lb PLS)",
+      "lot A ($4.00/lb PLS)",
+      "lot A ($1.00/lb PLS)",
+      "they cost the same"
+    ],
+    "feedback": "A: 2.00 ÷ 50 × 100 = $4.00; B: 3.00 ÷ 90 × 100 = $3.33.",
+    "source": "M24.3: Turfgrass Selection",
+    "kind": "module"
+  },
+  {
+    "id": "m24q062",
+    "module": "M24",
+    "question": "The two principal planting procedures are:",
+    "correct": "seeding and vegetative planting",
+    "options": [
+      "seeding and vegetative planting",
+      "sodding and plugging",
+      "seeding and mulching",
+      "hydroseeding and sprigging"
+    ],
+    "feedback": "Vegetative includes sodding, plugging, sprigging, stolonizing.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "m24q063",
+    "module": "M24",
+    "question": "Compared with other planting methods, seeding involves:",
+    "correct": "the least expense but often the slowest results",
+    "options": [
+      "the least expense but often the slowest results",
+      "the most expense but the fastest results of any method",
+      "the least expense and the fastest results",
+      "moderate expense and moderate speed"
+    ],
+    "feedback": "Sodding is most expensive and fastest.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "m24q064",
+    "module": "M24",
+    "question": "Cool-season exceptions that are not seeded are those Kentucky bluegrasses and creeping bentgrasses that:",
+    "correct": "don't propagate true-to-type from seed",
+    "options": [
+      "don't propagate true-to-type from seed",
+      "produce too little seed in the field to be harvested",
+      "germinate too slowly to establish",
+      "are too expensive to buy as seed"
+    ],
+    "feedback": "Otherwise most cool-season grasses can be seeded.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "m24q065",
+    "module": "M24",
+    "question": "Which warm-season turfgrass is usually propagated vegetatively rather than seeded?",
+    "correct": "St. Augustinegrass",
+    "options": [
+      "St. Augustinegrass",
+      "centipedegrass",
+      "bahiagrass",
+      "buffalograss"
+    ],
+    "feedback": "Also some zoysiagrasses and hybrid bermudagrasses.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "m24q066",
+    "module": "M24",
+    "question": "Which warm-season turfgrass is usually SEEDED?",
+    "correct": "common bermudagrass",
+    "options": [
+      "common bermudagrass",
+      "hybrid bermudagrass",
+      "St. Augustinegrass",
+      "most zoysiagrasses"
+    ],
+    "feedback": "Along with centipedegrass, bahiagrass, carpetgrass, buffalograss.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "m24q067",
+    "module": "M24",
+    "question": "The optimum time to seed cool-season turfgrasses is generally:",
+    "correct": "late summer",
+    "options": [
+      "late summer",
+      "early spring",
+      "midsummer",
+      "late fall"
+    ],
+    "feedback": "Warm-season grasses: spring to early summer.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "m24q068",
+    "module": "M24",
+    "question": "Warm-season turfgrasses are best seeded in:",
+    "correct": "spring to early summer",
+    "options": [
+      "spring to early summer",
+      "late summer",
+      "mid-fall",
+      "winter"
+    ],
+    "feedback": "Cool-season grasses: late summer.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "m24q069",
+    "module": "M24",
+    "question": "A general seeding guide is to apply enough PLS to develop:",
+    "correct": "1000 to 2000 seedlings per ft²",
+    "options": [
+      "1000 to 2000 seedlings per ft²",
+      "100 to 200 seedlings per ft²",
+      "5000 to 10,000 seedlings per ft²",
+      "10 to 20 seedlings per ft²"
+    ],
+    "feedback": "Mortality may require more seed.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "m24q070",
+    "module": "M24",
+    "question": "A Kentucky bluegrass with 2,000,000 seeds/lb and 72% PLS should be seeded at about:",
+    "correct": "0.7 to 1.4 lb/1000 ft²",
+    "options": [
+      "0.7 to 1.4 lb/1000 ft²",
+      "2.0 to 4.0 lb/1000 ft²",
+      "0.2 to 0.4 lb/1000 ft²",
+      "7 to 14 lb/1000 ft²"
+    ],
+    "feedback": "1,000,000 to 2,000,000 PLS per 1000 ft² ÷ 1,440,000 PLS/lb.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "m24q071",
+    "module": "M24",
+    "question": "Because seedling mortality can be 50% or more, an acceptable Kentucky bluegrass stand may require:",
+    "correct": "2 or more lb of seed per 1000 ft²",
+    "options": [
+      "2 or more lb of seed per 1000 ft²",
+      "less than 0.5 lb of seed per 1000 ft²",
+      "exactly 0.7 lb of seed per 1000 ft²",
+      "10 or more lb of seed per 1000 ft²"
+    ],
+    "feedback": "The 0.7-1.4 lb figure assumes every PLS becomes a seedling.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "m24q072",
+    "module": "M24",
+    "question": "Species with larger seeds, such as ryegrasses and tall fescue, typically have:",
+    "correct": "higher seeding rates",
+    "options": [
+      "higher seeding rates",
+      "lower seeding rates",
+      "the same seeding rates",
+      "no fixed seeding rate"
+    ],
+    "feedback": "Seeding rate is largely influenced by seed weight.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "m24q073",
+    "module": "M24",
+    "question": "Seeding practices aim to incorporate seed into the top:",
+    "correct": "1/4 inch of soil",
+    "options": [
+      "1/4 inch of soil",
+      "1 inch of soil",
+      "2 inches of soil",
+      "1/32 inch of soil"
+    ],
+    "feedback": "Deeper incorporation or none at all reduces the stand.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "m24q074",
+    "module": "M24",
+    "question": "After seeding, the seedbed is rolled to:",
+    "correct": "ensure firm seed-soil contact",
+    "options": [
+      "ensure firm seed-soil contact",
+      "bury the seed 1 inch deep",
+      "smooth out tire tracks only",
+      "remove excess mulch"
+    ],
+    "feedback": "Best germination often occurs where foot traffic compressed the soil.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "m24q075",
+    "module": "M24",
+    "question": "A cultipacker seeder's roller is ridged, so germination is often largely confined to:",
+    "correct": "parallel valleys made by the roller",
+    "options": [
+      "parallel valleys made by the roller",
+      "the ridges between the valleys",
+      "the edges of the seeded area",
+      "areas of the heaviest traffic"
+    ],
+    "feedback": "It distributes seed and firms the seedbed.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "m24q076",
+    "module": "M24",
+    "question": "A hydroseeder is essentially a:",
+    "correct": "large-capacity sprayer with a single nozzle",
+    "options": [
+      "large-capacity sprayer with a single nozzle",
+      "tractor-mounted unit with a ridged roller behind it",
+      "drop spreader calibrated to seed size",
+      "rotating drum with square knives"
+    ],
+    "feedback": "Seed is applied in a stream of water.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "m24q077",
+    "module": "M24",
+    "question": "An advantage of hydroseeding is that:",
+    "correct": "fertilizer and mulch can go on with the seed",
+    "options": [
+      "fertilizer and mulch can go on with the seed",
+      "seed is incorporated 1/4 inch deep",
+      "no mulch is ever required afterward on any site",
+      "it costs less than broadcast seeding"
+    ],
+    "feedback": "Popular on steep slopes.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "m24q078",
+    "module": "M24",
+    "question": "Hydroseeding usually requires mulching materials because the seed:",
+    "correct": "is deposited on the surface without incorporation",
+    "options": [
+      "is deposited on the surface without incorporation",
+      "is buried too deep in the soil for good germination",
+      "is damaged by the high pump pressure",
+      "is washed away by the hydroseeder spray"
+    ],
+    "feedback": "No incorporation or rolling.",
+    "source": "M24.4: Planting Procedures",
+    "kind": "module"
+  },
+  {
+    "id": "m24q079",
+    "module": "M24",
+    "question": "Except for sodding, vegetative methods are only practical for turfgrasses that:",
+    "correct": "have strong stoloniferous or rhizomatous growth",
+    "options": [
+      "have strong stoloniferous or rhizomatous growth",
+      "produce large amounts of viable, true-to-type seed",
+      "are bunch-type and slow growing",
+      "are adapted to cool, shaded sites"
+    ],
+    "feedback": "They must spread between plants.",
+    "source": "M24.5: Vegetative Planting Methods",
+    "kind": "module"
+  },
+  {
+    "id": "m24q080",
+    "module": "M24",
+    "question": "Sodding is the most expensive propagation method but provides:",
+    "correct": "an \"instant turf\" almost any time of year",
+    "options": [
+      "an \"instant turf\" almost any time of year",
+      "the strongest root system in the first year",
+      "the cheapest turf over the long term",
+      "the best weed control of any method"
+    ],
+    "feedback": "Fastest results.",
+    "source": "M24.5: Vegetative Planting Methods",
+    "kind": "module"
+  },
+  {
+    "id": "m24q081",
+    "module": "M24",
+    "question": "At the time of sodding, the sodbed should be:",
+    "correct": "moist but not wet",
+    "options": [
+      "moist but not wet",
+      "completely dry",
+      "saturated",
+      "frozen"
+    ],
+    "feedback": "Promotes rapid rooting.",
+    "source": "M24.5: Vegetative Planting Methods",
+    "kind": "module"
+  },
+  {
+    "id": "m24q082",
+    "module": "M24",
+    "question": "Sod should be laid as soon as possible after delivery to avoid:",
+    "correct": "desiccation or excessive sod heating",
+    "options": [
+      "desiccation or excessive sod heating",
+      "soil compaction from the delivery truck",
+      "weed seed germination in the stack",
+      "sod webworm infestation in the rolls"
+    ],
+    "feedback": "Stacked sod deteriorates quickly.",
+    "source": "M24.5: Vegetative Planting Methods",
+    "kind": "module"
+  },
+  {
+    "id": "m24q083",
+    "module": "M24",
+    "question": "Staggering the ends of adjacent sod strips (brick pattern) minimizes:",
+    "correct": "cracks from shrinkage",
+    "options": [
+      "cracks from shrinkage",
+      "sod heating in stacks",
+      "weed invasion at seams",
+      "scalping on slopes"
+    ],
+    "feedback": "Also limits drying of edges.",
+    "source": "M24.5: Vegetative Planting Methods",
+    "kind": "module"
+  },
+  {
+    "id": "m24q084",
+    "module": "M24",
+    "question": "On sloping terrain, each sod strip should be:",
+    "correct": "secured with a stake until rooted",
+    "options": [
+      "secured with a stake until rooted",
+      "laid perpendicular to the slope",
+      "rolled with a heavy steel roller",
+      "laid without fitting the seams"
+    ],
+    "feedback": "Prevents sliding.",
+    "source": "M24.5: Vegetative Planting Methods",
+    "kind": "module"
+  },
+  {
+    "id": "m24q085",
+    "module": "M24",
+    "question": "Desiccation of newly laid sod can be reduced by:",
+    "correct": "working screened soil into the seams",
+    "options": [
+      "working screened soil into the seams",
+      "stretching strips to close the gaps",
+      "leaving gaps for air circulation",
+      "delaying irrigation for one week"
+    ],
+    "feedback": "Fills gaps between strips.",
+    "source": "M24.5: Vegetative Planting Methods",
+    "kind": "module"
+  },
+  {
+    "id": "m24q086",
+    "module": "M24",
+    "question": "The PRINCIPAL advantage of sod washing is:",
+    "correct": "eliminating the soil interface at the site",
+    "options": [
+      "eliminating the soil interface at the site",
+      "reducing the sod's weight for easier and cheaper shipment",
+      "lowering the cost of the finished sod",
+      "removing weed seeds from the sod"
+    ],
+    "feedback": "Especially important on sand-based media.",
+    "source": "M24.5: Vegetative Planting Methods",
+    "kind": "module"
+  },
+  {
+    "id": "m24q087",
+    "module": "M24",
+    "question": "When washed sod is planted on sand, it should be topdressed with sand soon to deal with:",
+    "correct": "rapid thatch development",
+    "options": [
+      "rapid thatch development",
+      "rapid nutrient leaching",
+      "severe soil compaction",
+      "early seed head formation"
+    ],
+    "feedback": "Thatch is very likely to develop.",
+    "source": "M24.5: Vegetative Planting Methods",
+    "kind": "module"
+  },
+  {
+    "id": "m24q088",
+    "module": "M24",
+    "question": "Unless sod was produced on a nearly identical sand, unwashed sod on a sand green creates:",
+    "correct": "a layer that impairs infiltration and drainage",
+    "options": [
+      "a layer that impairs infiltration and drainage",
+      "a firmer surface for faster ball roll",
+      "a more resilient and wear-tolerant turf on the sand",
+      "better nutrient retention for the sod"
+    ],
+    "feedback": "Hence washing.",
+    "source": "M24.5: Vegetative Planting Methods",
+    "kind": "module"
+  },
+  {
+    "id": "m24q089",
+    "module": "M24",
+    "question": "Plugs range in size from:",
+    "correct": "small aerification cores to cup-cutter plugs",
+    "options": [
+      "small aerification cores to cup-cutter plugs",
+      "individual stolons to single tillers",
+      "sod strips to full sod rolls",
+      "seeds to small seedlings"
+    ],
+    "feedback": "Plugging plants turf sections.",
+    "source": "M24.5: Vegetative Planting Methods",
+    "kind": "module"
+  },
+  {
+    "id": "m24q090",
+    "module": "M24",
+    "question": "In the mechanical plugger, plugs are cut from sod strips by:",
+    "correct": "a rotating drum with square knives",
+    "options": [
+      "a rotating drum with square knives",
+      "a set of triangular furrow knives",
+      "a V-shaped steel section",
+      "a ridged roller at the rear"
+    ],
+    "feedback": "Triangular knives dig furrows; the V-shaped steel fills them; a roller firms the bed.",
+    "source": "M24.5: Vegetative Planting Methods",
+    "kind": "module"
+  },
+  {
+    "id": "m24q091",
+    "module": "M24",
+    "question": "Stolonizing is essentially:",
+    "correct": "broadcast sprigging",
+    "options": [
+      "broadcast sprigging",
+      "broadcast plugging",
+      "row sodding",
+      "hydro-sprigging"
+    ],
+    "feedback": "Material is spread uniformly on moist soil.",
+    "source": "M24.5: Vegetative Planting Methods",
+    "kind": "module"
+  },
+  {
+    "id": "m24q092",
+    "module": "M24",
+    "question": "Stolonizing usually requires:",
+    "correct": "5 to 10 bushels per 1000 ft²",
+    "options": [
+      "5 to 10 bushels per 1000 ft²",
+      "1 to 4 bushels per 1000 ft²",
+      "15 to 20 bushels per 1000 ft²",
+      "0.5 to 1 bushel per 1000 ft²"
+    ],
+    "feedback": "Sprigging needs 1 to 4.",
+    "source": "M24.5: Vegetative Planting Methods",
+    "kind": "module"
+  },
+  {
+    "id": "m24q093",
+    "module": "M24",
+    "question": "Sprigging plants individual plants in furrows spaced:",
+    "correct": "6 to 12 inches apart",
+    "options": [
+      "6 to 12 inches apart",
+      "1 to 2 inches apart",
+      "18 to 24 inches apart",
+      "3 to 4 feet apart"
+    ],
+    "feedback": "Requires 1 to 4 bushels per 1000 ft².",
+    "source": "M24.5: Vegetative Planting Methods",
+    "kind": "module"
+  },
+  {
+    "id": "m24q094",
+    "module": "M24",
+    "question": "Compared with stolonizing, sprigging requires:",
+    "correct": "less plant material",
+    "options": [
+      "less plant material",
+      "more plant material",
+      "the same plant material",
+      "no rolling afterward"
+    ],
+    "feedback": "1-4 vs. 5-10 bushels per 1000 ft².",
+    "source": "M24.5: Vegetative Planting Methods",
+    "kind": "module"
+  },
+  {
+    "id": "m24q095",
+    "module": "M24",
+    "question": "After stolonizing, stolons are partially covered by:",
+    "correct": "topdressing or light disking",
+    "options": [
+      "topdressing or light disking",
+      "rolling with a ridged roller",
+      "a layer of straw mulch",
+      "hydroseeding with mulch"
+    ],
+    "feedback": "Then roll and irrigate.",
+    "source": "M24.5: Vegetative Planting Methods",
+    "kind": "module"
+  },
+  {
+    "id": "m24q096",
+    "module": "M24",
+    "question": "Stolons should be washed free of soil especially when:",
+    "correct": "laws prohibit shipping soil contaminants",
+    "options": [
+      "laws prohibit shipping soil contaminants",
+      "they will be planted on a clay soil",
+      "they are stored for more than a year",
+      "they are planted in early spring"
+    ],
+    "feedback": "Stolon washing devices remove adhering soil.",
+    "source": "M24.5: Vegetative Planting Methods",
+    "kind": "module"
+  },
+  {
+    "id": "m24q097",
+    "module": "M24",
+    "question": "Mulching applies foreign materials to a seedbed to:",
+    "correct": "reduce erosion and improve the microenvironment",
+    "options": [
+      "reduce erosion and improve the microenvironment",
+      "add nitrogen and organic matter to the seedbed soil",
+      "smooth the surface before final grading",
+      "control weeds that emerge with the seed"
+    ],
+    "feedback": "For germination and seedling development.",
+    "source": "M24.6: Mulching",
+    "kind": "module"
+  },
+  {
+    "id": "m24q098",
+    "module": "M24",
+    "question": "Mulching may not be necessary on:",
+    "correct": "level beds with frequent irrigation",
+    "options": [
+      "level beds with frequent irrigation",
+      "steep slopes with no irrigation",
+      "sites relying on natural rainfall",
+      "sloped sites with heavy rainfall"
+    ],
+    "feedback": "It is almost essential on slopes or rain-dependent sites.",
+    "source": "M24.6: Mulching",
+    "kind": "module"
+  },
+  {
+    "id": "m24q099",
+    "module": "M24",
+    "question": "In the module's comparison photo, conventional straw mulch is contrasted with:",
+    "correct": "hydromulching with a polymer emulsion",
+    "options": [
+      "hydromulching with a polymer emulsion",
+      "jute netting on a steep slope",
+      "clear polyethylene covers",
+      "wood chips and shredded bark"
+    ],
+    "feedback": "Straw in the foreground, polymer in the background.",
+    "source": "M24.6: Mulching",
+    "kind": "module"
+  },
+  {
+    "id": "m24q100",
+    "module": "M24",
+    "question": "By dissipating the energy of falling water droplets, mulch:",
+    "correct": "reduces crusting and favors infiltration",
+    "options": [
+      "reduces crusting and favors infiltration",
+      "increases surface runoff from the seedbed during rain",
+      "raises the temperature of the seedbed",
+      "reduces the humidity near the seedlings"
+    ],
+    "feedback": "Higher infiltration rates.",
+    "source": "M24.6: Mulching",
+    "kind": "module"
+  },
+  {
+    "id": "m24q101",
+    "module": "M24",
+    "question": "Which is NOT a function of an effective mulch listed in the module?",
+    "correct": "supplying nitrogen to seedlings",
+    "options": [
+      "supplying nitrogen to seedlings",
+      "stabilizing soil and seed",
+      "moderating temperature and moisture",
+      "reducing surface crust formation"
+    ],
+    "feedback": "Mulches do not fertilize.",
+    "source": "M24.6: Mulching",
+    "kind": "module"
+  },
+  {
+    "id": "m24q102",
+    "module": "M24",
+    "question": "Which is NOT one of the five postplanting practices in the module's star?",
+    "correct": "rolling",
+    "options": [
+      "rolling",
+      "mowing",
+      "fertilization",
+      "pest management"
+    ],
+    "feedback": "The five: mowing, fertilization, irrigation, topdressing, pest management.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "m24q103",
+    "module": "M24",
+    "question": "Mowing of a new turf should begin as soon as:",
+    "correct": "the one-third rule applies",
+    "options": [
+      "the one-third rule applies",
+      "the turf is fully mature",
+      "the first frost occurs",
+      "weeds begin to emerge"
+    ],
+    "feedback": "New shoots may be as short as 3/4 inch.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "m24q104",
+    "module": "M24",
+    "question": "Mowing may begin when new shoots reach as low as:",
+    "correct": "3/4 inch",
+    "options": [
+      "3/4 inch",
+      "1/8 inch",
+      "2 inches",
+      "4 inches"
+    ],
+    "feedback": "Or much higher, depending on species and cultural intensity.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "m24q105",
+    "module": "M24",
+    "question": "New greens are usually mowed at ___ until complete coverage is reached.",
+    "correct": "1/2 inch",
+    "options": [
+      "1/2 inch",
+      "1/8 inch",
+      "1 inch",
+      "3 inches"
+    ],
+    "feedback": "Then the height is lowered gradually.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "m24q106",
+    "module": "M24",
+    "question": "On higher-cut turfs, initial mowing is usually:",
+    "correct": "at the same height used at maturity",
+    "options": [
+      "at the same height used at maturity",
+      "at half the height used at maturity",
+      "at twice the height used at maturity",
+      "delayed until the second season"
+    ],
+    "feedback": "Unlike greens, which start higher.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "m24q107",
+    "module": "M24",
+    "question": "To the extent rainfall is inadequate, the most important postplanting practice is:",
+    "correct": "irrigation",
+    "options": [
+      "irrigation",
+      "mowing",
+      "fertilization",
+      "topdressing"
+    ],
+    "feedback": "New seedlings need frequent irrigation.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "m24q108",
+    "module": "M24",
+    "question": "Older seedlings with deeper roots require irrigation that is:",
+    "correct": "less frequent but more intensive",
+    "options": [
+      "less frequent but more intensive",
+      "more frequent but lighter",
+      "the same as for new seedlings",
+      "withheld until wilting"
+    ],
+    "feedback": "New seedlings need frequent irrigation.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "m24q109",
+    "module": "M24",
+    "question": "Usually, the most troublesome pests in newly planted turfs are:",
+    "correct": "weeds",
+    "options": [
+      "weeds",
+      "insects",
+      "diseases",
+      "nematodes"
+    ],
+    "feedback": "Seeding timing is key to reducing them.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "m24q110",
+    "module": "M24",
+    "question": "Killing frosts in fall help a late-summer seeding by removing:",
+    "correct": "most summer annual weeds",
+    "options": [
+      "most summer annual weeds",
+      "most winter annual weeds",
+      "perennial weedy grasses",
+      "annual bluegrass seedlings"
+    ],
+    "feedback": "In all but tropical climates.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "m24q111",
+    "module": "M24",
+    "question": "The preemergence herbicide used after spring and summer seedings of cool-season turfgrasses is:",
+    "correct": "siduron",
+    "options": [
+      "siduron",
+      "glyphosate",
+      "dicamba",
+      "metalaxyl"
+    ],
+    "feedback": "Controls most annual grasses and some broadleaves.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "m24q112",
+    "module": "M24",
+    "question": "Postemergence broadleaf herbicides on seedling stands should be:",
+    "correct": "delayed as long as possible",
+    "options": [
+      "delayed as long as possible",
+      "applied right after seeding",
+      "applied at double rates",
+      "never used on new turf"
+    ],
+    "feedback": "Half-normal rates may be effective.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "m24q113",
+    "module": "M24",
+    "question": "Half-normal rates of 2,4-D and dicamba may work in seedling stands because:",
+    "correct": "seedling weeds are more sensitive than mature ones",
+    "options": [
+      "seedling weeds are more sensitive than mature ones",
+      "seedling turfgrasses are immune to these herbicides",
+      "herbicides are more active in cool weather",
+      "new turf absorbs herbicides more slowly"
+    ],
+    "feedback": "Less hazard to young turf.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "m24q114",
+    "module": "M24",
+    "question": "Most seedling diseases can be controlled by avoiding:",
+    "correct": "excessive irrigation and seeding rates",
+    "options": [
+      "excessive irrigation and seeding rates",
+      "all fertilizer applications during establishment",
+      "mowing until the second season",
+      "any rolling after seeding"
+    ],
+    "feedback": "High seedling densities favor disease.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "m24q115",
+    "module": "M24",
+    "question": "Seed for overseeding warm-season turf in subtropical climates is commonly treated with metalaxyl to control:",
+    "correct": "Pythium blight",
+    "options": [
+      "Pythium blight",
+      "dollar spot",
+      "brown patch",
+      "snow mold"
+    ],
+    "feedback": "Fungicide-treated seed.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "m24q116",
+    "module": "M24",
+    "question": "The insect exception that can severely damage newly planted turf is the:",
+    "correct": "mole cricket",
+    "options": [
+      "mole cricket",
+      "white grub",
+      "sod webworm",
+      "chinch bug"
+    ],
+    "feedback": "Uproots seedlings and dries the soil by burrowing.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "m24q117",
+    "module": "M24",
+    "question": "Postplanting topdressing is primarily for turfs of:",
+    "correct": "stoloniferous grasses kept closely mowed",
+    "options": [
+      "stoloniferous grasses kept closely mowed",
+      "bunch-type grasses kept at high cuts",
+      "rhizomatous grasses on utility sites",
+      "any grass seeded in late summer"
+    ],
+    "feedback": "Favors rooting and shoots from stolon nodes.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "m24q118",
+    "module": "M24",
+    "question": "If needed, the first fertilizer application on a new seedling stand should be made:",
+    "correct": "just prior to the first mowing",
+    "options": [
+      "just prior to the first mowing",
+      "immediately after seeding",
+      "after the third mowing",
+      "at the end of the first season"
+    ],
+    "feedback": "Replaces nutrients leached from the shallow root layer.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "m24q119",
+    "module": "M24",
+    "question": "Light fertilizer rates on new turf avoid direct injury and restricted growth of:",
+    "correct": "roots and lateral shoots",
+    "options": [
+      "roots and lateral shoots",
+      "seed heads and flowers",
+      "leaves and leaf sheaths",
+      "crowns and axillary buds"
+    ],
+    "feedback": "Supply enough but not too much.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "m24q120",
+    "module": "M24",
+    "question": "On coarse-textured soils that leach readily, new turf fertilization should use:",
+    "correct": "more frequent applications or slow carriers",
+    "options": [
+      "more frequent applications or slow carriers",
+      "fewer applications of quickly available soluble carriers",
+      "a single heavy application at seeding",
+      "no nitrogen until the second season"
+    ],
+    "feedback": "Keeps nutrients available.",
+    "source": "M24.7: Postplanting Culture",
+    "kind": "module"
+  },
+  {
+    "id": "m24q121",
+    "module": "M24",
+    "question": "Around new buildings, existing topsoil is often:",
+    "correct": "overlain by excavated subsoil",
+    "options": [
+      "overlain by excavated subsoil",
+      "removed and sold off-site",
+      "fumigated before construction",
+      "improved by construction traffic"
+    ],
+    "feedback": "An inferior soil of low fertility and aeration replaces a better one.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q122",
+    "module": "M24",
+    "question": "Growth of mushrooms and puffballs in established turf can often be traced to:",
+    "correct": "tree stumps left at planting",
+    "options": [
+      "tree stumps left at planting",
+      "excess nitrogen fertilizer",
+      "fumigant residues in soil",
+      "peat moss used as amendment"
+    ],
+    "feedback": "Decaying stumps also leave depressions.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q123",
+    "module": "M24",
+    "question": "Rock outcrops should be cut to at least ___ below final grade and replaced with soil.",
+    "correct": "15 inches",
+    "options": [
+      "15 inches",
+      "4 inches",
+      "6 inches",
+      "36 inches"
+    ],
+    "feedback": "Shallow soil over rock stays wet, then becomes hard and dry.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q124",
+    "module": "M24",
+    "question": "Small rocks and stones are a problem in the surface:",
+    "correct": "4 inches of soil",
+    "options": [
+      "4 inches of soil",
+      "15 inches of soil",
+      "1 foot of subsoil",
+      "0.25 inch of soil"
+    ],
+    "feedback": "They interfere with cultivation and can promote weed invasion.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q125",
+    "module": "M24",
+    "question": "The principal herbicide for preplant control of perennial weedy grasses and sedges is:",
+    "correct": "glyphosate",
+    "options": [
+      "glyphosate",
+      "siduron",
+      "dicamba",
+      "paraquat"
+    ],
+    "feedback": "A nonselective systemic herbicide.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q126",
+    "module": "M24",
+    "question": "After glyphosate application, tillage should wait at least:",
+    "correct": "3 to 7 days",
+    "options": [
+      "3 to 7 days",
+      "1 to 2 hours",
+      "4 to 6 weeks",
+      "1 full season"
+    ],
+    "feedback": "Time for translocation to below-ground organs.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q127",
+    "module": "M24",
+    "question": "Fallowing for weed control after herbicide application is best done:",
+    "correct": "during the summer months",
+    "options": [
+      "during the summer months",
+      "during the winter months",
+      "in early spring",
+      "right after seeding"
+    ],
+    "feedback": "Brings below-ground organs to the surface to desiccate.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q128",
+    "module": "M24",
+    "question": "Fumigation may be justified where the soil holds a large reservoir of:",
+    "correct": "annual bluegrass seed or perennial weed propagules",
+    "options": [
+      "annual bluegrass seed or perennial weed propagules",
+      "soluble salts and sodium accumulated in the root zone",
+      "beneficial microbes and earthworms",
+      "undecomposed thatch and organic matter"
+    ],
+    "feedback": "It is laborious and expensive.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q129",
+    "module": "M24",
+    "question": "For effective fumigation, soil temperature should be at least:",
+    "correct": "60°F",
+    "options": [
+      "60°F",
+      "32°F",
+      "45°F",
+      "85°F"
+    ],
+    "feedback": "Otherwise activity may be substantially reduced.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q130",
+    "module": "M24",
+    "question": "Before fumigation, the soil should be:",
+    "correct": "deeply tilled and moist but not wet",
+    "options": [
+      "deeply tilled and moist but not wet",
+      "compacted and completely dry",
+      "saturated and freshly rolled",
+      "frozen and covered with straw"
+    ],
+    "feedback": "Dry soil tightly adsorbs fumigant molecules.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q131",
+    "module": "M24",
+    "question": "The principal fumigant formerly used for turf soils was:",
+    "correct": "methyl bromide",
+    "options": [
+      "methyl bromide",
+      "metam sodium",
+      "dazomet",
+      "chlorpyrifos"
+    ],
+    "feedback": "Current options: dazomet (Basamid) and metam sodium.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q132",
+    "module": "M24",
+    "question": "Dazomet (Basamid) is a granular fumigant that releases:",
+    "correct": "isocyanate gas",
+    "options": [
+      "isocyanate gas",
+      "bromide gas",
+      "ammonia gas",
+      "ethylene gas"
+    ],
+    "feedback": "Tarp or irrigate frequently to keep the gas in.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q133",
+    "module": "M24",
+    "question": "Metam sodium differs from dazomet in that metam sodium is:",
+    "correct": "sprayable, then incorporated or irrigated in",
+    "options": [
+      "sprayable, then incorporated or irrigated in",
+      "granular, then covered right away with a plastic tarp",
+      "a gas injected under a sealed tarp",
+      "a pellet broadcast over dry soil"
+    ],
+    "feedback": "Dazomet is granular.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q134",
+    "module": "M24",
+    "question": "Fall plowing and overwintering of overturned sod favor:",
+    "correct": "decomposition of organic residues",
+    "options": [
+      "decomposition of organic residues",
+      "germination of weed seeds buried in the furrow",
+      "compaction of the subsoil",
+      "leaching of applied lime"
+    ],
+    "feedback": "Especially in climates with cold winters.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q135",
+    "module": "M24",
+    "question": "A subsurface compacted pan can be broken up with a:",
+    "correct": "chisel plow",
+    "options": [
+      "chisel plow",
+      "disk harrow",
+      "tiller rake",
+      "plank drag"
+    ],
+    "feedback": "If the pan is within the plow's penetration depth.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q136",
+    "module": "M24",
+    "question": "Before rototilling an existing turf, prior removal of the sod is usually desired to:",
+    "correct": "eliminate thatch and organic residues",
+    "options": [
+      "eliminate thatch and organic residues",
+      "protect the soil structure from compaction by equipment",
+      "preserve the topsoil for later use",
+      "prevent erosion during tillage"
+    ],
+    "feedback": "Otherwise clumps interfere with planting.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q137",
+    "module": "M24",
+    "question": "Rototilling is an excellent method for:",
+    "correct": "mixing amendments and soil layers uniformly",
+    "options": [
+      "mixing amendments and soil layers uniformly",
+      "breaking up deep subsurface pans",
+      "inverting a deep furrow slice of soil completely over",
+      "smoothing the final grade"
+    ],
+    "feedback": "Yields soil of relatively uniform composition.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q138",
+    "module": "M24",
+    "question": "Fill soil on fine-textured sites should be expected to settle about:",
+    "correct": "15% (1.5 to 2 in/ft)",
+    "options": [
+      "15% (1.5 to 2 in/ft)",
+      "1% (0.1 in/ft)",
+      "50% (6 in/ft)",
+      "30% (4 in/ft)"
+    ],
+    "feedback": "Coarse-textured soils settle less.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q139",
+    "module": "M24",
+    "question": "Where large amounts of fill are required, it should be added in:",
+    "correct": "1-foot increments and rolled",
+    "options": [
+      "1-foot increments and rolled",
+      "6-foot lifts and left to settle",
+      "one lift, then irrigated heavily",
+      "2-inch layers and tilled in"
+    ],
+    "feedback": "Accelerates settling.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q140",
+    "module": "M24",
+    "question": "A favorable slope for surface drainage is about:",
+    "correct": "2%, or 0.25 inch drop per foot",
+    "options": [
+      "2%, or 0.25 inch drop per foot",
+      "10%, or 1.2 inches drop per foot",
+      "0.5%, or 0.06 inch drop per foot",
+      "20%, or 2.4 inches drop per foot"
+    ],
+    "feedback": "Slope away from houses in all directions.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q141",
+    "module": "M24",
+    "question": "Athletic fields should be graded so that they are:",
+    "correct": "crowned, draining away from the center",
+    "options": [
+      "crowned, draining away from the center",
+      "sloped toward one sideline only for runoff",
+      "perfectly level in all directions",
+      "dished toward the center drain"
+    ],
+    "feedback": "Golf greens, tees, and fairways slope toward the roughs.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q142",
+    "module": "M24",
+    "question": "Turfs on steep slopes facing the midday sun are more subject to:",
+    "correct": "heat and drought stress",
+    "options": [
+      "heat and drought stress",
+      "snow mold and frost",
+      "shade and moss",
+      "salt and sodium buildup"
+    ],
+    "feedback": "Erosion, scalping, and runoff also increase with slope.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q143",
+    "module": "M24",
+    "question": "The minimum recommended settled topsoil depth is:",
+    "correct": "6 inches",
+    "options": [
+      "6 inches",
+      "2 inches",
+      "12 inches",
+      "18 inches"
+    ],
+    "feedback": "Grade stakes should mark the required depth.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q144",
+    "module": "M24",
+    "question": "Where subsoil differs greatly in texture, it may be advisable to mix:",
+    "correct": "2 inches of topsoil with 2 inches of subsoil",
+    "options": [
+      "2 inches of topsoil with 2 inches of subsoil",
+      "6 inches of sand into the topsoil",
+      "peat moss into the subsoil only",
+      "gravel placed at the topsoil-subsoil interface to drain it"
+    ],
+    "feedback": "Eases the transition and relieves subsoil surface compaction.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q145",
+    "module": "M24",
+    "question": "Fine grading should be delayed until just prior to planting because otherwise:",
+    "correct": "the soil surface may crust over",
+    "options": [
+      "the soil surface may crust over",
+      "the starter fertilizer volatilizes",
+      "weeds emerge before the turfgrass",
+      "the topsoil blows away in wind"
+    ],
+    "feedback": "Then further conditioning is needed.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q146",
+    "module": "M24",
+    "question": "According to Madison (1971a), better results come from mixing:",
+    "correct": "a small amount of soil with sand",
+    "options": [
+      "a small amount of soil with sand",
+      "a small amount of sand with soil",
+      "equal parts of sand and clay",
+      "sand and perlite with no soil"
+    ],
+    "feedback": "Sand grains in fine soil just displace pore space.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q147",
+    "module": "M24",
+    "question": "Sand as an amendment should be avoided unless:",
+    "correct": "lab tests show the mixture would be beneficial",
+    "options": [
+      "lab tests show the mixture would be beneficial",
+      "the soil is high in organic matter already",
+      "it is the only amendment material available locally",
+      "the site will be irrigated very frequently"
+    ],
+    "feedback": "Large sand proportions are needed for benefit.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q148",
+    "module": "M24",
+    "question": "A 2-inch layer of peat moss for incorporation requires more than:",
+    "correct": "3 yd³/1000 ft²",
+    "options": [
+      "3 yd³/1000 ft²",
+      "0.3 yd³/1000 ft²",
+      "30 yd³/1000 ft²",
+      "1 yd³/1000 ft²"
+    ],
+    "feedback": "A substantial investment.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q149",
+    "module": "M24",
+    "question": "In coarse-textured soils, peat moss increases water and nutrient retention and also improves:",
+    "correct": "resiliency of the established turf",
+    "options": [
+      "resiliency of the established turf",
+      "aeration capacity of the root zone",
+      "infiltration rate at the surface",
+      "drainage through the subsoil"
+    ],
+    "feedback": "In fine soils it improves aeration and aggregation.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q150",
+    "module": "M24",
+    "question": "Straw or undecomposed sawdust as amendments can cause a nitrogen draft because of their high:",
+    "correct": "carbon-to-nitrogen ratio",
+    "options": [
+      "carbon-to-nitrogen ratio",
+      "salt content",
+      "pH",
+      "clay content"
+    ],
+    "feedback": "Microbes tie up soil N.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q151",
+    "module": "M24",
+    "question": "Replacing native soil with a prescribed medium for greens is really:",
+    "correct": "soil substitution, not modification",
+    "options": [
+      "soil substitution, not modification",
+      "soil fumigation, not substitution",
+      "soil modification, not substitution",
+      "topdressing, not soil modification"
+    ],
+    "feedback": "Covered in Chapter 9.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q152",
+    "module": "M24",
+    "question": "In semiarid climates, drain tiles may be placed up to ___ deep where salinization from groundwater is a risk.",
+    "correct": "6 feet",
+    "options": [
+      "6 feet",
+      "18 inches",
+      "3 feet",
+      "12 feet"
+    ],
+    "feedback": "Normal depth is 18 to 36 inches.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q153",
+    "module": "M24",
+    "question": "Drain tiles may be arranged in a herringbone pattern or a:",
+    "correct": "gridiron pattern",
+    "options": [
+      "gridiron pattern",
+      "spiral pattern",
+      "radial pattern",
+      "checkerboard pattern"
+    ],
+    "feedback": "Or placed in low areas where runoff collects.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q154",
+    "module": "M24",
+    "question": "Perforated plastic drain pipe has gained wide acceptance because of its:",
+    "correct": "light weight and ease of handling",
+    "options": [
+      "light weight and ease of handling",
+      "lower cost than any clay or concrete tile",
+      "resistance to clogging by fines",
+      "greater strength under traffic"
+    ],
+    "feedback": "Rigid sections or flexible corrugated rolls.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q155",
+    "module": "M24",
+    "question": "With soluble N carriers, how much nitrogen should be applied prior to planting?",
+    "correct": "1 to 1.5 lb N/1000 ft²",
+    "options": [
+      "1 to 1.5 lb N/1000 ft²",
+      "0.25 lb N/1000 ft²",
+      "3 to 4 lb N/1000 ft²",
+      "5 lb N/1000 ft²"
+    ],
+    "feedback": "A second 0.5 lb application may follow about 2 weeks after emergence.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q156",
+    "module": "M24",
+    "question": "A supplemental N application of 0.5 lb/1000 ft² is made about ___ after seedling emergence.",
+    "correct": "2 weeks",
+    "options": [
+      "2 weeks",
+      "2 days",
+      "2 months",
+      "6 months"
+    ],
+    "feedback": "Apply when seedlings are dry and irrigate immediately.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q157",
+    "module": "M24",
+    "question": "With slowly available N carriers, the preplant rate can be:",
+    "correct": "two to three times the soluble rate",
+    "options": [
+      "two to three times the soluble rate",
+      "half the soluble rate",
+      "the same as the soluble rate",
+      "ten times the soluble rate"
+    ],
+    "feedback": "A second application may be unnecessary.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q158",
+    "module": "M24",
+    "question": "Merion Kentucky bluegrass was important in the 1950s-60s because of its resistance to:",
+    "correct": "Helminthosporium melting-out",
+    "options": [
+      "Helminthosporium melting-out",
+      "stripe smut",
+      "dollar spot",
+      "Pythium blight"
+    ],
+    "feedback": "Allowed closer mowing and more N.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q159",
+    "module": "M24",
+    "question": "The confusion from rapid development of many new cultivars is called the:",
+    "correct": "varietal dilemma",
+    "options": [
+      "varietal dilemma",
+      "cultivar paradox",
+      "breeder's problem",
+      "blend confusion"
+    ],
+    "feedback": "Testing often lags introduction by years.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q160",
+    "module": "M24",
+    "question": "A traditional temperate lawn-seed mixture has been Kentucky bluegrass, red fescue, and:",
+    "correct": "perennial ryegrass",
+    "options": [
+      "perennial ryegrass",
+      "creeping bentgrass",
+      "tall fescue",
+      "annual bluegrass"
+    ],
+    "feedback": "Perennial ryegrass serves as a nursegrass.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q161",
+    "module": "M24",
+    "question": "Redtop and annual ryegrass are poor nursegrasses because they:",
+    "correct": "are so competitive they threaten desirable grasses",
+    "options": [
+      "are so competitive they threaten desirable grasses",
+      "germinate too slowly to provide the quick cover needed",
+      "are killed by the first mowing of the turf",
+      "cannot be grown in temperate climates"
+    ],
+    "feedback": "Clumps persist as weeds.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q162",
+    "module": "M24",
+    "question": "Warm-season turfgrasses are generally planted as single species because in mixtures they:",
+    "correct": "segregate into isolated patches",
+    "options": [
+      "segregate into isolated patches",
+      "fail to germinate together",
+      "cross-pollinate into off-types",
+      "compete equally and stay uniform"
+    ],
+    "feedback": "Nonuniform turf results.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q163",
+    "module": "M24",
+    "question": "St. Augustinegrass is often preferred for subtropical lawns over bermudagrass because it:",
+    "correct": "is adapted to both shade and sun",
+    "options": [
+      "is adapted to both shade and sun",
+      "tolerates closer mowing heights",
+      "can be established from seed",
+      "needs no irrigation at all"
+    ],
+    "feedback": "Bermudagrass won't persist in shade.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q164",
+    "module": "M24",
+    "question": "A disadvantage of single-species, genetically uniform plantings is:",
+    "correct": "greater vulnerability to disease",
+    "options": [
+      "greater vulnerability to disease",
+      "a variegated, patchy appearance",
+      "slower establishment from seed",
+      "higher seed cost per pound"
+    ],
+    "feedback": "Gains in uniformity may be offset by disease.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q165",
+    "module": "M24",
+    "question": "The breeder credited with many superior Kentucky bluegrass and perennial ryegrass cultivars for blends is:",
+    "correct": "C. R. Funk at Rutgers",
+    "options": [
+      "C. R. Funk at Rutgers",
+      "Tom Mascaro of West Point",
+      "Edwin Budding of England",
+      "J. R. Watson of Toro"
+    ],
+    "feedback": "Enabling effective blends.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q166",
+    "module": "M24",
+    "question": "Which is NOT a textbook guideline for composing a blend?",
+    "correct": "include at least one aggressive species",
+    "options": [
+      "include at least one aggressive species",
+      "select disease-resistant cultivars",
+      "choose cultivars similar in appearance",
+      "choose cultivars fairly similar in their appearance"
+    ],
+    "feedback": "Also include one cultivar adapted to special site conditions.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q167",
+    "module": "M24",
+    "question": "A blend should contain at least how many cultivars?",
+    "correct": "three",
+    "options": [
+      "three",
+      "two",
+      "five",
+      "seven"
+    ],
+    "feedback": "Per the textbook guidelines.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q168",
+    "module": "M24",
+    "question": "A seed lot with 90% purity and 75% viability has a PLS of:",
+    "correct": "67.5%",
+    "options": [
+      "67.5%",
+      "82.5%",
+      "75.0%",
+      "90.0%"
+    ],
+    "feedback": "0.90 × 0.75.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q169",
+    "module": "M24",
+    "question": "At $1.10/lb and 67.5% PLS, the cost per pound of PLS is:",
+    "correct": "$1.63",
+    "options": [
+      "$1.63",
+      "$0.74",
+      "$1.10",
+      "$1.48"
+    ],
+    "feedback": "$1.10 ÷ 67.5 × 100.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q170",
+    "module": "M24",
+    "question": "Kentucky bluegrass at 2,000,000 seeds/lb and 67.5% PLS contains about:",
+    "correct": "1,485,000 PLS per pound",
+    "options": [
+      "1,485,000 PLS per pound",
+      "1,350,000 PLS per pound",
+      "2,000,000 PLS per pound",
+      "675,000 PLS per pound"
+    ],
+    "feedback": "Seeded at 2 lb/1000 ft², that gives 2970 PLS per ft².",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q171",
+    "module": "M24",
+    "question": "Minimum acceptable purity in Table 8.1 ranges from:",
+    "correct": "40% to 95%",
+    "options": [
+      "40% to 95%",
+      "10% to 50%",
+      "80% to 100%",
+      "60% to 75%"
+    ],
+    "feedback": "On a weight basis.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q172",
+    "module": "M24",
+    "question": "Perennial grass contaminants like bentgrass and tall fescue are especially undesirable because they:",
+    "correct": "often cannot be controlled selectively",
+    "options": [
+      "often cannot be controlled selectively",
+      "germinate before the turfgrass seed",
+      "are noxious weeds under all state laws",
+      "reduce the purity listed on the label"
+    ],
+    "feedback": "Even small amounts can be serious.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q173",
+    "module": "M24",
+    "question": "In Kentucky bluegrass seed, 1% annual bluegrass contamination may give:",
+    "correct": "20 to 40 annual bluegrass seeds per ft²",
+    "options": [
+      "20 to 40 annual bluegrass seeds per ft²",
+      "1 to 2 annual bluegrass seeds per ft²",
+      "200 to 400 annual bluegrass seeds per ft²",
+      "no measurable annual bluegrass seed"
+    ],
+    "feedback": "Enough to reduce sod quality.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q174",
+    "module": "M24",
+    "question": "Annual and rough bluegrass are hard to clean from Kentucky bluegrass seed because:",
+    "correct": "all are about the same size",
+    "options": [
+      "all are about the same size",
+      "they are heavier than KBG",
+      "they stick to the KBG awns",
+      "they are much smaller seeds"
+    ],
+    "feedback": "Creeping bentgrass may lodge behind the rachilla.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q175",
+    "module": "M24",
+    "question": "Seed viability is usually highest:",
+    "correct": "at physiological maturity, months after harvest",
+    "options": [
+      "at physiological maturity, months after harvest",
+      "immediately at harvest from the field",
+      "after two or more years of cool, dry warehouse storage",
+      "after the seed has been primed"
+    ],
+    "feedback": "It declines with aging; dry, cool storage extends it.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q176",
+    "module": "M24",
+    "question": "Unlike purity, which is reported by weight, germination percentage is calculated from:",
+    "correct": "numbers of seeds that germinate",
+    "options": [
+      "numbers of seeds that germinate",
+      "the weight of germinated seed",
+      "the volume of seed in the sample",
+      "the number of seedlings surviving"
+    ],
+    "feedback": "A count basis.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q177",
+    "module": "M24",
+    "question": "On a seed label, the percentages for purity, weed seeds, other crop seeds, and inert matter must:",
+    "correct": "add up to 100",
+    "options": [
+      "add up to 100",
+      "add up to the PLS",
+      "each exceed 1%",
+      "be listed by cultivar"
+    ],
+    "feedback": "Based on small test samples.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q178",
+    "module": "M24",
+    "question": "Noxious weeds on a seed label are reported as:",
+    "correct": "number of seeds per pound",
+    "options": [
+      "number of seeds per pound",
+      "percentage by weight",
+      "percentage by number",
+      "seeds per square foot"
+    ],
+    "feedback": "Only weeds listed as noxious by state law.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q179",
+    "module": "M24",
+    "question": "The four AOSCA seed classes, in order, are:",
+    "correct": "breeder, foundation, registered, certified",
+    "options": [
+      "breeder, foundation, registered, certified",
+      "foundation, breeder, certified, registered",
+      "breeder, registered, foundation, certified",
+      "certified, registered, foundation, breeder"
+    ],
+    "feedback": "Breeder seed is the original source.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q180",
+    "module": "M24",
+    "question": "Certified seed, the class available to consumers, carries a:",
+    "correct": "blue tag",
+    "options": [
+      "blue tag",
+      "white tag",
+      "purple tag",
+      "green tag"
+    ],
+    "feedback": "Foundation = white; registered = purple.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q181",
+    "module": "M24",
+    "question": "Foundation seed carries a ___ certification tag.",
+    "correct": "white",
+    "options": [
+      "white",
+      "blue",
+      "purple",
+      "yellow"
+    ],
+    "feedback": "Registered = purple; certified = blue.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q182",
+    "module": "M24",
+    "question": "Seed certification tags ensure that:",
+    "correct": "the listed cultivar is true to type",
+    "options": [
+      "the listed cultivar is true to type",
+      "the seed is of the highest possible overall quality",
+      "the seed is free of all weed seed",
+      "the germination rate exceeds 90%"
+    ],
+    "feedback": "They do not guarantee highest quality.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q183",
+    "module": "M24",
+    "question": "Good-quality sod should be capable of rooting within:",
+    "correct": "1 to 2 weeks after planting",
+    "options": [
+      "1 to 2 weeks after planting",
+      "1 to 2 days after planting",
+      "2 to 3 months after planting",
+      "one full growing season"
+    ],
+    "feedback": "It should also be uniform, pest free, and strong.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q184",
+    "module": "M24",
+    "question": "Rarely is more than ___ of soil needed on sod.",
+    "correct": "0.5 inch",
+    "options": [
+      "0.5 inch",
+      "2 inches",
+      "0.1 inch",
+      "1.5 inches"
+    ],
+    "feedback": "Cut as thin as possible.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q185",
+    "module": "M24",
+    "question": "Plastic netting is sometimes used in sod production to strengthen sod of:",
+    "correct": "bunch-type turfgrasses like tall fescue",
+    "options": [
+      "bunch-type turfgrasses like tall fescue",
+      "stoloniferous turfgrasses like bermudagrass",
+      "rhizomatous turfgrasses like Kentucky bluegrass",
+      "any turfgrass grown on a sand root zone"
+    ],
+    "feedback": "Bunch types lack knitting runners.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q186",
+    "module": "M24",
+    "question": "Sod should preferably be installed within ___ of harvest.",
+    "correct": "24 to 48 hours",
+    "options": [
+      "24 to 48 hours",
+      "2 to 4 hours",
+      "1 to 2 weeks",
+      "3 to 5 days"
+    ],
+    "feedback": "To avoid heating or desiccation.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q187",
+    "module": "M24",
+    "question": "Sod heating is a temperature rise in stacked sod caused by:",
+    "correct": "respiration within the sod",
+    "options": [
+      "respiration within the sod",
+      "decomposition of the soil",
+      "sunlight on the stacks",
+      "fermentation of the roots"
+    ],
+    "feedback": "Favored by heat, long leaves, high N, seed heads, disease, poor air flow.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q188",
+    "module": "M24",
+    "question": "Which factor does NOT favor sod heating?",
+    "correct": "low tissue nitrogen content",
+    "options": [
+      "low tissue nitrogen content",
+      "high temperatures",
+      "long leaves and seed heads",
+      "poor air movement in stacks"
+    ],
+    "feedback": "HIGH tissue N favors heating.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q189",
+    "module": "M24",
+    "question": "Vacuum cooling minimizes sod heating but has limited use because of its:",
+    "correct": "high cost",
+    "options": [
+      "high cost",
+      "poor effectiveness",
+      "damage to roots",
+      "slow processing"
+    ],
+    "feedback": "Effective but expensive.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q190",
+    "module": "M24",
+    "question": "Strongly rhizomatous cultivars of ___ have recently been propagated successfully by plugging.",
+    "correct": "Kentucky bluegrass",
+    "options": [
+      "Kentucky bluegrass",
+      "tall fescue",
+      "perennial ryegrass",
+      "annual bluegrass"
+    ],
+    "feedback": "Plugging is usually for stoloniferous species.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q191",
+    "module": "M24",
+    "question": "Sod fields for stolon and sprig production are left unmowed for several months after seed head development to:",
+    "correct": "promote development of large stolons",
+    "options": [
+      "promote development of large stolons",
+      "let the seed heads mature fully for seed harvest",
+      "increase thatch for the shredder",
+      "reduce the weed population"
+    ],
+    "feedback": "They are mowed during seed head development to prevent off-types.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q192",
+    "module": "M24",
+    "question": "The basic difference between sprigs and stolons is:",
+    "correct": "the method of planting",
+    "options": [
+      "the method of planting",
+      "the presence of roots",
+      "the number of nodes",
+      "the grass species used"
+    ],
+    "feedback": "Same material, different planting method.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q193",
+    "module": "M24",
+    "question": "The specific choice of propagation method depends on cost, time, availability of pure material, and:",
+    "correct": "growth characteristics of the turfgrass",
+    "options": [
+      "growth characteristics of the turfgrass",
+      "the color of the turfgrass leaves",
+      "the slope of the planting site and nothing else",
+      "the brand of seeder available"
+    ],
+    "feedback": "Some species lack seed or spreading ability.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q194",
+    "module": "M24",
+    "question": "Seeding cool-season grasses well into fall risks:",
+    "correct": "poorly developed plants and frost heaving",
+    "options": [
+      "poorly developed plants and frost heaving",
+      "severe competition from summer annual weeds like crabgrass",
+      "heat and drought stress on seedlings",
+      "excessive growth before winter dormancy"
+    ],
+    "feedback": "Plants should be intermingled before winter.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q195",
+    "module": "M24",
+    "question": "Spring seeding may be preferred for cool-season turf on:",
+    "correct": "tree-shaded sites, before leaves develop",
+    "options": [
+      "tree-shaded sites, before leaves develop",
+      "steep slopes that face the hot midday sun in summer",
+      "sites with heavy summer weed pressure",
+      "sand-based greens under heavy traffic"
+    ],
+    "feedback": "More light before deciduous leaf-out.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q196",
+    "module": "M24",
+    "question": "A more important weed concern when seeding warm-season grasses is:",
+    "correct": "winter annual weeds, especially annual bluegrass",
+    "options": [
+      "winter annual weeds, especially annual bluegrass",
+      "summer annual weeds, especially crabgrass",
+      "perennial weedy grasses like quackgrass and nimblewill",
+      "broadleaf weeds such as dandelion"
+    ],
+    "feedback": "The turf should be established by summer's end.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q197",
+    "module": "M24",
+    "question": "Seed priming is most advantageous with slow-germinating species like:",
+    "correct": "Kentucky bluegrass",
+    "options": [
+      "Kentucky bluegrass",
+      "perennial ryegrass",
+      "tall fescue",
+      "annual ryegrass"
+    ],
+    "feedback": "Especially in cool spring and fall temperatures.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q198",
+    "module": "M24",
+    "question": "Seed priming differs from pregermination in that priming:",
+    "correct": "stops before seedling structures emerge",
+    "options": [
+      "stops before seedling structures emerge",
+      "allows the coleoptile and root to emerge",
+      "requires planting the seed immediately",
+      "is done in a cold, dry environment"
+    ],
+    "feedback": "Pregermination lets the coleoptile and root emerge.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q199",
+    "module": "M24",
+    "question": "Dormant (winter) seeding succeeds only if winter temperatures stay low enough to:",
+    "correct": "inhibit germination",
+    "options": [
+      "inhibit germination",
+      "kill weed seeds",
+      "freeze the mulch",
+      "promote rooting"
+    ],
+    "feedback": "Germinating seed is highly susceptible to winter injury.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q200",
+    "module": "M24",
+    "question": "In Madison's seeding-rate study, after 8 months Kentucky bluegrass plots seeded at 1 vs. 8 lb/1000 ft² had:",
+    "correct": "similar shoot densities",
+    "options": [
+      "similar shoot densities",
+      "8 times the shoots at 8 lb",
+      "8 times the shoots at 1 lb",
+      "no surviving seedlings"
+    ],
+    "feedback": "Density is set by the environment's carrying capacity, not seeding rate.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q201",
+    "module": "M24",
+    "question": "Kentucky bluegrass sod growers often seed at 30 to 40 lb/acre because low rates:",
+    "correct": "give stronger rhizome and root growth",
+    "options": [
+      "give stronger rhizome and root growth",
+      "produce a denser seedling stand more quickly",
+      "reduce the cost of herbicides",
+      "prevent seedling diseases entirely"
+    ],
+    "feedback": "Less competition among seedlings.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q202",
+    "module": "M24",
+    "question": "Very high seeding rates can result in:",
+    "correct": "poor individual plant development and more disease",
+    "options": [
+      "poor individual plant development and more disease",
+      "faster maturity with no drawbacks at all",
+      "fewer weeds and much less disease pressure in the stand",
+      "deeper rooting in the seedling stand"
+    ],
+    "feedback": "Competitive stress and a favorable disease microclimate.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q203",
+    "module": "M24",
+    "question": "Centipedegrass is commonly seeded at only 0.25 to 0.5 lb/1000 ft² because:",
+    "correct": "its seed is very costly",
+    "options": [
+      "its seed is very costly",
+      "its seed is very large",
+      "it spreads too aggressively",
+      "it germinates too quickly"
+    ],
+    "feedback": "Below the 1000-2000 seedlings/ft² guide.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q204",
+    "module": "M24",
+    "question": "An old rule of thumb limited perennial ryegrass in a seed mixture to:",
+    "correct": "15% to 20%",
+    "options": [
+      "15% to 20%",
+      "50% to 60%",
+      "1% to 2%",
+      "35% to 40%"
+    ],
+    "feedback": "May not hold for aggressive new cultivars.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q205",
+    "module": "M24",
+    "question": "A tall fescue lawn should be seeded at 6 to 8 lb/1000 ft², but roadside utility tall fescue needs only:",
+    "correct": "2 lb or less",
+    "options": [
+      "2 lb or less",
+      "4 to 6 lb",
+      "10 to 12 lb",
+      "6 to 8 lb"
+    ],
+    "feedback": "Higher mowing heights.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q206",
+    "module": "M24",
+    "question": "Drop spreaders are preferred over rotary spreaders for seeding because distribution is less affected by:",
+    "correct": "wind and differential seed size",
+    "options": [
+      "wind and differential seed size",
+      "soil moisture and temperature",
+      "slope and surface roughness",
+      "seed coating and color"
+    ],
+    "feedback": "For small sites.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q207",
+    "module": "M24",
+    "question": "Seeds placed too deep may fail because:",
+    "correct": "endosperm reserves run out before photosynthesis",
+    "options": [
+      "endosperm reserves run out before photosynthesis",
+      "oxygen is too abundant at depth",
+      "light inhibits germination at depth",
+      "roots cannot form below a depth of 1/4 inch in soil"
+    ],
+    "feedback": "At the surface, seeds may wash away.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q208",
+    "module": "M24",
+    "question": "The most common plugging method uses plugs about 2 inches across and 2 inches deep planted on:",
+    "correct": "12- to 16-inch spacings",
+    "options": [
+      "12- to 16-inch spacings",
+      "2- to 4-inch spacings",
+      "24- to 36-inch spacings",
+      "6- to 8-inch spacings"
+    ],
+    "feedback": "Tops flush with the soil surface.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q209",
+    "module": "M24",
+    "question": "The common 2-inch plugging method is most often used for propagating:",
+    "correct": "zoysiagrass",
+    "options": [
+      "zoysiagrass",
+      "tall fescue",
+      "creeping bentgrass",
+      "perennial ryegrass"
+    ],
+    "feedback": "Also other stoloniferous or strongly rhizomatous grasses.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q210",
+    "module": "M24",
+    "question": "Large 4- to 8-inch plugs extracted with a cup cutter are used mainly to:",
+    "correct": "repair damaged greens, tees, and fields",
+    "options": [
+      "repair damaged greens, tees, and fields",
+      "establish new home lawns from bare soil, from scratch",
+      "convert lawns to a new species quickly",
+      "produce sprigs for mechanical planting"
+    ],
+    "feedback": "Laborious, but usable during heavy play.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q211",
+    "module": "M24",
+    "question": "Small cores from coring stoloniferous greens are sometimes broadcast to establish a:",
+    "correct": "nursery green",
+    "options": [
+      "nursery green",
+      "practice tee",
+      "sod farm",
+      "new fairway"
+    ],
+    "feedback": "Keep the bed continually moist until rooted.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q212",
+    "module": "M24",
+    "question": "Sprigs are more prone to desiccation than plugs or sod because they:",
+    "correct": "are essentially free of adhering soil",
+    "options": [
+      "are essentially free of adhering soil",
+      "are planted much deeper in the soil",
+      "have more leaves to lose water",
+      "are usually planted in midwinter while still dormant"
+    ],
+    "feedback": "Plant and irrigate quickly.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q213",
+    "module": "M24",
+    "question": "Sprigs are usually planted ___ deep in furrows.",
+    "correct": "2 to 3 inches",
+    "options": [
+      "2 to 3 inches",
+      "0.25 inch",
+      "6 to 8 inches",
+      "1 foot"
+    ],
+    "feedback": "Each sprig should have two to four nodes.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q214",
+    "module": "M24",
+    "question": "Each sprig should have:",
+    "correct": "two to four nodes",
+    "options": [
+      "two to four nodes",
+      "one node only",
+      "ten or more nodes",
+      "no nodes"
+    ],
+    "feedback": "Part should emerge above the soil.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q215",
+    "module": "M24",
+    "question": "To reduce desiccation, stolonizing should be done in:",
+    "correct": "3- to 4-foot strips",
+    "options": [
+      "3- to 4-foot strips",
+      "30- to 40-foot strips",
+      "6-inch strips",
+      "one pass over the whole area"
+    ],
+    "feedback": "Followed immediately by topdressing and light irrigation.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q216",
+    "module": "M24",
+    "question": "After stolonizing, the preferred method to partially cover the stolons is:",
+    "correct": "topdressing",
+    "options": [
+      "topdressing",
+      "light disking",
+      "rolling only",
+      "straw mulch"
+    ],
+    "feedback": "Disking is the alternative.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q217",
+    "module": "M24",
+    "question": "Straw mulch is applied at about:",
+    "correct": "1.5 to 2 tons per acre",
+    "options": [
+      "1.5 to 2 tons per acre",
+      "0.2 to 0.5 ton per acre",
+      "5 to 6 tons per acre",
+      "10 tons per acre"
+    ],
+    "feedback": "Weed-free straw is preferred.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q218",
+    "module": "M24",
+    "question": "Straw mulch need not be removed after emergence as long as soil coverage is not more than:",
+    "correct": "50%",
+    "options": [
+      "50%",
+      "10%",
+      "90%",
+      "25%"
+    ],
+    "feedback": "Excess is raked off when seedlings reach about 1 inch.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q219",
+    "module": "M24",
+    "question": "Among loose wood mulches, the least desirable is:",
+    "correct": "sawdust",
+    "options": [
+      "sawdust",
+      "excelsior",
+      "wood chips",
+      "shredded bark"
+    ],
+    "feedback": "It draws nitrogen from the soil.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q220",
+    "module": "M24",
+    "question": "Excelsior (wood shavings) has an added advantage over straw of being:",
+    "correct": "free of weed seeds",
+    "options": [
+      "free of weed seeds",
+      "cheaper per acre",
+      "easier to remove",
+      "higher in nitrogen"
+    ],
+    "feedback": "Comparable in effectiveness.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q221",
+    "module": "M24",
+    "question": "Clear polyethylene covers on a seedbed:",
+    "correct": "speed germination but risk disease if left on",
+    "options": [
+      "speed germination but risk disease if left on",
+      "prevent erosion on slopes but slow the germination",
+      "supply nutrients but shade seedlings",
+      "stabilize slopes but raise salts"
+    ],
+    "feedback": "A greenhouse effect.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q222",
+    "module": "M24",
+    "question": "Elastomeric polymer emulsions are effective for:",
+    "correct": "erosion control only, not germination",
+    "options": [
+      "erosion control only, not germination",
+      "germination only, not erosion control",
+      "both erosion control and germination",
+      "neither erosion control nor germination"
+    ],
+    "feedback": "Diluted 9:1 with water.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q223",
+    "module": "M24",
+    "question": "Burlap strips over a seedbed should be removed after germination to avoid:",
+    "correct": "excessive shading",
+    "options": [
+      "excessive shading",
+      "nitrogen draft",
+      "frost heaving",
+      "disease spread"
+    ],
+    "feedback": "More effective than jute netting.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q224",
+    "module": "M24",
+    "question": "Mulch blown onto large sites is usually stabilized with:",
+    "correct": "an asphalt binder",
+    "options": [
+      "an asphalt binder",
+      "binder twine",
+      "jute netting",
+      "a polymer tarp"
+    ],
+    "feedback": "Twine and stakes are used on small windy sites.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q225",
+    "module": "M24",
+    "question": "New greens are usually mowed at ___ until complete coverage.",
+    "correct": "0.25 to 0.5 inch",
+    "options": [
+      "0.25 to 0.5 inch",
+      "0.125 inch",
+      "1 to 1.5 inches",
+      "2 inches"
+    ],
+    "feedback": "Then lowered gradually.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q226",
+    "module": "M24",
+    "question": "An appropriate fertilizer rate for a seedling stand is about:",
+    "correct": "0.5 lb soluble N or 1 lb slow N per 1000 ft²",
+    "options": [
+      "0.5 lb soluble N or 1 lb slow N per 1000 ft²",
+      "2 lb soluble N or 4 lb slow N per 1000 ft²",
+      "0.1 lb soluble N or 0.2 lb slow N per 1000 ft²",
+      "1 lb soluble N or 0.5 lb slow N per 1000 ft²"
+    ],
+    "feedback": "Higher rates may be used for vegetative plantings.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q227",
+    "module": "M24",
+    "question": "Reducing irrigation frequency as new turf develops also improves:",
+    "correct": "soil aeration",
+    "options": [
+      "soil aeration",
+      "seed germination",
+      "weed control",
+      "leaf color"
+    ],
+    "feedback": "Air is pulled in as water drains and evaporates.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q228",
+    "module": "M24",
+    "question": "For new greens, topdressing helps lower mowing from the initial height to about 0.125 inch by:",
+    "correct": "raising the soil level while lowering the mower",
+    "options": [
+      "raising the soil level while lowering the mower",
+      "burying the stolons below the cutting height",
+      "increasing shoot density through added nitrogen",
+      "smoothing out the depressions from settling"
+    ],
+    "feedback": "Gradual transition to sustainable height.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q229",
+    "module": "M24",
+    "question": "Postemergence 2,4-D, mecoprop, and dicamba should not be applied to new turf before:",
+    "correct": "the first mowing",
+    "options": [
+      "the first mowing",
+      "seed germination",
+      "the second season",
+      "the first frost"
+    ],
+    "feedback": "Use half-normal rates.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q230",
+    "module": "M24",
+    "question": "Organic arsenicals for crabgrass in new turf should be delayed until after the:",
+    "correct": "second mowing",
+    "options": [
+      "second mowing",
+      "first mowing",
+      "first fertilization",
+      "first frost"
+    ],
+    "feedback": "At half-normal rates.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q231",
+    "module": "M24",
+    "question": "Preemergence herbicides on new sod to stop crabgrass in the seams should be delayed:",
+    "correct": "3 to 4 weeks after planting",
+    "options": [
+      "3 to 4 weeks after planting",
+      "until the next spring",
+      "1 to 2 days after planting",
+      "until the first frost"
+    ],
+    "feedback": "To avoid inhibiting rooting.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q232",
+    "module": "M24",
+    "question": "Dead areas in a new turf should be replanted if they measure more than:",
+    "correct": "4 to 6 inches across",
+    "options": [
+      "4 to 6 inches across",
+      "1 inch across",
+      "2 feet across",
+      "10 feet across"
+    ],
+    "feedback": "Smaller areas fill in.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q233",
+    "module": "M24",
+    "question": "In the textbook, mole crickets in new turf can be controlled with:",
+    "correct": "chlorpyrifos",
+    "options": [
+      "chlorpyrifos",
+      "metalaxyl",
+      "siduron",
+      "glyphosate"
+    ],
+    "feedback": "They uproot seedlings and dry the soil.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q234",
+    "module": "M24",
+    "question": "Renovation is defined as turf improvement involving partial or total replanting:",
+    "correct": "without complete tillage of the soil",
+    "options": [
+      "without complete tillage of the soil",
+      "after complete removal of the topsoil",
+      "with fumigation of the entire site",
+      "after regrading to a new contour"
+    ],
+    "feedback": "Requires a satisfactory grade and favorable soil below 2 inches.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q235",
+    "module": "M24",
+    "question": "Renovation is appropriate when the grade is satisfactory and the soil is favorably structured below the surface:",
+    "correct": "2 inches",
+    "options": [
+      "2 inches",
+      "6 inches",
+      "12 inches",
+      "0.25 inch"
+    ],
+    "feedback": "Otherwise full reconstruction may be needed.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q236",
+    "module": "M24",
+    "question": "Whether to use a nonselective herbicide in renovation is usually determined by the distribution of:",
+    "correct": "perennial weedy grasses",
+    "options": [
+      "perennial weedy grasses",
+      "summer annual grasses",
+      "broadleaf weeds",
+      "desirable cultivars"
+    ],
+    "feedback": "Annual grasses and broadleaves can be selectively controlled.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q237",
+    "module": "M24",
+    "question": "Paraquat is the fastest-acting general vegetation control herbicide, but its residues can:",
+    "correct": "persist in thatch and block seedling emergence",
+    "options": [
+      "persist in thatch and block seedling emergence",
+      "leach to groundwater within a few days",
+      "persist in clay soils for several years after application",
+      "stimulate weedy perennial grass growth"
+    ],
+    "feedback": "It is inactivated on contact with clay soils.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q238",
+    "module": "M24",
+    "question": "Glyphosate and organic arsenicals leave essentially no toxic soil residues but may need up to ___ to control target weeds.",
+    "correct": "2 to 3 weeks",
+    "options": [
+      "2 to 3 weeks",
+      "2 to 3 days",
+      "2 to 3 months",
+      "2 to 3 hours"
+    ],
+    "feedback": "2,4-D, mecoprop, dicamba may persist several weeks in surface soil.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q239",
+    "module": "M24",
+    "question": "In renovation, a substantial thatch layer should be reduced by:",
+    "correct": "deep vertical mowing or a sod cutter",
+    "options": [
+      "deep vertical mowing or a sod cutter",
+      "light rolling and irrigation",
+      "spiking followed by wetting agents and irrigation",
+      "burning the debris on site"
+    ],
+    "feedback": "Haul the debris away.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q240",
+    "module": "M24",
+    "question": "The two basic methods for seeding a renovation site are:",
+    "correct": "broadcast and disk seeding",
+    "options": [
+      "broadcast and disk seeding",
+      "hydroseeding and sprigging",
+      "drop seeding and plugging",
+      "cultipacking and stolonizing"
+    ],
+    "feedback": "Disk seeding uses less seed; matting and rolling usually unnecessary.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q241",
+    "module": "M24",
+    "question": "In subtropical climates, the most commonly overseeded warm-season turf is:",
+    "correct": "bermudagrass",
+    "options": [
+      "bermudagrass",
+      "St. Augustinegrass",
+      "centipedegrass",
+      "zoysiagrass"
+    ],
+    "feedback": "Mainly greens and tees.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q242",
+    "module": "M24",
+    "question": "Before overseeding, the final core cultivation of the year should be scheduled:",
+    "correct": "50 to 60 days prior",
+    "options": [
+      "50 to 60 days prior",
+      "1 to 2 days prior",
+      "7 to 10 days prior",
+      "6 months prior"
+    ],
+    "feedback": "Coring right before causes tufts at each hole.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q243",
+    "module": "M24",
+    "question": "Fertilizer should be withheld before overseeding for:",
+    "correct": "2 to 4 weeks",
+    "options": [
+      "2 to 4 weeks",
+      "2 to 4 days",
+      "2 to 4 months",
+      "6 to 8 months"
+    ],
+    "feedback": "To limit warm-season competition.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q244",
+    "module": "M24",
+    "question": "A preemergence herbicide for annual bluegrass is usually applied ___ before overseeding.",
+    "correct": "50 to 90 days",
+    "options": [
+      "50 to 90 days",
+      "1 to 5 days",
+      "6 to 9 months",
+      "1 year"
+    ],
+    "feedback": "Bensulide, benefin, or pronamide.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q245",
+    "module": "M24",
+    "question": "Where preemergence herbicide residues persist at overseeding, ___ should be applied.",
+    "correct": "activated charcoal",
+    "options": [
+      "activated charcoal",
+      "lime",
+      "gypsum",
+      "sulfur"
+    ],
+    "feedback": "To protect germination of overseeded grasses.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q246",
+    "module": "M24",
+    "question": "Before the 1960s, most overseeding used:",
+    "correct": "annual ryegrass",
+    "options": [
+      "annual ryegrass",
+      "rough bluegrass",
+      "creeping bentgrass",
+      "fine fescue"
+    ],
+    "feedback": "At rates up to 60 lb/1000 ft² on greens.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q247",
+    "module": "M24",
+    "question": "Overseeded bentgrasses often persisted into early summer, which:",
+    "correct": "retarded bermudagrass development",
+    "options": [
+      "retarded bermudagrass development",
+      "improved the putting quality of greens in spring",
+      "prevented annual bluegrass",
+      "sped the spring transition"
+    ],
+    "feedback": "Germinated fast but established slowly.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q248",
+    "module": "M24",
+    "question": "Typical overseeding rate for perennial ryegrass used alone on bermudagrass greens:",
+    "correct": "35 lb/1000 ft²",
+    "options": [
+      "35 lb/1000 ft²",
+      "3 lb/1000 ft²",
+      "10 lb/1000 ft²",
+      "80 lb/1000 ft²"
+    ],
+    "feedback": "Rough bluegrass ~10 lb; creeping bentgrass ~3 lb.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q249",
+    "module": "M24",
+    "question": "Typical overseeding rate for creeping bentgrass on bermudagrass greens:",
+    "correct": "3 lb/1000 ft²",
+    "options": [
+      "3 lb/1000 ft²",
+      "35 lb/1000 ft²",
+      "10 lb/1000 ft²",
+      "25 lb/1000 ft²"
+    ],
+    "feedback": "Tiny seeds, many per pound.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q250",
+    "module": "M24",
+    "question": "A specific recommendation is to overseed when midday temperatures drop to:",
+    "correct": "70°F to 75°F",
+    "options": [
+      "70°F to 75°F",
+      "50°F to 55°F",
+      "85°F to 90°F",
+      "60°F to 65°F"
+    ],
+    "feedback": "Or 20-30 days before average first killing frost.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q251",
+    "module": "M24",
+    "question": "Heavy steel mats used to work in overseeded seed should be:",
+    "correct": "enclosed in burlap so seed isn't flipped",
+    "options": [
+      "enclosed in burlap so seed isn't flipped",
+      "dragged only when the turf is wet",
+      "weighted down with cement blocks for more pressure",
+      "used before the seed is applied"
+    ],
+    "feedback": "Unmodified mats can flip seed into the air.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q252",
+    "module": "M24",
+    "question": "After overseeding, disease pressure (especially Pythium) is usually most severe during the first:",
+    "correct": "4 weeks",
+    "options": [
+      "4 weeks",
+      "4 days",
+      "4 months",
+      "year"
+    ],
+    "feedback": "Use treated seed and preventive fungicides.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  },
+  {
+    "id": "m24q253",
+    "module": "M24",
+    "question": "Where cold is expected after overseeding, greens mowing height may be raised from 0.188 to:",
+    "correct": "0.313 inch",
+    "options": [
+      "0.313 inch",
+      "0.125 inch",
+      "0.5 inch",
+      "1.0 inch"
+    ],
+    "feedback": "For about 3 weeks or until tillering.",
+    "source": "Textbook Ch. 8, pp. 303-334: Propagation",
+    "kind": "enrichment"
+  }
+]
